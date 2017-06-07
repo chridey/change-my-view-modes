@@ -21,6 +21,14 @@ An argument is the justification provided by the speaker/writer in support of a 
 
 **Claims**: stances expressed by a speaker on a certain matter. They can express predictions (e.g. “I think that the left wing will win the elections”), interpretations (“Probably John went home”), evaluations (e.g. “Your choice is a bad one”) as well as agreement/disagreement with other people’s claims (“I think you are totally wrong”/ “I agree”).  Note that in the latter case, it is frequent to find concessive statements of the type  “I agree with you that the environmental consequences are bad, but I still think that […]” where the speaker at the same time agrees and disagrees with other people’s claims. In those cases the proposition expressing agreement and that expressing sort of disagreement should be annotated as two separate claims. 
 
+Claims can be expressed in one of 5 ways: agreement, disagreement, evaluation (rational or emotional), and interpretation.
+
+* **interpretation**: the claim expresses predictions or explanations of states of affairs, i.e.  ``I think he will win the election.'' or ``He probably went home.''
+* **evaluation**: the claim expresses a more or less positive or negative judgement. Drawing from the distinction made in sentiment analysis and opinion mining, evaluations are sub-classified as: 
+** **evaluation-rational**: the claim expresses an opinion based on rational reasoning, non-subjective evidence or credible sources, i.e. ``His political program is very solid.'' or ``He is a very smart student.''
+** **evaluation-emotional**: the claim expresses an opinion based on emotional reasons and/or subjective beliefs, i.e.  ``Going to the gym is an unpleasant activity.'' or ``I do not like doing yoga.''
+* **agreement** or **disagreement**: claims express that the speaker shares/does not share to a certain degree the beliefs held by another speaker, i.e. ``I agree that going to the gym is boring'' or ``you are right'' or ``I do not think that he went home.'' or ``You are not logically wrong.'' or ``I don’t like your ideas.'' or ``It may be true.''
+
 **Premises**: justifications provided by the speaker in support of a claim to persuade the audience of the validity of the claim. Like claims they can express opinions but their function is not that of introducing a new stance, but that of supporting one previously expressed. 
 
 Arguments can exploit 3 modes of persuasion: logos, pathos and ethos. 
