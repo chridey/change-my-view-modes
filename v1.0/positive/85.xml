@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<thread ID="2qia6o">
+<title>CMV: Networking for jobs behaves as a discriminatory mechanism to keep money & good jobs inside a particular social circle, & should be discouraged or eliminated as a criterion for employment.</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qia6o/cmv_networking_for_jobs_behaves_as_a/</source>
+<OP author="ArchitectofAges">
+
+'1.
+<claim type="evaluation_rational" id="0">Networking is discriminatory.</claim>
+
+'1.1.
+<premise type="ethos_logos_pathos" id="1">A "standard" hiring method would ensure that every applicant would be evaluated on the same criteria - the satisfaction of requirements of the position & merits relevant to that position.</premise>
+
+'1.2.
+<premise type="ethos_logos_pathos" id="2">Who an applicant knows is occasionally useful for those jobs which require maintaining relationships with certain people in key positions (e.g. sales), but for the vast majority of jobs, who your friends are is functionally irrelevant.</premise>
+
+'1.3.
+<premise type="logos" id="3">Allowing someone to circumvent the standard application process ("jumping the line") or to use some important person's recommendation as additional clout for their application ("came very highly recommended by Bob") is preferential treatment for irrelevant qualities.</premise>
+
+'1.3.1. <claim type="agreement" id="4">I recognize & appreciate that it is difficult in most employment processes to find individuals who are trustworthy, socially apt, etc.</claim>
+<premise type="logos" id="5">This is a failing of the existing job application paradigm, not an excuse to circumvent it in order to make the process easier.</premise>
+
+'2.
+<claim type="evaluation_rational" id="6">Networking, as a practice, favors individuals who come from already socially favorable situations, moreso than other evaluation criteria.</claim>
+
+'2.1.
+<premise type="" id="7">Beyond straight nepotism, it is self-evident that individuals who come from families & backgrounds which allow for more interaction with individuals in power will be able to call on more of those individuals for networking purposes.</premise>
+
+'2.2.
+<premise type="logos" id="8">Individuals who are extraordinarily qualified for a position but come from a region/social background without those connections enter a networking-friendly employment opportunity at a disadvantage.</premise>
+
+'2.2.1. I understand that <claim type="evaluation_rational" id="9">there are other unfair advantages an applicant might have (being tall, white, male, etc.).</claim>
+<premise type="pathos" id="10">Allowing networking to influence a hiring decision is not dependent on cultural bias & may be safely exorcised from the hiring process to render it more fair</premise> - that is what I am suggesting.
+
+'3.
+<claim type="evaluation_emotional" id="11">Businesses & societies would be better off disallowing networking from influencing their hiring decisions.</claim>
+
+'3.1.
+<claim type="disagreement" id="12">If a hiring process takes networking into account, it is necessarily showing preference to individuals who already come from advantaged background, as per 2.</claim>
+<premise type="logos" id="13">This decreases social/economic mobility, which has been demonstrated to be bad for societies in general.</premise>
+
+'3.2.
+<premise type="ethos_logos" id="14">If the egalitarian hiring process in-place is so ineffective at determining qualifications/character that it must depend on recommendations from trusted sources to establish merit, the productivity of any positions where such a trusted source does not come forward will suffer.</premise>
+
+'3.3. <premise type="logos_pathos" id="15">"Fix the process, not the game."</premise>
+
+I understand <claim type="interpretation" id="16">"this is how the world works," and many feel at ease participating in networking events without any moral qualms</claim>.
+I would love to have this explained in a way that takes the above points into account & would allow a person to network without the valuation that it is a necessary evil.
+
+EDIT: I'd like to reiterate something, because it keeps cropping up in the comments: *yes, networking is a useful crutch in hiring because most hiring processes are fundamentally broken, but that does not make it fair, just, or desirable.*
+
+</OP>
+<reply id="cn6rxow" author="AusIV">
+
+Here's a hypothetical for you:
+<premise type="logos" id="17">I'm a software engineer with an idea for a start up.</premise>
+<premise type="ethos_logos_pathos" id="18">But being an engineer, I just want to focus on the technology.</premise>
+<premise type="logos_pathos" id="19">I need someone to handle running the business side of things.</premise>
+<premise type="logos_pathos" id="20">I've got a friend I've worked with for years.</premise>
+<premise type="logos_pathos" id="21">Our different skills complement each other nicely, we have well established channels of communication, and I know she'll be a great business manager or my start up.</premise>
+<premise type="logos_pathos" id="22">Do I need to post an opening and go through a standard process, or can I enlist my friend?</premise>
+
+<premise type="logos" id="23">Six months into our start up, I can't handle the engineering work alone.</premise>
+<premise type="logos" id="24">My background is software, and there's a hardware component that needs an experienced circuit designer.</premise>
+<premise type="logos_pathos" id="25">I know a guy who eats, sleeps, and breathes circuit design.</premise>
+<premise type="pathos" id="26">We worked on several projects together in college, and I know I can trust him to get the job done quickly and do high quality work.</premise>
+<premise type="pathos" id="27">Do I need to post an opening and go through a standard process, or can I hire my old classmate?</premise>
+
+<premise type="logos" id="28">Now we're looking to crowd fund the mass production of our product, and we need a good video for Kickstarter.</premise>
+<premise type="logos" id="29">My co-founder's neighbor does video for an advertising firm, and we've looked around enough to know that they've offered us a competitive rate.</premise>
+<premise type="logos" id="30">Do we need to shop more of the market, or can we use my co-founder's neighbor?</premise>
+
+<premise type="logos_pathos" id="31">As mass production kicks off, I put the circuit designer in charge of QA/QC for the produced units.</premise>
+<premise type="logos_pathos" id="32">He can't test enough units on his own.</premise>
+<premise type="ethos_logos_pathos" id="33">He could use an extra hand, but feels making a bad hire would be worse than doing it all himself.</premise>
+<premise type="logos" id="34">He's got an old colleague that is experienced in hardware QA/QC, and happens to be available for six months.</premise>
+<premise type="logos" id="35">Can we hire the colleague who is a known quantity, or should we just punt on hiring anyone because it would be faster for the circuit designer to do it himself than go through a rigorous hiring process?</premise>
+
+<premise type="logos_pathos" id="36">At what point do your rules against networking kick in?</premise>
+<premise type="logos_pathos" id="37">I don't think anyone would seriously suggest that someone looking to found a start up should have to dig through a pile of applicants to choose a co-founder.</premise>
+<premise type="pathos" id="38">I would also hope that a start up's first technical hire could be someone the founders have a reason to trust.</premise>
+<premise type="logos" id="39">And I see a line manager growing his team as a microcosm of a founder growing his company, though the company may have rules in place to help keep the line managers from going off the reservation.</premise>
+<premise type="logos" id="40">Do your rules only apply to big companies?</premise>
+<premise type="logos_pathos" id="41">If so, how big are we talking?</premise>
+<premise type="logos_pathos" id="42">Finally, do you apply the same rules to hiring out business services?</premise>
+<premise type="logos" id="43">When we hired that advertising company to make our Kickstarter video, were we breaking the networking rules?</premise>
+
+</reply>
+<reply id="cn7h5qf" author="ArchitectofAges">
+
+It is interesting to consider this in the light of recruiting people that you know for your own startup company.
+I'm not convinced that an arbitrary cutoff wouldn't be beneficial for some purpose, but I admit this doesn't stick in my craw as much, & I'll have to think about why.
+&#8710;
+
+</reply>
+</thread>

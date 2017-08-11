@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<thread ID="2qb4ra">
+<title>CMV: I think the board game "Monopoly" is poorly designed</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qb4ra/cmv_i_think_the_board_game_monopoly_is_poorly/</source>
+<OP author="Iprefervim">
+
+<premise type="ethos" id="0">Like many American kids, I was often forced throughout my childhood to participate in "Monopoly" games with my family.</premise>
+From what I can tell, <claim type="evaluation_emotional" id="1">there is very little skill involved in playing the game</claim>, <premise type="logos" id="2">it just seems to be a giant crapshoot the whole way through</premise>.
+
+"Monopoly" was made with the intent to explain why localised monopolies are bad for the economy and to explain the Single Tax theory of Henry George.^1 <claim type="interpretation" id="3">Though it does this job well, I believe it is this intent that causes it to be thoroughly not fun.</claim>
+<premise type="logos" id="4">Once ~50% of the board has been claimed, even if the landholdings of all the players are about equal, it is immediately obvious which player will lose based on who falls in another's territory first and has to pay the incredulous tax.</premise>
+<premise type="logos" id="5">After that, it is just a long fall into bankruptcy as eventually the player has to sell their property to others, decreasing the chance that they can earn revenue while simultaneously increasing the chance that the others can profit from them.</premise>
+
+<claim type="evaluation_rational" id="6">While this system would work in a **quick** game between 2 to 3 people, monopoly is usually drawn out and played with 4+ players.</claim>
+<premise type="logos" id="7">One after another, a player pays out the net-worth to the other players until there is a long, long drawn-out stand-off between the remaining few.</premise>
+<premise type="logos" id="8">At this point, it comes to down to complete and utter chance.</premise>
+<premise type="logos" id="9">Whomever gets the worst successive dice rolls loses.</premise>
+<premise type="logos" id="10">When that happens, barring any statistically unlikely dice rolls, it is evident who will lose.</premise>
+<premise type="logos_pathos" id="11">But the game keeps going and going, because it would be "unfair" to keep going despite the likely outcome.</premise>
+
+<claim type="evaluation_rational" id="12">If Monopoly was redesigned to rely less on chance (<premise type="logos" id="12a">perhaps a redesign of the board</premise>, <premise type="logos" id="12b">more mechanics to tip the scales of chance perhaps with better "Chance" cards</premise>, or <premise type="logos" id="12c">even removal of the pieces entirely</premise>) and to be quicker (<premise type="logos" id="12d"> Add penalties for each additional player over 3 so that the success and failures of each decision weigh more heavily</premise>, for example) then the game will be much more fun and enjoyable to everyone.</claim>
+<premise type="logos" id="13">As of right now, after the first few passes around the board, it is easier to calculate the theoretical outcome with the help of a computer then to finish the game to its completion.</premise>
+
+Please change my view, for the sake of family game night.
+
+&gt;^1 Orbanes, Philip E. (2006). Monopoly: The World's Most Famous Game &amp; How it Got that Way. Da Capo Press. p. 22. ISBN 0-306-81489-7.
+
+</OP>
+<reply id="cn4iftv" author="skulder7">
+
+First, are you actually playing monopoly according to the base rules? <claim type="evaluation_rational" id="14">I have to ask</claim> <premise type="logos" id="15">because it's very, very common for people to unwitting ignore or add rules and cause the game to run longer</premise>.
+<premise type="logos" id="16"> By far the most egregious violation of this nature is ignoring the Auction rule (<premise type="logos" id="16a">where if the player who lands on an unbought space chooses not to buy it for face value, it is auctioned off to highest bidder</premise>), which makes it take much longer for people to build up property, dragging out the early stages of the game.</premise>
+<premise type="logos" id="17">Another common one I grew up with was the "Free Parking" rule addition, where landing on Free Parking confers some kind of monetary reward, which introduces more money into the game and makes it harder to go bankrupt, dragging out the game.</premise>
+
+<claim type="evaluation_rational" id="18">Assuming that you're playing with auctions (and preferably without that Free Parking house rule), the key to the game is negotiation.</claim>
+<premise type="logos" id="19">The game only becomes a drawn-out slugfest if players can't get monopolies</premise>, <premise type="logos" id="20">which only happens if players don't negotiate</premise>.
+<premise type="logos" id="21">This is the soul of the game</premise>, and <premise type="logos" id="22">ignoring it is the reason many people develop a distaste for the game</premise>.
+<premise type="logos" id="23">If players A, B, C, and D are playing, and A is obviously ahead after a few go-arounds, should A just win?</premise>
+<premise type="ethos_logos" id="24">Of course not!</premise>
+<premise type="pathos" id="25">B, C, and D should be conspiring like hell to take A down.</premise>
+<premise type="logos" id="26">B can "not notice" when C and D land on his properties, making A the only one to pay rent.</premise>
+<premise type="logos" id="27">C and D can agree to help each other complete monopolies and make trades of that nature.</premise>
+<premise type="logos" id="28">Once some players have monopolies, the other players have to either trade to make their own monopolies or get bled out quickly.</premise>
+<premise type="logos" id="29">Once monopolies (and the corresponding houses and hotels) come into play, tiny rents become enormous and the game quickly comes to an end.</premise>
+
+In short, <claim type="interpretation" id="30">Monopoly is drawn out because people don't play by the rules, or the miss the main point of the game</claim>: monopolies.
+<premise type="logos" id="31">Forming monopolies is by far the quickest way to win</premise>, and <premise type="logos" id="32">the easiest way to do so is through negotiating with other players, a point that many Monopoly players fail to notice</premise>.
+<premise type="logos" id="33">A properly played game of Monopoly may come down to luck in the end</premise>, <premise type="logos" id="34">but it's luck that is heavily influenced by the mid-game, which is decided by the players' diplomatic skill</premise>.
+
+</reply>
+<reply id="cn4jvja" author="Iprefervim">
+
+That is a possibility of have not considered actually.
+<premise type="logos_pathos" id="35">Only recently (past 4 years) my family added money to the free parking</premise>, and <premise type="logos_pathos" id="36">though I always attempted to get the auction rule in I was always voted down</premise>.
+<claim type="interpretation" id="37">Perhaps that is the reason why I have such a strong dislike of the game.</claim>
+Alas, I have not actually played it in a while and I'll play it with these rules before confirming the delta, for these rules may not be enough to convince me that the game is designed well.
+<claim type="evaluation_rational" id="38">Though it is theoretically sound it may not hold up</claim>
+
+</reply>
+<reply id="cn4kqwf" author="skulder7">
+
+<claim type="evaluation_rational" id="39">It does admittedly depend a lot on the people you play it with.</claim>
+<premise type="logos_pathos" id="40">If your fellow players absolutely refuse to negotiate, even when it would benefit them in the long run, then the game is not going to be fun.</premise>
+<premise type="logos_pathos" id="41">It's like playing poker with players who never bet</premise>: <premise type="logos_pathos" id="42">it's not fun, it's just a long, awful slog</premise>.
+<claim type="evaluation_emotional" id="43">That doesn't make Poker a bad game by design</claim> (<premise type="logos_pathos" id="44">even though it can be unfun in some scenarios</premise>); <premise type="logos_pathos" id="45">it just means that it's not a game that everyone will enjoy</premise>.
+
+<claim type="evaluation_rational" id="46">I'd recommend pointing out to people that the point of the game is to make trades.</claim>
+<premise type="logos" id="47">The most beneficial trade I've found involves two players helping each other complete a monopoly, but giving "immunity" to that group.</premise>
+(<premise type="logos" id="48">i.e. Alice has two Yellow properties and one Green property, while Bob has two Green properties and one Yellow property</premise>.
+<premise type="logos" id="49">Alice agrees to trade her Green for Bob's Yellow, giving them both monopolies, on the condition that Alice won't have to pay if she lands on a Green property and Bob won't have to pay if he lands on a Yellow property</premise>).
+<premise type="logos" id="50">Players who don't like trades tend to be nervous about giving other players a better position</premise>, and <premise type="logos" id="51">I find that they're more inclined to do so if they feel it won't come back to bite them</premise>.
+<premise type="logos_pathos" id="52">Seriously, immunity is great</premise>.
+<premise type="logos_pathos" id="53">Even without auctions, making sure people are aware that they can be "flexible" about collecting rent makes the game go much faster.</premise>
+<premise type="logos" id="54">If you can't sell auctions, this should still help.</premise>
+
+</reply>
+<reply id="cn4le0e" author="Iprefervim">
+
+&#8710;
+
+<claim type="agreement" id="55">Yeah, you're right.</claim>
+<premise type="pathos" id="56">Perhaps my family (and quite a few other families) are just not equipped to play this game.</premise>
+<premise type="logos" id="57">It is probably akin to Diplomacy</premise>: <premise type="logos" id="58">The family dynamic + the individual personalities of each player changes how the game goes</premise>.
+Thanks for the brilliant and well thought out answer.
+
+</reply>
+</thread>

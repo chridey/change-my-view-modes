@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<thread ID="2rekjo">
+<title>CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...</title>
+<source>http://www.reddit.com/r/changemyview/comments/2rekjo/cmv_i_believe_you_have_three_choices_once_you/</source>
+<OP author="Anticarnist">
+
+<claim type="evaluation_rational" id="0">The options are as follows</claim>:
+
+<claim type="evaluation_rational" id="1">1. You don't agree with what is going on and stop supporting it.</claim>
+
+<claim type="disagreement" id="2">2. You don't care about animals, so you're content with paying for them to be abused for your pleasure.</claim>
+
+<claim type="interpretation" id="3">3. You don't agree with what is going on, but try to put it to the back of your mind and continue to support it.</claim>
+
+Reasoning: <premise type="logos_pathos" id="4">I used to follow 'option number 3', but recently started 'option number 1' in an attempt to line my actions up with my values.</premise>
+<claim type="evaluation_emotional" id="5">I suspect this way of looking at it is still somewhat simplistic however</claim>, so feel free to prove me wrong.
+
+</OP>
+<reply id="cnf93am" author="NaturalSelectorX">
+
+&gt; You don't care about animals, so you're content with paying for them to be abused for your pleasure.
+
+<premise type="pathos" id="6">What about "I care about animals, but see it as a necessary evil for my sustenance."</premise>
+
+<claim type="evaluation_emotional" id="7">I feel the same way about animals in medical research.</claim> <premise type="logos_pathos" id="8">I feel terrible for the animals</premise>, but <premise type="logos_pathos" id="9">it's necessary for the health of humans and a better option than researching on humans</premise>.
+
+</reply>
+<reply id="cnfbf33" author="Anticarnist">
+
+<claim type="interpretation" id="10">Slaughtering animals is not a necessary evil for your sustenance</claim> though (is it?
+<claim type="evaluation_rational" id="11">I don't know</claim>, for all I know you could be a hunter in the middle of nowhere in Alaska).
+
+</reply>
+<reply id="cnfbrjf" author="NaturalSelectorX">
+
+<premise type="ethos" id="12">I am an omnivore, and my diet consists of meat and plants.</premise>
+<claim type="evaluation_rational" id="13">There is not a good way to supply meat at an industrial scale that doesn't involve some measure of suffering for the animal.</claim>
+
+<claim type="evaluation_rational" id="14">We could trade information back and forth as to whether or not it's possible to be happy and healthy without meat</claim>, but <claim type="evaluation_rational" id="15">I'm firmly convinced that meat is a requirement for my diet.</claim>
+
+</reply>
+<reply id="cnfcka5" author="Anticarnist">
+
+<claim type="evaluation_rational" id="16">Meat is the industry that creates the most suffering for animals</claim> though... <premise type="" id="17">Being the one that requires the most land usage and causes the most environmental issues as well as obviously slaughtering them.</premise>
+
+<premise type="logos_pathos" id="18">Vegans are also the group least likely to die of heart disease, with vegetarians being second and omnivores being first (or the same, depending on which study you're looking at)</premise>.
+<claim type="evaluation_rational" id="19">I'm convinced it's a healthier diet, which is a nice bonus for being compassionate.</claim>
+
+</reply>
+<reply id="cnfdpva" author="NaturalSelectorX">
+&gt; Meat is the industry that creates the most suffering for animals though... Being the one that requires the most land usage and causes the most environmental issues as well as obviously slaughtering them.
+
+<claim type="evaluation_rational" id="20">This doesn't really matter if it is something that is necessary.</claim>
+
+&gt; Vegans are also the group least likely to die of heart disease, with vegetarians being second and omnivores being first (or the same, depending on which study you're looking at). I'm convinced it's a healthier diet, which is a nice bonus for being compassionate.
+
+<premise type="logos_pathos" id="21">[This study](http://www.ncbi.nlm.nih.gov/pubmed/20479151) shows that unprocessed meat is not linked to heart disease, but processed meat is</premise>.
+I would also argue that <premise type="logos_pathos" id="22">a vegan *has* to be more conscious about their diet</premise>, and that <claim type="evaluation_rational" id="23">extra attention results in health benefits</claim>.
+
+<premise type="logos" id="24">Many people consider fish to be extremely healthy, and often include it in their "vegetarian" diets</premise>.
+<premise type="logos" id="25">Eating fish has been associated with a *reduced* risk of heart disease.</premise>
+<premise type="logos_pathos" id="26">Fish farms are equally as cruel as the rest of the meat industry</premise>, but <claim type="interpretation" id="27">we don't relate to them as much so they don't tug on our morals</claim>.
+
+<claim type="interpretation" id="28">Certainly, you can still be healthy with alternative diets.</claim>
+However, <claim type="evaluation_rational" id="29">you have to curate your diet much more if you do not include meat.</claim> <claim type="evaluation_rational" id="30">I'm not convinced that an equally curated diet including meat would not be healthier.</claim>
+
+</reply>
+</thread>

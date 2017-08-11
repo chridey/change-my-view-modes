@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<thread ID="2rcrkd">
+<title>CMV: Veganism and vegetarianism are not the best way to improve farm animal welfare</title>
+<source>http://www.reddit.com/r/changemyview/comments/2rcrkd/cmv_veganism_and_vegetarianism_are_not_the_best/</source>
+<OP author="Helicase21">
+
+Title is mostly to get attention, and I'm working from a specific set of assumptions.
+My argument is as follows:
+
+1) <claim type="evaluation_rational" id="0">The chances of the entire world adopting a vegan/vegetarian diet are slim to none</claim>
+
+1a) <premise type="logos_pathos" id="1">Therefore, there will always be a market for meat and other animal products</premise>
+
+2) <claim type="evaluation_rational" id="2">The food market, like all other markets, operates on general principles of supply and demand</claim>
+
+3) <claim type="evaluation_rational" id="3">Meat farmers can use techniques exhibiting a range of costs or benefits, both in terms of environmental impact and animal welfare.</claim>
+
+4) <claim type="evaluation_rational" id="4">A vegan or vegetarian diet denies demand, and thus potential revenue, to all meat-producing farms, regardless of how humane or environmentally sound their practice are.</claim>
+
+4a) <premise type="logos_pathos" id="5">Since the majority of farms are large factory farms</premise>, <claim type="evaluation_rational" id="6">I concede that this is probably good for animal welfare.</claim> **
+However**:
+
+5) <claim type="evaluation_rational" id="7">Purchasing meat from farms known to produce their meat in an ethical way not only denies demand to large factory farms</claim> but <claim type="evaluation_rational" id="8">helps improve the market share of ethical meat-growing</claim>, <claim type="evaluation_rational" id="9">which seems as though it would be even better for animal welfare.</claim>
+
+<claim type="evaluation_emotional" id="10">My general view is that people should probably as a rule eat less meat from better growers</claim>, and <claim type="evaluation_emotional" id="11">that will make for a bigger shift in growing practices than simply people dropping out of eating meat altogether.</claim>
+Moreover, <premise type="pathos" id="12">this practice would be much easier to "evangelize" than a vegetarian or vegan diet.</premise>
+<premise type="logos" id="13">Face it, meat is tasty (and non-factory meat is often tastier than factory-farmed meat, at least in my own anecdotal experience)</premise>
+
+</OP>
+<reply id="cneobd0" author="shaysfordays">
+
+<claim type="evaluation_emotional" id="14">It really depends on how you view animal welfare.</claim>
+<premise type="logos" id="15">I think most vegetarians see killing and eating an animal as wrong regardless of how good the conditions it lives in are.</premise>
+
+</reply>
+<reply id="cneogne" author="Helicase21">
+
+<claim type="evaluation_rational" id="16">I guess that this comes from my utilitarian-in-most-cases ethics.</claim>
+<claim type="interpretation" id="17">I believe that small-medium improvements over large scales, such as an entire market, are better than large improvements at tiny scales.</claim>
+
+Moreover, <claim type="disagreement" id="18">this CMV is not about "veganism and vegetarianism are bad"</claim> <claim type="disagreement" id="19">it's about "eating meat responsibly is better for animal welfare than abstaining from eating meat"</claim>
+
+</reply>
+</thread>

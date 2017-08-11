@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<thread ID="2qoml3">
+<title>CMV: I feel skill is largely determined by experience. Compliments on skill are almost meaningless.</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qoml3/cmv_i_feel_skill_is_largely_determined_by/</source>
+<OP author="skier_scott">
+
+In high school, <claim type="evaluation_rational" id="0">I thought I was "good at math" as I'm the son of a math teacher and electrical engineer</claim>.
+In college, I learned that <claim type="evaluation_rational" id="1">math was not something you're "good at" but something you have to put hard work into and is almost the sole determiner in the level of skill you obtain</claim>.
+
+<claim type="interpretation" id="2">So then isn't almost any compliment almost to be expected?</claim> <premise type="ethos_logos" id="3">I've spent a lot of time with similar problems</premise> -- <premise type="ethos_logos" id="4">how could I not know all the details and little tricks of these problems?</premise>
+
+<claim type="evaluation_emotional" id="5">I feel a compliment recognizes something given</claim>: <claim type="evaluation_emotional" id="6">I feel everyone is passionate about something</claim>, <premise type="logos" id="7">whether it be math or psychology or medicine</premise> (<premise type="logos" id="8">I don't hear "you're so good at biology"</premise> but <claim type="evaluation_emotional" id="9">I think I should</claim>).
+
+</OP>
+<reply id="cn82b27" author="caw81">
+
+<premise type="pathos" id="10">Then wouldn't a complement be just an acknowledgement of the time and effort you put into something that most people see as hard or worthwhile?</premise>
+<claim type="evaluation_rational" id="11">This implies the complement is meaningful.</claim>
+
+(<claim type="evaluation_rational" id="12">Most people don't do this</claim> - either <premise type="logos" id="13">they don't put the time and effort into something generally hard or worthwhile</premise> or <premise type="logos" id="14">the time and effort isn't hard or worthwhile</premise>.)
+
+</reply>
+<reply id="cn82jhv" author="skier_scott">
+
+<claim type="evaluation_emotional" id="15">When I receive a compliment I should publicly recognize that then, right?</claim>
+<premise type="logos" id="16">No only am I accepting their compliment</premise>, <premise type="logos" id="17">I'm showing some of what I truly believe.</premise>
+
+That counts as a &#8710;!
+
+</reply>
+</thread>

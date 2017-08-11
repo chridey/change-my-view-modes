@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<thread ID="2qrlmm">
+<title>CMV: Any given aspect of the legal system should be short and simple enough that an average high school graduate could fully memorize it</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qrlmm/cmv_any_given_aspect_of_the_legal_system_should/</source>
+<OP author="txwatson">
+
+CLARIFICATIONS BASED ON ANTICIPATED CONFUSION:
+
+(1.) I'm **not** saying simple enough that **all** high school students **should** memorize them; I'm saying <claim type="evaluation_emotional" id="0">simple enough that almost anyone could, if they were struck by the impulse to make that unusually large commitment, do so</claim>.
+<premise type="logos_pathos" id="1">Like, most people don't memorize all of Romeo and Juliet.</premise>
+<premise type="logos_pathos" id="2">But most people, I think, if they really wanted to, **could.</premise>
+
+(2.)
+I'm not interested in hearing any arguments that are based in any way on what the laws are, right now, except by way of comparison.
+This includes the constitution.
+Seriously -- this isn't what I want to argue here, but <premise type="logos_pathos" id="4">I'm 100% on board with trashing the US constitution and starting from scratch with new documents, so appealing to the constitution is not on topic.</premise>
+
+I'm not a fan of extreme simplification, but <premise type="logos" id="5">I think the American legal system has gotten out of hand in complexity.</premise>
+<claim type="interpretation" id="6">I think the law should be simple enough that close to anybody could reasonably know the mechanics of all the laws likely to apply to them.</claim>
+
+<claim type="evaluation_rational" id="7">Ideally, it should be a relatively simple feat of memorization to learn the names of all the categories of law; the number of laws in each category; and the basic mechanics of the enforcement of that category's laws.</claim>
+
+<premise type="logos" id="8">By categories, I mean things like: criminal law; the tax code; any given category of regulation by profession (medical, construction, IT, and so on).</premise>
+
+I'd be fine with memorizing all the laws being a feat on par with memorizing the Bible; but <claim type="evaluation_rational" id="9">it should be well within the average citizen's capacity to know all the laws likely to apply to them, word-for-word or close to it.</claim>
+
+Edit 9:55: CLARIFICATIONS BASED ON CONFUSION THAT HAS OCCURRED:
+
+(1.)
+I am not arguing that a shorter legal code is by definition easy to understand.
+I am not arguing that the average High School student should be able to achieve a lawyer's level of expertise in any given aspect.
+I'm defending the memorization criterion as a way to limit the total length and vagueness of a set of laws.
+
+EDIT 8:35 the following morning: Nobody last night since I went to bed made any points that I haven't already addressed more than once, so I'm done individually responding unless somebody comes up with something new. For the answers to all the posts since I went to bed: see anticipated clarifications 1 and 2, clarification based on actual confusion 1, [this comment,](http://www.reddit.com/r/changemyview/comments/2qrlmm/cmv_any_given_aspect_of_the_legal_system_should/cn91esr) and literally the name of the subreddit.
+
+</OP>
+<reply id="cn8va27" author="windowtothesoul">
+
+I entirely agree that <claim type="agreement" id="10">certain parts are unnecessarily complex and complicated</claim>.
+<premise type="logos" id="11">I don't think you'll find many people who disagree that the American legal system could be slimmed down substantially.</premise>
+
+I'll make two quick points with the idea of persuading you that, while it should be simplified, <claim type="interpretation" id="12">a substantial degree of complexity is necessary for certain aspects to function.</claim>
+
+<premise type="logos_pathos" id="13">First, take criminal law.</premise>
+<premise type="logos_pathos" id="14">Let's assume that laws are created on the premise that they outlaw an action that is morally bad</premise>.
+That sounds fine and dandy at first, but who defines what is morally bad?
+<premise type="pathos" id="15">Some things are clear cut - hitting a small child would be morally bad.</premise>
+But what if hitting them prevented some greater harm?
+<premise type="logos_pathos" id="16">Going down this train of logic will ultimately lead to a purely utilitarian theory on the legal system</premise>.
+<premise type="pathos" id="17">That isn't to say that it would be better or worse than our's currently</premise>, but <premise type="pathos" id="18">given the immense literature on utilitarianism I doubt any high schooler could reasonably be expected to memorize it.</premise>
+
+<premise type="logos" id="19">Second, let's look at regulation by profession, specifically bank regulation</premise>.
+If you haven't heard of Dodd-Frank, well, lucky you.
+<premise type="pathos" id="20">It's a 800-odd page legislative titan</premise>.
+I would hardly believe it couldn't be slimmed down some, yet <claim type="evaluation_emotional" id="21">a lot of it is necessary for a functional judicial system to determine what is and is not legal.</claim>
+<premise type="pathos" id="22">Take the Volcker rule and prop.</premise>
+<premise type="ethos_logos_pathos" id="23">trading.</premise>
+<premise type="logos" id="24">That's explicitly illegal now (well, kind of... not yet).</premise>
+<premise type="logos_pathos" id="25">There isn't a huge moral justification to regulations such as these other than 'they increase risk and excessive risk is bad'.</premise>
+But who defines what excessive risk is?
+If you have a probability of default of 50% is that bad?
+Is 15% acceptable?
+What about 5%?
+Even better, what about 4.99999% versus 5%?
+<premise type="logos_pathos" id="26">Some of these things just ultimately need someone saying "Enough!</premise>
+<premise type="logos_pathos" id="27">We'll agree on 5% or we will agree to disagree." and to codify it.</premise>
+<premise type="logos" id="28">However, that codification, even if is only one line applied to hundreds of laws, would be immense.</premise>
+
+In short, my two points were: 1. <claim type="evaluation_rational" id="29">We could create a system that simply pointed to morally impermissible actions as illegal, but that would lead to large discrepancies (or would need have some other system to define what is morally impermissible, out of scope of a high schooler's memory).</claim>
+2.
+<claim type="evaluation_emotional" id="30">In order to eliminate discrepancies, the system needs to codify at least some specific instances, and by doing such for an immense number of actions we go beyond, well, *any* one person's memory.</claim>
+
+</reply>
+<reply id="cn8wcel" author="txwatson">
+
+&#8710; I'm giving you a delta btw because thinking about it your post has made it obvious to me that the list of subcategories would be bigger than I initially anticipated, and might itself be a pretty significant feat of memorization.
+But I still think it should be within the scope of countability and basically anyone should be aware of all the sets of laws that they need to worry about.
+
+</reply>
+</thread>

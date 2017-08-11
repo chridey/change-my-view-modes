@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<thread ID="2qnzap">
+<title>CMV: Surplus Value Theorem is definitive proof that capitalism is an inefficient system.</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qnzap/cmv_surplus_value_theorem_is_definitive_proof/</source>
+<OP author="SouthernGlenfidditch">
+
+<premise type="" id="0">As I understand it</premise>, and <premise type="" id="1">crudely explained</premise>, SVT says that <premise type="" id="2">in an economic system that lets people hire other people for labour</premise>, <claim type="evaluation_rational" id="3">waste has to be produced in order for the system to function</claim>.
+
+Example: <premise type="pathos" id="4">Consider a society of 101 people: 100 workers and 1 boss.</premise>
+<premise type="logos" id="5">The boss owns the factory where the workers work</premise>, and <premise type="logos" id="6">they produce, say, MLP dolls that everyone wants to buy</premise>.
+<premise type="logos" id="7">The boss pays each of her workers &#163;5 for each doll that the worker produces, and a worker produces 1 doll a day</premise>.
+<premise type="logos_pathos" id="8">At the end of the day, the boss has 100 dolls, worth &#163;1000 and has paid out &#163;500</premise>.
+<premise type="logos" id="9">Wanting to make a profit on the dolls, the boss then sells the dolls for &#163;10 each.</premise>
+<premise type="ethos_logos_pathos" id="10">She is now trying to sell &#163;1000 worth of dolls</premise>, but <premise type="ethos_logos_pathos" id="11">the only people available to sell to are the workers, who's total funds are &#163;500</premise>.
+<premise type="logos" id="12">No matter how they rearrange the money between them, they will be unable to buy more than &#163;500 worth of the dolls</premise>, and so <premise type="logos" id="13">the rest are waste inherent to the system and a direct result of the boss wanting to make profit.</premise>
+
+<premise type="logos" id="14">This example then scales up to the whole world when you throw in multiple bosses and lots more workers but the basic idea is the same</premise>: if <premise type="logos" id="15">each worker is being paid less than the price of the things they produce so that their boss can profit</premise>, then <claim type="evaluation_rational" id="16">items that cannot be sold must still be produced and thrown away.</claim>
+
+</OP>
+<reply id="cn7x1ic" author="ghotionInABarrel">
+&gt; The boss pays each of her workers £5 for each doll that the worker produces
+
+<premise type="logos" id="17">Most people aren't paid on commission</premise>, so <claim type="evaluation_emotional" id="18">this isn't really a good example</claim>, but <claim type="evaluation_emotional" id="19">I think I get where you're going with it.</claim>
+
+&gt;if each worker is being paid less than the price of the things they produce
+
+<claim type="evaluation_emotional" id="20">But the money doesn't just disappear.</claim>
+For one thing, <premise type="logos_pathos" id="21">you're neglecting the janitor who is necessary to keep the factory functioning (and presumably gets paid) but doesn't "produce" anything.</premise>
+You're also neglecting that <premise type="logos_pathos" id="22">when this system scales up you need to include the boss buying things.</premise>
+
+Since <premise type="logos" id="23">whatever profit the boss makes goes back into the system as they spend money</premise>, <claim type="evaluation_emotional" id="24">there should be at all times enough money in the system to cover the value of what it produced</claim>.
+<premise type="logos_pathos" id="25">This value may not be the price being charged for the thing</premise>, and <claim type="evaluation_emotional" id="26">that's where supply and demand are involved</claim>.
+
+I'm not going to deny that <premise type="logos_pathos" id="27">sometimes (or a lot of the time) the boss just hoards their extra money and doesn't re-inject it</premise>, but <claim type="evaluation_rational" id="28">that's more a failure of the system than the system itself</claim>.
+<claim type="agreement" id="29">The same goes for when something is priced above its market value</claim>, <premise type="logos_pathos" id="30">it won't sell and will be waste</premise>, but that's because <premise type="logos_pathos" id="31">the seller overpriced it</premise>, <premise type="logos_pathos" id="32">not because it was doomed to be waste as soon as it was made.</premise>
+
+<claim type="disagreement" id="33">No ideal system is really going to be inefficient</claim>, <claim type="interpretation" id="34">its the real ones that have problems.</claim>
+
+If <premise type="logos" id="35">you mean to say that real-life capitalism is inefficient</premise>, then <claim type="agreement" id="36">no one is going to dispute you</claim>, but I will point out that <claim type="interpretation" id="37">it's the most efficient real system we have</claim>.
+
+</reply>
+<reply id="cn7yrgj" author="SouthernGlenfidditch">
+
+&#8710;
+That makes a lot of sense!
+Thank you! I can accept that <claim type="evaluation_rational" id="38">it would be a wasteless system if there were multiple factories and the boss spent all of their money!</claim>
+I can definitely think of other bits of inefficiency but that wasn't the question so nevermind! :)
+
+</reply>
+</thread>

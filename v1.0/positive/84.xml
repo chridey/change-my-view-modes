@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<thread ID="2qia6o">
+<title>CMV: Networking for jobs behaves as a discriminatory mechanism to keep money & good jobs inside a particular social circle, & should be discouraged or eliminated as a criterion for employment.</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qia6o/cmv_networking_for_jobs_behaves_as_a/</source>
+<OP author="ArchitectofAges">
+
+'1.
+<claim type="evaluation_rational" id="0">Networking is discriminatory.</claim>
+
+'1.1.
+<premise type="ethos_logos_pathos" id="1">A "standard" hiring method would ensure that every applicant would be evaluated on the same criteria - the satisfaction of requirements of the position & merits relevant to that position.</premise>
+
+'1.2.
+<premise type="ethos_logos_pathos" id="2">Who an applicant knows is occasionally useful for those jobs which require maintaining relationships with certain people in key positions (e.g. sales), but for the vast majority of jobs, who your friends are is functionally irrelevant.</premise>
+
+'1.3.
+<premise type="logos" id="3">Allowing someone to circumvent the standard application process ("jumping the line") or to use some important person's recommendation as additional clout for their application ("came very highly recommended by Bob") is preferential treatment for irrelevant qualities.</premise>
+
+'1.3.1. <claim type="agreement" id="4">I recognize & appreciate that it is difficult in most employment processes to find individuals who are trustworthy, socially apt, etc.</claim>
+<premise type="logos" id="5">This is a failing of the existing job application paradigm, not an excuse to circumvent it in order to make the process easier.</premise>
+
+'2.
+<claim type="evaluation_rational" id="6">Networking, as a practice, favors individuals who come from already socially favorable situations, moreso than other evaluation criteria.</claim>
+
+'2.1.
+<premise type="" id="7">Beyond straight nepotism, it is self-evident that individuals who come from families & backgrounds which allow for more interaction with individuals in power will be able to call on more of those individuals for networking purposes.</premise>
+
+'2.2.
+<premise type="logos" id="8">Individuals who are extraordinarily qualified for a position but come from a region/social background without those connections enter a networking-friendly employment opportunity at a disadvantage.</premise>
+
+'2.2.1. I understand that <claim type="evaluation_rational" id="9">there are other unfair advantages an applicant might have (being tall, white, male, etc.).</claim>
+<premise type="pathos" id="10">Allowing networking to influence a hiring decision is not dependent on cultural bias & may be safely exorcised from the hiring process to render it more fair</premise> - that is what I am suggesting.
+
+'3.
+<claim type="evaluation_emotional" id="11">Businesses & societies would be better off disallowing networking from influencing their hiring decisions.</claim>
+
+'3.1.
+<claim type="disagreement" id="12">If a hiring process takes networking into account, it is necessarily showing preference to individuals who already come from advantaged background, as per 2.</claim>
+<premise type="logos" id="13">This decreases social/economic mobility, which has been demonstrated to be bad for societies in general.</premise>
+
+'3.2.
+<premise type="ethos_logos" id="14">If the egalitarian hiring process in-place is so ineffective at determining qualifications/character that it must depend on recommendations from trusted sources to establish merit, the productivity of any positions where such a trusted source does not come forward will suffer.</premise>
+
+'3.3. <premise type="logos_pathos" id="15">"Fix the process, not the game."</premise>
+
+I understand <claim type="interpretation" id="16">"this is how the world works," and many feel at ease participating in networking events without any moral qualms</claim>.
+I would love to have this explained in a way that takes the above points into account & would allow a person to network without the valuation that it is a necessary evil.
+
+EDIT: I'd like to reiterate something, because it keeps cropping up in the comments: *yes, networking is a useful crutch in hiring because most hiring processes are fundamentally broken, but that does not make it fair, just, or desirable.*
+
+</OP>
+<reply id="cn7l5g4" author="Dooey">
+
+<claim type="interpretation" id="17">I'm not going to challenge your view that networking is unfair, because it totally is.</claim>
+<claim type="disagreement" id="18">But I am going to challenge your view that it should be discouraged or eliminated.</claim>
+
+<premise type="pathos" id="19">Businesses are and should be designed to be effective.</premise>
+<premise type="logos_pathos" id="20">Being fair is, at best, a secondary goal.</premise>
+<premise type="ethos_logos_pathos" id="21">Any company/society which encourages business practices that are not effective will quickly be out-competed by one that is effective, and having effective businesses in a society in general improves the quality of life of the people living there.</premise>
+<claim type="evaluation_rational" id="22">There are some exceptions, that justify regulation, such as environmental or fraud protection,</claim> but <claim type="evaluation_rational" id="23">I don't think networking is one of them,</claim> the reason being just how expensive it is to find employees without using networking.
+<premise type="logos" id="24">Simply getting an employee in the door often costs about 1 years worth of their salary, with that money going to the recruiters that found the person, paying people to review their resume, interview them, do background checks, etc.</premise>
+<premise type="logos_pathos" id="25">Then, after they start working, they have to be trained, and get up to speed on their new job, which (depending on the job) can often take months.</premise>
+<premise type="logos_pathos" id="26">If all of this time and money goes towards a bad hire, that is an extremely bad thing for the business, which means that it's extremely important to minimize the number of bad hires.</premise>
+<claim type="evaluation_rational" id="27">The best way to do that is to hire people you've worked with before, and you know are good, or people your colleagues and friends have worked with before, who you trust when they say that someone is good.</claim>
+<premise type="ethos_logos_pathos" id="28">Interviews are an extremely poor replacement actually working with someone, or for the opinion of a trusted colleague.</premise>
+
+</reply>
+<reply id="cn7lfqe" author="ArchitectofAges">
+
+<claim type="evaluation_rational" id="29">Totally valid game theory, and well-articulated!</claim>
+But I've got too much liberal in me to give up the cause of egalitarianism for the sake of financial stability.
+Compelling, though, have a delta. &#8710;
+
+</reply>
+</thread>

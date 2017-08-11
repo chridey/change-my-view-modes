@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<thread ID="2qqa7z">
+<title>CMV: Swimming is the best form of exercise</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qqa7z/cmv_swimming_is_the_best_form_of_exercise/</source>
+<OP author="Helicase21">
+
+While <claim type="evaluation_rational" id="0">obviously a balanced exercise regimen is the best choice for health and well-being</claim>, if <premise type="" id="1">someone were forced to stick to a single exercise technique</premise>, <claim type="evaluation_rational" id="2">there is no reason other than lack of availability to choose anything other than swimming</claim>.
+Swimming is:
+
+A) <premise type="logos_pathos" id="3">cardio, able to be done at a variety of speeds over a variety of distances, making it suitable for a wide range of fitness levels</premise>
+
+B) <premise type="logos" id="4">resistance in many muscle groups, especially when strokes in question are varied and tools such as fins or kickboards are added</premise>
+
+C) <premise type="logos_pathos" id="5">low-impact, making it suitable for older people, people with recent injuries, or those with longer-term joint problems</premise>
+
+D) <premise type="logos_pathos" id="6">whole-body (or at least most-of-the-body)</premise>
+
+With all that said and considered, is there any reason to choose another **single** form of exercise over swimming, other than lack of accessible facilities (EDIT: or physical inability to swim)?
+
+Edit 2: view changed, because <claim type="agreement" id="7">"best form of exercise" is actually meaningless</claim>.
+
+</OP>
+<reply id="cn8hti0" author="iserane">
+
+<claim type="interpretation" id="8">Exercise regimens depend entirely on your goals.</claim>
+<premise type="logos_pathos" id="9">Do you want to improve your cardiovascular health?</premise>
+<claim type="evaluation_rational" id="10">Cardio</claim>.
+<premise type="logos" id="11">Do you want to work on aesthetics?</premise>
+<claim type="evaluation_emotional" id="12">Weights</claim>.
+<premise type="logos_pathos" id="13">Do you want to increase your physical strength?</premise>
+<claim type="interpretation" id="14">Weights</claim>.
+<premise type="logos_pathos" id="15">Best in terms of time investment</premise>?
+<claim type="evaluation_emotional" id="17">Weights</claim>.
+<premise type="logos_pathos" id="18">Best in terms of monetary investment?</premise>
+<claim type="evaluation_emotional" id="19">Walking</claim>.
+<claim type="evaluation_emotional" id="20">People have different goals</claim>, <premise type="logos" id="21">some thing running a marathon is the pinnacle of fitness</premise>, <premise type="logos" id="22">others think 5 plate deads are a better example of fitness</premise>, and <premise type="logos" id="23">others think aesthetics is all that matter</premise>.
+
+&gt;able to be done at a variety of speeds over a variety of distances
+
+<claim type="evaluation_rational" id="24">Every exercise I can think of can be done *at a variety of speeds over a variety of distances*.</claim>
+
+&gt;resistance in many muscle groups
+
+<premise type="logos" id="25">Eventually though you'll stop making strength gains and simply be increasing your endurance.</premise>
+<claim type="evaluation_rational" id="26">This is the fundamental problem with all body-weight exercises.</claim>
+
+&gt;low-impact
+
+<claim type="evaluation_rational" id="27">Best for people with issues != best for people without issues or best overall.</claim>
+
+&gt;whole-body 
+
+While <claim type="evaluation_emotional" id="28">it's important to workout your whole body</claim>, <claim type="evaluation_emotional" id="29">there is a reason that most weight-lifting routines isolate different areas</claim>, <premise type="logos_pathos" id="30">very few routines are whole body in 1 day</premise>.
+
+&gt;another single form of exercise over swimming
+
+If you mean a single exercise like a specific lift, I have to ask, which single method of swimming are you talking about?
+<premise type="logos" id="31">If you mean a single type of exercise</premise>, <claim type="disagreement" id="32">weight lifting is by far the best</claim>.
+
+<premise type="logos_pathos" id="33">As far as single lifts go</premise>, <claim type="interpretation" id="34">the squat is often referred to as one of the best</claim>.
+<premise type="logos_pathos" id="35">It helps with flexibility</premise>, and <premise type="logos_pathos" id="36">works your legs and core quite hard</premise>.
+<claim type="evaluation_rational" id="37">It's also the most beneficial for older people</claim> since <premise type="logos" id="38">so much of their lives revolve around getting in and out of chairs</premise> (<premise type="logos" id="39">there's an entire article I read about this once</premise>).
+
+<claim type="evaluation_emotional" id="40">Best regimen just depends on your goals</claim>.
+That said, <claim type="evaluation_rational" id="41">I think some of the better weight lifting routines are more efficient at achieving just about any goal you can think of, except cardiovascular endurance.</claim>
+
+</reply>
+<reply id="cn8i4w1" author="Helicase21">
+
+thank you, you've &#8710;'d my view by pointing out that <claim type="agreement" id="42">'best form of exercise' is pretty much meaningless</claim>.
+
+</reply>
+</thread>

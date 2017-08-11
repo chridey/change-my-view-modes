@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<thread ID="2rcrkd">
+<title>CMV: Veganism and vegetarianism are not the best way to improve farm animal welfare</title>
+<source>http://www.reddit.com/r/changemyview/comments/2rcrkd/cmv_veganism_and_vegetarianism_are_not_the_best/</source>
+<OP author="Helicase21">
+
+Title is mostly to get attention, and I'm working from a specific set of assumptions.
+My argument is as follows:
+
+1) <claim type="evaluation_rational" id="0">The chances of the entire world adopting a vegan/vegetarian diet are slim to none</claim>
+
+1a) <premise type="logos_pathos" id="1">Therefore, there will always be a market for meat and other animal products</premise>
+
+2) <claim type="evaluation_rational" id="2">The food market, like all other markets, operates on general principles of supply and demand</claim>
+
+3) <claim type="evaluation_rational" id="3">Meat farmers can use techniques exhibiting a range of costs or benefits, both in terms of environmental impact and animal welfare.</claim>
+
+4) <claim type="evaluation_rational" id="4">A vegan or vegetarian diet denies demand, and thus potential revenue, to all meat-producing farms, regardless of how humane or environmentally sound their practice are.</claim>
+
+4a) <premise type="logos_pathos" id="5">Since the majority of farms are large factory farms</premise>, <claim type="evaluation_rational" id="6">I concede that this is probably good for animal welfare.</claim> **
+However**:
+
+5) <claim type="evaluation_rational" id="7">Purchasing meat from farms known to produce their meat in an ethical way not only denies demand to large factory farms</claim> but <claim type="evaluation_rational" id="8">helps improve the market share of ethical meat-growing</claim>, <claim type="evaluation_rational" id="9">which seems as though it would be even better for animal welfare.</claim>
+
+<claim type="evaluation_emotional" id="10">My general view is that people should probably as a rule eat less meat from better growers</claim>, and <claim type="evaluation_emotional" id="11">that will make for a bigger shift in growing practices than simply people dropping out of eating meat altogether.</claim>
+Moreover, <premise type="pathos" id="12">this practice would be much easier to "evangelize" than a vegetarian or vegan diet.</premise>
+<premise type="logos" id="13">Face it, meat is tasty (and non-factory meat is often tastier than factory-farmed meat, at least in my own anecdotal experience)</premise>
+
+</OP>
+<reply id="cneri3u" author="nonowh0">
+
+<claim type="disagreement" id="14">Vegans decide not to eat meat because they want to make a statement about something they believe in, not necessarily because they want to improve animal welfare</claim>.
+(although <claim type="interpretation" id="15">they likely do want to improve animal welfare</claim>) Let me explain:
+
+<claim type="agreement" id="16">As you already pointed out, becoming a vegan has little to no affect on animal welfare.</claim>
+<premise type="logos" id="17">People will always want meat and the market will always provide it.</premise>
+<premise type="logos_pathos" id="18">Vegan that truly believes that they are directly helping animals by not eating meat are deluding themselves.</premise>
+You are correct on this point.
+
+So why do vegans decide to be vegans, if not to directly help animals?
+
+<claim type="evaluation_rational" id="19">Most vegans eat their burgers without beef because they want to make a statement.</claim> "
+<premise type="logos_pathos" id="20">I believe that animals are being treated cruelly. because of this, I will not eat meat."</premise>
+<premise type="pathos" id="21">It's a bit like not going to a restaurant because they came out against a belief of yours.</premise>
+<premise type="logos_pathos" id="22">If you believe in gay rights, you may decide not to go to chick-fil-a because of your belief.</premise>
+<premise type="pathos" id="23">Do you really believe that you not giving business will help in any way?</premise>
+<premise type="logos_pathos" id="24">no, you don't.</premise>
+<premise type="logos" id="25">You just want to make a statement.</premise>
+
+TL;DR: You are correct, but you misinterpret the true motivation of vegans
+
+Hope that helps.
+
+</reply>
+<reply id="cnern8v" author="Helicase21">
+
+<claim type="disagreement" id="26">I don't think I'm misinterpreting the motivations of vegans.</claim> <premise type="ethos" id="27">I know from personal experience that people go vegan/vegetarian for a huge variety of reasons, from personal health to carbon footprint to animal welfare to ethics of eating meat to budget (meat is expensive).</premise>
+
+</reply>
+<reply id="cnerzmw" author="nonowh0">
+&gt; I don't think I'm misinterpreting the motivations of vegans.
+
+<claim type="evaluation_emotional" id="28">Your OP implied that you thought the purpose of veganism is was to improve animal welfare.</claim>
+Forgive me if I misinterpreted you.
+
+&gt; that people go vegan/vegetarian for a huge variety of reasons, from personal health to carbon footprint to animal welfare to ethics of eating meat to budget (meat is expensive).
+
+Yes, these are all other reasons that people go into veganism.
+However, since <premise type="logos" id="29">(I thought) your post pertained to the "Vegans are vegans because they hate the state of animal welfare," reasoning</premise>, I made my post primarily about the relationship between vegans and animal welfare.
+
+</reply>
+</thread>

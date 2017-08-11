@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<thread ID="2qnzap">
+<title>CMV: Surplus Value Theorem is definitive proof that capitalism is an inefficient system.</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qnzap/cmv_surplus_value_theorem_is_definitive_proof/</source>
+<OP author="SouthernGlenfidditch">
+
+<premise type="" id="0">As I understand it</premise>, and <premise type="" id="1">crudely explained</premise>, SVT says that <premise type="" id="2">in an economic system that lets people hire other people for labour</premise>, <claim type="evaluation_rational" id="3">waste has to be produced in order for the system to function</claim>.
+
+Example: <premise type="pathos" id="4">Consider a society of 101 people: 100 workers and 1 boss.</premise>
+<premise type="logos" id="5">The boss owns the factory where the workers work</premise>, and <premise type="logos" id="6">they produce, say, MLP dolls that everyone wants to buy</premise>.
+<premise type="logos" id="7">The boss pays each of her workers &#163;5 for each doll that the worker produces, and a worker produces 1 doll a day</premise>.
+<premise type="logos_pathos" id="8">At the end of the day, the boss has 100 dolls, worth &#163;1000 and has paid out &#163;500</premise>.
+<premise type="logos" id="9">Wanting to make a profit on the dolls, the boss then sells the dolls for &#163;10 each.</premise>
+<premise type="ethos_logos_pathos" id="10">She is now trying to sell &#163;1000 worth of dolls</premise>, but <premise type="ethos_logos_pathos" id="11">the only people available to sell to are the workers, who's total funds are &#163;500</premise>.
+<premise type="logos" id="12">No matter how they rearrange the money between them, they will be unable to buy more than &#163;500 worth of the dolls</premise>, and so <premise type="logos" id="13">the rest are waste inherent to the system and a direct result of the boss wanting to make profit.</premise>
+
+<premise type="logos" id="14">This example then scales up to the whole world when you throw in multiple bosses and lots more workers but the basic idea is the same</premise>: if <premise type="logos" id="15">each worker is being paid less than the price of the things they produce so that their boss can profit</premise>, then <claim type="evaluation_rational" id="16">items that cannot be sold must still be produced and thrown away.</claim>
+
+</OP>
+<reply id="cn7zx81" author="hacksoncode">
+
+<claim type="interpretation" id="17">This is one of those views that likes to view production, capital, labor, and all of economics as a zero sum game.</claim>
+<claim type="evaluation_rational" id="18">It's not.</claim>
+<claim type="evaluation_emotional" id="19">Money circulates multiple times in a system</claim>, and <claim type="evaluation_emotional" id="20">value is created at each stage</claim>.
+
+I.e. <claim type="disagreement" id="21">you're simplifying it down to a level where it doesn't show all of the uses of the money that actually happen</claim>.
+
+<claim type="evaluation_emotional" id="22">I could reduce this down to the absolute simplest case and thus reduce the entire argument to absurdity</claim>: <premise type="logos" id="23">a single worker, who owns all of his own tools (that he made himself), makes a doll out of parts he gathers or makes at no cost to himself</premise>.
+<premise type="logos_pathos" id="24">The doll is worth $10.</premise>
+But since <premise type="logos_pathos" id="25">no one in this system actually has $10</premise>, <premise type="logos_pathos" id="26">no one can buy that doll</premise>, and therefore <claim type="evaluation_emotional" id="27">it goes to waste</claim>.
+
+Do you see why this reasoning breaks down because <claim type="evaluation_rational" id="28">it leaves out a lot of economic activity outside of the example shown</claim>?
+<claim type="evaluation_rational" id="29">Nothing about scaling that up to a factory changes the reasoning</claim>.
+<claim type="evaluation_emotional" id="30">The reasoning is just oversimplified and wrong</claim>.
+
+In reality, <claim type="evaluation_emotional" id="31">all of the money received by the factory for the dolls goes to someone</claim>.
+One problem is that <premise type="logos_pathos" id="32">typically most companies aren't owned by the "bosses"</premise>.
+<premise type="ethos_logos_pathos" id="33">They are owned by the owners of the company, which are many and varied, often including the workers in many cases</premise>.
+<premise type="logos_pathos" id="34">The excess value goes to all of them, who spend it on many things</premise>.
+
+Of perhaps <premise type="logos" id="35">some of it is retained as capital by the owners</premise>.
+But <premise type="logos" id="36">what does that really mean?</premise>
+<claim type="evaluation_rational" id="37">People don't actually "horde" money in couches.</claim>
+<premise type="logos_pathos" id="38">They invest it in other productive stuff, such as new factories that produce *more* stuff (someone has to pay the people that build the factories)</premise>, or <premise type="logos_pathos" id="39">money that is borrowed by people to start their own businesses</premise>.
+
+Now, yes, <premise type="logos_pathos" id="40">some businesses fail</premise>, and <claim type="evaluation_rational" id="41">that is by and large where most of the "surplus value" is "wasted"</claim>.
+But <claim type="disagreement" id="42">only in a very narrow sense</claim>, because <premise type="logos_pathos" id="43">in the process of being "wasted", it ended up going to other people for the businesses purchases, payrolls, etc</premise>.
+Additionally, <premise type="ethos_logos_pathos" id="44">the businesses that succeed end up generating *more* economic activity.</premise>
+
+<claim type="interpretation" id="45">This is no different from any other system</claim>, BTW.
+<premise type="logos_pathos" id="46">In communism, surplus value is also either created</premise> (or, alternately and more likely, a <premise type="logos_pathos" id="47">shortage occurs because not enough was produced</premise>).
+<claim type="interpretation" id="48">The only difference is where the money goes</claim>.
+In <premise type="logos" id="49">real-world examples of communist states</premise>, <claim type="evaluation_emotional" id="50">the money goes to the state</claim>, which <premise type="logos" id="51">"wastes" a lot of it in overhead and useless production</premise> as well.
+Or <premise type="logos_pathos" id="52">in some kinds of communism</premise>, <claim type="agreement" id="53">it goes back to the workers</claim>.
+
+Another problem with your view is that <claim type="evaluation_emotional" id="54">factory owners have a lot of ways of disposing of excess inventory, and a lot of incentive to not *create* excess inventory in the first place</claim>.
+<premise type="logos_pathos" id="55">Other systems have less incentive for these corrections to happen</premise>, and as a practical matter <claim type="evaluation_emotional" id="56">end up generating even more waste</claim>, because <premise type="logos_pathos" id="57">the people making the decisions about production don't have as much incentive to get those decisions right</premise>.
+
+</reply>
+<reply id="cn8016m" author="SouthernGlenfidditch">
+
+&#8710;
+Already gave this triangle to someone else but wanted to give it to you too if that's allowed.
+Great answer, thank you!
+
+</reply>
+</thread>
