@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<thread ID="2qd3li">
+<title type = "evaluation_emotional" id="title">CMV: Nativity scenes are antisemitic.</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qd3li/cmv_nativity_scenes_are_antisemitic/</source>
+<OP author="skunkardump">
+
+<claim type="evaluation_emotional" id="0" rel="agreement" ref="title">This has nothing to do with the celebration of Christmas excluding religious minorities</claim>, it's because <claim type="evaluation_emotional" id="1" rel="agreement" ref="title">traditional nativity scenes reinforce negative stereotypes about Jews</claim>.
+
+<premise type="logos" id="2" rid="2" rel="support" ref="1">As the story goes, when Jesus was about to be born his parents were travelling to Bethlehem, but when they got there the inn was full, so Mary had to give birth in the barn</premise>.
+<premise type="logos" id="3" rid="2" rel="support" ref="1">The problem is, if nativity scenes are any indication, baby Jesus was still in the manger when the three wise men came to visit and give him Christmas presents</premise>.
+<premise type="logos" id="4" rid="2" rel="support" ref="1">Most people know Jesus was born on Christmas, but less realize that the wise men didn't show up until the Epiphany twelve days later</premise>.
+
+<claim type="interpretation" id="5" rel="agreement" ref="title">Are we honestly expected to believe that no vacancies opened up at the inn for almost two weeks?</claim> <premise type="logos" id="6" rel="support" ref="5">Because that would be the most unbelievable aspect of the entire story if you ask me</premise>, and <premise type="logos" id="7" rel="support" ref="5">it seriously strains credulity to begin with</premise>.
+
+<premise type="logos" id="8" rel="support" ref="5">Even miracles make more sense in the context of the birth of the Son of God</premise>.
+<premise type="logos_pathos" id="9" rel="support" ref="5">Maybe a virgin really could give birth to a deity, or a new star could magically appear over the birthplace</premise>, but <premise type="logos" id="10" rel="support" ref="5">there's no reason for the inn to miraculously have no rooms come open for nearly two weeks</premise>.
+<premise type="logos_pathos" id="11" rel="support" ref="5">Plus Mary and Joseph would be the first to know when something came available since they were basically squatting in the garage and would surely notice when patrons came to get their ox or camel or whatever before leaving</premise>.
+
+<claim type="interpretation" id="12" rel="agreement" ref="title">The obvious implication is that Jesus' chintzy Jewish stepdad was such a tightwad that he was willing to let his pubescent wife and her newborn baby sleep in donkey slop if it would save him a few shekels</claim>.
+<premise type="logos_pathos" id="13" rel="support" ref="12">Joseph probably would have made that barn the family's permanent rent-free residence if the wise men hadn't showed up bearing enough cash and prizes to go live it up in Egypt</premise>.
+After all, <premise type="logos" id="14" rel="support" rid="3" ref="12">why did they stay so long anyway?</premise>
+<premise type="logos" id="15" rel="support" rid="3" ref="12">It's not like Mary needed the time to recuperate</premise>.
+<premise type="logos_pathos" id="16" rel="support" rid="3" ref="12">Thanks to baby Jesus' healing powers even her hymen immediately regenerated, kind of like the redhead vampire from True Blood or the cheerleader from Heroes</premise>.
+(<premise type="pathos" id="17" rel="support" rid="3" ref="12">Not the real life Hayden Panettiere though, you know those gigantic Klitschkos split that wide open.</premise>)
+
+MERRY CHRISTMAS!
+
+</OP>
+<reply id="cn524ii" author="DHCKris">
+<claim type="evaluation_rational" id="18"> Traditionally, in medieval Christian art, there is no consideration of time</claim>.
+In other words, <premise type="logos" id="19" rel="support" ref="18">events that happen at different points in the narrative are depicted as occuring side-by-side without consideration for *when* and *where* they actually happened</premise>.
+For instance, <premise type="logos" id="20" rel="support" ref="18">Jesus might be depicted as both a child and an adult in the same image</premise>.
+
+<claim type="evaluation_rational" id="21"> One of the reasons the Italian Renaissance was, well, a *renaissance* was because its painters and artists began presenting things in a more realistic way</claim>, <premise type="logos" id="22" rel="support" id="21">like how we might now think of as like a photograph: a specific moment frozen in time</premise>.
+
+My point is, <claim type="interpretation" id="23" rel="undercutter_attack" ref="5">there is precedent for depicting stories from the Jesus narrative with no consideration for the actual timeline of events</claim>, <premise type="logos" id="24" rel="support" ref="23">merely throwing together elements because they are related thematically or tangentially</claim>.
+<claim type="evaluation_rational" id="25" rel="undercutter_attack" ref="5">You're interpretting this as if it is meant to show something "as it happened" when art doesn't always work that way</claim>.
+
+</reply>
+<reply id="cn532hr" author="skunkardump">
+
+&#8710; Thanks for the input, I'll give you a delta but <claim type="evaluation_rational" id="26" rel="partial_agreement" ref="25">this seems to me more or less the same argument from artistic license</claim>.
+
+</reply>
+</thread>
+
+<!--	
+		line 9-11 premises left unmarked with regard to relation and reference labels because they provide context and do not serve as argumentative device. 
+		line 21 premise -> claim because the rhetorical question imposes a clear point of view
+		line 24 premise left unmarked because irrelevant detail
+		line 30, 33 both premise -> claim because ensuing premises point toward the claim
+		line 36 claim -> premise because premise illustrates an example the preceding claim
+-->
+
+	

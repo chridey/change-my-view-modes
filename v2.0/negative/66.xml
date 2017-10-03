@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<thread ID="2rgs7o">
+<title type="evaluation_emotional" id="title">CMV: Assuming there is no afterlife, then life is ultimately meaningless and pointless because we die.</title>
+<source>http://www.reddit.com/r/changemyview/comments/2rgs7o/cmv_assuming_there_is_no_afterlife_then_life_is/</source>
+<OP author="mybromarcusaurelius">
+
+*Note: Please assume that there is no afterlife when responding to my post.
+I am not religious.
+Thank you.
+ALSO: By "meaningless," I mean "meaningless" to the person who is doing the dying.
+To the person who is alive and who will then die, life is meaningless.
+
+CMV.
+Assuming <premise type="logos_pathos" id="0" rel="support" ref="1">there is no afterlife</premise>, <claim type="evaluation_emotional" id="1">life is ultimately meaningless and pointless</claim> because <premise type="logos_pathos" id="2" rel="support" ref="1">we die</premise>.
+<claim type="interpretation" id="3">Death is the great eraser</claim>.
+<premise type="logos" id="4" rel="support" ref="3">Living life is as irrational as reading a book that, after finished, is immediately erased from your memory</premise>.
+<premise type="logos" id="5" rel="support" ref="3">It is comparable to that, too</premise>.
+
+<claim type="interpretation" id="6">It makes no difference if I, a 23 year old, die now or live until I am 100 and die</claim>.
+<premise type="logos_pathos" id="7" rel="support" ref="6">Either way, after my brief spark of existence I become nothingness</premise>.
+<premise type="logos_pathos" id="8" rel="support" ref="6">Not only do I remember nothing; I AM nothing</premise>.
+<premise type="logos_pathos" id="9" rel="support" ref="6">To me, it is as if my life had never happened</premise>.
+
+I'll put it another way.
+<premise type="logos" id="10" rel="support" ref="6">Imagine the time before you were born</premise>.
+Have you remembered it yet?
+<premise type="logos" id="11" rel="support" ref="6">Of course not</premise>.
+<premise type="pathos" id="12" rel="support" ref="6">You didn't exist</premise>.
+<premise type="logos_pathos" id="13" rel="support" ref="6">This is the state that we return to after death--a state of nothingness similar to the state we were in before birth</premise>.
+<premise type="logos_pathos" id="14" rel="support" ref="6">When I die, I return to this state after a brief period of consciousness</premise>, and <premise type="logos_pathos" id="15" rel="support" ref="6">I return to it permanently</premise>. <premise type="logos_pathos" id="16">I might as well have never lived</premise>.
+
+To anticipate a few responses:
+
+(1) <claim type="interpretation" id="17">Helping others doesn't matter</claim>.
+<premise type="logos" id="18" rel="support" ref="17">They will die too</premise>.
+<premise type="logos" id="19" rel="support" ref="17">And then their descendants will die, on and on and on</premise>, until <premise type="logos" id="20">eventually the universe is destroyed or our galaxy collapses in an inevitable heat-death</premise>.
+<premise type="logos" id="21" rel="support" ref="17">Even if 1,000,000 people were helped by me</premise>, <premise type="logos" id="22" rel="support" ref="17">assuming they all die</premise>, <claim type="disagreement" id="23">then my life is still pointless and meaningless</claim>.
+<premise type="logos_pathos" id="24" rel="support" ref="23">For I will be dead and won't know what I did</premise>, and <premise type="logos_pathos" id="25" rel="support" ref="23">once they die, they won't know either</premise>.
+
+<claim type="interpretation" id="26">(2) Attaining fame doesn't matter and doesn't truly make me "immortal."</claim> 
+<premise type="pathos" id="27" rel="support" ref="26">I'll be dead, and again, death is nothingness</premise>.
+<premise type="logos_pathos" id="28" rel="support" ref="26">Thus, I won't be around to enjoy my fame</premise>.
+
+(3) <claim type="evaluation_emotional" id="29">Enjoying the moment is possible</claim>, but <claim type="evaluation_emotional" id="30">doesn't make life have a point</claim>.
+For <premise type="logos_pathos" id="31" rel="support" ref="30">once I die, all memories and all point is gone</premise>.
+
+Please change my view from this depressing sentiment.
+
+</OP>
+<reply id="cnfq27u" author="Bodoblock">
+
+<claim type="interpretation" id="32" rel="rebuttal_attack" ref="title_1">You make your own purpose in life</claim>.
+<claim type="interpretation" id="33" rel="rebuttal_attack" ref="title_1">The only way your life lacks meaning is if you give it none to begin with</claim>.
+I would question why you feel that an action's effects have to be felt in perpetuity and never cease in order to be considered "meaningful" to oneself?
+
+</reply>
+<reply id="cng4szs" author="mybromarcusaurelius">
+
+Because <claim type="evaluation_rational" id="34">once you die, it is as if none of it ever happened</claim>.
+None of it.
+
+<claim type="interpretation" id="35">So to YOU, there is, then, no meaning</claim>.
+
+</reply>
+</thread>
+<!-- changed line 44: from logos_pathos premise to evaluation claim
+	 changed line 59: from premise to evaluation claim despite "Because"
+	 changed line 60: removed premise label
+	 changed line 62: claim type from agreeemtn to interpretation
+!-->
+

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<thread ID="2rc3p3">
+<title type="interpretation" id="title">CMV:Patriotism is the belief that being born on one side of a line makes you better.</title>
+<source>http://www.reddit.com/r/changemyview/comments/2rc3p3/cmvpatriotism_is_the_belief_that_being_born_on/</source>
+<OP author="sniperman357">
+
+<claim type="interpretation" id="0" rel="agreement" ref="title">American patriots have a general mentality against immigration.</claim>
+<premise type="logos_pathos" id="1" rel="support" rid="a" ref="0">Saying these people shouldn&#8217;t be allowed to become part of the country, is the same as saying they are worse,</premise> <premise type="logos_pathos" id="2" rel="support" rid="a" ref="0">because they were born on a different side of a line</premise>, and <premise type="logos_pathos" id="3" rel="support" rid="a" ref="0">americans are better because of the side of the line they are born on</premise>.
+<premise type="logos" id="4" rel="support" ref="0">This is prominent in many ads and political champagnes, namely the slogan &#8220;Creating jobs for americans&#8221;.</premise>
+<claim type="evaluation_rational" id="6" rel="agreement" ref="title">I understand why politics use this slogan</claim>, <premise type="logos" id="7" rel="support" ref="6">because they are trying to get americans to vote for them</premise>, but <premise type="logos" id="8" rel="support" rid="b" ref="6">this slogan is also prominent in ads made by private corporations</premise>.
+<premise type="logos_pathos" id="9" rel="support" rid="b" ref="6">As if creating jobs for americans is morally superior to creating jobs for people of other countries.</premise>
+<premise type="logos" id="10" rel="support" rid="c" ref="6">The companies launching these ads may be trying to win in the american market, so they can sell more of their product,</premise> but <premise type="logos" id="11" rel="support" rid="c" ref="6">the fact that this can increase sales shows that many americans hold the being born on one side of a line belief</premise>.
+<claim type="interpretation" id="12" rel="agreement" ref="6">I am not blaming the politicians or corporations running ads running these slogans</claim>, <premise type="logos" id="13" rel="support" ref="12">they are merely trying to win votes or make money from this mentality</premise>, but <claim type="interpretation" id="14" rel="agreement" ref="12">really it is the citizens that have the belief that they are better, because of the side of a line they are born on, that are at fault</claim>.
+<claim type="interpretation" id="15" rel="agreement" ref="14">Patriotism is really just this belief.</claim>
+
+</OP>
+<reply id="cnemor5" author="debatingaccount">
+
+<premise type="logos" id="14" rel="support" ref="15">I would define patriotism quite simply as supporting one's country, but not *necessarily* disparaging others.</premise>
+<claim type="interpretation" id="15">Therefore I would say that the antithesis of patriotism is not having a global perspective, but is in fact selfishness</claim>.
+<premise type="logos_pathos" id="16" rel="support" ref="15" >Someone who attempts to extract gain for themselves at harm to their overall country is acting unpatriotically</premise>, <premise type="logos_pathos" id="17" rel="support" ref="15">someone who assists another country that is in worse shape instead of assisting their own can still be a patriot, but also recognize significant need in other nations and decide to assist them as well</premise>.
+<claim type="interpretation" id="18">Whether you support immigration or not, so long as you are supporting what you believe is best for your nation, you are still acting patriotically</claim>, and <claim type="interpretation" id="19">even if you decide to support another nation you can still be acting patriotically as well so long as you support your nation too</claim>.
+
+</reply>
+<reply id="cneqxqg" author="sniperman357">
+
+<claim type="agreement" id="20" rel="partial_agreement" ref="18_19">This is true</claim>, but, <claim type="evaluation_emotional" id="21" rel="partial_agreement" ref="18_19">I think, supporting the common good is also more important than supporting your country</claim>.
+
+</reply>
+<reply id="cney5lx" author="debatingaccount">
+
+<claim type="agreement" id="25" rel="partia_attack" ref="21">Yes</claim>, but <claim type="evaluation_emotional" id="26" rel="partial_attack" ref="21">the two are often one the same</claim>, <premise type="logos_pathos" id="27" rel="support" ref="26">especially when you live in a country as large as the U.S. most acts which serve the common good generally support your country</premise>.
+
+</reply>
+</thread>
+
+<!-- 
+	line 8 original:
+	<claim type="interpretation" id="1">Saying these people shouldn&#8217;t be allowed to become part of the country, is the same as saying they are worse,</claim> <premise type="logos_pathos" id="2" rel="support" ref="0">because they were born on a different side of a line</premise>, and <premise type="logos_pathos" id="3" rel="support" ref="0">americans are better because of the side of the line they are born on</premise>. 
+	line 11 premise (or nothing) -> claim because clear point of view
+	line 10, 11, 12: all three concessions
+	line 19 claim -> premise because the first sentence substantiates the second sentence
+	line 20 premise -> claim because of 'therefore' and clearer point of view than the preceding sentence that serves as premise
+	line 21 after 'but' remove premise because claim extends to the selfishness part
+	line 22, id 18, 19: both premise -> claim
+
+	Q: like 93 negative, it seems like the commenter gives a sound argument, though we have no way of knowing how OP responds to the last comment. Is delta not given for sure?
+-->
