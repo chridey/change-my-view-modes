@@ -29,7 +29,7 @@ Moreover, <premise type="pathos" id="12">this practice would be much easier to "
 </OP>
 <reply id="cnet8f7" author="lnfinity">
 
-<claim type="evaluation_emotional" id="14">I take some issue with assumption #1.</claim>
+<claim type="evaluation_rational" id="14">I take some issue with assumption #1.</claim>
 <premise type="logos_pathos" id="15">Dramatic societal changes have happened multiple times throughout history.</premise>
 <premise type="logos_pathos" id="16">They are gradual and at times may seem impossible to many</premise>, but <premise type="logos_pathos" id="17">they do happen</premise>.
 
