@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<thread ID="2qc1rl">
+<title>CMV: Most democracies are far too tolerant of extremism, especially the likes of neo-fascism, neo-nazism, radical Islamism and violent intolerance. The world has been to soft on these ideologies and they need to be eliminated whenever they appear.</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qc1rl/cmv_most_democracies_are_far_too_tolerant_of/</source>
+<OP author="amerifats_clap">
+
+<claim type="evaluation_rational" id="0" rel="agreement" ref="title">I think some of the biggest threats to global stability comes from the political fringes.</claim>
+<premise type="logos" id="1" rel="support" ref="0">It's either the extreme left, or the extreme right.</premise>
+<premise type="pathos" id="2" rel="support" ref="0">Radicalism almost always leads to violence, and is a plague on democratic society and governments.</premise>
+<premise type="logos" id="3" rel="support" ref="4">Since communism has been relegated to just a handful of countries</premise>, <claim type="evaluation_rational" id="4" rel="agreement" ref="title">the far-left has for the most part been dealt with</claim>.
+<claim type="evaluation_emotional" id="5" rel="agreement" ref="title">However the far-right continues to be a menace.</claim>
+
+<claim type="evaluation_emotional" id="6" rel="agreement" ref="title">I believe fascist neo-nazi groups, the KKK, the golden dawn or any religious extremist group like radical Islamism all fall under the far-right.</claim>
+<claim type="evaluation_emotional" id="7" rel="agreement" ref="title">These groups are always extreme fringes</claim>, and <claim type="evaluation_emotional" id="8" rel="agreement" ref="title">a handful of people make the world a much nastier place</claim>.
+
+<premise type="pathos" id="9" rel="support" ref="6">Often it is the leaders of such movements that prey on the weak-willed, using them as pawns in their ambitions of power.</premise>
+
+<premise type="logos_pathos" id="10" rel="support" ref="11">Unfortunately with the world's obsession with free speech and personal liberty</premise>, <claim type="evaluation_rational" id="11" rel="agreement" ref="title">such leaders are given a free hand</claim>.
+On websites like twitter and facebook we see ISIS recruit blind followers.
+<premise type="logos" id="12" rel="support" ref="11">Wouldn't restricting "free speech" put brakes on this sort of recruitment ?</premise>
+
+<premise type="logos" id="13" rel="support" ref="11">Political parties in democracies often try to keep these groups on a leash</premise>, but <premise type="logos" id="14" rel="support" ref="11">do not wish to eliminate them since they serve definite political goals like polarizing the electorate</premise>.
+<claim type="interpretation" id="15" rel="agreement" ref="title">I see this as a major flaw in democracy.</claim>
+<premise type="logos_pathos" id="16" rel="support" ref="15">Fear of losing votes from radical sympathizers leads to political groups appeasing extremism.</premise>
+
+Instead, <claim type="evaluation_emotional" id="17" rel="agreement" ref="title">I think governments should do much more and try to completely stamp out any signs of fascism</claim>.
+<premise type="pathos" id="18" rel="support" ref="19">After the horrors of World War 2</premise> <claim type="evaluation_emotional" id="19" rel="agreement" ref="title">I find it completely absurd that we still put up with their ideologies</claim>.
+
+<claim type="evaluation_emotional" id="20" rel="agreement">Bringing socio-economic growth to communities that feel disenfranchised just isn't enough</claim>, and <premise type="logos_pathos" id="21" rel="support" ref="20">their will always be a few bad apples</premise>.
+<claim type="evaluation_emotional" id="22" rel="agreement" ref="title">These bad apples need to be weeded out</claim>.
+<premise type="pathos" id="23" rel="support" ref="22">Instead, we allow them to spread their rot, and infect society.</premise>
+
+</OP>
+<reply id="cn4r83o" author="AgnosticKierkegaard">
+
+As other's said, who gets to decide what these bad ideologies are.
+Here's a substitution using your syntax, but modified details.
+
+ &gt; Zero tolerance, whatever it takes.
+<claim type="evaluation_emotional" id="24" rel="undercutter" ref="22">Schools should educate children on the dangers of jewish zionism</claim> and <claim type="evaluation_emotional" id="25" rel="undercutter" ref="title">their poison should be kept out of the minds of children</claim>.
+<premise type="pathos" id="26" rel="support" ref="24">Young impressionable minds are the easiest targets for zionist indoctrination.</premise>
+In a highly connected online era, <premise type="pathos" id="27" rel="support" ref="25">it has become far too easy to recruit people into the zionist movement</premise>.
+<premise type="logos" id="28" rel="support" ref="25">When facebook and twitter is used to recruit zionist supporters and other jewish terrorists online en masse, there is a problem.</premise>
+<claim type="evaluation_emotional" id="29" rel="agreement" ref="24">The German majority needs to grow a spine and say enough is enough.</claim>
+
+Now, <claim type="evaluation_rational" id="30" rel="agreement" ref="29">this is obviously extreme</claim>, but <claim type="evaluation_rational" id="31" rel="undercutter" ref="22">you see how such an extreme zero tolerance policy can be dangerous in its inflexibility and its arbitrariness</claim>.
+
+</reply>
+<reply id="cn4rg6j" author="amerifats_clap">
+
+<claim type="interpretation" id="32" rel="rebuttal" ref="30">The thing is though, what is considered a political fringe isn't really all that subjective.</claim>
+
+<premise type="logos" id="33" rel="support" ref="32">Most reasonable people think groups like the KKK, the Golden Dawn, Nazis, Militant anarchist terrorists, ISIS, Al-Qaeda and any other neo-fascist group are dangerous.</premise>
+
+</reply>
+<reply id="cn4rijs" author="AgnosticKierkegaard">
+
+&gt; Most reasonable people think groups like the KKK, the Golden Dawn, Nazis, Militant anarchist terrorists, ISIS, Al-Qaeda and any other neo-fascist group are dangerous.
+
+<claim type="agreement" id="34" rel="partial agreement" ref="32">I don't disagree</claim>, but <premise type="pathos" id="35" rel="support" rid="a" ref="34">on principle who gets to define what being a reasonable person is</premise>?
+<premise type="logos" id="36" rel="support" rid="a" ref="34">Stalin thought non-stalinists were dangerous</premise>, and <premise type="logos" id="37" rel="support" rid="a" ref="34">probably a lot of Russians did too who most would consider reasonable</premise>.
+<premise type="pathos" id="38" rel="support" rid="a" ref="34">Remember reasonable people actually voted Hitler into office</premise>.
+
+</reply>
+<reply id="cn4rmg7" author="amerifats_clap">
+
+<claim type="evaluation_rational" id="39" rel="undercutter" ref="34">Well we have the benefit of history.</claim>
+<premise type="logos" id="40" rel="support" ref="39">The moderate majority of the world gets to decide the demarcations for the narrow political band around the center.</premise>
+
+<claim type="evaluation_rational" id="41" rel="rebuttal" ref="34">In a stable democracy this isn't too hard to figure out.</claim> <premise type="logos" id="42" rel="support" ref="41">Pre-WW2 germany or Stalinist Russia weren't all that stable.</premise>
+
+</reply>
+<reply id="cn4rr0u" author="AgnosticKierkegaard">
+ &gt; Well we have the benefit of history.
+
+<claim type="agreement" id="43" rel="agreement" ref="39">So did they.</claim>
+<premise type="pathos" id="44" rel="support" rid="b" ref="43">Tyrants and tyranny are as old as politics themselves.</premise>
+<premise type="logos_pathos" id="45" rel="support" rid="b" ref="43">Ever heard of the Reign of Terror?</premise>
+
+&gt; The moderate majority of the world gets to decide the demarcations for the narrow political band around the center.
+
+And <premise type="logos_pathos" id="46" rel="undercutter" ref="40">who gets to decide what being a moderate was</premise>, and <premise type="logos_pathos" id="47" rel="undercutter" ref="40">why is it tied to what the majority wants</premise>?
+<premise type="logos_pathos" id="48" rel="undercutter" ref="40">Todays moderates are tomorrows conservatives</premise>, and <premise type="logos_pathos" id="49" rel="undercutter" ref="40">throughout history the majority has been okay with a lot of terrible shit</premise>.
+
+ &gt; In a stable democracy this isn't too hard to figure out.
+
+<claim type="evaluation_rational" id="50" rel="undercutter" ref="41">Is a democracy really that stable if it needs to censor radical ideas to stop nastiness from happening?</claim>
+<premise type="logos" id="51" rel="support" ref="50">It seems a need for censorship implies a certain degree of exposure to these ideas.</premise>
+Also, <premise type="logos_pathos" id="52" rel="undercutter" ref="41">stable democracies have elected terrible people too who have done terrible things</premise>.
+<premise type="logos_pathos" id="53" rel="undercutter" ref="41">100 years of reasonable people who likely were considered moderates lead a persecution of Indians from the Trial of Tears to Wounded Knee.</premise>
+
+</reply>
+<reply id="cn4s468" author="amerifats_clap">
+
+But <claim type="interpretation" id="54" rel="rebuttal" ref="50">hasn't most of the world moved past the age of tyrannical rulers</claim> ?
+<premise type="logos" id="55" rel="support" rid="c" ref="54">Genocide is something most of the world has moved past</premise>, and <premise type="logos" id="56" rel="support" rid="c" ref="54">only a few extremist individuals try to advocate it</premise>.
+
+<claim type="agreement" id="57" rel="agreement" ref="48">I do agree that today's moderates are potentially tomorrow's conservatives</claim>.
+<premise type="logos" id="58" rel="rebuttal" rid="d" ref="48">However this isn't about being just a bit conservative.</premise>
+<premise type="pathos" id="59" rel="undercutter" rid="d" ref="48">It's about people that advocate death and destruction - terrorism, genocide, ethnic cleansing and murder.</premise>
+
+<claim type="evaluation_rational" id="60" rel="rebuttal" ref="48">Conservatives don't do this, it's extremists.</claim>
+
+&gt; Is a democracy really that stable if it needs to censor radical ideas to stop nastiness from happening? 
+
+<claim type="interpretation" id="61" rel="undercutter" ref="50">There will always be evil people that bring misery to the world.</claim>
+Why is it wrong to try and stop them ?
+
+</reply>
+<reply id="cn4sadr" author="AgnosticKierkegaard">
+&gt; But hasn't most of the world moved past the age of tyrannical rulers ? Genocide is something most of the world has moved past, and only a few extremist individuals try to advocate it.
+
+<premise type="logos" id="62" rel="undercutter" rid="e" ref="54">People thought the exact same thing before WWI.</premise>
+<premise type="pathos" id="63" rel="undercutter" rid="e" ref="54">They thought they were too civilized for what would happen in the next 50 years.</premise>
+And <claim type="interpretation" id="64" rel="rebuttal" ref="54">I challenge the assertion we have moved past it considering what's happening in the middle east</claim>.
+Hell, <premise type="pathos" id="65" rel="support" ref="64">Rwanda wasn't that long ago either</premise>.
+And <claim type="evaluation_emotional" id="66" rel="agreement" ref="64">even beyond tyranny the west seems complicit in a global order that directly leads to many deaths of the worlds poor each day that they could have prevented</claim>.
+
+&gt; I do agree that today's moderates are potentially tomorrow's conservatives. However this isn't about being just a bit conservative. It's about people that advocate death and destruction - terrorism, genocide, ethnic cleansing and murder.
+
+<premise type="pathos" id="67" rel="undercutter" ref="57,58">One person's terrorist is another person's freedom fighter.</premise>
+<premise type="logos_pathos" id="68" rel="undercutter" ref="57,58">One's person's genocide is another person's defense of their culture.</premise>
+<premise type="logos_pathos" id="69" rel="undercutter" ref="57,58">One person's murderer is a other's soldier.</premise>
+Now, <claim type="evaluation_rational" id="70" rel="partial agreement" ref="67,68,69">I don't think all these comparisons are true</claim>, but <claim type="evaluation_rational" id="71" rel="partial agreement" ref="67,68,69">they certainly aren't hard to make</claim>.
+<claim type="interpretation" id="72" rel="agreement" ref="71">And they certainly have been made throughout history.</claim>
+
+ &gt; Conservatives don't do this, it's extremists.
+
+<claim type="agreement" id="72a" rel="agreement" ref="60">Exactly</claim>, <claim type="interpretation" id="73" rel="agreement" ref="60">my point there wasn't that conservatives are terrible, but that what is considered moderate and okay changes</claim>.
+<claim type="evaluation_rational" id="74" rel="agreement" ref="73">It isn't some objective fact about people.</claim>
+<premise type="logos" id="75" rel="support" rid="f" ref="74">J. S. Mill would have been considered an extreme feminist back when he wrote</premise>, but <premise type="logos" id="76" rel="support" rid="f" ref="74">today he's very much in the center of mainline liberal thought</premise>.
+<claim type="evaluation_rational" id="77" rel="agreement" ref="73">The point is what people consider moderate and reasonable isn't set in stone</claim>, and <claim type="evaluation_rational" id="78" rel="undercutter" ref="title">to adopt a zero tolerance policy cuts too deeply and may cut in the wrong direction</claim> (<premise type="logos" id="79" rel="support" ref="78">either failing to get bad people or getting good people</premise>)
+
+</reply>
+<reply id="cn4sjum" author="amerifats_clap">
+
+<claim type="agreement" id="80" rel="agreement" ref="62">Your first paragraph is intriguing</claim>, and <claim type="agreement" id="81" rel="agreement" ref="62">I definitely agree with it</claim>.
+<claim type="evaluation_rational" id="82" rel="agreement" ref="67">The freedom fighter/terrorist comparison is also an interesting perspective.</claim>
+<claim type="agreement" id="83" rel="partial agreement" ref="78">Although I do think more needs to be done to combat extremism, I see where you're coming from on this.</claim>
+
+&#8710;
+
+</reply>
+</thread>

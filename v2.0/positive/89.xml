@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<thread ID="2qe6up">
+<title>CMV: The global dominance of the abrahamic faiths is largely an accident of geography</title>
+<source>http://www.reddit.com/r/changemyview/comments/2qe6up/cmv_the_global_dominance_of_the_abrahamic_faiths/</source>
+<OP author="Helicase21">
+
+I was at a christmas eve service last night (<premise type="ethos" id="0" rel="agreement" ref="3">I'm Unitarian Universalist</premise>) and one of the hymns the choir did there, describing the birth of Jesus had it occurred in a Huron (Native American) community got me to thinking:
+
+A) <premise type="logos" id="1" rel="support" ref="3">Had a group of religions identical in all respects to Judaism, Christianity, and Islam developed in pretty much any area other than the middle east, they would be no more successful than any of the other relatively minor faiths out there today, depending on what the location in question actually was</premise>
+
+B) <premise type="logos" id="2" rel="support" ref="4">Whatever other religion had ended up developing in the middle east would likely now be globally dominant</premise>
+
+I am not a trained historian, but <claim type="interpretation" id="3" rel="agreement" ref="4">it seems that the core of the success of the Abrahamic religions is dependent largely on the middle east's nature as both a major trade hub between Africa, Europe, and the rest of Asia</claim>, <claim type="interpretation" id="4" rel="agreement" ref="title">and on the fertile crescent's comparatively ancient status as a settled region</claim>.
+
+Edit: I'd like to add that <premise type="ethos" id="5" rel="support" ref="4">a large part of this view came from something a history teacher told me 6 years ago: "Geography Determines Destiny", and that quote has stuck with me</premise>.
+
+Edit the second: though I won't say my view has been reversed or anything, it has definitely been broadened.
+Thanks all!
+
+</OP>
+<reply id="cn5aptj" author="GnosticGnome">
+
+<premise type="logos" id="6" rel="support" ref="8">Christianity was primarily spread by the Roman empire</premise>.
+<premise type="logos" id="7" rel="support" ref="8">But Rome already had a state religion before it adopted Christianity</premise>.
+<claim type="interpretation" id="8" rel="undercutter" ref="4">So the victory of Christianity over the Roman version of Hellenism can't be attributed to geography alone</claim>.
+
+<premise type="logos" id="9" rel="support" ref="10">Likewise, Islam was hardly the first religion that Arabia had seen</premise>.
+<claim type="interpretation" id="10" rel="undercutter" ref="4">Its dominance there was not mere geography</claim>.
+
+</reply>
+<reply id="cn5atl7" author="Helicase21">
+
+<claim type="evaluation_rational" id="11" rel="partial agreement" ref="8">I'm definitely intrigued by this, but not quite convinced enough to delta</claim>
+. <claim type="evaluation_rational" id="12" rel="partial agreement" ref="8">I might be able to go to "The religion eventually adopted by the Roman empire had a very good chance of becoming globally dominant"</claim>, but <claim type="interpretation" id="13" rel="partial agreement" ref="8">I think that's still largely an accident of geography</claim>, and <claim type="evaluation_rational" id="14" rel="undercutter" ref="8">your post definitely didn't address my point A) about a hypothetical identical religion in a different location</claim>.
+
+Do you have any thoughts on, if not geography, why the abrahamic religions have become so widespread while other religions have not?
+
+</reply>
+<reply id="cn5bcc3" author="GnosticGnome">
+
+<claim type="interpretation" id="15" rel="agreement" ref="13">Geography certainly has to be part of it</claim>.
+<premise type="logos" id="16" rel="support" ref="15">If Islam had arisen amongst the Moriori instead of in Arabia, I suspect we'd have a largely Christian world</premise>.
+<premise type="logos_pathos" id="17" rel="support" ref="15">I can't imagine missionaries travelling out of New Zealand having the same impact that the Arab armies did</premise>.
+
+But <claim type="interpretation" id="18" rel="undercutter" ref="13">you can't blame geography for which religion became pre-eminent in Rome</claim>.
+You are going to have to look at a few other factors:
+
+1.
+<claim type="interpretation" id="19" rel="undercutter" ref="title">The emphasis on belief rather than practice</claim>.
+<premise type="logos" id="20" rel="support" rid="2" ref="19"> For most religions, it matters what you do</premise>.
+<premise type="logos" id="21" rel="support" rid="2" ref="19">When pagan Vikings met Christians, they knew the Christian warriors would end up in Valhalla or somewhere Christianly equivalent</premise>.
+<premise type="logos_pathos" id="22" rel="support" rid="2" ref="19">Why would Thor reject a valiant warrior just because he didn't worship him?</premise>
+So that sort of gives Christianity a long term advantage: you can do what the encountered religion considers "good" but demand small concessions on belief.
+<premise type="logos" id="23" rel="support" rid="1" ref="19">It seems like a compromise but the eventual outcome is that the belief wins and the practices may or may not stick</premise>.
+<premise type="logos" id="24" rel="support" rid="1" ref="19">You might be a Christian that acts like a Roman, but the word is Christian and the idols eventually disappear while the Bible sticks around</premise>.
+<premise type="logos" id="25" rel="support" rid="3" ref="19">Note that this is to a large extent what happened with the Native Americans</premise>.
+<premise type="logos" id="26" rel="support" rid="3" ref="19">It's not just that the Christians defeated the tribes militarily (though that happened sometimes)</premise>.
+<premise type="logos" id="27" rel="support" rid="3" ref="19">It's more that the Christians would come to the tribes, adopt their ways, offer them good things like education, and all they'd want is a little Bible reading</premise>.
+<premise type="logos" id="28" rel="support" rid="3" ref="19">Well the native faiths don't think reading the Bible is against their religion - they didn't emphasize belief the way Christians and Muslims do</premise>.
+which brings us to 2:
+
+2. <claim type="interpretation" id="29" rel="undercutter" ref="title">Education</claim>.
+<premise type="logos" id="30" rel="support" rid="4" ref="29">To a large extent, Judaism/Christianity/Islam were religions that demanded literacy</premise>.
+<premise type="logos" id="31" rel="support" rid="4" ref="29">This meant the teachers were also religious teachers</premise>.
+<premise type="logos" id="32" rel="support" rid="5" ref="29">Compare this to China, where literacy wasn't tied to religion</premise>.
+<premise type="logos" id="33" rel="support" rid="5" ref="29">There may have been better literacy in China, but the smartest people (or most avid readers anyway) weren't necessarily going into religion</premise>.
+
+3.
+<claim type="interpretation" id="34" rel="undercutter" ref="title">A whole lot of history is actually just individuals doing idiosyncratic things</claim>.
+<claim type="interpretation" id="35" rel="undercutter" ref="title">The right person in the right place at the right time</claim>.
+
+4. <claim type="interpretation" id="36">Universalism</claim>.
+<premise type="logos" id="37" rel="support" rid="6" ref="36">Christianity was one of a very small number of religions that claim a duty to proselytize and convert everyone</premise>.
+<premise type="logos" id="38" rel="support" rid="6" ref="36">Most religions, confronted with a different religion, just say "this is true here and that's true there" or "those are some deities we hadn't known about" or at worst "those are some deities that are not ours"</premise>.
+But <premise type="logos" id="39" rel="support" rid="6" ref="36">Christianity really goes for the "this is true for everyone for always, and we should actively work to spread it"</premise>.
+<premise type="logos_pathos" id="40" rel="support" rid="7" ref="36">If Alexander the Great had that kind of religious zealotry, he could have spread Hellenism much more than he did</premise>.
+But <premise type="logos_pathos" id="41" rel="support" rid="7" ref="36">he was satisfied with just adding himself to whatever pantheon the locals worshipped</premise>.
+
+</reply>
+<reply id="cn5bo3j" author="Helicase21">
+
+<claim type="evaluation_rational" id="42" rel="agreement" ref="18">Well, you have successfully moved me from "it's probably about 80% geography" to "it's probably 40-60% geography"</claim>. <claim type="evaluation_rational" id="43">I think that's enough for a &#8710;, so have one</claim>.
+(edit: is that enough text for deltabot?
+i can expand if necessary)
+
+</reply>
+</thread>
