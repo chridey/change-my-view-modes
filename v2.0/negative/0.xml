@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rppq9">
-<title>CMV: Religion is not violent or not violent, its followers are.</title>
+<title><claim type="interpretation"> CMV: Religion is not violent or not violent, its followers are.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rppq9/cmv_religion_is_not_violent_or_not_violent_its/ </source>
 <OP author="DurianMD">
 
@@ -42,7 +42,6 @@ So, <claim type="evaluation_rational" id="2" rel="agreement" ref="title">my beli
 It's an issue of rate, and at that point, I'd like to see stats. 
 <claim type="evaluation_rational" id="8b" rel="rebuttal" ref="8"> I'm not going to take an emotional appeal when considering whether or not a religion has dangerous components. </claim>
 
-<!-->What particular aspects do you find toxic?</!-->
 <claim type="disagreement" id="8c" rel="rebuttal" ref="8">What particular aspects do you find toxic? </claim>
 
 
@@ -66,3 +65,4 @@ Do you want quran quotes or something?
 
 </reply>
 </thread>
+<!-->What particular aspects do you find toxic?</!-->

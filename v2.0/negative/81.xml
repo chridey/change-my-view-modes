@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rd7mg">
-<title>CMV: America is a better place because of the 55 million abortions its had</title>
+<title><claim type="evaluation_emotional">CMV: America is a better place because of the 55 million abortions its had</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rd7mg/cmv_america_is_a_better_place_because_of_the_55/</source>
 <OP author="runescapethug">
 
@@ -30,8 +30,8 @@ Would we adapt to the population and make good use of each of them?)
 
 (Side thought: <claim type="interpretation" id="13" rel="support" ref="8">Perhaps the immigration of illegals is lowering the value of blue collar work and makes it harder for the borderline impoverished citizens to provide for their children</claim>.
 <claim type="interpretation" id="14" rel="support" ref="8">Its debatable how many women are having abortions due to financial reasons</claim>, but <premise type="logos_pathos" id="15">surely its a significant number</premise>, so <premise type="logos_pathos" id="16">how many of these women wouldn't be having financial troubles if there wasn't competition from cheap illegal labor to keep wages lower</premise>?
-<claim type="interpretation" id="17" "rel="support" ref="8">This holds true even if illegal immigration is an overall plus to the countries value</claim>.
-Conclusion: <claim type="evaluation_rational" id="18" "rel="support" ref="8">Mexicans are the supreme race, native Americans will go extinct through abortion and then out-breeding.</claim> *no that isn't a serious sentiment,
+<claim type="interpretation" id="17" rel="support" ref="8">This holds true even if illegal immigration is an overall plus to the countries value</claim>.
+Conclusion: <claim type="evaluation_rational" id="18" rel="support" ref="8">Mexicans are the supreme race, native Americans will go extinct through abortion and then out-breeding.</claim> *no that isn't a serious sentiment,
 i'm just saying, <claim type="evaluation_rational" id="19">this discussion is abstract enough to go into some weird places and that it is necessary to have a stopping point*</claim> )
 
 Then there is the next question.
@@ -64,7 +64,7 @@ I feel I could learn a lot here.
 
 &gt; Something in the ballpark of 45% of women who have abortions have more than one abortion. These people would have been raised by their incompetent parents to drain down society, increase crime rates, suck up resources, and generally screw things up.
 What are you talking about?
-<claim type="evaluation_rational" id="27" rel="rebuttal_attack" ref="1,2">Do you really think abortions are only had by incompetent people who couldn't be good parents?</claim>
+<claim type="evaluation_rational" id="27" rel="rebuttal_attack" ref="1_2">Do you really think abortions are only had by incompetent people who couldn't be good parents?</claim>
 <claim type="interpretation" id="28">This appears to be a belief that has led you to conclude that America must be better off</claim> but <claim type="interpretation" id="29" rel="undercutter_attack" ref="2">you are really misinformed about the type of women who obtain abortions.</claim>
 
 </reply>

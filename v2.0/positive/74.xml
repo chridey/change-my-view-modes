@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qqa7z">
-<title>CMV: Swimming is the best form of exercise</title>
+<title><claim type="evaluation_rational">CMV: Swimming is the best form of exercise</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qqa7z/cmv_swimming_is_the_best_form_of_exercise/</source>
 <OP author="Helicase21">
 
@@ -30,7 +30,7 @@ Edit 2: view changed, because <claim type="agreement" id="7" rel="disagreement" 
 <premise type="logos_pathos" id="13" rel="support" ref="13">Do you want to increase your physical strength?</premise>
 <claim type="evaluation_rational" id="14" rel="agreement" ref="8">Weights</claim>.
 <premise type="logos_pathos" id="15" rel="support" ref="17">Best in terms of time investment?</premise>
-<!--> <premise type="logos_pathos" id="16">?</premise> </!--> <claim type="evaluation_rational" id="17" rel="agreement" ref="8">Weights</claim>.
+<claim type="evaluation_rational" id="17" rel="agreement" ref="8">Weights</claim>.
 <premise type="logos_pathos" id="18" rel="support" ref="19">Best in terms of monetary investment?</premise>
 <claim type="evaluation_rational" id="19" rel="agreement" ref="8">Walking</claim>.
 <claim type="interpretation" id="20" rel="agreement" ref="8">People have different goals</claim>, <premise type="logos" id="21" rel="support" ref="20">some thing running a marathon is the pinnacle of fitness</premise>, <premise type="logos" id="22" rel="support" ref="20">others think 5 plate deads are a better example of fitness</premise>, and <premise type="logos" id="23" rel="support" ref="20">others think aesthetics is all that matter</premise>.
@@ -71,3 +71,4 @@ thank you, you've &#8710;'d my view by pointing out that <claim type="agreement"
 
 </reply>
 </thread>
+<!--> <premise type="logos_pathos" id="16">?</premise> </!--> <claim type="evaluation_rational" id="17" rel="agreement" ref="8">Weights</claim>.

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qe6up">
-<title>CMV: The global dominance of the abrahamic faiths is largely an accident of geography</title>
+<title><claim type="interpretation">CMV: The global dominance of the abrahamic faiths is largely an accident of geography</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qe6up/cmv_the_global_dominance_of_the_abrahamic_faiths/</source>
 <OP author="Helicase21">
 
@@ -30,8 +30,8 @@ Thanks all!
 </reply>
 <reply id="cn5atl7" author="Helicase21">
 
-<claim type="evaluation_rational" id="11" rel="partial agreement" ref="8">I'm definitely intrigued by this, but not quite convinced enough to delta</claim>
-. <claim type="evaluation_rational" id="12" rel="partial agreement" ref="8">I might be able to go to "The religion eventually adopted by the Roman empire had a very good chance of becoming globally dominant"</claim>, but <claim type="interpretation" id="13" rel="partial agreement" ref="8">I think that's still largely an accident of geography</claim>, and <claim type="evaluation_rational" id="14" rel="undercutter" ref="8">your post definitely didn't address my point A) about a hypothetical identical religion in a different location</claim>.
+<claim type="evaluation_rational" id="11" rel="partial_agreement" ref="8">I'm definitely intrigued by this, but not quite convinced enough to delta</claim>
+. <claim type="evaluation_rational" id="12" rel="partial_agreement" ref="8">I might be able to go to "The religion eventually adopted by the Roman empire had a very good chance of becoming globally dominant"</claim>, but <claim type="interpretation" id="13" rel="partial_agreement" ref="8">I think that's still largely an accident of geography</claim>, and <claim type="evaluation_rational" id="14" rel="undercutter" ref="8">your post definitely didn't address my point A) about a hypothetical identical religion in a different location</claim>.
 
 Do you have any thoughts on, if not geography, why the abrahamic religions have become so widespread while other religions have not?
 

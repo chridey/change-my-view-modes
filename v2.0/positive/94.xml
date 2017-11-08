@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qc1rl">
-<title>CMV: Most democracies are far too tolerant of extremism, especially the likes of neo-fascism, neo-nazism, radical Islamism and violent intolerance. The world has been to soft on these ideologies and they need to be eliminated whenever they appear.</title>
+<title><claim type="interpretation">CMV: Most democracies are far too tolerant of extremism, especially the likes of neo-fascism, neo-nazism, radical Islamism and violent intolerance.</claim><claim type="evaluation_rational"> The world has been to soft on these ideologies and they need to be eliminated whenever they appear.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qc1rl/cmv_most_democracies_are_far_too_tolerant_of/</source>
 <OP author="amerifats_clap">
 
@@ -26,7 +26,7 @@ On websites like twitter and facebook we see ISIS recruit blind followers.
 Instead, <claim type="evaluation_emotional" id="17" rel="agreement" ref="title">I think governments should do much more and try to completely stamp out any signs of fascism</claim>.
 <premise type="pathos" id="18" rel="support" ref="19">After the horrors of World War 2</premise> <claim type="evaluation_emotional" id="19" rel="agreement" ref="title">I find it completely absurd that we still put up with their ideologies</claim>.
 
-<claim type="evaluation_emotional" id="20" rel="agreement">Bringing socio-economic growth to communities that feel disenfranchised just isn't enough</claim>, and <premise type="logos_pathos" id="21" rel="support" ref="20">their will always be a few bad apples</premise>.
+<claim type="evaluation_emotional" id="20" rel="agreement" ref="title">Bringing socio-economic growth to communities that feel disenfranchised just isn't enough</claim>, and <premise type="logos_pathos" id="21" rel="support" ref="20">their will always be a few bad apples</premise>.
 <claim type="evaluation_emotional" id="22" rel="agreement" ref="title">These bad apples need to be weeded out</claim>.
 <premise type="pathos" id="23" rel="support" ref="22">Instead, we allow them to spread their rot, and infect society.</premise>
 
@@ -55,7 +55,7 @@ Instead, <claim type="evaluation_emotional" id="17" rel="agreement" ref="title">
 <reply id="cn5vfep" author="amerifats_clap">
 
 <claim type="agreement" id="37a" rel="agreement" ref="27">Good arguments</claim>.
-<claim type="interpretation" id="38" rel="partial agreement" ref="27">Although I may disagree somewhat, I see why censorship can be dangerous.</claim>
+<claim type="interpretation" id="38" rel="partial_agreement" ref="27">Although I may disagree somewhat, I see why censorship can be dangerous.</claim>
 One thing about censorship : <claim type="evaluation_emotional" id="39" rel="undercutter" ref="27">don't you think it's a problem that the likes of ISIS some neo-nazi groups actively recruit on twitter and facebook</claim> ? <claim type="evaluation_emotional" id="40" rel="agreement" ref="39">Should't this sort of thing be stopped ?</claim>
 
 &gt; There are many things we used to consider extreme that are now fundamental principles of our society

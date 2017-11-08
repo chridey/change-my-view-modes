@@ -1,13 +1,11 @@
 <?xml version="1.0"?>
 <thread ID="2rmwcd">
-<title>CMV: Freedom of speech is being taken too far</title>
+<title><claim type="evaluation_rational">CMV: Freedom of speech is being taken too far</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rmwcd/cmv_freedom_of_speech_is_being_taken_too_far/</source>
 <OP author="5skandas">
 
 In the last few weeks we've had two huge events happen in the world, both of which were caused by matters relating to "freedom of speech." The first being the hacking of Sony over The Interview, and today the shooting at the offices of a satirical magazine in Paris.
 <claim type="evaluation_emotional" id="0" rel="agreement" ref="title">I certainly value our free speech</claim> but to me <claim type="evaluation_emotional" id="1" rel="agreement" ref="title">there is a clear line between exercising your first amendment right (<premise type="logos" id="1z" rel="support" ref="1">"President Obama sucks!" etc</premise>) and doing things that are known to be offensive to other cultures</claim> (<premise type="logos_pathos" id="2" rel="support" ref="1">Satirical cartoons of prophets, assassinating leaders, etc</premise>).
-
-<!--><claim type="evaluation_rational" id="3">Perhaps this is a bad analogy</claim> - but <premise type="logos_pathos" id="4">if you say something antagonizing to a bully and you get your ass kicked, you should have anticipated that outcome.</premise></!-->
 
 <claim type="evaluation_rational" id="3" rel="agreement" ref="title"> Perhaps this is a bad analogy - but if you say something antagonizing to a bully and you get your ass kicked, you should have anticipated that outcome. </claim>
 
@@ -33,3 +31,4 @@ Is that so hard?
 
 </reply>
 </thread>
+<!--><claim type="evaluation_rational" id="3">Perhaps this is a bad analogy</claim> - but <premise type="logos_pathos" id="4">if you say something antagonizing to a bully and you get your ass kicked, you should have anticipated that outcome.</premise></!-->

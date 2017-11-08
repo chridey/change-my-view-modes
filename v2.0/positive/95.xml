@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qc1rl">
-<title>CMV: Most democracies are far too tolerant of extremism, especially the likes of neo-fascism, neo-nazism, radical Islamism and violent intolerance. The world has been to soft on these ideologies and they need to be eliminated whenever they appear.</title>
+<title><claim type="interpretation">CMV: Most democracies are far too tolerant of extremism, especially the likes of neo-fascism, neo-nazism, radical Islamism and violent intolerance.</claim><claim type="evaluation_rational"> The world has been to soft on these ideologies and they need to be eliminated whenever they appear.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qc1rl/cmv_most_democracies_are_far_too_tolerant_of/</source>
 <OP author="amerifats_clap">
 
@@ -26,7 +26,7 @@ On websites like twitter and facebook we see ISIS recruit blind followers.
 Instead, <claim type="evaluation_emotional" id="17" rel="agreement" ref="title">I think governments should do much more and try to completely stamp out any signs of fascism</claim>.
 <premise type="pathos" id="18" rel="support" ref="19">After the horrors of World War 2</premise> <claim type="evaluation_emotional" id="19" rel="agreement" ref="title">I find it completely absurd that we still put up with their ideologies</claim>.
 
-<claim type="evaluation_emotional" id="20" rel="agreement">Bringing socio-economic growth to communities that feel disenfranchised just isn't enough</claim>, and <premise type="logos_pathos" id="21" rel="support" ref="20">their will always be a few bad apples</premise>.
+<claim type="evaluation_emotional" id="20" rel="agreement" ref="title">Bringing socio-economic growth to communities that feel disenfranchised just isn't enough</claim>, and <premise type="logos_pathos" id="21" rel="support" ref="20">their will always be a few bad apples</premise>.
 <claim type="evaluation_emotional" id="22" rel="agreement" ref="title">These bad apples need to be weeded out</claim>.
 <premise type="pathos" id="23" rel="support" ref="22">Instead, we allow them to spread their rot, and infect society.</premise>
 
@@ -57,7 +57,7 @@ Now, <claim type="evaluation_rational" id="30" rel="agreement" ref="29">this is 
 
 &gt; Most reasonable people think groups like the KKK, the Golden Dawn, Nazis, Militant anarchist terrorists, ISIS, Al-Qaeda and any other neo-fascist group are dangerous.
 
-<claim type="agreement" id="34" rel="partial agreement" ref="32">I don't disagree</claim>, but <premise type="pathos" id="35" rel="support" rid="a" ref="34">on principle who gets to define what being a reasonable person is</premise>?
+<claim type="agreement" id="34" rel="partial_agreement" ref="32">I don't disagree</claim>, but <premise type="pathos" id="35" rel="support" rid="a" ref="34">on principle who gets to define what being a reasonable person is</premise>?
 <premise type="logos" id="36" rel="support" rid="a" ref="34">Stalin thought non-stalinists were dangerous</premise>, and <premise type="logos" id="37" rel="support" rid="a" ref="34">probably a lot of Russians did too who most would consider reasonable</premise>.
 <premise type="pathos" id="38" rel="support" rid="a" ref="34">Remember reasonable people actually voted Hitler into office</premise>.
 
@@ -118,10 +118,10 @@ And <claim type="evaluation_emotional" id="66" rel="agreement" ref="64">even bey
 
 &gt; I do agree that today's moderates are potentially tomorrow's conservatives. However this isn't about being just a bit conservative. It's about people that advocate death and destruction - terrorism, genocide, ethnic cleansing and murder.
 
-<premise type="pathos" id="67" rel="undercutter" ref="57,58">One person's terrorist is another person's freedom fighter.</premise>
-<premise type="logos_pathos" id="68" rel="undercutter" ref="57,58">One's person's genocide is another person's defense of their culture.</premise>
-<premise type="logos_pathos" id="69" rel="undercutter" ref="57,58">One person's murderer is a other's soldier.</premise>
-Now, <claim type="evaluation_rational" id="70" rel="partial agreement" ref="67,68,69">I don't think all these comparisons are true</claim>, but <claim type="evaluation_rational" id="71" rel="partial agreement" ref="67,68,69">they certainly aren't hard to make</claim>.
+<premise type="pathos" id="67" rel="undercutter" ref="57_58">One person's terrorist is another person's freedom fighter.</premise>
+<premise type="logos_pathos" id="68" rel="undercutter" ref="57_58">One's person's genocide is another person's defense of their culture.</premise>
+<premise type="logos_pathos" id="69" rel="undercutter" ref="57_58">One person's murderer is a other's soldier.</premise>
+Now, <claim type="evaluation_rational" id="70" rel="partial_agreement" ref="67_68_69">I don't think all these comparisons are true</claim>, but <claim type="evaluation_rational" id="71" rel="partial_agreement" ref="67_68_69">they certainly aren't hard to make</claim>.
 <claim type="interpretation" id="72" rel="agreement" ref="71">And they certainly have been made throughout history.</claim>
 
  &gt; Conservatives don't do this, it's extremists.
@@ -136,7 +136,7 @@ Now, <claim type="evaluation_rational" id="70" rel="partial agreement" ref="67,6
 
 <claim type="agreement" id="80" rel="agreement" ref="62">Your first paragraph is intriguing</claim>, and <claim type="agreement" id="81" rel="agreement" ref="62">I definitely agree with it</claim>.
 <claim type="evaluation_rational" id="82" rel="agreement" ref="67">The freedom fighter/terrorist comparison is also an interesting perspective.</claim>
-<claim type="agreement" id="83" rel="partial agreement" ref="78">Although I do think more needs to be done to combat extremism, I see where you're coming from on this.</claim>
+<claim type="agreement" id="83" rel="partial_agreement" ref="78">Although I do think more needs to be done to combat extremism, I see where you're coming from on this.</claim>
 
 &#8710;
 

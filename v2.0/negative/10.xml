@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rnr30">
-<title>CMV: I think the Paris shooting makes a good case for culture of responsible gun ownership any carrying.</title>
+<title><claim type="interpretation">CMV: I think the Paris shooting makes a good case for culture of responsible gun ownership any carrying.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rnr30/cmv_i_think_the_paris_shooting_makes_a_good_case/</source>
 <OP author="rrockethr">
 
@@ -36,11 +36,9 @@ Scenario 1:
 
 Scenario 2:
 
-<!--><premise type="ethos_logos_pathos" id="15">You're carrying and you rear end a guy.</premise></!-->
 <claim type="evaluation_rational" id="15" rel="rebuttal" ref="title">You're carrying and you rear end a guy.</claim>
 <premise type="logos" id="16" rel="support" ref="15">You pull over and the guy is really mad and he gets out of his car yelling up a storm.</premise>
 <premise type="pathos" id="17" rel="support" ref="15">You know there is a 1 in 5 chance that the guy is carrying as well.</premise>
-<!--><premise type="logos_pathos" id="18" rel="support" ref="15">When do you reach for your holster to draw your weapon</premise> and <premise type="logos_pathos" id="19" rel="support" ref="15">when do you fire it?</premise></!-->
 <claim type="evaluation_rational" id="18" rel="agreement" ref="15">When do you reach for your holster to draw your weapon and when do you fire it?</claim>
 
 1.
@@ -58,8 +56,6 @@ Scenario 2:
 <premise type="pathos" id="24" rel="support" ref="18">After he starts shooting?</premise>
 
 Scenario 3:
-
-<!--><premise type="logos_pathos" id="25">You're carrying</premise> and <premise type="logos_pathos" id="26">you just picked your brand new car up from the dealer</premise> and <premise type="logos_pathos" id="27">while you were at the stoplight some asshole that was obviously texting while driving rear ends you in your brand new car</premise>.</!-->
 
 <claim type="evaluation_rational" id="25" rel="rebuttal" ref="title">You're carrying</claim> and <claim type="evaluation_rational" id="26" rel="rebuttal" ref="title">you just picked up your brand new car from the dealer</claim> and <claim type="evaluation_rational" id="27" rel="rebuttal" ref="title">while you were at the stoplight some asshole that was obviously texting while driving rear ends you in your brand new car</claim>.
 
@@ -119,3 +115,6 @@ Well <claim type="disagreement" id="67" rel="rebuttal" ref="64">I don't think so
 
 </reply>
 </thread>
+<!--><premise type="ethos_logos_pathos" id="15">You're carrying and you rear end a guy.</premise></!-->
+<!--><premise type="logos_pathos" id="18" rel="support" ref="15">When do you reach for your holster to draw your weapon</premise> and <premise type="logos_pathos" id="19" rel="support" ref="15">when do you fire it?</premise></!-->
+<!--><premise type="logos_pathos" id="25">You're carrying</premise> and <premise type="logos_pathos" id="26">you just picked your brand new car up from the dealer</premise> and <premise type="logos_pathos" id="27">while you were at the stoplight some asshole that was obviously texting while driving rear ends you in your brand new car</premise>.</!-->

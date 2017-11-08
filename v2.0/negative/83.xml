@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rcsdh">
-<title>CMV: Humans are going to die out because of an economic collapse</title>
+<title><claim type="interpretation">CMV: Humans are going to die out because of an economic collapse</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rcsdh/cmv_humans_are_going_to_die_out_because_of_an/</source>
 <OP author="Oflameo">
 
@@ -22,7 +22,7 @@
 </OP>
 <reply id="cneps5p" author="jumpup">
 
-<claim type="evaluation_rational" id="4" rel="undercutter_attack" ref="0">you are forgetting the need to make money also wains</claim>, <premise type="" id="5" rel="support" ref="0">as unemployment rises it simply converts half the population to communism while the working class keep capitalism</premise>
+<claim type="evaluation_rational" id="4" rel="undercutter_attack" ref="0">you are forgetting the need to make money also wains</claim>, <premise type="logos" id="5" rel="support" ref="0">as unemployment rises it simply converts half the population to communism while the working class keep capitalism</premise>
 
 </reply>
 <reply id="cneyqa3" author="Oflameo">
@@ -32,7 +32,7 @@
 </reply>
 <reply id="cnez9c1" author="jumpup">
 
-<claim type="agreement" id="7" rel="partial_agreement" ref="6">partly,</claim> but <claim type="evaluation_emotional" id="8" rel="undercutter_attak" ref="6">communism in combination with capitalism has a different approach then pure communism,</claim> <premise type="logos_pathos" id="9" rel="undercutter_attack" ref="6">one of the failures of communism was the lack of incentive, with a part capitalism those with drive can still succeed, but everyone else will still have basic living tools,</premise>
+<claim type="agreement" id="7" rel="partial_agreement" ref="6">partly,</claim> but <claim type="evaluation_emotional" id="8" rel="undercutter_attack" ref="6">communism in combination with capitalism has a different approach then pure communism,</claim> <premise type="logos_pathos" id="9" rel="undercutter_attack" ref="6">one of the failures of communism was the lack of incentive, with a part capitalism those with drive can still succeed, but everyone else will still have basic living tools,</premise>
 and <premise type="logos" id="10" rel="partial_attack" ref="5">i won't lie, people will see a reduction in what they are able to buy</premise>, but <claim type="interpretation" id="11" rel="support" ref="5">when you balance that out with perpetual unemployment its still better then the alternative.</claim>
 ps
 <claim type="interpretation" id="12" rel="partial_disagreement" ref="5">Communism has some flaws ,</claim> but <claim type="interpretation" id="13" rel="support" ref="5">it has also had a long time for people to find solutions to those flaws,</claim>

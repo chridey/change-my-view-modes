@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qrbaf">
-<title>CMV: The theatrical cuts of Lord of the Rings are superior to the extended cuts and should be considered the definitive versions.</title>
+<title><claim type="evaluation_emotional">CMV: The theatrical cuts of Lord of the Rings are superior to the extended cuts and should be considered the definitive versions.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qrbaf/cmv_the_theatrical_cuts_of_lord_of_the_rings_are/</source>
 <OP author="RYouNotEntertained">
 
@@ -28,7 +28,6 @@
 <claim type="evaluation_rational" id="12" rel="support" ref="10">Basically, I'm glad Jackson opted to make excellent **movies,** instead of attempting a shot for shot visualization of a **book,**</claim> and <claim type="evaluation_rational" id="13" rel="agreement" ref="title">I think the extended cuts subvert his success in that regard.</claim>
 
 <claim type="interpretation" id="14">Books and movies are not the same</claim>, and in general, **the more an adaptation respects the inherent differences between the various media it's adapting to and from, the better the final product will be.*
-<!--> <claim type="evaluation_emotional" id="15">*</claim> </!--> * <claim type="evaluation_emotional" id="16" rel="agreement" ref="title">This is much more important than it's faithfulness to the source material.</claim>
 <claim type="evaluation_emotional" id="17" rel="agreement" ref="title">I believe this is true for all adaptations, not just LOTR.</claim>
 Feel free to C my V on this larger point as well.
 
@@ -55,3 +54,4 @@ Best comment on the thread and you get a delta for pointing out that the extende
 
 </reply>
 </thread>
+<!--> <claim type="evaluation_emotional" id="15">*</claim> </!--> * <claim type="evaluation_emotional" id="16" rel="agreement" ref="title">This is much more important than it's faithfulness to the source material.</claim>

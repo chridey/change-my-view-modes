@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rawgb">
-<title>CMV: I believe that regularly browsing 4chan will make you into a worse person</title>
+<title><claim type="evaluation_emotional">CMV: I believe that regularly browsing 4chan will make you into a worse person</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rawgb/cmv_i_believe_that_regularly_browsing_4chan_will/</source>
 <OP author="InsaneTeaparty">
 
@@ -33,12 +33,12 @@ Is there any evidence or studies to support this?
 </reply>
 <reply id="cneagct" author="InsaneTeaparty">
 
-<premise type="logos_pathos" id="15" rel="support" ref="11,12">I got the idea about "being around negative thinking will affect you negatively" from the book "Directional Thinking" by Benjamin Chapin.</premise>
+<premise type="logos_pathos" id="15" rel="support" ref="11_12">I got the idea about "being around negative thinking will affect you negatively" from the book "Directional Thinking" by Benjamin Chapin.</premise>
 
 </reply>
 <reply id="cneq8vi" author="Souphanousinfone">
 
-okay. <claim type="agreement" id="16" rel="partial agreement" ref="title">I sort of agree with you.</claim>
+okay. <claim type="agreement" id="16" rel="partial_agreement" ref="title">I sort of agree with you.</claim>
 Was just curious if there had been any research you knew of
 
 </reply>

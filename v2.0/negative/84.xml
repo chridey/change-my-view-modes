@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rcsdh">
-<title>CMV: Humans are going to die out because of an economic collapse</title>
+<title><claim type="interpretation">CMV: Humans are going to die out because of an economic collapse</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rcsdh/cmv_humans_are_going_to_die_out_because_of_an/</source>
 <OP author="Oflameo">
 
@@ -34,7 +34,7 @@ Are you sure?
 </reply>
 <reply id="cnepk5q" author="the_fu_in_fun">
 
-<claim type="evaluation_emotional" id="7" rel="undercutter_attack" ref="5,6">I have trouble equating a financial bubble with the entire world economy.</claim>
+<claim type="evaluation_emotional" id="7" rel="undercutter_attack" ref="5_6">I have trouble equating a financial bubble with the entire world economy.</claim>
 There are what, 5 thousand publicly traded US companies?
 <premise type="logos_pathos" id="8" rel="agreement" ref="6">Yes, if they all went belly up we would have a problem</premise> but <premise type="logos_pathos" id="9" rel="undercutter_attack" ref="6">someone would pick up the slack.</premise>
 

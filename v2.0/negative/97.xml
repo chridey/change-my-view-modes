@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rawgb">
-<title>CMV: I believe that regularly browsing 4chan will make you into a worse person</title>
+<title><claim type="evaluation_emotional">CMV: I believe that regularly browsing 4chan will make you into a worse person</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rawgb/cmv_i_believe_that_regularly_browsing_4chan_will/</source>
 <OP author="InsaneTeaparty">
 
@@ -25,7 +25,7 @@ EDIT: [Awarded Delta](http://www.reddit.com/r/changemyview/comments/2rawgb/cmv_i
 </OP>
 <reply id="cne8jx4" author="jacobpilawa">
 
-<claim type="disagreement" id="15" rel="partial disagreement" ref="title">I think this isn't ALWAYS true.</claim>
+<claim type="disagreement" id="15" rel="partial_disagreement" ref="title">I think this isn't ALWAYS true.</claim>
 <premise type="logos" id="16" rel="support" ref="15">Some people aren't changed by others that easily.</premise>
 And <claim type="interpretation" id="17" rel="support" rid="d" ref="15">I think your argument applies only to boards like /b/ or /pol/</claim>.
 <premise type="logos_pathos" id="18" rel="support" rid="d" ref="15">If you go on 4chan right now to the /wg/ board (wallpapers) or the /vr/ board, almost everyone there is nice</premise>.
@@ -36,7 +36,7 @@ They are the boards to people with dedication and interests, though.
 
 <claim type="interpretation" id="19" rel="undercutter" ref="18">I think those boards are bit more niche and have less users.</claim>
 
-But <claim type="agreement" id="20" rel="partial agreement" ref="15">I get your point</claim>, <premise type="logos" id="21" rel="support" ref="20">in my experience /vg/ has been pretty good since people in those threads generally like the games they're talking about and not just wildly pissing about</premise>.
+But <claim type="agreement" id="20" rel="partial_agreement" ref="15">I get your point</claim>, <premise type="logos" id="21" rel="support" ref="20">in my experience /vg/ has been pretty good since people in those threads generally like the games they're talking about and not just wildly pissing about</premise>.
 
 </reply>
 </thread>

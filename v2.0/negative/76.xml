@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rekjo">
-<title>CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...</title>
+<title><claim type="interpretation">CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rekjo/cmv_i_believe_you_have_three_choices_once_you/</source>
 <OP author="Anticarnist">
 
@@ -54,7 +54,7 @@ EDIT: formatting
 </reply>
 <reply id="cnfaa3o" author="garnteller">
 
-<premise type="" id="27" rel="support" ref="28">How does a chicken "want" anything?</premise>
+<premise type="pathos" id="27" rel="support" ref="28">How does a chicken "want" anything?</premise>
 <claim type="agreement" id="28" rel="rebuttal_attack" ref="23">It is completely incapable of developing a though like, "Today would REALLY suck if that damn fox bites me again".</claim>
 
 <claim type="evaluation_rational" id="29" rel="rebuttal_attack" ref="25">Yes, intelligence matters.</claim>

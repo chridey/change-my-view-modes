@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qd3li">
-<title>CMV: Nativity scenes are antisemitic.</title>
+<title> <claim type="evaluation_emotional">CMV: Nativity scenes are antisemitic.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qd3li/cmv_nativity_scenes_are_antisemitic/</source>
 <OP author="skunkardump">
 
@@ -31,7 +31,7 @@ MERRY CHRISTMAS!
 <claim type="interpretation" id="18" rel="undercutter" ref="4">Actually, most commentators think they didn't show up for a year or two</claim>.
 Also, <claim type="evaluation_rational" id="19" rel="undercutter" ref="5">"inn" is arguably a poor translation</claim>.
 <premise type="logos" id="20" rel="support" rid="1" ref="19">It wasn't a hotel that didn't have room for them</premise>.
-<premise type="logos" id="21" rel="support" rid="1" ref="19">It was that extended family didn't have a guest room for Joseph's family</premise> (<premise type="logos_pathos" id="22" rel="support" rid="1">perhaps because of the scandalous nature of Mary's pregnancy?</premise>).
+<premise type="logos" id="21" rel="support" rid="1" ref="19">It was that extended family didn't have a guest room for Joseph's family</premise> (<premise type="logos_pathos" id="22" rel="support" rid="1" ref="19">perhaps because of the scandalous nature of Mary's pregnancy?</premise>).
 <claim type="evaluation_rational" id="23" rel="undercutter" ref="12">Them being stuck in a barn has nothing to do with Joseph being cheap and everything to do with his family having poor hospitality</claim>.
 
 </reply>

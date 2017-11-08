@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rcpqy">
-<title>CMV The EGG came first before the chicken.</title>
+<title> <claim type="interpretation">CMV The EGG came first before the chicken.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rcpqy/cmv_the_egg_came_first_before_the_chicken/</source>
 <OP author="PM_ME_CUTE_PUPPYS">
 
@@ -29,7 +29,7 @@ PS I'm playing laser tag soon so I will respond in 20ish minutes.
 </reply>
 <reply id="cnf52op" author="PM_ME_CUTE_PUPPYS">
 
-<claim type="evaluation_rational" id="14" rel="partial attack" ref="7">While the question doesn't specifically say a chicken egg, I think that argument is kind of silly.</claim>
+<claim type="evaluation_rational" id="14" rel="partial_attack" ref="7">While the question doesn't specifically say a chicken egg, I think that argument is kind of silly.</claim>
 
 </reply>
 <reply id="cnfkjww" author="nonowh0">

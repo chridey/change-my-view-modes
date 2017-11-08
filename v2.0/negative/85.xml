@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rcsdh">
-<title>CMV: Humans are going to die out because of an economic collapse</title>
+<title><claim type="interpretation">CMV: Humans are going to die out because of an economic collapse</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rcsdh/cmv_humans_are_going_to_die_out_because_of_an/</source>
 <OP author="Oflameo">
 
@@ -27,7 +27,7 @@
 </reply>
 <reply id="cneouel" author="Oflameo">
 
-<premise type="interpretation" id="4" rel="undercutter_attack" ref="3c">The reason that the end of our current economic paradigm won't be followed by a new one is because there is nothing for us to do after the machines are doing all of the service jobs we are currently losing.</premise>
+<claim type="interpretation" id="4" rel="undercutter_attack" ref="3c">The reason that the end of our current economic paradigm won't be followed by a new one is because there is nothing for us to do after the machines are doing all of the service jobs we are currently losing.</claim>
 <premise type="logos_pathos" id="5" rel="support" ref="4">Machines don't have money either so they won't bother buying services from us.</premise>
 <premise type="logos" id="6" rel="partial_agreement" ref="3c">Cryptocurrency may help a little because it would allow servers to be able to buy and sell things</premise>, but <premise type="logos" id="7" rel="support" ref="4">once they can administrate their own systems what is the use of humans.</premise>
 <claim type="evaluation_emotional" id="8" rel="support" ref="3c">What would be stopping them is the people already in the commutes they would try to go to.</claim>

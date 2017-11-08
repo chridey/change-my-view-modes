@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qbry8">
-<title>CMV: America is not a democracy</title>
+<title><claim type="evaluation_rational">CMV: America is not a democracy</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qbry8/cmv_america_is_not_a_democracy/</source>
 <OP author="Smelly_Bob">
 
@@ -19,7 +19,7 @@ Honestly, none of these things have been democratically voted for, so why are Am
 </OP>
 <reply id="cn4pxm7" author="brutishbloodgod">
 
-<claim type="interpretation" id="5" ref="rebuttal" ref="3">A democracy is not necessarily a functional, benevolent government, nor is a democracy necessarily free.</claim>
+<claim type="interpretation" id="5" rel="rebuttal" ref="3">A democracy is not necessarily a functional, benevolent government, nor is a democracy necessarily free.</claim>
 <premise type="logos" id="6" rel="support" ref="5">The USA was intended to be a federal republic, a republic being a form of indirect democracy.</premise>
 To see if it actually *is* one (at least the "republic" part), we just need to answer a few simple questions.
 
@@ -27,17 +27,17 @@ To see if it actually *is* one (at least the "republic" part), we just need to a
 
 <claim type="interpretation" id="8" rel="rebuttal" ref="3">Are those officials elected in free and fair democratic elections?</claim>
 
-<claim type="evaluation_rational" id="9" rel="agreement" ref="7,8">The answer to both of those questions is unambiguously "yes."</claim> 
+<claim type="evaluation_rational" id="9" rel="agreement" ref="7_8">The answer to both of those questions is unambiguously "yes."</claim> 
 <premise type="logos" id="10" rel="support" ref="9">The domestic spying, the secret courts, the torture, the corporate favoritism, the environmental destruction, the lies, the unjustified wars, the unregulated financial system... all of those are things instituted or approved by our democratically elected officials, fully within the scope of power ceded to them by the constitution.</premise>
 And <premise type="pathos" id="11" rel="support" ref="9">we continue to vote those who do these things into office in free and fair elections, time and time again, without fail</premise>.
 
-<claim type="evaluation_rational" id="12" rel="partial agreement" ref="3">You can argue, perhaps successfully, that the US is a fascist, un-free state</claim>, but <claim type="interpretation" id="13" rel="rebuttal" ref="3">it remains by definition a democratic one</claim>.
+<claim type="evaluation_rational" id="12" rel="partial_agreement" ref="3">You can argue, perhaps successfully, that the US is a fascist, un-free state</claim>, but <claim type="interpretation" id="13" rel="rebuttal" ref="3">it remains by definition a democratic one</claim>.
 
 </reply>
 <reply id="cn57z2h" author="Smelly_Bob">
 
-<claim type="agreement" id="14" rel="agreement" ref="12,13">Fair enough haha.</claim>
-<claim type="evaluation_rational" id="15" rel="agreement" ref="12,13">This is the best argument I've seen here</claim>
+<claim type="agreement" id="14" rel="agreement" ref="12_13">Fair enough haha.</claim>
+<claim type="evaluation_rational" id="15" rel="agreement" ref="12_13">This is the best argument I've seen here</claim>
 Edit: but how can you have truly fair elections if things like superpacs exist?
 
 </reply>
@@ -69,7 +69,7 @@ In itself, <claim type="evaluation_rational" id="24" rel="rebuttal" ref="19">I d
 <reply id="cn64i37" author="Smelly_Bob">
 
 <claim type="agreement" id="32" rel="agreement" ref="31">Okay, I think you have officially Changed My View haha...</claim> <claim type="interpretation" id="33" rel="agreement" ref="30">it seems like the problem is more caused by the populace not being responsible voters</claim>, <claim type="agreement" id="34" rel="agreement" ref="30">I see that and agree with it</claim>.
-<claim type="evaluation_rational" id="35" rel="partial agreement" ref="31">Ideally I would like it if no money was involved in the poltical process</claim>, but <claim type="evaluation_rational" id="36" rel="undercutter" ref="35">that is naive</claim>.
+<claim type="evaluation_rational" id="35" rel="partial_agreement" ref="31">Ideally I would like it if no money was involved in the poltical process</claim>, but <claim type="evaluation_rational" id="36" rel="undercutter" ref="35">that is naive</claim>.
 
 </reply>
 <reply id="cn6a4ve" author="brutishbloodgod">
@@ -79,7 +79,7 @@ In itself, <claim type="evaluation_rational" id="24" rel="rebuttal" ref="19">I d
 Glad this has been a productive discussion.
 If your view has indeed been changed, please draw your attention to "The delta (&#8710;) system" in the sidebar and award me one delta.
 
-<claim type="evaluation_emotional" id="37" rel="agreement" ref="title">The reason I think this is important is because I'm pissed off about the way things are in America</claim>, as I'm sure you are, and <claim type="evaluation_emotional" id="38"rel="agreement" ref="title">I always think that the best way to address a problem is to see it for what it is</claim>.
+<claim type="evaluation_emotional" id="37" rel="agreement" ref="title">The reason I think this is important is because I'm pissed off about the way things are in America</claim>, as I'm sure you are, and <claim type="evaluation_emotional" id="38" rel="agreement" ref="title">I always think that the best way to address a problem is to see it for what it is</claim>.
 <claim type="interpretation" id="39" rel="rebuttal" ref="title">America's problem isn't that it isn't a democracy</claim>; rather, <claim type="interpretation" id="40" rel="undercutter" ref="title">I think that America's problem is that it has fetishized democracy to the point where anything resulting from that system is accepted, even if it's corrupt and tyrannical</claim>, and <claim type="interpretation" id="41" rel="agreement" ref="40">that's exactly what it's turning into</claim>.
 <premise type="logos_pathos" id="42" rel="support" ref="41">No, we're probably never going to get money out of politics entirely</premise>, but <premise type="logos_pathos" id="43" rel="support" ref="41">corporations being able to anonymously fund entire campaigns is a major threat to healthy government, even if it isn't, strictly speaking, un-democratic</premise>.
 

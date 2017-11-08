@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rcsdh">
-<title>CMV: Humans are going to die out because of an economic collapse</title>
+<title><claim type="interpretation">CMV: Humans are going to die out because of an economic collapse</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rcsdh/cmv_humans_are_going_to_die_out_because_of_an/</source>
 <OP author="Oflameo">
 
@@ -27,7 +27,7 @@ Blepyrus: But who will till the soil?
 Praxagora: The <claim type="evaluation_rational" id="4" rel="support" ref="5" >~~slaves~~ robots</claim> of course.&#8221;
 &#8213;Aristophanes
 <claim type="evaluation_rational" id="5" rel="rebuttal_attack" ref="0">Automation is a slow process that will take decades, and end up revolutionizing our economic structure and way of life.</claim>
-<premise type="logos_pathos" id="6" rel="support" ref="5"">Just like the Industrial revolution forced feudal and mercantile agriculturalist societies to become capitalist ones,</premise> <claim type="evaluation_emotional" id="7" rel="support" ref="5">the Automation revolution will force capitalist economies to become socialist ones.</claim>
+<premise type="logos_pathos" id="6" rel="support" ref="5">Just like the Industrial revolution forced feudal and mercantile agriculturalist societies to become capitalist ones,</premise> <claim type="evaluation_emotional" id="7" rel="support" ref="5">the Automation revolution will force capitalist economies to become socialist ones.</claim>
 
 </reply>
 <reply id="cnfku13" author="Oflameo">

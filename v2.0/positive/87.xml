@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qh719">
-<title>CMV: If you're able, European and subscribe even loosely to European values, you should be on the Ukrainian border, driving back Russians</title>
+<title><claim type="evaluation_rational">CMV: If you're able, European and subscribe even loosely to European values, you should be on the Ukrainian border, driving back Russians</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qh719/cmv_if_youre_able_european_and_subscribe_even/</source>
 <OP author="TheCyanKnight">
 
@@ -31,10 +31,10 @@ Awarding a &#8710; for making me realize that intention to fight back Russians d
 
 My view has not utterly and definitely changed for the following reasons:
 
-<premise type="logos" id="16"  rel="undercutter-attack" ref="9">Telling my government to send help is easier said than done.</premise>
+<premise type="logos" id="16"  rel="undercutter_attack" ref="9">Telling my government to send help is easier said than done.</premise>
 
-<premise type="logos_pathos" id="17  rel="undercutter-attack" ref="8">Not everybody will make enough that his financial support will outweigh the military support he can provide, this is a definite nuance to my general initial statement though.</premise>
-<premise type="logos_pathos" id="18" rel="undercutter-attack" ref="10">Supporting foreign militaries financially also has proven sketchy at best in the past, because it's hard to control where the weapons eventually end up.</premise>
+<premise type="logos_pathos" id="17"  rel="undercutter_attack" ref="8">Not everybody will make enough that his financial support will outweigh the military support he can provide, this is a definite nuance to my general initial statement though.</premise>
+<premise type="logos_pathos" id="18" rel="undercutter_attack" ref="10">Supporting foreign militaries financially also has proven sketchy at best in the past, because it's hard to control where the weapons eventually end up.</premise>
 
 I still needs convincing that supporting the currently ongoing fight is actually escalating the conflict.
 <premise type="logos" id="19">Putin knows very well that he's transgressing.</premise>

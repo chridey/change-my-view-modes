@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rd7mg">
-<title>CMV: America is a better place because of the 55 million abortions its had</title>
+<title><claim type="evaluation_emotional">CMV: America is a better place because of the 55 million abortions its had</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rd7mg/cmv_america_is_a_better_place_because_of_the_55/</source>
 <OP author="runescapethug">
 
@@ -30,8 +30,8 @@ Would we adapt to the population and make good use of each of them?)
 
 (Side thought: <claim type="interpretation" id="13" rel="support" ref="8">Perhaps the immigration of illegals is lowering the value of blue collar work and makes it harder for the borderline impoverished citizens to provide for their children</claim>.
 <claim type="interpretation" id="14" rel="support" ref="8">Its debatable how many women are having abortions due to financial reasons</claim>, but <premise type="logos_pathos" id="15">surely its a significant number</premise>, so <premise type="logos_pathos" id="16">how many of these women wouldn't be having financial troubles if there wasn't competition from cheap illegal labor to keep wages lower</premise>?
-<claim type="interpretation" id="17" "rel="support" ref="8">This holds true even if illegal immigration is an overall plus to the countries value</claim>.
-Conclusion: <claim type="evaluation_rational" id="18" "rel="support" ref="8">Mexicans are the supreme race, native Americans will go extinct through abortion and then out-breeding.</claim> *no that isn't a serious sentiment,
+<claim type="interpretation" id="17" rel="support" ref="8">This holds true even if illegal immigration is an overall plus to the countries value</claim>.
+Conclusion: <claim type="evaluation_rational" id="18" rel="support" ref="8">Mexicans are the supreme race, native Americans will go extinct through abortion and then out-breeding.</claim> *no that isn't a serious sentiment,
 i'm just saying, <claim type="evaluation_rational" id="19">this discussion is abstract enough to go into some weird places and that it is necessary to have a stopping point*</claim> )
 
 Then there is the next question.
@@ -70,7 +70,7 @@ I feel I could learn a lot here.
 
 <claim type="interpretation" id="29" rel="undercutter_attack" ref="27">If that was a good basis for having a huge population, India would be a superpower</claim>.
 <claim type="evaluation_emotional" id="30" rel="partial_attack" ref="27">Good point none-the-less, but I disagree</claim>
-<premise type="ethos_logos" id="31" rel="partial_attack" ref="27,29">(should be noted that India has less internet users and that the availibilty of the internet may play a huge part in people with less wealth being able to be innovative,</premise> so <claim type="interpretation" id="32" rel="partial_agreement" ref="27">with the internet taken into account, your answer could be true)</claim> [Source](http://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users)
+<premise type="ethos_logos" id="31" rel="partial_attack" ref="27_29">(should be noted that India has less internet users and that the availibilty of the internet may play a huge part in people with less wealth being able to be innovative,</premise> so <claim type="interpretation" id="32" rel="partial_agreement" ref="27">with the internet taken into account, your answer could be true)</claim> [Source](http://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users)
 
 </reply>
 </thread>

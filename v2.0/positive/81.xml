@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qmstv">
-<title>CMV: The Call of Duty franchise is extremely overrated and overhyped.</title>
+<title><claim type="evaluation_emotional">CMV: The Call of Duty franchise is extremely overrated and overhyped.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qmstv/cmv_the_call_of_duty_franchise_is_extremely/</source>
 <OP author="Inita_Life">
 
@@ -9,7 +9,7 @@
 <premise type="logos_pathos" id="3" rel="support" ref="2">There are few if any changes in gameplay, and the basic level design for the most part, remains the same.</premise>
 <premise type="logos_pathos" id="4" rel="support" ref="2">Even Advanced Warfare, which seemed to promise the most novel changes, was criticized for changing too little from its preceding games.</premise>
 
-<premise type="logos_pathos" id="5"rel="support" ref="1" >Another reason for my opinion is that CoD doesn't really have anything astoundingly different from other games of the same genre.</premise>
+<premise type="logos_pathos" id="5" rel="support" ref="1" >Another reason for my opinion is that CoD doesn't really have anything astoundingly different from other games of the same genre.</premise>
 <premise type="logos" id="6" rel="support" ref="5">There are a few unique features here and there, but overall, it's just another FPS with nothing spectacular that sets it above the other games in its genre.</premise>
 
 </OP>
@@ -43,8 +43,8 @@ The idiom, "Don't fix what isn't broken" comes to mind.
 <premise type="logos" id="25" rel="support" ref="7" >It makes no sense.</premise>
 
 <claim type="interpretation" id="26" rel="support" ref="1" > The other major point is that video game development is extremely expensive.</claim>
-<premise type="logos_pathos" id="27"rel="support" ref="28" >Making an entirely new engine is costly, takes years to develop, and you never have a guarantee of financial success upon release.</premise>
-<premise type="logos" id="28"rel="support" ref="1" >It makes more sense to stick with the old engine and old code, which drastically reduces the time (and therefore cost) it takes to make a new game.</premise>
+<premise type="logos_pathos" id="27" rel="support" ref="28" >Making an entirely new engine is costly, takes years to develop, and you never have a guarantee of financial success upon release.</premise>
+<premise type="logos" id="28" rel="support" ref="1" >It makes more sense to stick with the old engine and old code, which drastically reduces the time (and therefore cost) it takes to make a new game.</premise>
 <claim type="evaluation_rational" id="29" rel="support" ref="1" >Brand new engine CoDs likely wouldn't make sufficiently more money to offset their cost to make it.</claim>
 <premise type="logos" id="30" rel="support" ref="1" >They aren't a charity, so gamers aren't entitled to it.</premise>
 

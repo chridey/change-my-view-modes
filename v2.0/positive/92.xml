@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qd3li">
-<title type = "evaluation_emotional" id="title">CMV: Nativity scenes are antisemitic.</title>
+<title> <claim type = "evaluation_emotional">CMV: Nativity scenes are antisemitic.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qd3li/cmv_nativity_scenes_are_antisemitic/</source>
 <OP author="skunkardump">
 
@@ -31,9 +31,9 @@ MERRY CHRISTMAS!
 In other words, <premise type="logos" id="19" rel="support" ref="18">events that happen at different points in the narrative are depicted as occuring side-by-side without consideration for *when* and *where* they actually happened</premise>.
 For instance, <premise type="logos" id="20" rel="support" ref="18">Jesus might be depicted as both a child and an adult in the same image</premise>.
 
-<claim type="evaluation_rational" id="21"> One of the reasons the Italian Renaissance was, well, a *renaissance* was because its painters and artists began presenting things in a more realistic way</claim>, <premise type="logos" id="22" rel="support" id="21">like how we might now think of as like a photograph: a specific moment frozen in time</premise>.
+<claim type="evaluation_rational" id="21"> One of the reasons the Italian Renaissance was, well, a *renaissance* was because its painters and artists began presenting things in a more realistic way</claim>, <premise type="logos" id="22" rel="support" ref="21">like how we might now think of as like a photograph: a specific moment frozen in time</premise>.
 
-My point is, <claim type="interpretation" id="23" rel="undercutter_attack" ref="5">there is precedent for depicting stories from the Jesus narrative with no consideration for the actual timeline of events</claim>, <premise type="logos" id="24" rel="support" ref="23">merely throwing together elements because they are related thematically or tangentially</claim>.
+My point is, <claim type="interpretation" id="23" rel="undercutter_attack" ref="5">there is precedent for depicting stories from the Jesus narrative with no consideration for the actual timeline of events</claim>, <premise type="logos" id="24" rel="support" ref="23">merely throwing together elements because they are related thematically or tangentially</premise>.
 <claim type="evaluation_rational" id="25" rel="undercutter_attack" ref="5">You're interpretting this as if it is meant to show something "as it happened" when art doesn't always work that way</claim>.
 
 </reply>

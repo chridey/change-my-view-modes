@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qmhw7">
-<title>CMV: Posting nude pictures online is caused by a need for attention and not empowering</title>
+<title><claim type="interpretation">CMV: Posting nude pictures online is caused by a need for attention and not empowering</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qmhw7/cmv_posting_nude_pictures_online_is_caused_by_a/</source>
 <OP author="partyp00per69">
 
@@ -28,7 +28,7 @@ EDIT:  Thank you for all of the replies!  You guys pointed out some clearly fall
 <claim type="interpretation" id="8">What you're really seeming to say is that any action which garners attention is morally corrupt.</claim>
 <claim type="interpretation" id="9">You've drawn this fine line where something that is done for attention cannot also be done for empowerment, which I find to be the crux of your dilemma.</claim>
 <premise type="logos_pathos" id="10" rel="undercutter_attack" ref="title" >If someone is confident in their body, is it not empowering to have other people give you reassurance of that position?</premise>
-<premise type="" id="11" rel="support" ref="10">The definition of empowering is to "make (someone) stronger and more confident".</premise>
+<premise type="logos" id="11" rel="support" ref="10">The definition of empowering is to "make (someone) stronger and more confident".</premise>
 <premise type="logos_pathos" id="12" rel="undercutter_attack" ref="title">If the feedback about their bodies does that, then so be it.</premise>
 <premise type="logos_pathos" id="13" rel="support" ref="14">People seem to get very morally judgmental about how the internet has made us all so much more open.</premise>
 <premise type="logos_pathos" id="14" rel="undercutter_attack" ref="title">We share so much and censor so much less... but why is this necessarily a bad thing?</premise>
@@ -69,12 +69,12 @@ Thanks for your reply.
 <claim type="interpretation" id="36" rel="support" ref="33">Now of course, this is a romantic view of history which takes the surviving works of outstanding people, rather than looking towards the common man...</claim> but
 <claim type="interpretation" id="37">certainly that is a point to be made about the modern time as well.</claim>
 <premise type="logos_pathos" id="38" >What makes modern sexuality morally abhorrent?</premise>
-<premise type="logos_pathos" id="39" "rel="support" ref="37">What logical basis is there for the rejection of the human form and the demonizing those who are open about their sexual identity?</premise>
-<premise type="logos_pathos" id="40" "rel="support" ref="33">Slut shaming, or as you did, calling it as "whoring"?</premise>
+<premise type="logos_pathos" id="39" rel="support" ref="37">What logical basis is there for the rejection of the human form and the demonizing those who are open about their sexual identity?</premise>
+<premise type="logos_pathos" id="40" rel="support" ref="33">Slut shaming, or as you did, calling it as "whoring"?</premise>
 
 <claim type="interpretation" id="41">Certainly in America there is a huge bias against such things,</claim> but <premise type="ethos_logos" id="42">the basis of that has been our periodic pushes from the church, periods of "Great Awakening" where fundamentalists have tried to restore us to some kind of repressive god-fearing and internalized state of self loathing and cleansing for sin.</premise>
 <claim type="evaluation_rational" id="43">Beyond some shell of spirituality, there is no real objective reasoning to be so opposed to sex.</claim>
-<premise type="logos_pathos" id="44"rel="support" ref="43" >In fact if you look towards Europe, a lot of their media is much more lenient on sex than violence, whereas over here we're more lenient on violence than sex.</premise>
+<premise type="logos_pathos" id="44" rel="support" ref="43" >In fact if you look towards Europe, a lot of their media is much more lenient on sex than violence, whereas over here we're more lenient on violence than sex.</premise>
 
 &gt; Of course no harm is done, but often this type of behavior CAN come back to haunt the original poster in a number of ways.
 

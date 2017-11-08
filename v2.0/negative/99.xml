@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rawgb">
-<title>CMV: I believe that regularly browsing 4chan will make you into a worse person</title>
+<title><claim type="evaluation_emotional">CMV: I believe that regularly browsing 4chan will make you into a worse person</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rawgb/cmv_i_believe_that_regularly_browsing_4chan_will/</source>
 <OP author="InsaneTeaparty">
 
@@ -26,7 +26,7 @@ EDIT: [Awarded Delta](http://www.reddit.com/r/changemyview/comments/2rawgb/cmv_i
 <reply id="cne90oe" author="stanhhh">
 
 <claim type="interpretation" id="15" rel="agreement" ref="11">It will certainly make you a colder person.</claim>
-Or <claim type="evaluation_emotional" id="16" rel="partial agreement" ref="11">let's say, a "less sensitive" person</claim>.
+Or <claim type="evaluation_emotional" id="16" rel="partial_agreement" ref="11">let's say, a "less sensitive" person</claim>.
 But <claim type="evaluation_rational" id="17" rel="rebuttal" ref="11">I'm not conviced that this is always a bad thing.</claim>
 
 <premise type="logos_pathos" id="18" rel="support" ref="17">After all the gore I witnessed on 4chan, I'm able to jump in an accident scene and actually keep my cool while most other people around are freaking out like crazed apes, yelling and really doing nothing to help at all.</premise>
@@ -36,7 +36,7 @@ And so on.
 
 <claim type="interpretation" id="20" rel="rebuttal" ref="11">I'd say 4chan will open your eyes and show you Reality on many topics.</claim>
 
-<premise type="logos_pathos" id="21" rel="support"="a" ref="20">It can have a bad influence with all the racism etc tho</premise> but <premise type="logos_pathos" id="22" rel="support" rid="a" ref="20">this, you have to keep in check yourself</premise>.
+<premise type="logos_pathos" id="21" rel="support" rid="a" ref="20">It can have a bad influence with all the racism etc tho</premise> but <premise type="logos_pathos" id="22" rel="support" rid="a" ref="20">this, you have to keep in check yourself</premise>.
 
 About "pessimism"..well yeah...<premise type="pathos" id="23" rel="support" ref="20">some people may answer to you that there is not much to be optimistic about in this world and that maybe you are delusional/uninformed to think otherwise</premise>.
 Are they right?

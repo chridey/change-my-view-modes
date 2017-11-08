@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rgs7o">
-<title type="evaluation_emotional" id="title">CMV: Assuming there is no afterlife, then life is ultimately meaningless and pointless because we die.</title>
+<title> <claim type="evaluation_emotional">CMV: Assuming there is no afterlife, then life is ultimately meaningless and pointless because we die.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rgs7o/cmv_assuming_there_is_no_afterlife_then_life_is/</source>
 <OP author="mybromarcusaurelius">
 
@@ -63,7 +63,7 @@ But <claim type="evaluation_emotional" id="38">just because there are pages you'
 </reply>
 <reply id="cnfr85u" author="mybromarcusaurelius">
 
-<claim type="agreement" id="40" rel="agreement" ref="37_38_39"> Most interesting point so far.
+<claim type="agreement" id="40" rel="agreement" ref="37_38_39"> Most interesting point so far.</claim>
 Thank you!
 
 </reply>
@@ -75,7 +75,7 @@ And <claim type="evaluation_rational" id="41">this view is supported by physics 
 <premise type="logos_pathos" id="44" rel="support" ref="41">All the other points in time exist as much as the current point in time, however</premise>.
 
 <premise type="logos" id="45" rel="support" ref="41">Let's say I travel from home to the grocery store</premise>: <premise type="logos" id="46" rel="support" ref="41">I leave my apartment, go down the elevator, out on the street, past the cigar shop, past the empty parking lot, and finally to the store</premise>. *
-<premise type="logos" id="47" rel="support" ref="41"> Now* I'm at the store, but did my apartment, my elevator, the street I walked on, the cigar shop, and the empty parking lot cease to exist simply because I'm not there *right now*?
+<premise type="logos" id="47" rel="support" ref="41"> Now* I'm at the store, but did my apartment, my elevator, the street I walked on, the cigar shop, and the empty parking lot cease to exist simply because I'm not there *right now*?</premise>
 <claim type="evaluation_rational" id="48">Of course not</claim>.
 
 </reply>

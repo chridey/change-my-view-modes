@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rekjo">
-<title>CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...</title>
+<title><claim type="interpretation">CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rekjo/cmv_i_believe_you_have_three_choices_once_you/</source>
 <OP author="Anticarnist">
 
@@ -41,7 +41,7 @@ Reasoning: <premise type="logos_pathos" id="4" rel="support" ref="0">I used to f
 </reply>
 <reply id="cnfcka5" author="Anticarnist">
 
-<claim type="evaluation_rational" id="16" rel="undercutter" ref="13">Meat is the industry that creates the most suffering for animals</claim> though... <premise type="" id="17" rel="support" ref="16">Being the one that requires the most land usage and causes the most environmental issues as well as obviously slaughtering them.</premise>
+<claim type="evaluation_rational" id="16" rel="undercutter" ref="13">Meat is the industry that creates the most suffering for animals</claim> though... <premise type="logos_pathos" id="17" rel="support" ref="16">Being the one that requires the most land usage and causes the most environmental issues as well as obviously slaughtering them.</premise>
 
 <premise type="logos_pathos" id="18" rel="support" ref="19">Vegans are also the group least likely to die of heart disease, with vegetarians being second and omnivores being first (or the same, depending on which study you're looking at)</premise>.
 <claim type="evaluation_rational" id="19" rel="rebuttal_attack" ref="15">I'm convinced it's a healthier diet, which is a nice bonus for being compassionate.</claim>

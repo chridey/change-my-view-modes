@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rc3p3">
-<title type="interpretation" id="title">CMV:Patriotism is the belief that being born on one side of a line makes you better.</title>
+<title> <claim type="interpretation">CMV:Patriotism is the belief that being born on one side of a line makes you better.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rc3p3/cmvpatriotism_is_the_belief_that_being_born_on/</source>
 <OP author="sniperman357">
 
@@ -16,9 +16,9 @@
 </OP>
 <reply id="cnemor5" author="debatingaccount">
 
-<premise type="logos" id="14" rel="support" ref="15">I would define patriotism quite simply as supporting one's country, but not *necessarily* disparaging others.</premise>
-<claim type="interpretation" id="15">Therefore I would say that the antithesis of patriotism is not having a global perspective, but is in fact selfishness</claim>.
-<premise type="logos_pathos" id="16" rel="support" ref="15" >Someone who attempts to extract gain for themselves at harm to their overall country is acting unpatriotically</premise>, <premise type="logos_pathos" id="17" rel="support" ref="15">someone who assists another country that is in worse shape instead of assisting their own can still be a patriot, but also recognize significant need in other nations and decide to assist them as well</premise>.
+<premise type="logos" id="15a" rel="support" ref="15b">I would define patriotism quite simply as supporting one's country, but not *necessarily* disparaging others.</premise>
+<claim type="interpretation" id="15b">Therefore I would say that the antithesis of patriotism is not having a global perspective, but is in fact selfishness</claim>.
+<premise type="logos_pathos" id="16" rel="support" ref="15b" >Someone who attempts to extract gain for themselves at harm to their overall country is acting unpatriotically</premise>, <premise type="logos_pathos" id="17" rel="support" ref="15b">someone who assists another country that is in worse shape instead of assisting their own can still be a patriot, but also recognize significant need in other nations and decide to assist them as well</premise>.
 <claim type="interpretation" id="18">Whether you support immigration or not, so long as you are supporting what you believe is best for your nation, you are still acting patriotically</claim>, and <claim type="interpretation" id="19">even if you decide to support another nation you can still be acting patriotically as well so long as you support your nation too</claim>.
 
 </reply>
@@ -29,7 +29,7 @@
 </reply>
 <reply id="cney5lx" author="debatingaccount">
 
-<claim type="agreement" id="25" rel="partia_attack" ref="21">Yes</claim>, but <claim type="evaluation_emotional" id="26" rel="partial_attack" ref="21">the two are often one the same</claim>, <premise type="logos_pathos" id="27" rel="support" ref="26">especially when you live in a country as large as the U.S. most acts which serve the common good generally support your country</premise>.
+<claim type="agreement" id="25" rel="partial_attack" ref="21">Yes</claim>, but <claim type="evaluation_emotional" id="26" rel="partial_attack" ref="21">the two are often one the same</claim>, <premise type="logos_pathos" id="27" rel="support" ref="26">especially when you live in a country as large as the U.S. most acts which serve the common good generally support your country</premise>.
 
 </reply>
 </thread>

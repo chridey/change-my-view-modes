@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rnr30">
-<title>CMV: I think the Paris shooting makes a good case for culture of responsible gun ownership any carrying.</title>
+<title><claim type="interpretation">CMV: I think the Paris shooting makes a good case for culture of responsible gun ownership any carrying.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rnr30/cmv_i_think_the_paris_shooting_makes_a_good_case/</source>
 <OP author="rrockethr">
 
@@ -24,7 +24,7 @@ EDIT: Awarded a delta to a comment which didn't refute this idea but led me to c
 <reply id="cnhmb9v" author="imaginethehangover">
 
 <claim type="evaluation_emotional" id="9" rel="undercutter" ref="4"> Are you suggesting that INCREASING the number of weapons would decrease the lethal use of those weapons? </claim> 
-<claim type="interpretation" id="10" rel="partial agreement" ref="4"> It MIGHT help mitigate one instance of shootings, like today's in Paris </claim>, but <premise  type="interpretation" id="11" rel="support" ref="10"> surely tempt or instigate more occurrences in its place as the weapons are that much easier to access and use? </premise> 
+<claim type="interpretation" id="10" rel="partial_agreement" ref="4"> It MIGHT help mitigate one instance of shootings, like today's in Paris </claim>, but <claim  type="interpretation" id="11" rel="support" ref="10"> surely tempt or instigate more occurrences in its place as the weapons are that much easier to access and use? </claim> 
 <premise type="logos" id="12" rel="support" rid="a" ref="10"> If increasing gun ownership would benefit society, would there be a point where if X number of people owned and carried a gun, there would be no shootings at all? </premise> 
 <premise type="logos" id="13" rel="support" rid="a" ref="10"> How do the stats stack up in support of your view? </premise>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qslmz">
-<title>CMV: There is only one "right" way to play the Mass Effect series (spoilers)</title>
+<title><claim type="evaluation_emotional">CMV: There is only one "right" way to play the Mass Effect series (spoilers)</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qslmz/cmv_there_is_only_one_right_way_to_play_the_mass/</source>
 <OP author="Magnus64">
 
@@ -55,17 +55,13 @@ Bah, apologies! I'm rambling, it's late, but I look forward to catching up with 
 <reply id="cn96gyu" author="gyrfalcons">
 
 Or maybe you just like plots and characters and different stories.
-I'd say my approach was different - <!--> <premise type="ethos_logos_pathos" id="18">if the material is in the game, it's there for a purpose.</premise> </!--> <claim type="interpretation" id="18" rel="rebuttal" ref="title">if the material is in the game, it's there for a purpose.</claim>
-<!--> <claim type="interpretation" id="19">It was there to be seen by players and to be experienced by them.</claim>
-<claim type="evaluation_rational" id="20">And sometimes, tragedies are more fun than victories.</claim>
-<premise type="logos_pathos" id="21">I did do the completionist run!</premise> </!-->
-<premise type="logos" id="19" rel="support" ref="18">It was there to be seen by players and to be experienced by them.</premise> <premise type="pathos" rel="support" ref="18">And sometimes, tragedies are more fun than victories.</premise> 
+I'd say my approach was different - <claim type="interpretation" id="18" rel="rebuttal" ref="title">if the material is in the game, it's there for a purpose.</claim>
+<premise type="logos" id="19" rel="support" ref="18">It was there to be seen by players and to be experienced by them.</premise> <premise type="pathos" id="20" rel="support" ref="18">And sometimes, tragedies are more fun than victories.</premise> 
 
 <claim type="agreement" id="21" rel="agreement" ref="17">I did do the completionist run!</claim>
 <premise type="pathos" id="22" rel="support" rid="b" ref="21">I had a closeted gay paragon Shepard because I thought it was hilarious and he eventually shacked up with Kaidan, saved the world, let no one die, then picked destroy ending because why not.</premise>
 <premise type="logos_pathos" id="23" rel="support" rid="b" ref="21">It went - well, okay, I guess.</premise>
 
-<!--> <premise type="logos_pathos" id="24">However, after that, I wanted some real emotional punches.</premise> </!-->
 <claim type="evaluation_emotional" id="24" rel="rebuttal" ref="21">However, after that, I wanted some real emotional punches.</claim>
 I was *pissed as hell* at the [ME3 ending](http://img.gawkerassets.com/img/17ik93m5xahnwpng/original.png) (and I don't think, as another fan, you'll need me to elaborate on why - I loved those characters and I hated how little involvement they had in how things went, and the ending was a total slap in the face to the player and all their work until that point) so <premise type="pathos" id="25" rel="support" rid="c" ref="24">I thought you know what, I want a Shepard where this kind of ending makes sense.</premise>
 Where an ending that's a fuck you to everything Shepard's been trying comes as the topping of a fuck you in the chain of everything that Shepard's done.
@@ -115,3 +111,7 @@ I suppose I should have mentioned that this would be in the case of a person doi
 
 </reply>
 </thread>
+
+<!--> <premise type="ethos_logos_pathos" id="18">if the material is in the game, it's there for a purpose.</premise> </!--> 
+<!--> <claim type="interpretation" id="19">It was there to be seen by players and to be experienced by them.</claim> <claim type="evaluation_rational" id="20">And sometimes, tragedies are more fun than victories.</claim> <premise type="logos_pathos" id="21">I did do the completionist run!</premise> </!-->
+<!--> <premise type="logos_pathos" id="24">However, after that, I wanted some real emotional punches.</premise> </!-->

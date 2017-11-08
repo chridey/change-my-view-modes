@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qb4ra">
-<title type="evaluation_emotional" id="title">CMV: I think the board game "Monopoly" is poorly designed</title>
+<title> <claim type="evaluation_emotional">CMV: I think the board game "Monopoly" is poorly designed</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qb4ra/cmv_i_think_the_board_game_monopoly_is_poorly/</source>
 <OP author="Iprefervim">
 
@@ -52,7 +52,7 @@ In short, <claim type="interpretation" id="30">Monopoly is drawn out because peo
 
 That is a possibility of have not considered actually.
 <premise type="logos_pathos" id="35" rel="support" ref="37">Only recently (past 4 years) my family added money to the free parking</premise>, and <premise type="logos_pathos" id="36" rel="support" ref="37">though I always attempted to get the auction rule in I was always voted down</premise>.
-<claim type="interpretation" id="37" rel="agreeement" ref="16">Perhaps that is the reason why I have such a strong dislike of the game.</claim>
+<claim type="interpretation" id="37" rel="agreement" ref="16">Perhaps that is the reason why I have such a strong dislike of the game.</claim>
 Alas, I have not actually played it in a while and I'll play it with these rules before confirming the delta, for these rules may not be enough to convince me that the game is designed well.
 <claim type="evaluation_rational" id="38" rel="partial_agreement" ref="30">Though it is theoretically sound it may not hold up</claim>
 
@@ -62,7 +62,7 @@ Alas, I have not actually played it in a while and I'll play it with these rules
 <claim type="evaluation_rational" id="39" rel="partial_agreement" ref="35_36">It does admittedly depend a lot on the people you play it with.</claim>
 <premise type="logos_pathos" id="40" rel="support" ref="39">If your fellow players absolutely refuse to negotiate, even when it would benefit them in the long run, then the game is not going to be fun.</premise>
 <premise type="logos_pathos" id="41" rel="support" ref="39">It's like playing poker with players who never bet</premise>: <premise type="logos_pathos" id="42" rel="support" ref="39">it's not fun, it's just a long, awful slog</premise>.
-<claim type="evaluation_emotional" id="43">That doesn't make Poker a bad game by design</claim> (<premise type="logos_pathos" id="44" rel="support" ref="43">even though it can be unfun in some scenarios</premise>); <claim type="evaluation_rational" id="45">it just means that it's not a game that everyone will enjoy</premise>.
+<claim type="evaluation_emotional" id="43">That doesn't make Poker a bad game by design</claim> (<premise type="logos_pathos" id="44" rel="support" ref="43">even though it can be unfun in some scenarios</premise>); <claim type="evaluation_rational" id="45">it just means that it's not a game that everyone will enjoy</claim>.
 
 <claim type="evaluation_rational" id="46">I'd recommend pointing out to people that the point of the game is to make trades.</claim>
 <premise type="logos" id="47" rel="support" ref="46">The most beneficial trade I've found involves two players helping each other complete a monopoly, but giving "immunity" to that group.</premise>

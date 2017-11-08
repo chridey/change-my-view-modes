@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2qrlmm">
-<title>CMV: Any given aspect of the legal system should be short and simple enough that an average high school graduate could fully memorize it</title>
+<title><claim type="evaluation_rational">CMV: Any given aspect of the legal system should be short and simple enough that an average high school graduate could fully memorize it</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2qrlmm/cmv_any_given_aspect_of_the_legal_system_should/</source>
 <OP author="txwatson">
 
@@ -8,9 +8,7 @@ CLARIFICATIONS BASED ON ANTICIPATED CONFUSION:
 
 (1.) I'm **not** saying simple enough that **all** high school students **should** memorize them; I'm saying <claim type="evaluation_emotional" id="0" rel="agreement" ref="title">simple enough that almost anyone could, if they were struck by the impulse to make that unusually large commitment, do so</claim>.
 <premise type="logos_pathos" id="1" rel="support" rid="a" ref="0">Like, most people don't memorize all of Romeo and Juliet.</premise>
-<!--: <premise type="logos_pathos" id="2" rel="support" rid"a" ref="0">But most people, I think, if they really wanted to, **could.</premise> </!-->
 <premise type="logos_pathos" id="2" rel="support" rid="a" ref="0">But most people, I think, if they really wanted to, **could.**</premise>
-<!--> <premise type="logos_pathos" id="3">**</premise> </!-->
 
 (2.)
 I'm not interested in hearing any arguments that are based in any way on what the laws are, right now, except by way of comparison.
@@ -51,3 +49,5 @@ So, you get a delta for that point.
 
 </reply>
 </thread>
+<!--: <premise type="logos_pathos" id="2" rel="support" rid"a" ref="0">But most people, I think, if they really wanted to, **could.</premise> </!-->
+<!--> <premise type="logos_pathos" id="3">**</premise> </!-->

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <thread ID="2rd7mg">
-<title>CMV: America is a better place because of the 55 million abortions its had</title>
+<title><claim type="evaluation_emotional">CMV: America is a better place because of the 55 million abortions its had</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rd7mg/cmv_america_is_a_better_place_because_of_the_55/</source>
 <OP author="runescapethug">
 
@@ -30,8 +30,8 @@ Would we adapt to the population and make good use of each of them?)
 
 (Side thought: <claim type="interpretation" id="13" rel="support" ref="8">Perhaps the immigration of illegals is lowering the value of blue collar work and makes it harder for the borderline impoverished citizens to provide for their children</claim>.
 <claim type="interpretation" id="14" rel="support" ref="8">Its debatable how many women are having abortions due to financial reasons</claim>, but <premise type="logos_pathos" id="15">surely its a significant number</premise>, so <premise type="logos_pathos" id="16">how many of these women wouldn't be having financial troubles if there wasn't competition from cheap illegal labor to keep wages lower</premise>?
-<claim type="interpretation" id="17" "rel="support" ref="8">This holds true even if illegal immigration is an overall plus to the countries value</claim>.
-Conclusion: <claim type="evaluation_rational" id="18" "rel="support" ref="8">Mexicans are the supreme race, native Americans will go extinct through abortion and then out-breeding.</claim> *no that isn't a serious sentiment,
+<claim type="interpretation" id="17" rel="support" ref="8">This holds true even if illegal immigration is an overall plus to the countries value</claim>.
+Conclusion: <claim type="evaluation_rational" id="18" rel="support" ref="8">Mexicans are the supreme race, native Americans will go extinct through abortion and then out-breeding.</claim> *no that isn't a serious sentiment,
 i'm just saying, <claim type="evaluation_rational" id="19">this discussion is abstract enough to go into some weird places and that it is necessary to have a stopping point*</claim> )
 
 Then there is the next question.
@@ -66,13 +66,13 @@ I feel I could learn a lot here.
 <claim type="interpretation" id="29" rel="rebuttal_attack" ref="title">The attitude of human value as "what they [potentially] contributed to me/Exxon Mobile" is the spirit of eugenics and genocide, subjects often glorified on reddit.</claim>
 
 <claim type="evaluation_rational" id="30" rel="support" ref="29">It's the same problem with war</claim>: <premise type="logos" id="31" rel="support" ref="29">Once killing foreigners is an acceptable/inevitable means to profit and expand, you find that attitudes exposed to such behavior change with it</premise>.
-<premise type="logos" id="32" rel="support" ref="30">Other countries also build militaries to do so and to "defend" against each other</premise>, and <claim type="evaluation_emotional" id="33" rel="support" ref="30">its no longer viewed as a hostile or paranoid thing to do</claim> because <premise type="logos" id="34" rel="support" ref="30">everybody's doing it and so must do it</premise>.
-<claim type="interpretation" id="35" rel="support" ref="30">It becomes a recursive loop and generates a hostile attitude towards foreigners and other countries</claim>.
+<premise type="logos" id="32" rel="support" ref="30">>Other countries also build militaries to do so and to "defend" against each other</premise>, and <claim type="evaluation_emotional" id="33" rel="support" ref="30">its no longer viewed as a hostile or paranoid thing to do</claim> because <premise type="logos" id="34" rel="support" ref="30">everybody's doing it and so must do it</premise>.
+<claim type="interpretation" id="35" rel="support" ref="30">>It becomes a recursive loop and generates a hostile attitude towards foreigners and other countries</claim>.
 
-<claim type="evaluation_rational" id="36" rel="support" ref="29">This works on the inverse too</claim>.
+<claim type="evaluation_rational" id="36" rel="support" ref="29">>This works on the inverse too</claim>.
 <claim type="interpretation" id="37" rel="support" ref="36">When we went to the moon, our horizons and view of mankind changed</claim>.
 <claim type="interpretation" id="38" rel="support" ref="36">Once we better understood such objects, nature worship definitely changed</claim>.
-<premise type="logos" id="39" rel="support" ref="38">You'll be hard-pressed to find moon worshipers today</premise>, and <premise type="logos" id="38" rel="support" ref="30">the "religions of the book" may be going out of style as highly literate people have access to more historical data and the time to translate The Bible, Torah, and Quran in context for themselves</premise>.
+<premise type="logos" id="39" rel="support" ref="38">You'll be hard-pressed to find moon worshipers today</premise>, and <premise type="logos" id="40" rel="support" ref="30">the "religions of the book" may be going out of style as highly literate people have access to more historical data and the time to translate The Bible, Torah, and Quran in context for themselves</premise>.
 Also, <claim type="evaluation_emotional" id="41" rel="support" ref="36">it was once normal for religions to kill masses of unbelievers</claim>; <premise type="logos" id="42" rel="support" ref="36">now it's seen as wrong, even by the religions themselves</premise>.
 <claim type="evaluation_rational" id="43" rel="support" ref="36">The Zeitgeist changes, as people's attitudes adjust to new information and ways of life and problem solving</claim>.
 
@@ -105,7 +105,7 @@ Pretend that technology has reached such a point that any human can pursue any p
 These Americans can go enjoy the wilderness of a terraformed planet (or use their immortality to wait until that is possible), enter a virtual reality program and experience any event by any person in history as if it was true, go see dinosaurs at the zoo, pursue as many doctorates as they'd like, increase or decrease their intelligence, and never have to work a day of their lives to earn such privileges.
 
 Now imagine America in 200 years.
-<premise type="logos_pathos" id="60" rel="support" ref="60">Babies were created indiscriminately</premise>.
+<premise type="logos_pathos" id="70" rel="support" ref="60">Babies were created indiscriminately</premise>.
 <premise type="logos" id="71" rel="support" ref="60">The quality of education regressed and then stagnated to that of the year 1970</premise>.
 <premise type="logos_pathos" id="72" rel="support" ref="60">Even with new technology, having enough drinking water and arable land is becoming an issue</premise>.
 <premise type="logos_pathos" id="73" rel="support" ref="60">Everything is polluted to hell</premise>.
@@ -149,7 +149,7 @@ That said, <claim type="evaluation_rational" id="100" rel="support" ref="102">gi
 See, <claim type="evaluation_rational" id="103">the reason people are highly sensitive [emotionally] is the same reason you'd turn up the sensitivity dial of a camera, microphone, or any other sensor</claim>: Because <premise type="pathos" id="104" rel="support" ref="103">you're concerned you'll miss something, and are aware of the dangers of missing something</premise>.
 <premise type="logos_pathos" id="105" rel="support" ref="104">The mind and emotions operate like extremely complex equipment</premise>.
 <premise type="logos_pathos" id="106" rel="support" ref="104">This is why some people are very squeamish; myself not included</premise>.
-<premise type="logos_pathos" id="107"rel="support" ref="104">Contrarily, when a person is very confident, it's [almost never because they're on a higher tier of information or understanding</premise>](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), but <premise type="logos_pathos" id="108">because they don't even know that they don't know</premise>.
+<premise type="logos_pathos" id="107" rel="support" ref="104">Contrarily, when a person is very confident, it's [almost never because they're on a higher tier of information or understanding</premise>](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect), but <premise type="logos_pathos" id="108">because they don't even know that they don't know</premise>.
 <premise type="logos" id="109" rel="support" ref="104">In the case of cold utility, often peddled by teens as very novel because life and the self seems very simple to them, because they've such a low tier of contact with the world that it can look simple from a distance</premise>.
 
 <premise type="logos_pathos" id="110" rel="support" ref="103">It's why we recruit teens into the military</premise>.
@@ -204,7 +204,7 @@ This is Change My View.
 <claim type="evaluation_emotional" id="142" rel="agreement" ref="120">I'm pretty sure that's how everybody's mind works at all times</claim>, and <premise type="pathos" id="143">that I said that</premise>, and <premise type="pathos" id="144">you know that :)</premise>
 
 <claim type="evaluation_emotional" id="145">I find your passive aggressiveness and focus on superiority and inferiority to be low</claim>.
-I'd of liked this to have been mature, and <premise type="logos_pathos" id="146"rel="support" ref="145">you probably should have anticipated people finding your worldview to be wrong on CMV</premise>.
+I'd of liked this to have been mature, and <premise type="logos_pathos" id="146" rel="support" ref="145">you probably should have anticipated people finding your worldview to be wrong on CMV</premise>.
 <claim type="evaluation_rational" id="147">To change your view, they inevitably have to think you're wrong on some level of analysis</claim>.
 <premise type="logos_pathos" id="148" rel="support" ref="145">Didn't you anticipate your apparent reasoning to be challenged in the least</premise>?
 <premise type="logos_pathos" id="149" rel="support" ref="145">Or did I do it too offensively well</premise>?
@@ -213,7 +213,7 @@ I'd of liked this to have been mature, and <premise type="logos_pathos" id="146"
 
 <claim type="evaluation_rational" id="150" rel="undercutter_attack" ref="120">Teens are still developing, you know</claim>.
 <premise type="logos_pathos" id="151" rel="support" ref="150">There's [plenty of research](http://www.health.harvard.edu/blog-extra/the-adolescent-brain-beyond-raging-hormones) supporting that their minds aren't fully developed</premise> and <premise type="logos_pathos" id="152" rel="support" ref="150">that they're incapable of certain higher processes regarding emotional awareness</premise>.
-Also <premise type="logos" id="153" rel="support" ref="150">I was careful to say that psychosis was a developmental disorder</premise>, and <premise type="logos" id="154"rel="support" ref="150">that teenage reasoning only appears quasi-psychotic, but that it's not</premise>, in explaining how people think emotionally and why in a way you could understand.
+Also <premise type="logos" id="153" rel="support" ref="150">I was careful to say that psychosis was a developmental disorder</premise>, and <premise type="logos" id="154" rel="support" ref="150">that teenage reasoning only appears quasi-psychotic, but that it's not</premise>, in explaining how people think emotionally and why in a way you could understand.
 
 <premise type="logos" id="155">And you can understand it, and do; which is why you're pissed</premise>.
 
@@ -226,8 +226,8 @@ Name one.
 
 &gt; You completely circumvented every single debate being had in this thread and proceeded to ejaculate your rather arrogant assumptions all over the place
 
-<premise type="logos" id="159" rel="partial_agreement" ref="124">If by that you mean I posted my own impressions like everybody else,</premise><claim type="agreement" id="160"rel="partial_agreement" ref="124" >yeah</claim>.
-<claim type="interpretation" id="161 rel="unercutter_attack" ref="124"">I think you're describing your feelings of how all the other posts were dwarfed in your opinion and are in my post's shadow, and how you hate it</claim>.
+<premise type="logos" id="159" rel="partial_agreement" ref="124">If by that you mean I posted my own impressions like everybody else,</premise><claim type="agreement" id="160" rel="partial_agreement" ref="124" >yeah</claim>.
+<claim type="interpretation" id="161" rel="undercutter_attack" ref="124">I think you're describing your feelings of how all the other posts were dwarfed in your opinion and are in my post's shadow, and how you hate it</claim>.
 I like the implied sexual dominance part.
 I'll take the ejaculating comment and agree on that.
 I really did pound your thread pretty hard with thoughts, and I liked it.
@@ -263,7 +263,7 @@ It's one step closer to abandoning it.
 I did anticipate this, and I'm not doing it to troll, but I really do want to change your view--more specifically, that sort of thinking.
 <premise type="logos_pathos" id="175" rel="support" ref="174">It'll go well with you to be smarter than that</premise>.
 
-<claim type="evaluation_emotional" id="176 rel="rebuttal_attack" ref="138">I think it's working</claim>.
+<claim type="evaluation_emotional" id="176" rel="rebuttal_attack" ref="138">I think it's working</claim>.
 <claim type="evaluation_rational" id="177" rel="rebuttal_attack" ref="138">I think your rage is death throes of a bad way of thinking</claim>.
 Enjoy it.
 <premise type="logos_pathos" id="178" rel="support" ref="177">People smarter than you have a nasty habit of being a little proud and avoid conflict, and will just judge you when you tell them stuff like that, instead of taking the time to tell you why you're wrong</premise>.
@@ -271,28 +271,28 @@ Enjoy it.
 
 &gt; Its rather ironic that you are peddling how emotionally retarded I am, yet how you spent the past two comments trying to classify me, inform me of my inadequacies, *subtly be a superior human being,* and also fall under what seems to be the Dunning-Krueger effect yourself
 
-<claim type="evaluation_emotional" id="180" rel="rebuttal_attack" ref="188" >It's Dunning-Kruger</claim>.
+<claim type="evaluation_emotional" id="180" rel="rebuttal_attack" ref="137" >It's Dunning-Kruger</claim>.
 <premise type="logos_pathos" id="181" rel="support" ref="182">Also your view didn't anticipate the human element an iota</premise>, and <claim type="evaluation_rational" id="182">that was a lapse in emotion that revealed your age</claim>.
 <premise type="logos_pathos" id="183" rel="support" ref="182">Once you learn what you don't know, you will have made a dent in knowledge akin to the damage a dove would do to a mountain if it few by lightly brushing it with the tip of its wing</premise>.
 <premise type="logos" id="184" rel="support" ref="182" >In other words, it wouldn't be a drop in the ocean, so if you're squeamish about being ignorant you shouldn't have been born, because everybody is ignorant of most things</premise>.
 <premise type="logos_pathos" id="185" rel="support" ref="182">Fixing your thought patterns means you can be like an explorer who can take weirdness as it comes and be ready to deal with it, instead of having a tiff when you get called dumb for calling 55 million abortions a good thing with c.15 whole years of experience</premise>.
 As for you, fix those thought patterns and get used to it, <claim type="evaluation_rational" id="186">because you're going to readjust a lot</claim>.
-<claim type="evaluation_rational" id="187">Best to find out how to deal with information instead of trying to be "right"</claim>, because <premise type="logos_pathos" id="188" rel="support" ref="187">sides are made by and for clergy and politicians, it wont do you any good</premise>.
+<claim type="evaluation_rational" id="187">Best to find out how to deal with information instead of trying to be "right"</claim>, because <premise type="logos_pathos" id="188" rel="support" ref="187" >sides are made by and for clergy and politicians, it wont do you any good</premise>.
 
 </reply>
 <reply id="cnhx92z" author="runescapethug">
 
 &gt; Therapy. I like that. So personal; very theatrical. Can I comment on your inferior reasoning and why it's inferior without it being a big deal? This is Change My View. Did you expect people to not shoot holes in your reasoning? If my reasoning is inferior, than prove the original view along with the logic behind it wrong. Its that simple .     
 
-<claim type="evaluation_emotional" id="189" rel="rebuttal_attack" ref="196" >I wouldn't say you shot holes in my idea, more so that you used an unnecessary amount of time and effort to make a few simple points</claim>.
+<claim type="evaluation_emotional" id="189" rel="rebuttal_attack" ref="141" >I wouldn't say you shot holes in my idea, more so that you used an unnecessary amount of time and effort to make a few simple points</claim>.
 
 &gt; I'm pretty sure that's how everybody's mind works at all times, and that I said that, and you know that :)
 
-<claim type="evaluation_rational" id="190" rel="undercutter_attack" ref="196">Most minds don't work in such a way that they have to ignore information to function</claim>.
-<claim type="evaluation_rational" id="191" rel="rebuttal_attack" ref="196">The claim that one has to be emotionally retarded to have such a thought is ridiculous</claim>.
+<claim type="evaluation_rational" id="190" rel="undercutter_attack" ref="120">Most minds don't work in such a way that they have to ignore information to function</claim>.
+<claim type="evaluation_rational" id="191" rel="rebuttal_attack" ref="120">The claim that one has to be emotionally retarded to have such a thought is ridiculous</claim>.
 
 ":)"
-<claim type="evaluation_rational" id="192">you seem to have been made mad by my comment and then put anger into the rest of your response</claim>.
+<claim type="evaluation_rational" id="192" rel="undercutter_attack" ref="120">you seem to have been made mad by my comment and then put anger into the rest of your response</claim>.
 
 &gt; I find your passive aggressiveness and focus on superiority and inferiority to be low.
 
@@ -300,12 +300,12 @@ As for you, fix those thought patterns and get used to it, <claim type="evaluati
 
 &gt; I'd of liked this to have been mature, and you probably should have anticipated people finding your worldview to be wrong on CMV. To change your view, they inevitably have to think you're wrong on some level of analysis.
 
-<claim type="evaluation_rational" id="195" rel="partial_attack" ref="206" >Of course, but that doesn't mean that I have to agree with you when I see you as wrong</claim>.
+<claim type="evaluation_rational" id="195" rel="partial_attack" ref="146" >Of course, but that doesn't mean that I have to agree with you when I see you as wrong</claim>.
 
 &gt; Didn't you anticipate your apparent reasoning to be challenged in the least? Or did I do it too offensively well?
 
-<claim type="evaluation_rational" id="196" rel="partial_agreement" ref="205">I absolutely expected to be chewed alive for every fallacy I had</claim>.
-<claim type="evaluation_rational" id="197" rel="partial_agreement" ref="205">What I was *annoyed* by were your unfounded and arrogant assumptions</claim>.
+<claim type="evaluation_rational" id="196" rel="partial_agreement" ref="148">I absolutely expected to be chewed alive for every fallacy I had</claim>.
+<claim type="evaluation_rational" id="197" rel="partial_agreement" ref="148">What I was *annoyed* by were your unfounded and arrogant assumptions</claim>.
 
 &gt; Teens are still developing, you know. There's plenty of research supporting that their minds aren't fully developed and that they're incapable of certain higher processes regarding emotional awareness. Also I was careful to say that psychosis was a developmental disorder, and that teenage reasoning only appears quasi-psychotic, but that it's not, in explaining how people think emotionally and why in a way you could understand.    
 
@@ -314,40 +314,40 @@ There you go again.
 <premise type="logos_pathos" id="199" rel="rebuttal_attack" ref="213">You truly are ridiculous</premise>.
 
 &gt; And you can understand it, and do; which is why you're pissed
-<claim type="evaluation_rational" id="200" rel="rebuttal_attack" ref="217" >I didn't tell you to change your view because you're inferior</claim>, and <premise type="logos" id="201" rel="support" ref="200">I had the courtesy to explain what you missed and why, which did include a current inability to anticipate consequences (which is in the linked Harvard study) and how changing your view was a part of growing up and why</premise>.
+<claim type="evaluation_rational" id="200" rel="rebuttal_attack" ref="155" >I didn't tell you to change your view because you're inferior</claim>, and <premise type="logos" id="201" rel="support" ref="200">I had the courtesy to explain what you missed and why, which did include a current inability to anticipate consequences (which is in the linked Harvard study) and how changing your view was a part of growing up and why</premise>.
 <premise type="logos" id="202" rel="support" ref="200">Don't try and punish me for talking to you</premise>.
 
 I'm not anticipating consequences?
-<claim type="evaluation_rational" id="203" rel="rebuttal_attack" ref="200">That was the entire point of my CMV</claim>.
+<claim type="evaluation_rational" id="203" rel="rebuttal_attack" ref="201">That was the entire point of my CMV</claim>.
 <premise type="pathos" id="204" rel="support" ref="203">Did you not even read any of this?</premise>
-<premise type="logos_pathos" id="205" rel="support" ref="203">Did you not see the note that said that I was fishing for insight into the impact of 55 million abortions?</premise>
-<premise type="logos" id="207" rel="support" ref="203">You could have actually posed consequences to change my view</premise>.
+<premise type="logos_pathos" id="205" rel="support" ref="203">Did you not see the note that said that I was fishing for insight into the impact of 55 million abortions</premise>
+<premise type="logos" id="206">?</premise> <premise type="logos" id="207" rel="support" ref="203">You could have actually posed consequences to change my view</premise>.
 <premise type="logos" id="208" rel="support" ref="203">And Christ, you said you *had the courtesy to explain this to me*. Kid...</premise>
 
 &gt;"As for your concluding paragraph, it is complete nonsense. There is an assumption every other sentence with the remaining sentences being filled with assertions that you have not been backed with well-founded arguments."
 &gt;**Name one.**
 
-<claim type="evaluation_emotional" id="209" rel="rebuttal_attack" ref="203" >Anyway, that's why I gave that explanation, and you didn't anticipate it, but thought you did, didn't you?</claim> (1) <claim type="evaluation_emotional" id="210">You said I gave the Zeitgeist explanation because it was my best</claim>(2), but <premise type="logos" id="211">it was really tailored to challenge your reasoning style</premise>.
-<premise type="pathos" id="212" rel="rebuttal_attack" ref="203">You probably don't see yourself as having a predictable reasoning style(3)</premise>.
-<premise type="logos" id="213" rel="rebuttal_attack" ref="203">This is the problem with X-factors and complexity(4)</premise>.
-<premise type="logos_pathos" id="214" rel="undercutter_attack" ref="203">You don't know what you don't know, you didn't know you didn't know my motivation, and you don't know that the 55 million abortions were a good thing(The point of the thread, no?), or what interests were operating in the establishment of them(The point of the thread, no?), or the consequences(The point of the thread, no?)</premise>.
-<premise type="logos" id="215" rel="rebuttal_attack" ref="203">So far, the consequences are extremely negative for your generation(heck of a statement without an argument behind it)</premise>
+<claim type="evaluation_emotional" id="209" rel="rebuttal_attack" ref="122" >Anyway, that's why I gave that explanation, and you didn't anticipate it, but thought you did, didn't you?</claim> (1) <claim type="evaluation_emotional" id="210">You said I gave the Zeitgeist explanation because it was my best</claim>(2), but <premise type="logos" id="211">it was really tailored to challenge your reasoning style</premise>.
+<premise type="pathos" id="212" rel="rebuttal_attack" ref="122">You probably don't see yourself as having a predictable reasoning style(3)</premise>.
+<premise type="logos" id="213" rel="rebuttal_attack" ref="122">This is the problem with X-factors and complexity(4)</premise>.
+<premise type="logos_pathos" id="214" rel="undercutter_attack" ref="122">You don't know what you don't know, you didn't know you didn't know my motivation, and you don't know that the 55 million abortions were a good thing(The point of the thread, no?), or what interests were operating in the establishment of them(The point of the thread, no?), or the consequences(The point of the thread, no?)</premise>.
+<premise type="logos" id="215" rel="rebuttal_attack" ref="122">So far, the consequences are extremely negative for your generation(heck of a statement without an argument behind it)</premise>
 
 &gt; If by that you mean I posted my own impressions like everybody else, yeah. I think you're describing your feelings of how all the other posts were dwarfed in your opinion and are in my post's shadow, and how you hate it.
 
-<claim type="evaluation_rational" id="216" rel="undercutter_attack" ref="229" >A little self important eh?</claim>
+<claim type="evaluation_rational" id="216" rel="undercutter_attack" ref="159" >A little self important eh?</claim>
 
 &gt; I like the implied sexual dominance part. I'll take the ejaculating comment and agree on that. I really did pound your thread pretty hard with thoughts, and I liked it.
 
-<claim type="evaluation_rational" id="217"  rel="undercutter_attack" ref="230" >You seem to be quasi-psychotic</claim>
+<claim type="evaluation_rational" id="217" >You seem to be quasi-psychotic</claim>
 
 &gt; Well my post was about being wrong as an asset to learning things, but let's not spit hairs. Yeah it's pretty important to not think what you think is wrong. There's not a lot of sense in thinking things you don't think are true.
 
-<claim type="evaluation_rational" id="218" rel="undercutter_attack" ref="236" >Rambling on</claim>.
+<claim type="evaluation_rational" id="218" rel="undercutter_attack" ref="162" >Rambling on</claim>.
 
 &gt; Most folks don't claim to have extreme views unless they have an unhealthy degree of misguided confidence in them. At least enough confidence to have the gull to say it. If you came up and said you hated black people I'd also assume you were relatively confident about it, too. Not exactly humble beliefs, are they.
 
-<claim type="evaluation_rational" id="219" rel="rebuttal_attack" ref="249" >First of all, your comments, under your own description of the Dunning Krueger effect, have some serious ass Dunning Krueger</claim>.
+<claim type="evaluation_rational" id="219" rel="rebuttal_attack" ref="165" >First of all, your comments, under your own description of the Dunning Krueger effect, have some serious ass Dunning Krueger</claim>.
 Second of all, <premise type="ethos_logos_pathos" id="220" rel="support" ref="219" >I had reasoning behind my views, and was confident about the reasoning</premise>, but <premise type="ethos_logos_pathos" id="221">came here in expectance that there was some reasoning that I had not yet considered which may change my opinion</premise>.
 <claim type="evaluation_rational" id="222">I came here to learn</claim>.
 <claim type="evaluation_rational" id="223">I came here expecting myself to be proven wrong</claim>.
@@ -355,10 +355,10 @@ Second of all, <premise type="ethos_logos_pathos" id="220" rel="support" ref="21
 
 &gt; See, no emotional awareness. Harvard study. My posts. Read them. You don't understand the signals you're sending, and get upset when folks read between the lines because you put the wrong information between them--likely true information.         
 
-<claim type="interpretation" id="225" rel="rebuttal_attack" ref="247">Having a thought, however morbid and efficient, is not enough to indicate a lack of emotional intelligence</claim>.
+<claim type="interpretation" id="225" rel="rebuttal_attack" ref="171">Having a thought, however morbid and efficient, is not enough to indicate a lack of emotional intelligence</claim>.
 <premise type="logos_pathos" id="226"  rel="support" ref="225">People grow up learning different things, and get this, having different views</premise>.
 
-<premise type="logos_pathos" id="227"rel="support" ref="225">Then you go on to, instead of making an actual argument to prove me wrong, to say that I am not capable of holding these views without being inferior</premise>.
+<premise type="logos_pathos" id="227" rel="support" ref="225">Then you go on to, instead of making an actual argument to prove me wrong, to say that I am not capable of holding these views without being inferior</premise>.
 
 <premise type="logos_pathos" id="228" rel="support" ref="225">Really, were you home-schooled</premise>?
 <premise type="logos_pathos" id="229" rel="support" ref="225">Your views are indicative of an angsty 20 year old who has not had much world exposure, one that wasn't weened until the age of 15</premise>.
@@ -376,45 +376,45 @@ Read: post title.
 
 &gt; and you probably see how shallow and dumb that is in retrospect.
 
-<premise type="logos" id="236" rel="rebuttal_attack" ref="376" >600 people would at least agree that it was an interesting thought.</premise>
+<premise type="logos" id="236" rel="rebuttal_attack" ref="172" >600 people would at least agree that it was an interesting thought.</premise>
 
 &gt; It's good that you've distanced yourself from your view in saying you're not that confident in it. It's one step closer to abandoning it.
 
-<claim type="evaluation_emotional" id="237" rel="rebuttal_attack" ref="380" >I'm not going to *abandon* a view, i'm going to be presented with new information that changes my mind.</claim>
+<claim type="evaluation_emotional" id="237" rel="rebuttal_attack" ref="173" >I'm not going to *abandon* a view, i'm going to be presented with new information that changes my mind.</claim>
 
 &gt; Most people would have thought that, and would have been satisfied to ignore you for this very reason and not respond.
 
 Oh?
-<premise type="logos_pathos" id="238" rel="undecutter_attack" ref="268" >Then why is this post so popular?</premise>
-<claim type="interpretation" id="239">Again, instead of making actual arguments, all you're doing is to attempt to devalue me and the idea</claim>.
+<premise type="logos_pathos" id="238" rel="undercutter_attack" ref="174">Then why is this post so popular?</premise>
+<claim type="interpretation" id="239" rel="undercutter_attack" ref="174">Again, instead of making actual arguments, all you're doing is to attempt to devalue me and the idea</claim>.
 
 &gt; I did anticipate this, and I'm not doing it to troll, but I really do want to change your view--more specifically, that sort of thinking. It'll go well with you to be smarter than that.
 
-<premise type="logos_pathos" id="240" rel="undecutter_attack" ref="262" >Visit the subreddit /r/iamverysmart to see your error</premise>
+<premise type="logos_pathos" id="240" >Visit the subreddit /r/iamverysmart to see your error</premise>
 
 &gt; I think it's working. I think your rage is death throes of a bad way of thinking. Enjoy it. People smarter than you have a nasty habit of being a little proud and avoid conflict, and will just judge you when you tell them stuff like that, instead of taking the time to tell you why you're wrong.
 
-<claim type="evaluation_rational" id="241" rel="undecutter_attack" ref="394">You're one of those people you imply?</claim>
-<premise type="logos_pathos" id="242" rel="undecutter_attack" ref="394">See: Dunning Krueger</premise>.
-<premise type="logos" id="243" rel="undercutter_attack" ref="394">Also, see the numerous other similar things you've said that don't actually contribute to the discussion, all you're doing is attempting to devalue the argument and myself.</premise>
+<claim type="evaluation_rational" id="241" rel="undercutter_attack" ref="177">You're one of those people you imply?</claim>
+<premise type="logos_pathos" id="242" rel="undercutter_attack" ref="177">See: Dunning Krueger</premise>.
+<premise type="logos" id="243" rel="undercutter_attack" ref="177">Also, see the numerous other similar things you've said that don't actually contribute to the discussion, all you're doing is attempting to devalue the argument and myself.</premise>
 
 &gt; Few people are willing to correct even false facts these days, let alone patterns and assumptions.
 
 Praise jesus!
-<claim type="agreement" id="245" rel="rebuttal_attack" ref="269">this intellectual has blessed me with correcting my false facts! I should be thankful!</claim>
+<claim type="agreement" id="245" rel="rebuttal_attack" ref="179">this intellectual has blessed me with correcting my false facts! I should be thankful!</claim>
 
 &gt; knowledge akin to the damage a dove would do to a mountain if it few by lightly brushing it with the tip of its wing.
 
-<claim type="evaluation_rational" id="246" rel="rebuttal_attack" ref="404">Its like you say the same thing over and over again and make it as convoluted as possible</claim>
+<claim type="evaluation_rational" id="246" rel="rebuttal_attack" ref="183">Its like you say the same thing over and over again and make it as convoluted as possible</claim>
 
 &gt; Fixing your thought patterns means you can be like an explorer who can take weirdness as it comes and be ready to deal with it, instead of having a tiff when you get called dumb for calling 55 million abortions a good thing with c.15 whole years of experience.
 
-<claim type="evaluation_rational" id="247" rel="rebuttal_attack" ref="269">Isn't this another one of those places where you were supposed to contribute to the discussion rather than doing your *i'm an intellectual* masturbation?</claim>
+<claim type="evaluation_rational" id="247" rel="rebuttal_attack" ref="185">Isn't this another one of those places where you were supposed to contribute to the discussion rather than doing your *i'm an intellectual* masturbation?</claim>
 
 &gt; As for you, fix those thought patterns and get used to it, because you're going to readjust a lot. Best to find out how to deal with information instead of trying to be "right", because sides are made by and for clergy and politicians, it wont do you any good
 
 Ahh.
-<claim type="evaluation_rational" id="249" rel="rebuttal_attack" ref="278">I'm susceptible to politics and religion because I disagree with you.</claim>
+<claim type="evaluation_rational" id="249" rel="rebuttal_attack" ref="186">I'm susceptible to politics and religion because I disagree with you.</claim>
 Bonus fedora points!!
 
 </reply>

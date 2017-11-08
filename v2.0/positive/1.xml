@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <thread ID="2rppq9">
-<title>CMV: Religion is not violent or not violent, its followers are.</title>
+<title><claim type="interpretation"> CMV: Religion is not violent or not violent, its followers are.</claim></title>
 <source>http://www.reddit.com/r/changemyview/comments/2rppq9/cmv_religion_is_not_violent_or_not_violent_its/</source>
 <OP author="DurianMD">
 
 So recently I've seen a lot of posts condemning Islam as a violent religion or a sexist religion.
-<claim type="evaluation_rational" id="0" rel="agreement" ref-"title">I point out that many Christians follow the bible which has numerous examples of sexism, but in application, there are numerous branches of Christianity that are no more sexist than secular groups.</claim>
+<claim type="evaluation_rational" id="0" rel="agreement" ref="title">I point out that many Christians follow the bible which has numerous examples of sexism, but in application, there are numerous branches of Christianity that are no more sexist than secular groups.</claim>
 <premise type="logos_pathos" id="1" rel="support" ref="0" >For example, Congregationalists and Universaliists.</premise>
 
 So, <claim type="evaluation_rational" id="2" rel="agreement" ref="title">my belief is that while religion can inform the views of people, it is far more likely that religion will be used to justify actions that would have been executed any way.</claim> <claim type="evaluation_rational" id="3" rel="agreement" ref="title">I think that most Jewish people don't want to stone adulterers and most Muslims don't want to stone non believers.</claim>
@@ -26,7 +26,7 @@ So, <claim type="evaluation_rational" id="2" rel="agreement" ref="title">my beli
 <reply id="cnjua2g" author="DurianMD">
 <claim type="evaluation_rational" id="3q" rel="agreement" ref="3o"> This is exactly the kind of explanation I was looking for. </claim> 
 I'm on mobile, but I'll award you a delta when I get home. 
-<premise type="pathos" id="3r" rel="support"> You've appealed to all my sensibilities around this kind of issue </premise> while only making statements I agree with to change my view. 
+<premise type="pathos" id="3r" rel="support" ref="3q"> You've appealed to all my sensibilities around this kind of issue </premise> while only making statements I agree with to change my view. 
 <claim type="evaluation_rational" id="3s" rel="agreement" ref="3q"> That was terrific.</claim>
 
 &#8710;
