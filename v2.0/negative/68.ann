@@ -1,98 +1,98 @@
-T1 main_claim 0 102 
+T1 main_claim 0 102 CMV: Assuming there is no afterlife, then life is ultimately meaningless and pointless because we die. 
 A1 Type T1 evaluation_emotional 
-T2 premise 380 401 
+T2 premise 380 401 there is no afterlife 
 A2 Type T2 logos_pathos 
-T3 claim 404 448 
+T3 claim 404 448 life is ultimately meaningless and pointless 
 A3 Type T3 evaluation_emotional 
-T4 premise 457 463 
+T4 premise 457 463 we die 
 A4 Type T4 logos_pathos 
-T5 claim 466 491 
+T5 claim 466 491 Death is the great eraser 
 A5 Type T5 interpretation 
-T6 premise 494 601 
+T6 premise 494 601 Living life is as irrational as reading a book that, after finished, is immediately erased from your memory 
 A6 Type T6 logos 
-T7 premise 604 633 
+T7 premise 604 633 It is comparable to that, too 
 A7 Type T7 logos 
-T8 claim 637 719 
+T8 claim 637 719 It makes no difference if I, a 23 year old, die now or live until I am 100 and die 
 A8 Type T8 interpretation 
-T9 premise 722 788 
+T9 premise 722 788 Either way, after my brief spark of existence I become nothingness 
 A9 Type T9 logos_pathos 
-T10 premise 791 835 
+T10 premise 791 835 Not only do I remember nothing; I AM nothing 
 A10 Type T10 logos_pathos 
-T11 premise 838 883 
+T11 premise 838 883 To me, it is as if my life had never happened 
 A11 Type T11 logos_pathos 
-T12 premise 912 949 
+T12 premise 912 949 Imagine the time before you were born 
 A12 Type T12 logos 
-T13 premise 980 993 
+T13 premise 980 993 Of course not 
 A13 Type T13 logos 
-T14 premise 996 1012 
+T14 premise 996 1012 You didn't exist 
 A14 Type T14 pathos 
-T15 premise 1015 1131 
+T15 premise 1015 1131 This is the state that we return to after death--a state of nothingness similar to the state we were in before birth 
 A15 Type T15 logos_pathos 
-T16 premise 1134 1206 
+T16 premise 1134 1206 When I die, I return to this state after a brief period of consciousness 
 A16 Type T16 logos_pathos 
-T17 premise 1213 1239 
+T17 premise 1213 1239 I return to it permanently 
 A17 Type T17 logos_pathos 
-T18 premise 1242 1274 
+T18 premise 1242 1274 I might as well have never lived 
 A18 Type T18 logos_pathos 
-T19 claim 1314 1343 
+T19 claim 1314 1343 Helping others doesn't matter 
 A19 Type T19 interpretation 
-T20 premise 1346 1363 
+T20 premise 1346 1363 They will die too 
 A20 Type T20 logos 
-T21 premise 1366 1419 
+T21 premise 1366 1419 And then their descendants will die, on and on and on 
 A21 Type T21 logos 
-T22 premise 1428 1516 
+T22 premise 1428 1516 eventually the universe is destroyed or our galaxy collapses in an inevitable heat-death 
 A22 Type T22 logos 
-T23 premise 1519 1561 
+T23 premise 1519 1561 Even if 1,000,000 people were helped by me 
 A23 Type T23 logos 
-T24 premise 1564 1585 
+T24 premise 1564 1585 assuming they all die 
 A24 Type T24 logos 
-T25 claim 1588 1635 
+T25 claim 1588 1635 then my life is still pointless and meaningless 
 A25 Type T25 disagreement 
-T26 premise 1638 1682 
+T26 premise 1638 1682 For I will be dead and won't know what I did 
 A26 Type T26 logos_pathos 
-T27 premise 1689 1726 
+T27 premise 1689 1726 once they die, they won't know either 
 A27 Type T27 logos_pathos 
-T28 claim 1730 1801 
+T28 claim 1730 1801 (2) Attaining fame doesn't matter and doesn't truly make me "immortal." 
 A28 Type T28 interpretation 
-T29 premise 1802 1847 
+T29 premise 1802 1847 I'll be dead, and again, death is nothingness 
 A29 Type T29 pathos 
-T30 premise 1850 1890 
+T30 premise 1850 1890 Thus, I won't be around to enjoy my fame 
 A30 Type T30 logos_pathos 
-T31 claim 1898 1929 
+T31 claim 1898 1929 Enjoying the moment is possible 
 A31 Type T31 evaluation_emotional 
-T32 claim 1936 1966 
+T32 claim 1936 1966 doesn't make life have a point 
 A32 Type T32 evaluation_emotional 
-T33 premise 1973 2019 
+T33 premise 1973 2019 once I die, all memories and all point is gone 
 A33 Type T33 logos_pathos 
-T34 claim 2080 2177 
+T34 claim 2080 2177 Your point is predicated on the assumption that something is pointless if it doesn't last forever 
 A34 Type T34 interpretation 
-T35 claim 2336 2361 
+T35 claim 2336 2361 That is what life is like 
 A35 Type T35 evaluation_rational 
-T36 premise 2364 2404 
+T36 premise 2364 2404 Reading the book is ULTIMATELY pointless 
 A36 Type T36 logos_pathos 
-T37 premise 2407 2444 
+T37 premise 2407 2444 Because it is erased from your memory 
 A37 Type T37 logos_pathos 
-T38 claim 2448 2485 
+T38 claim 2448 2485 Life is pointless in a similar manner 
 A38 Type T38 interpretation 
-T39 claim 2490 2572 
+T39 claim 2490 2572 I wouldn't consider it pointless if I derived pleasure from reading it at the time 
 A39 Type T39 disagreement 
-T40 premise 2576 2685 
+T40 premise 2576 2685 I mean if you really believe that everything that does not last forever is pointless, why do you do anything? 
 A40 Type T40 logos_pathos 
-T41 premise 2686 2744 
+T41 premise 2686 2744 Why not sit in a corner and stare at a wall until you die? 
 A41 Type T41 logos_pathos 
-T42 claim 2745 2886 
+T42 claim 2745 2886 I would guess that it's because you derive pleasure from certain things in life and that you pursue these things just like everyone else does 
 A42 Type T42 interpretation 
-T43 premise 2907 2942 
+T43 premise 2907 2942 pursuing those things is irrational 
 A43 Type T43 ethos_pathos 
-T44 premise 2956 3012 
+T44 premise 2956 3012 death is coming and will erase all experience regardless 
 A44 Type T44 pathos 
-T45 claim 3015 3047 
+T45 claim 3015 3047 I might as well go ahead and die 
 A45 Type T45 evaluation_emotional 
-T46 premise 3051 3121 
+T46 premise 3051 3121 Especially if there is more pain or dull moments than pleasure in life 
 A46 Type T46 pathos 
-T47 claim 3144 3252 
+T47 claim 3144 3252 Why is it irrational to pursue something pleasurable that will not provide pleasure of an infinite duration? 
 A47 Type T47 disagreement 
-T48 claim 3253 3345 
+T48 claim 3253 3345 That seems like an arbitrary condition to apply to the value of pursuing pleasurable things. 
 A48 Type T48 evaluation_rational 
 R1 support Arg1:T2 Arg2:T3
 R2 support Arg1:T12 Arg2:T8

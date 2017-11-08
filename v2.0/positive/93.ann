@@ -1,84 +1,84 @@
-T1 main_claim 0 37 
+T1 main_claim 0 37 CMV: Nativity scenes are antisemitic. 
 A1 Type T1 evaluation_emotional 
-T2 claim 39 126 
+T2 claim 39 126 This has nothing to do with the celebration of Christmas excluding religious minorities 
 A2 Type T2 evaluation_emotional 
-T3 claim 142 211 
+T3 claim 142 211 traditional nativity scenes reinforce negative stereotypes about Jews 
 A3 Type T3 evaluation_emotional 
-T4 premise 215 387 
+T4 premise 215 387 As the story goes, when Jesus was about to be born his parents were travelling to Bethlehem, but when they got there the inn was full, so Mary had to give birth in the barn 
 A4 Type T4 logos 
-T5 premise 390 549 
+T5 premise 390 549 The problem is, if nativity scenes are any indication, baby Jesus was still in the manger when the three wise men came to visit and give him Christmas presents 
 A5 Type T5 logos 
-T6 premise 552 684 
+T6 premise 552 684 Most people know Jesus was born on Christmas, but less realize that the wise men didn't show up until the Epiphany twelve days later 
 A6 Type T6 logos 
-T7 claim 688 784 
+T7 claim 688 784 Are we honestly expected to believe that no vacancies opened up at the inn for almost two weeks? 
 A7 Type T7 interpretation 
-T8 premise 785 869 
+T8 premise 785 869 Because that would be the most unbelievable aspect of the entire story if you ask me 
 A8 Type T8 logos 
-T9 premise 876 920 
+T9 premise 876 920 it seriously strains credulity to begin with 
 A9 Type T9 logos 
-T10 premise 924 999 
+T10 premise 924 999 Even miracles make more sense in the context of the birth of the Son of God 
 A10 Type T10 logos 
-T11 premise 1002 1109 
+T11 premise 1002 1109 Maybe a virgin really could give birth to a deity, or a new star could magically appear over the birthplace 
 A11 Type T11 logos_pathos 
-T12 premise 1116 1206 
+T12 premise 1116 1206 there's no reason for the inn to miraculously have no rooms come open for nearly two weeks 
 A12 Type T12 logos 
-T13 premise 1209 1430 
+T13 premise 1209 1430 Plus Mary and Joseph would be the first to know when something came available since they were basically squatting in the garage and would surely notice when patrons came to get their ox or camel or whatever before leaving 
 A13 Type T13 logos_pathos 
-T14 claim 1434 1638 
+T14 claim 1434 1638 The obvious implication is that Jesus' chintzy Jewish stepdad was such a tightwad that he was willing to let his pubescent wife and her newborn baby sleep in donkey slop if it would save him a few shekels 
 A14 Type T14 interpretation 
-T15 premise 1641 1815 
+T15 premise 1641 1815 Joseph probably would have made that barn the family's permanent rent-free residence if the wise men hadn't showed up bearing enough cash and prizes to go live it up in Egypt 
 A15 Type T15 logos_pathos 
-T16 premise 1829 1862 
+T16 premise 1829 1862 why did they stay so long anyway? 
 A16 Type T16 logos 
-T17 premise 1863 1911 
+T17 premise 1863 1911 It's not like Mary needed the time to recuperate 
 A17 Type T17 logos 
-T18 premise 1914 2070 
+T18 premise 1914 2070 Thanks to baby Jesus' healing powers even her hymen immediately regenerated, kind of like the redhead vampire from True Blood or the cheerleader from Heroes 
 A18 Type T18 logos_pathos 
-T19 premise 2075 2175 
+T19 premise 2075 2175 Not the real life Hayden Panettiere though, you know those gigantic Klitschkos split that wide open. 
 A19 Type T19 pathos 
-T20 premise 2199 2211 
+T20 premise 2199 2211 Matthew 2:11 
 A20 Type T20 ethos 
-T21 premise 2447 2497 
+T21 premise 2447 2497 When the wise men visited Jesus, it was in a house 
 A21 Type T21 logos 
-T22 claim 2500 2554 
+T22 claim 2500 2554 The Nativity scene is about the visit of the shepherds 
 A22 Type T22 interpretation 
-T23 claim 2561 2611 
+T23 claim 2561 2611 the wise men are drawn into the manger scene early 
 A23 Type T23 interpretation 
-T24 premise 2620 2644 
+T24 premise 2620 2644 it looks cooler that way 
 A24 Type T24 logos 
-T25 claim 2648 2653 
+T25 claim 2648 2653 Right 
 A25 Type T25 agreement 
-T26 claim 2664 2789 
+T26 claim 2664 2789 the inventor of nativity scenes think it would "look cooler" because it portrays Joseph as a stereotypical Jewish cheapskate? 
 A26 Type T26 evaluation_emotional 
-T27 claim 2790 2844 
+T27 claim 2790 2844 Why change things from the biblical version of events? 
 A27 Type T27 evaluation_rational 
-T28 claim 2847 2966 
+T28 claim 2847 2966 If the various artists who contributed to the scene had intended to make Joseph stereotypically Jewish, they would have 
 A28 Type T28 disagreement 
-T29 premise 2969 3008 
+T29 premise 2969 3008 They'd have given him a big hooked nose 
 A29 Type T29 logos_pathos 
-T30 premise 3011 3086 
+T30 premise 3011 3086 They'd have given him opulent dress while giving Mary or Jesus poorer dress 
 A30 Type T30 logos_pathos 
-T31 claim 3101 3150 
+T31 claim 3101 3150 But no: they don't make Joseph look Jewish at all 
 A31 Type T31 interpretation 
-T32 premise 3153 3251 
+T32 premise 3153 3251 If there's anything anti-Semitic going on, it's the near-erasure of Jesus/Mary/Joseph's Jewishness 
 A32 Type T32 logos 
-T33 claim 3254 3300 
+T33 claim 3254 3300 The artists aren't focusing on Joseph as a Jew 
 A33 Type T33 interpretation 
-T34 premise 3303 3334 
+T34 premise 3303 3334 he's an early Christian to them 
 A34 Type T34 logos 
-T35 claim 3387 3424 
+T35 claim 3387 3424 That's a pretty common artistic trope 
 A35 Type T35 evaluation_rational 
-T36 premise 3427 3485 
+T36 premise 3427 3485 You say "event X is like event Y, let's put them together" 
 A36 Type T36 logos 
-T37 premise 3488 3567 
+T37 premise 3488 3567 The visit of the shepherds and the visit of the kings are narratively redundant 
 A37 Type T37 logos 
-T38 premise 3570 3617 
+T38 premise 3570 3617 It's just cleaner storytelling to do the mashup 
 A38 Type T38 logos 
-T39 claim 3630 3641 
+T39 claim 3630 3641 Fair enough 
 A39 Type T39 agreement 
-T40 claim 3644 3795 
+T40 claim 3644 3795 I'm not totally convinced that the change wasn't motivated by the kind of antisemitism that was historically common in Christendom until quite recently 
 A40 Type T40 evaluation_emotional 
-T41 claim 3802 3895 
+T41 claim 3802 3895 I have to admit that artistic license does offer a somewhat plausible alternate justification 
 A41 Type T41 evaluation_rational 
 R1 agreement Arg1:T2 Arg2:T1
 R2 agreement Arg1:T3 Arg2:T1

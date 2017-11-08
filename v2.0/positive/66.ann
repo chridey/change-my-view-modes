@@ -1,26 +1,26 @@
-T1 main_claim 0 130 
+T1 main_claim 0 130 CMV - Mobile websites are a relic of the early mobile internet era and are inferior to actual websites when using your smartphone. 
 A1 Type T1 evaluation_rational 
-T2 claim 202 283 
+T2 claim 202 283 There isn't a single instance where a mobile website is preferable to a full site 
 A2 Type T2 evaluation_rational 
-T3 premise 286 328 
+T3 premise 286 328 The information is gutted and moved around 
 A3 Type T3 pathos 
-T4 premise 329 404 
+T4 premise 329 404 making the site difficult to browse if it's something you are familiar with 
 A4 Type T4 pathos 
-T5 premise 409 482 
+T5 premise 409 482 less useful because the information is presented in a mobile-friendly way 
 A5 Type T5 pathos 
-T6 premise 495 575 
+T6 premise 495 575 smart phones are prevalent enough among phone users who want to use the Internet 
 A6 Type T6 logos_pathos 
-T7 claim 581 643 
+T7 claim 581 643 it outweighs the "some people don't have smartphones" argument 
 A7 Type T7 evaluation_rational 
-T8 claim 721 841 
+T8 claim 721 841 "Websites should not default force mobile and have the option to go default and instead start default and allow mobile." 
 A8 Type T8 interpretation 
-T9 claim 969 1054 
+T9 claim 969 1054 It's very off putting and doesn't encourage me, as op, to continue discussing my view 
 A9 Type T9 interpretation 
-T10 claim 1128 1205 
+T10 claim 1128 1205 mobile sites require less amount of data transfer to view than a desktop site 
 A10 Type T10 evaluation_emotional 
-T11 premise 1206 1268 
+T11 premise 1206 1268 which is a big thing for us due to slower Internet connections 
 A11 Type T11 logos 
-T12 claim 1323 1412 
+T12 claim 1323 1412 web sites can be accessed globally and not everyone has the type of network the US enjoys 
 A12 Type T12 evaluation_rational 
 R1 support Arg1:T2 Arg2:T1
 R2 support Arg1:T3 Arg2:T1

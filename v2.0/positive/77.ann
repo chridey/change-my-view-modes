@@ -1,116 +1,116 @@
-T1 main_claim 0 88 
+T1 main_claim 0 88 CMV: Surplus Value Theorem is definitive proof that capitalism is an inefficient system. 
 A1 Type T1 interpretation 
-T2 premise 90 214 
+T2 premise 90 214 As I understand it, and crudely explained, SVT says that in an economic system that lets people hire other people for labour 
 A2 Type T2 logos 
-T3 claim 217 277 
+T3 claim 217 277 waste has to be produced in order for the system to function 
 A3 Type T3 evaluation_rational 
-T4 premise 290 347 
+T4 premise 290 347 Consider a society of 101 people: 100 workers and 1 boss. 
 A4 Type T4 pathos 
-T5 premise 348 396 
+T5 premise 348 396 The boss owns the factory where the workers work 
 A5 Type T5 logos 
-T6 premise 403 458 
+T6 premise 403 458 they produce, say, MLP dolls that everyone wants to buy 
 A6 Type T6 logos 
-T7 premise 461 573 
+T7 premise 461 573 The boss pays each of her workers £5 for each doll that the worker produces, and a worker produces 1 doll a day 
 A7 Type T7 logos 
-T8 premise 576 658 
+T8 premise 576 658 At the end of the day, the boss has 100 dolls, worth £1000 and has paid out £500 
 A8 Type T8 logos_pathos 
-T9 premise 661 744 
+T9 premise 661 744 Wanting to make a profit on the dolls, the boss then sells the dolls for £10 each. 
 A9 Type T9 logos 
-T10 premise 745 792 
+T10 premise 745 792 She is now trying to sell £1000 worth of dolls 
 A10 Type T10 ethos_logos_pathos 
-T11 premise 799 880 
+T11 premise 799 880 the only people available to sell to are the workers, who's total funds are £500 
 A11 Type T11 ethos_logos_pathos 
-T12 premise 883 997 
+T12 premise 883 997 No matter how they rearrange the money between them, they will be unable to buy more than £500 worth of the dolls 
 A12 Type T12 logos 
-T13 premise 1007 1104 
+T13 premise 1007 1104 the rest are waste inherent to the system and a direct result of the boss wanting to make profit. 
 A13 Type T13 logos 
-T14 premise 1106 1239 
+T14 premise 1106 1239 This example then scales up to the whole world when you throw in multiple bosses and lots more workers but the basic idea is the same 
 A14 Type T14 logos 
-T15 premise 1245 1347 
+T15 premise 1245 1347 each worker is being paid less than the price of the things they produce so that their boss can profit 
 A15 Type T15 logos 
-T16 claim 1355 1420 
+T16 claim 1355 1420 items that cannot be sold must still be produced and thrown away. 
 A16 Type T16 evaluation_rational 
-T17 claim 1423 1537 
+T17 claim 1423 1537 This is one of those views that likes to view production, capital, labor, and all of economics as a zero sum game. 
 A17 Type T17 interpretation 
-T18 claim 1538 1547 
+T18 claim 1538 1547 It's not. 
 A18 Type T18 evaluation_rational 
-T19 claim 1548 1591 
+T19 claim 1548 1591 Money circulates multiple times in a system 
 A19 Type T19 evaluation_emotional 
-T20 claim 1598 1628 
+T20 claim 1598 1628 value is created at each stage 
 A20 Type T20 evaluation_emotional 
-T21 claim 1637 1746 
+T21 claim 1637 1746 you're simplifying it down to a level where it doesn't show all of the uses of the money that actually happen 
 A21 Type T21 disagreement 
-T22 claim 1750 1853 
+T22 claim 1750 1853 I could reduce this down to the absolute simplest case and thus reduce the entire argument to absurdity 
 A22 Type T22 evaluation_emotional 
-T23 premise 1856 1994 
+T23 premise 1856 1994 a single worker, who owns all of his own tools (that he made himself), makes a doll out of parts he gathers or makes at no cost to himself 
 A23 Type T23 logos 
-T24 premise 1997 2019 
+T24 premise 1997 2019 The doll is worth $10. 
 A24 Type T24 logos_pathos 
-T25 premise 2030 2068 
+T25 premise 2030 2068 no one in this system actually has $10 
 A25 Type T25 logos_pathos 
-T26 premise 2071 2095 
+T26 premise 2071 2095 no one can buy that doll 
 A26 Type T26 logos_pathos 
-T27 claim 2112 2128 
+T27 claim 2112 2128 it goes to waste 
 A27 Type T27 evaluation_emotional 
-T28 claim 2182 2251 
+T28 claim 2182 2251 it leaves out a lot of economic activity outside of the example shown 
 A28 Type T28 evaluation_rational 
-T29 claim 2254 2318 
+T29 claim 2254 2318 Nothing about scaling that up to a factory changes the reasoning 
 A29 Type T29 evaluation_rational 
-T30 claim 2321 2367 
+T30 claim 2321 2367 The reasoning is just oversimplified and wrong 
 A30 Type T30 evaluation_emotional 
-T31 claim 2383 2453 
+T31 claim 2383 2453 all of the money received by the factory for the dolls goes to someone 
 A31 Type T31 evaluation_emotional 
-T32 premise 2476 2529 
+T32 premise 2476 2529 typically most companies aren't owned by the "bosses" 
 A32 Type T32 logos_pathos 
-T33 premise 2532 2645 
+T33 premise 2532 2645 They are owned by the owners of the company, which are many and varied, often including the workers in many cases 
 A33 Type T33 ethos_logos_pathos 
-T34 premise 2648 2713 
+T34 premise 2648 2713 The excess value goes to all of them, who spend it on many things 
 A34 Type T34 logos_pathos 
-T35 premise 2728 2775 
+T35 premise 2728 2775 some of it is retained as capital by the owners 
 A35 Type T35 logos 
-T36 premise 2782 2809 
+T36 premise 2782 2809 what does that really mean? 
 A36 Type T36 logos 
-T37 claim 2810 2857 
+T37 claim 2810 2857 People don't actually "horde" money in couches. 
 A37 Type T37 evaluation_rational 
-T38 premise 2858 3004 
+T38 premise 2858 3004 They invest it in other productive stuff, such as new factories that produce *more* stuff (someone has to pay the people that build the factories) 
 A38 Type T38 logos_pathos 
-T39 premise 3010 3072 
+T39 premise 3010 3072 money that is borrowed by people to start their own businesses 
 A39 Type T39 logos_pathos 
-T40 premise 3086 3106 
+T40 premise 3086 3106 some businesses fail 
 A40 Type T40 logos_pathos 
-T41 claim 3113 3179 
+T41 claim 3113 3179 that is by and large where most of the "surplus value" is "wasted" 
 A41 Type T41 evaluation_rational 
-T42 claim 3186 3213 
+T42 claim 3186 3213 only in a very narrow sense 
 A42 Type T42 disagreement 
-T43 premise 3224 3335 
+T43 premise 3224 3335 in the process of being "wasted", it ended up going to other people for the businesses purchases, payrolls, etc 
 A43 Type T43 logos_pathos 
-T44 premise 3352 3423 
+T44 premise 3352 3423 the businesses that succeed end up generating *more* economic activity. 
 A44 Type T44 ethos_logos_pathos 
-T45 claim 3425 3467 
+T45 claim 3425 3467 This is no different from any other system 
 A45 Type T45 interpretation 
-T46 premise 3475 3525 
+T46 premise 3475 3525 In communism, surplus value is also either created 
 A46 Type T46 logos_pathos 
-T47 premise 3562 3609 
+T47 premise 3562 3609 shortage occurs because not enough was produced 
 A47 Type T47 logos_pathos 
-T48 claim 3613 3656 
+T48 claim 3613 3656 The only difference is where the money goes 
 A48 Type T48 interpretation 
-T49 premise 3662 3701 
+T49 premise 3662 3701 real-world examples of communist states 
 A49 Type T49 logos 
-T50 claim 3704 3731 
+T50 claim 3704 3731 the money goes to the state 
 A50 Type T50 evaluation_emotional 
-T51 premise 3740 3795 
+T51 premise 3740 3795 "wastes" a lot of it in overhead and useless production 
 A51 Type T51 logos 
-T52 premise 3808 3834 
+T52 premise 3808 3834 in some kinds of communism 
 A52 Type T52 logos_pathos 
-T53 claim 3837 3864 
+T53 claim 3837 3864 it goes back to the workers 
 A53 Type T53 agreement 
-T54 claim 3907 4049 
+T54 claim 3907 4049 factory owners have a lot of ways of disposing of excess inventory, and a lot of incentive to not *create* excess inventory in the first place 
 A54 Type T54 evaluation_emotional 
-T55 premise 4052 4117 
+T55 premise 4052 4117 Other systems have less incentive for these corrections to happen 
 A55 Type T55 logos_pathos 
-T56 claim 4146 4179 
+T56 claim 4146 4179 end up generating even more waste 
 A56 Type T56 evaluation_emotional 
-T57 premise 4190 4296 
+T57 premise 4190 4296 the people making the decisions about production don't have as much incentive to get those decisions right 
 A57 Type T57 logos_pathos 
 R1 support Arg1:T2 Arg2:T3
 R2 support Arg1:T10 Arg2:T3

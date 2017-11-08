@@ -1,40 +1,40 @@
-T1 main_claim 0 42 
+T1 main_claim 0 42 CMV The EGG came first before the chicken. 
 A1 Type T1 interpretation 
-T2 premise 44 134 
+T2 premise 44 134 According to the theory of evolution it makes more sense that the egg preceded the chicken 
 A2 Type T2 logos 
-T3 premise 137 199 
+T3 premise 137 199 Before the chicken there was a similar but different creature. 
 A3 Type T3 logos 
-T4 premise 200 216 
+T4 premise 200 216 Let's call it X. 
 A4 Type T4 logos_pathos 
-T5 premise 217 286 
+T5 premise 217 286 Its completely arbitrary when the X officially evolved into a chicken 
 A5 Type T5 logos_pathos 
-T6 premise 293 314 
+T6 premise 293 314 at some point it does 
 A6 Type T6 logos_pathos 
-T7 premise 317 364 
+T7 premise 317 364 An X, not a chicken lays the first chicken egg. 
 A7 Type T7 logos 
-T8 claim 365 434 
+T8 claim 365 434 The chicken egg comes before any creature considered a chicken exist. 
 A8 Type T8 interpretation 
-T9 claim 516 597 
+T9 claim 516 597 If we are being really technical, we can confidently say that the egg came first. 
 A9 Type T9 interpretation 
-T10 premise 599 672 
+T10 premise 599 672 The chicken, as far as we know came into existence around [2500-2100 BC.] 
 A10 Type T10 logos 
-T11 premise 673 719 
+T11 premise 673 719 (http://en.wikipedia.org/wiki/Chicken#Origins) 
 A11 Type T11 logos_pathos 
-T12 premise 721 787 
+T12 premise 721 787 Egg bearing animals, however, seem to be [as old as the dinosuars] 
 A12 Type T12 logos 
-T13 premise 788 831 
+T13 premise 788 831 (http://en.wikipedia.org/wiki/Dinosaur_egg) 
 A13 Type T13 logos_pathos 
-T14 premise 833 884 
+T14 premise 833 884 From this, we can conclude that the egg came first. 
 A14 Type T14 logos_pathos 
-T15 claim 885 993 
+T15 claim 885 993 ^Unless ^you ^are ^talking ^about ^the ^CHICKEN ^egg ^vs ^the ^chicken, ^in ^which ^case ^I ^have ^no ^clue. 
 A15 Type T15 evaluation_emotional 
-T16 claim 996 1094 
+T16 claim 996 1094 While the question doesn't specifically say a chicken egg, I think that argument is kind of silly. 
 A16 Type T16 evaluation_rational 
-T17 claim 1105 1110 
+T17 claim 1105 1110 yeah. 
 A17 Type T17 agreement 
-T18 premise 1111 1171 
+T18 premise 1111 1171 My comment was a silly way to point out a flaw in your post. 
 A18 Type T18 logos_pathos 
-T19 premise 1172 1201 
+T19 premise 1172 1201 It wasn't an actual argument. 
 A19 Type T19 logos 
 R1 support Arg1:T2 Arg2:T8
 R2 support Arg1:T3 Arg2:T8

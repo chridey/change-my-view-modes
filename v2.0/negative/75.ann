@@ -1,52 +1,52 @@
-T1 main_claim 0 108 
+T1 main_claim 0 108 CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry... 
 A1 Type T1 interpretation 
-T2 claim 110 136 
+T2 claim 110 136 The options are as follows 
 A2 Type T2 evaluation_rational 
-T3 claim 140 204 
+T3 claim 140 204 1. You don't agree with what is going on and stop supporting it. 
 A3 Type T3 evaluation_rational 
-T4 claim 206 309 
+T4 claim 206 309 2. You don't care about animals, so you're content with paying for them to be abused for your pleasure. 
 A4 Type T4 evaluation_emotional 
-T5 claim 311 423 
+T5 claim 311 423 3. You don't agree with what is going on, but try to put it to the back of your mind and continue to support it. 
 A5 Type T5 interpretation 
-T6 premise 436 562 
+T6 premise 436 562 I used to follow 'option number 3', but recently started 'option number 1' in an attempt to line my actions up with my values. 
 A6 Type T6 logos_pathos 
-T7 claim 563 635 
+T7 claim 563 635 I suspect this way of looking at it is still somewhat simplistic however 
 A7 Type T7 evaluation_emotional 
-T8 premise 774 873 
+T8 premise 774 873 So what do you do when you discover [the suffering animals endure in the vegetarian food industry?] 
 A8 Type T8 logos 
-T9 claim 876 937 
+T9 claim 876 937 Ahh I've seen that article before and it's incredibly flawed. 
 A9 Type T9 evaluation_rational 
-T10 claim 938 994 
+T10 claim 938 994 It boggles my mind it was even published in all honesty. 
 A10 Type T10 evaluation_emotional 
-T11 premise 996 1061 
+T11 premise 996 1061 Livestock animals eat a hell of a lot more crops humans do right? 
 A11 Type T11 pathos 
-T12 premise 1065 1144 
+T12 premise 1065 1144 if you're really concerned with the damage done by the land use of growing food 
 A12 Type T12 logos 
-T13 claim 1152 1210 
+T13 claim 1152 1210 not eating meat would be a great first step to reducing it 
 A13 Type T13 evaluation_rational 
-T14 premise 1214 1371 
+T14 premise 1214 1371 The land required to feed one vegan for a single year is 1/6th of an acre and the land required to feed one meat eater for a year is 18 times more than that. 
 A14 Type T14 ethos_logos 
-T15 claim 1534 1566 
+T15 claim 1534 1566 Not all crops are created equal. 
 A15 Type T15 interpretation 
-T16 premise 1567 1611 
+T16 premise 1567 1611 How much grass do you eat on an average day? 
 A16 Type T16 logos_pathos 
-T17 claim 1612 1703 
+T17 claim 1612 1703 No mice are slowly poisoned to death growing grass, they are for the crops that humans eat. 
 A17 Type T17 interpretation 
-T18 claim 1704 1763 
+T18 claim 1704 1763 Why, it's almost like you only read the top two paragraphs. 
 A18 Type T18 disagreement 
-T19 claim 1766 1825 
+T19 claim 1766 1825 I read it a month or so ago I'm actually referring to corn. 
 A19 Type T19 evaluation_emotional 
-T20 premise 1826 1874 
+T20 premise 1826 1874 More corn is produced for livestock than humans. 
 A20 Type T20 logos_pathos 
-T21 premise 1876 1962 
+T21 premise 1876 1962 36% of all privately held acres in the US is used for growing corn just for livestock. 
 A21 Type T21 logos 
-T22 premise 1964 2071 
+T22 premise 1964 2071 That's without even getting into the massive amounts of land used for soy and hay production for livestock. 
 A22 Type T22 logos_pathos 
-T23 premise 2112 2177 
+T23 premise 2112 2177 It's written by an Australian (where most livestock is grass-fed) 
 A23 Type T23 logos 
-T24 premise 2184 2270 
+T24 premise 2184 2270 explicitly notes that it only applies when livestock is fed on grass rather than grain 
 A24 Type T24 logos 
-T25 claim 2273 2380 
+T25 claim 2273 2380 The fact that the US uses a poor method of production is not an indictment of the meat industry as a whole. 
 A25 Type T25 evaluation_rational 
 R1 support Arg1:T12 Arg2:T13
 R2 rebuttal_attack Arg1:T13 Arg2:T8

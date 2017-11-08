@@ -1,140 +1,140 @@
-T1 main_claim 0 104 
+T1 main_claim 0 104 CMV: I think the Paris shooting makes a good case for culture of responsible gun ownership any carrying. 
 A1 Type T1 interpretation 
-T2 claim 260 318 
+T2 claim 260 318 I think France is in a tough spot in how to react to this. 
 A2 Type T2 interpretation 
-T3 premise 319 402 
+T3 premise 319 402 There would be even stronger calls for an anti-islam and anti-immigration policies. 
 A3 Type T3 logos_pathos 
-T4 premise 403 482 
+T4 premise 403 482 These event reminds people that they cannot depend on protection by government. 
 A4 Type T4 logos_pathos 
-T5 claim 483 659 
+T5 claim 483 659 I think it would be a shame to allow the many, who are afraid more then anything, to be swayed by xenophobic nationalists (which might have been the goal of the attack anyway). 
 A5 Type T5 interpretation 
-T6 claim 661 836 
+T6 claim 661 836 I think this, regardless of whether the weapons used by the attackers were owned legally, makes a good case for promoting a culture of a reasonable gun ownership and carrying. 
 A6 Type T6 evaluation_rational 
-T7 premise 837 969 
+T7 premise 837 969 Say if 1 out of 5 people carried a gun with them, was well trained in its use and tested in his responsibility to prevent its misuse 
 A7 Type T7 logos_pathos 
-T8 premise 976 1161 
+T8 premise 976 1161 society upheld the value of these people as protectors, it would benefit the society more the the current state of legislature and culture of gun ownership in most of European countries 
 A8 Type T8 logos_pathos 
-T9 claim 1164 1245 
+T9 claim 1164 1245 I also think this would be much better then increase in police numbers and rights 
 A9 Type T9 evaluation_rational 
-T10 premise 1246 1416 
+T10 premise 1246 1416 as policemen are a very homogeneous group trained to stick together and the danger of even deepening the "not one of us" (pack) mentality and escalation of "police state" 
 A10 Type T10 logos_pathos 
-T11 premise 1787 2002 
+T11 premise 1787 2002 Let's say you're a drug addict and due to your addiction you can't hold down a job, are really strung out and resort to one of the stupidest ways to make $100 for your next fix which is mugging people on the street. 
 A11 Type T11 logos_pathos 
-T12 claim 2003 2041 
+T12 claim 2003 2041 Not getting the money is not an option 
 A12 Type T12 evaluation_rational 
-T13 premise 2042 2066 
+T13 premise 2042 2066 because you're desperate 
 A13 Type T13 logos 
-T14 premise 2070 2286 
+T14 premise 2070 2286 If one in 10,000 people are carrying firearms, do you take your chances and try to get someone to hand over their cash without shooting someone or do you kill them outright and steal their valuables off their corpse? 
 A14 Type T14 logos_pathos 
-T15 premise 2288 2343 
+T15 premise 2288 2343 How does that decision change when the odds are 1 in 5? 
 A15 Type T15 logos_pathos 
-T16 premise 2345 2415 
+T16 premise 2345 2415 Remember, you're an addict and not getting the money is not an option. 
 A16 Type T16 logos_pathos 
-T17 claim 2430 2469 
+T17 claim 2430 2469 You're carrying and you rear end a guy. 
 A17 Type T17 evaluation_rational 
-T18 premise 2470 2556 
+T18 premise 2470 2556 You pull over and the guy is really mad and he gets out of his car yelling up a storm. 
 A18 Type T18 logos 
-T19 premise 2557 2624 
+T19 premise 2557 2624 You know there is a 1 in 5 chance that the guy is carrying as well. 
 A19 Type T19 pathos 
-T20 claim 2625 2704 
+T20 claim 2625 2704 When do you reach for your holster to draw your weapon and when do you fire it? 
 A20 Type T20 evaluation_rational 
-T21 premise 2709 2744 
+T21 premise 2709 2744 When he's angry and yelling at you? 
 A21 Type T21 logos_pathos 
-T22 premise 2749 2808 
+T22 premise 2749 2808 When he reaches into his jacket where his holster might be? 
 A22 Type T22 pathos 
-T23 premise 2813 2835 
+T23 premise 2813 2835 After you see the gun? 
 A23 Type T23 ethos_logos_pathos 
-T24 premise 2840 2866 
+T24 premise 2840 2866 After he points it at you? 
 A24 Type T24 logos_pathos 
-T25 premise 2871 2896 
+T25 premise 2871 2896 After he starts shooting? 
 A25 Type T25 pathos 
-T26 claim 2911 2926 
+T26 claim 2911 2926 You're carrying 
 A26 Type T26 evaluation_rational 
-T27 claim 2931 2984 
+T27 claim 2931 2984 you just picked up your brand new car from the dealer 
 A27 Type T27 evaluation_rational 
-T28 claim 2989 3110 
+T28 claim 2989 3110 while you were at the stoplight some asshole that was obviously texting while driving rear ends you in your brand new car 
 A28 Type T28 evaluation_rational 
-T29 premise 3114 3188 
+T29 premise 3114 3188 You lose your temper and get out of your brand new car yelling up a storm. 
 A29 Type T29 pathos 
-T30 premise 3189 3247 
+T30 premise 3189 3247 You notice after a bit of yelling that the guy is carrying 
 A30 Type T30 logos 
-T31 premise 3252 3302 
+T31 premise 3252 3302 he has observed that you are as well and is scared 
 A31 Type T31 logos 
-T32 premise 3306 3377 
+T32 premise 3306 3377 Do you wait until you're sure he has decided to use his firearm to act? 
 A32 Type T32 logos 
-T33 premise 3381 3511 
+T33 premise 3381 3511 do you act first because by the time you're sure he is going to draw his firearm, you won't have time to act before he shoots you? 
 A33 Type T33 logos 
-T34 claim 3513 3672 
+T34 claim 3513 3672 The only reason this stuff doesn't happen all the time is because we can make the reasonable assumption that a person we are having a conflict with is unarmed. 
 A34 Type T34 evaluation_rational 
-T35 premise 3673 3799 
+T35 premise 3673 3799 As soon as it becomes a reasonable assumption, immediately escalating a conflict to deadly force starts being the best option. 
 A35 Type T35 logos_pathos 
-T36 premise 3801 3905 
+T36 premise 3801 3905 I've worked in customer service and have been yelled at by strangers more often than anyone should have. 
 A36 Type T36 logos_pathos 
-T37 premise 3906 4134 
+T37 premise 3906 4134 If I lived in a society where most people were carrying firearms, I would have had to ask myself "Is this person angry enough to kill me? because if I wait to find out for sure I'll already be dead" way more often than I'd like. 
 A37 Type T37 logos_pathos 
-T38 claim 4149 4225 
+T38 claim 4149 4225 I don't think this decision changes if you are comfortable killing for money 
 A38 Type T38 evaluation_rational 
-T39 premise 4226 4272 
+T39 premise 4226 4272 you kill for money if you can get away with it 
 A39 Type T39 logos 
-T40 claim 4287 4343 
+T40 claim 4287 4343 When he starts to pulling out a gun you try to get cover 
 A40 Type T40 evaluation_rational 
-T41 claim 4346 4391 
+T41 claim 4346 4391 when he starts aiming at you you draw to fire 
 A41 Type T41 evaluation_rational 
-T42 premise 4406 4506 
+T42 premise 4406 4506 The known rule would be only to draw gun to shoot and who is aiming at you is aiming at you to shoot 
 A42 Type T42 logos 
-T43 claim 4510 4545 
+T43 claim 4510 4545 you are in right to defend yourself 
 A43 Type T43 evaluation_rational 
-T44 claim 4548 4610 
+T44 claim 4548 4610 If you are unsure of someone's intentions you should get cover 
 A44 Type T44 evaluation_rational 
-T45 claim 4615 4707 
+T45 claim 4615 4707 as soon he notices that and doesn't intend to kill you he should make this well known to you 
 A45 Type T45 evaluation_rational 
-T46 premise 4711 4745 
+T46 premise 4711 4745 he doesn't you to shoot him either 
 A46 Type T46 logos 
-T47 claim 4750 4792 
+T47 claim 4750 4792 You'd likely be dead in scenarios 2 and 3. 
 A47 Type T47 evaluation_rational 
-T48 premise 4793 4875 
+T48 premise 4793 4875 This isn't the movies where you duck bullets and dive behind a table or something. 
 A48 Type T48 logos_pathos 
-T49 premise 4876 4946 
+T49 premise 4876 4946 By the time they have their hand on their gun you have maybe 2 seconds 
 A49 Type T49 logos 
-T50 premise 4953 5021 
+T50 premise 4953 5021 by the time they start aiming it at you, you have a fraction of one. 
 A50 Type T50 logos 
-T51 premise 5022 5137 
+T51 premise 5022 5137 There is a reason why police, when they have reason to believe that someone is armed have their guns already drawn. 
 A51 Type T51 pathos 
-T52 premise 5138 5199 
+T52 premise 5138 5199 That shit happens fast, and reactive speed isn't fast enough. 
 A52 Type T52 logos 
-T53 claim 5220 5301 
+T53 claim 5220 5301 once you remove the non-lethal option, the lethal one gets a lot more comfortable 
 A53 Type T53 evaluation_rational 
-T54 claim 5306 5309 
+T54 claim 5306 5309 Yes 
 A54 Type T54 agreement 
-T55 claim 5316 5376 
+T55 claim 5316 5376 I don't see how you intend to CMV with the scenarios 2 and 3 
 A55 Type T55 evaluation_emotional 
-T56 premise 5379 5481 
+T56 premise 5379 5481 I don't see them as very likely as nobody is going to draw a concealed gun when not intending to kill. 
 A56 Type T56 logos_pathos 
-T57 claim 5499 5606 
+T57 claim 5499 5606 I would expect the effect would be that the still thinking criminals would change to some other safer crime 
 A57 Type T57 evaluation_rational 
-T58 premise 5610 5659 
+T58 premise 5610 5659 their chances of getting shot would also increase 
 A58 Type T58 logos_pathos 
-T59 premise 5662 5704 
+T59 premise 5662 5704 It would still be illegal to kill a robber 
 A59 Type T59 logos 
-T60 claim 5708 5754 
+T60 claim 5708 5754 I don't think some of them would start killing 
 A60 Type T60 evaluation_rational 
-T61 premise 5757 5792 
+T61 premise 5757 5792 thus being legal to kill in defense 
 A61 Type T61 logos 
-T62 claim 5798 5916 
+T62 claim 5798 5916 Of course you intend to kill the person if you draw your weapon, if you can reasonably assume that they have a weapon, 
 A62 Type T62 evaluation_rational 
-T63 premise 5917 6019 
+T63 premise 5917 6019 you can't wait for them to draw theirs before you decide to defend yourself if you want to leave alive 
 A63 Type T63 logos 
-T64 premise 6022 6169 
+T64 premise 6022 6169 All you know in all three scenarios is that someone you are in conflict with probably has a gun and there is a significant chance they will use it. 
 A64 Type T64 pathos 
-T65 claim 6171 6363 
+T65 claim 6171 6363 If you don't have reasonable cause to believe someone is armed because very few people have CCWs then things like letting the guy you just rear ended blow off steam becomes a reasonable option 
 A65 Type T65 evaluation_rational 
-T66 premise 6364 6420 
+T66 premise 6364 6420 because he likely can't kill you within in a few seconds 
 A66 Type T66 logos 
-T67 premise 6424 6505 
+T67 premise 6424 6505 If 1 in 5 people can kill you in seconds being impolite gets deadly very quickly. 
 A67 Type T67 ethos_logos_pathos 
-T68 claim 6513 6529 
+T68 claim 6513 6529 I don't think so 
 A68 Type T68 disagreement 
-T69 premise 6532 6609 
+T69 premise 6532 6609 people with concealed guns don't shoot even if they see someone has a gun too 
 A69 Type T69 logos 
 R1 agreement Arg1:T2 Arg2:T1
 R2 support Arg1:T3 Arg2:T2

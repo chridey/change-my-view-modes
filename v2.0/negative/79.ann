@@ -1,498 +1,498 @@
-T1 main_claim 0 74 
+T1 main_claim 0 74 CMV: America is a better place because of the 55 million abortions its had 
 A1 Type T1 evaluation_emotional 
-T2 premise 76 133 
+T2 premise 76 133 There have been 55 million abortions in the US since 1973 
 A2 Type T2 logos 
-T3 premise 137 225 
+T3 premise 137 225 Something in the ballpark of 45% of women who have abortions have more than one abortion 
 A3 Type T3 logos 
-T4 claim 229 387 
+T4 claim 229 387 These people would have been raised by their incompetent parents to drain down society, increase crime rates, suck up resources, and generally screw things up 
 A4 Type T4 evaluation_emotional 
-T5 claim 391 541 
+T5 claim 391 541 Various ways to lower a resource negative population would have to be explored, if not because of this 55 million, then because of the next 55 million 
 A5 Type T5 evaluation_emotional 
-T6 claim 545 675 
+T6 claim 545 675 One possibility is that there would be wars waged to try to kill them all, perhaps even with other countries with similar problems 
 A6 Type T6 interpretation 
-T7 premise 678 859 
+T7 premise 678 859 Waging war to purposefully lower population, even with a country facing similar issues, would cost not only resources, but it would also cause political, cultural, and global issues 
 A7 Type T7 logos 
-T8 premise 863 921 
+T8 premise 863 921 America's innovation and education rankings would be lower 
 A8 Type T8 logos 
-T9 premise 924 1040 
+T9 premise 924 1040 Every middle-class child in the country would receive a lower quality education if there were 55 million more around 
 A9 Type T9 logos_pathos 
-T10 claim 1388 1411 
+T10 claim 1388 1411 Its a complicated issue 
 A10 Type T10 interpretation 
-T11 premise 1414 1651 
+T11 premise 1414 1651 Without the extra population from abortions, has there been proportionately more immigration to fill labor needs, or are the millions of illegals from Mexico as likely to be so numerous even if there was a higher none-abortion population 
 A11 Type T11 logos 
-T12 premise 1654 1793 
+T12 premise 1654 1793 Doesn't immigration of a working class citizen on such a massive scale cause dissonance in a country more so than it does cultural exchange 
 A12 Type T12 logos 
-T13 claim 1809 1866 
+T13 claim 1809 1866 it would have been preferable to have our abortions alive 
 A13 Type T13 evaluation_emotional 
-T14 premise 1869 2055 
+T14 premise 1869 2055 Or are we talking about a population so huge that race and national identity are insignificant, that there is always going to be a huge amount of hostility between different demographics 
 A14 Type T14 logos_pathos 
-T15 claim 2162 2330 
+T15 claim 2162 2330 Perhaps the immigration of illegals is lowering the value of blue collar work and makes it harder for the borderline impoverished citizens to provide for their children 
 A15 Type T15 interpretation 
-T16 claim 2333 2407 
+T16 claim 2333 2407 Its debatable how many women are having abortions due to financial reasons 
 A16 Type T16 interpretation 
-T17 premise 2414 2445 
+T17 premise 2414 2445 surely its a significant number 
 A17 Type T17 logos_pathos 
-T18 premise 2451 2585 
+T18 premise 2451 2585 how many of these women wouldn't be having financial troubles if there wasn't competition from cheap illegal labor to keep wages lower 
 A18 Type T18 logos_pathos 
-T19 claim 2588 2673 
+T19 claim 2588 2673 This holds true even if illegal immigration is an overall plus to the countries value 
 A19 Type T19 interpretation 
-T20 claim 2688 2791 
+T20 claim 2688 2791 Mexicans are the supreme race, native Americans will go extinct through abortion and then out-breeding. 
 A20 Type T20 evaluation_rational 
-T21 claim 2845 2959 
+T21 claim 2845 2959 this discussion is abstract enough to go into some weird places and that it is necessary to have a stopping point* 
 A21 Type T21 evaluation_rational 
-T22 claim 2996 3144 
+T22 claim 2996 3144 Is a more highly populated and economically productive America today going to result in an America tomorrow that can handle over population problems 
 A22 Type T22 interpretation 
-T23 claim 3150 3254 
+T23 claim 3150 3254 would having a higher population from none-abortion just add on to the problems of a world going to shit 
 A23 Type T23 interpretation 
-T24 premise 3266 3373 
+T24 premise 3266 3373 An aborted fetus is likely to have been a less productive person than a never-considered-for-abortion fetus 
 A24 Type T24 logos_pathos 
-T25 claim 3380 3477 
+T25 claim 3380 3477 in an industrial society, its likely that these abortions would still be more productive than not 
 A25 Type T25 evaluation_emotional 
-T26 claim 3481 3616 
+T26 claim 3481 3616 Then there was the debate as to whether or not a larger population with less resources per person is more innovative than a smaller one 
 A26 Type T26 interpretation 
-T27 claim 3619 3771 
+T27 claim 3619 3771 This is to be considered if one is convinced that having a higher population coming from none-abortions results in a strain for resources in the country 
 A27 Type T27 interpretation 
-T28 claim 3774 3828 
+T28 claim 3774 3828 Modern technology like the internet must be considered 
 A28 Type T28 evaluation_emotional 
-T29 claim 4373 4526 
+T29 claim 4373 4526 One thing not calculated in the slightly psychotic weighing of the value of human life as "useful" is the sociological effect of the 55 million just gone 
 A29 Type T29 interpretation 
-T30 premise 4529 4741 
+T30 premise 4529 4741 A Zeitgeist wherein 55 million abortions is weighed as good for industry or not, the resulting thinking it good on account of efficiency, as certain citizens look on themselves and others as a figure or livestock 
 A30 Type T30 logos 
-T31 claim 4744 4907 
+T31 claim 4744 4907 The attitude of human value as "what they [potentially] contributed to me/Exxon Mobile" is the spirit of eugenics and genocide, subjects often glorified on reddit. 
 A31 Type T31 interpretation 
-T32 claim 4909 4939 
+T32 claim 4909 4939 It's the same problem with war 
 A32 Type T32 evaluation_rational 
-T33 premise 4942 5085 
+T33 premise 4942 5085 Once killing foreigners is an acceptable/inevitable means to profit and expand, you find that attitudes exposed to such behavior change with it 
 A33 Type T33 logos 
-T34 premise 5088 5170 
+T34 premise 5088 5170 >Other countries also build militaries to do so and to "defend" against each other 
 A34 Type T34 logos 
-T35 claim 5177 5234 
+T35 claim 5177 5234 its no longer viewed as a hostile or paranoid thing to do 
 A35 Type T35 evaluation_emotional 
-T36 premise 5243 5281 
+T36 premise 5243 5281 everybody's doing it and so must do it 
 A36 Type T36 logos 
-T37 claim 5284 5384 
+T37 claim 5284 5384 >It becomes a recursive loop and generates a hostile attitude towards foreigners and other countries 
 A37 Type T37 interpretation 
-T38 claim 5388 5418 
+T38 claim 5388 5418 >This works on the inverse too 
 A38 Type T38 evaluation_rational 
-T39 claim 5421 5487 
+T39 claim 5421 5487 When we went to the moon, our horizons and view of mankind changed 
 A39 Type T39 interpretation 
-T40 claim 5490 5563 
+T40 claim 5490 5563 Once we better understood such objects, nature worship definitely changed 
 A40 Type T40 interpretation 
-T41 premise 5566 5618 
+T41 premise 5566 5618 You'll be hard-pressed to find moon worshipers today 
 A41 Type T41 logos 
-T42 premise 5625 5820 
+T42 premise 5625 5820 the "religions of the book" may be going out of style as highly literate people have access to more historical data and the time to translate The Bible, Torah, and Quran in context for themselves 
 A42 Type T42 logos 
-T43 claim 5829 5891 
+T43 claim 5829 5891 it was once normal for religions to kill masses of unbelievers 
 A43 Type T43 evaluation_emotional 
-T44 premise 5894 5950 
+T44 premise 5894 5950 now it's seen as wrong, even by the religions themselves 
 A44 Type T44 logos 
-T45 claim 5953 6060 
+T45 claim 5953 6060 The Zeitgeist changes, as people's attitudes adjust to new information and ways of life and problem solving 
 A45 Type T45 evaluation_rational 
-T46 claim 6064 6129 
+T46 claim 6064 6129 This Zeitgeist concept is the same problem with the public school 
 A46 Type T46 evaluation_rational 
-T47 claim 6139 6237 
+T47 claim 6139 6237 intelligence is reduced to reciting what one is told to a high degree of accuracy and memorization 
 A47 Type T47 evaluation_rational 
-T48 claim 6278 6365 
+T48 claim 6278 6365 in reality, everything is true/untrue depending on it's level of resolution or accuracy 
 A48 Type T48 evaluation_rational 
-T49 premise 6369 6484 
+T49 premise 6369 6484 children are moved through by age, graded literally on the same scale as a meat product, and bells move them around 
 A49 Type T49 logos 
-T50 claim 6496 6565 
+T50 claim 6496 6565 they're declared intelligent or not, and implicitly worthwhile or not 
 A50 Type T50 evaluation_rational 
-T51 claim 6569 6814 
+T51 claim 6569 6814 The many nuances of intelligence, higher forms of intelligence, varieties of people, and bigger issues like antisocial personality disorder and social skills, are virtually ignored during the developmental period for the "efficient" cattle model 
 A51 Type T51 evaluation_rational 
-T52 premise 6817 6904 
+T52 premise 6817 6904 Good meat or bad meat, instead of people with a variety of skill potential and problems 
 A52 Type T52 logos_pathos 
-T53 premise 6907 7010 
+T53 premise 6907 7010 We end up with McEducation literally, with a lot of "product" to be "thrown away" and that seen as okay 
 A53 Type T53 pathos 
-T54 claim 7017 7044 
+T54 claim 7017 7044 the worst thing is not that 
 A54 Type T54 evaluation_emotional 
-T55 premise 7051 7161 
+T55 premise 7051 7161 the Zeitgeist within society that people should be "grown", and graded, and that these categories are accurate 
 A55 Type T55 pathos 
-T56 premise 7164 7266 
+T56 premise 7164 7266 Consequential attitudes include the idea that information will be bestowed to us like our teachers did 
 A56 Type T56 logos 
-T57 premise 7274 7347 
+T57 premise 7274 7347 it's "true" or not and that "truth" is available to us in an absolute way 
 A57 Type T57 logos 
-T58 premise 7354 7387 
+T58 premise 7354 7387 that smart people are cooperative 
 A58 Type T58 logos 
-T59 premise 7390 7438 
+T59 premise 7390 7438 Political parties appeal to these learned biases 
 A59 Type T59 logos_pathos 
-T60 claim 7441 7514 
+T60 claim 7441 7514 The general attitude among the adult population is "don't think too much" 
 A60 Type T60 evaluation_rational 
-T61 premise 7525 7644 
+T61 premise 7525 7644 it's seen as disruptive, problem-making, and culturally odious, and taking sides on trust is often seen as a good thing 
 A61 Type T61 logos 
-T62 claim 7678 7836 
+T62 claim 7678 7836 you're also treated to relaxed attitudes towards eugenics and genocide, and all the warped views of human value and what a "better place" is that come with it 
 A62 Type T62 evaluation_rational 
-T63 premise 7839 7903 
+T63 premise 7839 7903 Decisions are give-and-take and has benefits as well as problems 
 A63 Type T63 logos 
-T64 premise 7915 8027 
+T64 premise 7915 8027 there would have certainly been benefits to a preemptive tactical nuclear strike against the USSR, and costs too 
 A64 Type T64 logos_pathos 
-T65 premise 8030 8074 
+T65 premise 8030 8074 Anybody who denies either is blinded by zeal 
 A65 Type T65 logos_pathos 
-T66 claim 8136 8223 
+T66 claim 8136 8223 only that benefits would exist and it's our job to weigh those against the costs always 
 A66 Type T66 evaluation_emotional 
-T67 premise 8226 8389 
+T67 premise 8226 8389 If you cannot see the cost of the 55 million abortions, it means that you should immediately change your view so you can experience the other side of your thinking 
 A67 Type T67 pathos 
-T68 premise 8392 8468 
+T68 premise 8392 8468 which has hijacked your perception and mistaken itself for truth recursively 
 A68 Type T68 pathos 
-T69 claim 8473 8581 
+T69 claim 8473 8581 You're mistaking what I believe to be a good outcome as different from what you believe to be a good outcome 
 A69 Type T69 evaluation_emotional 
-T70 premise 8614 8658 
+T70 premise 8614 8658 This America faced a sustainable growth rate 
 A70 Type T70 logos 
-T71 premise 8661 8718 
+T71 premise 8661 8718 Imagine this country to be populated by billions of faces 
 A71 Type T71 logos_pathos 
-T72 premise 9263 9299 
+T72 premise 9263 9299 Babies were created indiscriminately 
 A72 Type T72 logos_pathos 
-T73 premise 9302 9380 
+T73 premise 9302 9380 The quality of education regressed and then stagnated to that of the year 1970 
 A73 Type T73 logos 
-T74 premise 9383 9474 
+T74 premise 9383 9474 Even with new technology, having enough drinking water and arable land is becoming an issue 
 A74 Type T74 logos_pathos 
-T75 premise 9477 9507 
+T75 premise 9477 9507 Everything is polluted to hell 
 A75 Type T75 logos_pathos 
-T76 premise 9510 9549 
+T76 premise 9510 9549 The wealth gap is a factor of ten worse 
 A76 Type T76 logos_pathos 
-T77 premise 9552 9606 
+T77 premise 9552 9606 The perception of the value of human life goes to zero 
 A77 Type T77 logos_pathos 
-T78 claim 9612 9726 
+T78 claim 9612 9726 I am in no way claiming that either one of those imaginary futures would result from having legal/illegal abortion 
 A78 Type T78 evaluation_rational 
-T79 claim 9729 9792 
+T79 claim 9729 9792 My point is that a responsible today allows for a better future 
 A79 Type T79 evaluation_rational 
-T80 claim 9830 9962 
+T80 claim 9830 9962 Decisions like whether or not the non-existence of 55 million people provides to the greater good have to be faced, such as you said 
 A80 Type T80 agreement 
-T81 claim 9966 10106 
+T81 claim 9966 10106 Your claim is that the conscious acceptance of deaths providing logistical benefits is damaging to our perception of the value of human life 
 A81 Type T81 evaluation_rational 
-T82 claim 10110 10122 
+T82 claim 10110 10122 That is true 
 A82 Type T82 agreement 
-T83 claim 10129 10272 
+T83 claim 10129 10272 such sentiment should be properly weighed by someone attempting to assess whether or not these 55 million abortions have had a positive outcome 
 A83 Type T83 evaluation_rational 
-T84 claim 10275 10353 
+T84 claim 10275 10353 This should not overtake their thinking and drown out the other considerations 
 A84 Type T84 evaluation_rational 
-T85 claim 10357 10397 
+T85 claim 10357 10397 I believe you are in agreement with that 
 A85 Type T85 evaluation_rational 
-T86 claim 10409 10472 
+T86 claim 10409 10472 you take the Zeitgeist as pretty much the highest consideration 
 A86 Type T86 evaluation_rational 
-T87 claim 10475 10501 
+T87 claim 10475 10501 This is where we disagree. 
 A87 Type T87 disagreement 
-T88 premise 10502 10661 
+T88 premise 10502 10661 I believe in a shittier today for a better tomorrow, such as how our ancestors had miserable and productive lives that ended up with us living to be 80 and fat 
 A88 Type T88 logos_pathos 
-T89 premise 10665 10833 
+T89 premise 10665 10833 I also don't think that the connection between poor education tactics and the "don't think too much" mentalities can be drawn between the zeitgeist claims you're making 
 A89 Type T89 logos 
-T90 premise 10836 10989 
+T90 premise 10836 10989 If the quality of life is higher, you'll see higher quality education and the available resources for more to be able to think and live as as they'd like 
 A90 Type T90 logos 
-T91 premise 10992 11095 
+T91 premise 10992 11095 If the quality of life is lower, you'll see people working miserable jobs just to be able to eat dinner 
 A91 Type T91 logos_pathos 
-T92 premise 11098 11161 
+T92 premise 11098 11161 the only way to avoid depression would be to not think too much 
 A92 Type T92 logos_pathos 
-T93 premise 11164 11220 
+T93 premise 11164 11220 Having a low quality of life results in a poor Zeitgeist 
 A93 Type T93 logos_pathos 
-T94 claim 11537 11886 
+T94 claim 11537 11886 I was only illustrating a hidden and relatable X-factor to get you to open up within your own assumptions and realize [how many other X-factors might exist,](https://www.reddit.com/r/dataisbeautiful/comments/2rj2bt/50_of_nigeriens_are_under_14_years_old_in/cngsdvf) and to encourage more caution towards unforeseen consequences and butterfly effects 
 A94 Type T94 evaluation_emotional 
-T95 premise 11889 12113 
+T95 premise 11889 12113 I chose this approach because your view is highly cerebral and overconfident, seemingly unconcerned with potential consequence, and repackaging gross oversimplification and naive callous as bright utilitarianism (no offense) 
 A95 Type T95 logos_pathos 
-T96 premise 12116 12224 
+T96 premise 12116 12224 I wanted to offer an example that had to do with people, instead of indulging your quasi-psychotic reasoning 
 A96 Type T96 logos 
-T97 claim 12228 12273 
+T97 claim 12228 12273 See, psychotic behavior is retarded literally 
 A97 Type T97 evaluation_rational 
-T98 claim 12276 12347 
+T98 claim 12276 12347 It comes from a lack of emotional sense and is a developmental disorder 
 A98 Type T98 evaluation_rational 
-T99 premise 12350 12465 
+T99 premise 12350 12465 I'm telling you this because you're probably a teen and will grow out of it by interacting with people like you are 
 A99 Type T99 logos 
-T100 premise 12472 12514 
+T100 premise 12472 12514 having them challenge you and show disgust 
 A100 Type T100 logos 
-T101 premise 12517 12615 
+T101 premise 12517 12615 Psychotics are developmentally stunted because they're antisocial, even when they're around people 
 A101 Type T101 logos_pathos 
-T102 premise 12625 12729 
+T102 premise 12625 12729 they never change their view and only develop a 7-year-old view from a little monster into a big monster 
 A102 Type T102 logos_pathos 
-T103 claim 12743 12838 
+T103 claim 12743 12838 giving you the socio-political consequences of 55 million people missing might change your view 
 A103 Type T103 evaluation_rational 
-T104 premise 12845 12899 
+T104 premise 12845 12899 the stupid and shallow premises would remain untouched 
 A104 Type T104 logos 
-T105 claim 12902 12962 
+T105 claim 12902 12962 You might adjust your facts, but not expand your perspective 
 A105 Type T105 evaluation_emotional 
-T106 claim 12971 13122 
+T106 claim 12971 13122 the reason people are highly sensitive [emotionally] is the same reason you'd turn up the sensitivity dial of a camera, microphone, or any other sensor 
 A106 Type T106 evaluation_rational 
-T107 premise 13133 13222 
+T107 premise 13133 13222 you're concerned you'll miss something, and are aware of the dangers of missing something 
 A107 Type T107 pathos 
-T108 premise 13225 13287 
+T108 premise 13225 13287 The mind and emotions operate like extremely complex equipment 
 A108 Type T108 logos_pathos 
-T109 premise 13290 13353 
+T109 premise 13290 13353 This is why some people are very squeamish; myself not included 
 A109 Type T109 logos_pathos 
-T110 premise 13356 13484 
+T110 premise 13356 13484 Contrarily, when a person is very confident, it's [almost never because they're on a higher tier of information or understanding 
 A110 Type T110 logos_pathos 
-T111 premise 13552 13601 
+T111 premise 13552 13601 because they don't even know that they don't know 
 A111 Type T111 logos_pathos 
-T112 premise 13604 13820 
+T112 premise 13604 13820 In the case of cold utility, often peddled by teens as very novel because life and the self seems very simple to them, because they've such a low tier of contact with the world that it can look simple from a distance 
 A112 Type T112 logos 
-T113 premise 13824 13867 
+T113 premise 13824 13867 It's why we recruit teens into the military 
 A113 Type T113 logos_pathos 
-T114 premise 13870 14039 
+T114 premise 13870 14039 They're very easy to trick and convince to shoot a guy in a field for wearing different clothes without asking a lot of questions or thinking too hard about consequences 
 A114 Type T114 logos 
-T115 claim 14091 14148 
+T115 claim 14091 14148 you didn't anticipate it, but thought you did, didn't you 
 A115 Type T115 disagreement 
-T116 claim 14151 14215 
+T116 claim 14151 14215 You said I gave the Zeitgeist explanation because it was my best 
 A116 Type T116 evaluation_emotional 
-T117 premise 14222 14278 
+T117 premise 14222 14278 it was really tailored to challenge your reasoning style 
 A117 Type T117 logos_pathos 
-T118 claim 14281 14352 
+T118 claim 14281 14352 You probably don't see yourself as having a predictable reasoning style 
 A118 Type T118 evaluation_rational 
-T119 claim 14355 14404 
+T119 claim 14355 14404 This is the problem with X-factors and complexity 
 A119 Type T119 evaluation_rational 
-T120 premise 14407 14640 
+T120 premise 14407 14640 You don't know what you don't know, you didn't know you didn't know my motivation, and you don't know that the 55 million abortions were a good thing, or what interests were operating in the establishment of them, or the consequences 
 A120 Type T120 logos 
-T121 claim 14651 14710 
+T121 claim 14651 14710 the consequences are extremely negative for your generation 
 A121 Type T121 evaluation_emotional 
-T122 claim 14728 14964 
+T122 claim 14728 14964 i'm emotionally retarded, and instead of giving into my nature and letting my thought process be masturbated from a more standard answer, you're subjecting me to therapy by trying to illustrate that such views are had by inferior humans 
 A122 Type T122 interpretation 
-T123 premise 14967 15059 
+T123 premise 14967 15059 My inferior mind must be shown new views in order for me to see how wrong my initial view is 
 A123 Type T123 logos_pathos 
-T124 claim 15141 15269 
+T124 claim 15141 15269 These illustrations very clearly show that you are attempting for me to change my view based on your argument that I am inferior 
 A124 Type T124 interpretation 
-T125 claim 15275 15332 
+T125 claim 15275 15332 As for your concluding paragraph, it is complete nonsense 
 A125 Type T125 interpretation 
-T126 premise 15335 15494 
+T126 premise 15335 15494 There is an assumption every other sentence with the remaining sentences being filled with assertions that you have not been backed with well-founded arguments 
 A126 Type T126 logos 
-T127 premise 15497 15648 
+T127 premise 15497 15648 You completely circumvented every single debate being had in this thread and proceeded to ejaculate your rather arrogant assumptions all over the place 
 A127 Type T127 pathos 
-T128 premise 15651 15795 
+T128 premise 15651 15795 It seems that you can barely fathom that you *may* be wrong, that you are too intelligent to have to provide any adequate reasoning for yourself 
 A128 Type T128 ethos_logos_pathos 
-T129 claim 15805 15878 
+T129 claim 15805 15878 I don't know where in this thread that I was *very confident* in my views 
 A129 Type T129 evaluation_emotional 
-T130 premise 15881 16049 
+T130 premise 15881 16049 On the contrary to the Dunning-Krueger effect you are implying that I face, I am very critical of myself and feel incompetent in areas where others rate me as competent 
 A130 Type T130 logos_pathos 
-T131 premise 16052 16131 
+T131 premise 16052 16131 I have not said a single thing in this thread that i've been absolutely sure of 
 A131 Type T131 logos 
-T132 claim 16135 16179 
+T132 claim 16135 16179 Really, your argument is absolutely ludacris 
 A132 Type T132 evaluation_emotional 
-T133 premise 16182 16226 
+T133 premise 16182 16226 It boils down to a well constructed shitpost 
 A133 Type T133 logos_pathos 
-T134 premise 16230 16274 
+T134 premise 16230 16274 *those abortions may have been a good thing? 
 A134 Type T134 logos_pathos 
-T135 premise 16275 16300 
+T135 premise 16275 16300 you can have that thought 
 A135 Type T135 logos_pathos 
-T136 premise 16304 16406 
+T136 premise 16304 16406 * **you are a retard!** *argue about whether or not these abortions have had a benefit to the country? 
 A136 Type T136 logos 
-T137 claim 16407 16489 
+T137 claim 16407 16489 I think not! you need to expand your perspective to not even consider such things! 
 A137 Type T137 disagreement 
-T138 claim 16493 16562 
+T138 claim 16493 16562 Its rather ironic that you are peddling how emotionally retarded I am 
 A138 Type T138 evaluation_emotional 
-T139 premise 16569 16766 
+T139 premise 16569 16766 how you spent the past two comments trying to classify me, inform me of my inadequacies, *subtly be a superior human being*, and also fall under what seems to be the Dunning-Krueger effect yourself 
 A139 Type T139 logos_pathos 
-T140 claim 17035 17047 
+T140 claim 17035 17047 I like that. 
 A140 Type T140 agreement 
-T141 claim 17048 17076 
+T141 claim 17048 17076 So personal; very theatrical 
 A141 Type T141 disagreement 
-T142 premise 17079 17169 
+T142 premise 17079 17169 Can I comment on your inferior reasoning and why it's inferior without it being a big deal 
 A142 Type T142 logos_pathos 
-T143 premise 17196 17256 
+T143 premise 17196 17256 Did you expect people to *not* shoot holes in your reasoning 
 A143 Type T143 logos 
-T144 claim 17360 17422 
+T144 claim 17360 17422 I'm pretty sure that's how everybody's mind works at all times 
 A144 Type T144 evaluation_emotional 
-T145 premise 17429 17445 
+T145 premise 17429 17445 that I said that 
 A145 Type T145 pathos 
-T146 premise 17452 17468 
+T146 premise 17452 17468 you know that :) 
 A146 Type T146 pathos 
-T147 claim 17470 17555 
+T147 claim 17470 17555 I find your passive aggressiveness and focus on superiority and inferiority to be low 
 A147 Type T147 evaluation_emotional 
-T148 premise 17601 17686 
+T148 premise 17601 17686 you probably should have anticipated people finding your worldview to be wrong on CMV 
 A148 Type T148 logos_pathos 
-T149 claim 17689 17778 
+T149 claim 17689 17778 To change your view, they inevitably have to think you're wrong on some level of analysis 
 A149 Type T149 evaluation_rational 
-T150 premise 17781 17856 
+T150 premise 17781 17856 Didn't you anticipate your apparent reasoning to be challenged in the least 
 A150 Type T150 logos_pathos 
-T151 premise 17859 17894 
+T151 premise 17859 17894 Or did I do it too offensively well 
 A151 Type T151 logos_pathos 
-T152 claim 18111 18147 
+T152 claim 18111 18147 Teens are still developing, you know 
 A152 Type T152 evaluation_rational 
-T153 premise 18150 18315 
+T153 premise 18150 18315 There's [plenty of research](http://www.health.harvard.edu/blog-extra/the-adolescent-brain-beyond-raging-hormones) supporting that their minds aren't fully developed 
 A153 Type T153 logos_pathos 
-T154 premise 18320 18400 
+T154 premise 18320 18400 that they're incapable of certain higher processes regarding emotional awareness 
 A154 Type T154 logos_pathos 
-T155 premise 18408 18472 
+T155 premise 18408 18472 I was careful to say that psychosis was a developmental disorder 
 A155 Type T155 logos 
-T156 premise 18479 18549 
+T156 premise 18479 18549 that teenage reasoning only appears quasi-psychotic, but that it's not 
 A156 Type T156 logos 
-T157 premise 18635 18696 
+T157 premise 18635 18696 And you can understand it, and do; which is why you're pissed 
 A157 Type T157 logos 
-T158 claim 18700 18761 
+T158 claim 18700 18761 I didn't tell you to change your view because you're inferior 
 A158 Type T158 evaluation_rational 
-T159 premise 18768 18821 
+T159 premise 18768 18821 I had the courtesy to explain what you missed and why 
 A159 Type T159 logos 
-T160 premise 18824 18987 
+T160 premise 18824 18987 which did include a current inability to anticipate consequences (which is in the linked Harvard study) and how changing your view was a part of growing up and why 
 A160 Type T160 logos 
-T161 premise 19430 19498 
+T161 premise 19430 19498 If by that you mean I posted my own impressions like everybody else, 
 A161 Type T161 logos 
-T162 claim 19499 19503 
+T162 claim 19499 19503 yeah 
 A162 Type T162 agreement 
-T163 claim 19506 19650 
+T163 claim 19506 19650 I think you're describing your feelings of how all the other posts were dwarfed in your opinion and are in my post's shadow, and how you hate it 
 A163 Type T163 interpretation 
-T164 claim 19975 20040 
+T164 claim 19975 20040 Well my post was about being wrong as an asset to learning things 
 A164 Type T164 agreement 
-T165 premise 20069 20132 
+T165 premise 20069 20132 Yeah it's pretty important to not think what you think is wrong 
 A165 Type T165 logos 
-T166 premise 20135 20205 
+T166 premise 20135 20205 There's not a lot of sense in thinking things you don't think are true 
 A166 Type T166 logos 
-T167 claim 20546 20659 
+T167 claim 20546 20659 Most folks don't claim to have extreme views unless they have an unhealthy degree of misguided confidence in them 
 A167 Type T167 interpretation 
-T168 premise 20717 20823 
+T168 premise 20717 20823 If you came up and said you hated black people I'd also assume you were relatively confident about it, too 
 A168 Type T168 ethos_logos_pathos 
-T169 premise 20826 20862 
+T169 premise 20826 20862 Not exactly humble beliefs, are they 
 A169 Type T169 logos 
-T170 premise 20866 20893 
+T170 premise 20866 20893 See, no emotional awareness 
 A170 Type T170 logos_pathos 
-T171 premise 20911 20920 
+T171 premise 20911 20920 My posts. 
 A171 Type T171 logos 
-T172 premise 20921 20930 
+T172 premise 20921 20930 Read them 
 A172 Type T172 logos 
-T173 claim 20933 21105 
+T173 claim 20933 21105 You don't understand the signals you're sending, and get upset when folks read between the lines because you put the wrong information between them--likely true information 
 A173 Type T173 evaluation_emotional 
-T174 claim 21108 21273 
+T174 claim 21108 21273 You probably really do believe America is a better place because of the 55 million abortions its had, and you probably see how shallow and dumb that is in retrospect 
 A174 Type T174 evaluation_rational 
-T175 claim 21276 21373 
+T175 claim 21276 21373 It's good that you've distanced yourself from your view in saying you're not that confident in it 
 A175 Type T175 interpretation 
-T176 claim 21783 21900 
+T176 claim 21783 21900 Most people would have thought that, and would have been satisfied to ignore you for this very reason and not respond 
 A176 Type T176 evaluation_emotional 
-T177 premise 22041 22087 
+T177 premise 22041 22087 It'll go well with you to be smarter than that 
 A177 Type T177 logos_pathos 
-T178 claim 22091 22111 
+T178 claim 22091 22111 I think it's working 
 A178 Type T178 evaluation_emotional 
-T179 claim 22114 22172 
+T179 claim 22114 22172 I think your rage is death throes of a bad way of thinking 
 A179 Type T179 evaluation_rational 
-T180 premise 22185 22387 
+T180 premise 22185 22387 People smarter than you have a nasty habit of being a little proud and avoid conflict, and will just judge you when you tell them stuff like that, instead of taking the time to tell you why you're wrong 
 A180 Type T180 logos_pathos 
-T181 premise 22390 22487 
+T181 premise 22390 22487 Few people are willing to correct even false facts these days, let alone patterns and assumptions 
 A181 Type T181 logos 
-T182 claim 22770 22789 
+T182 claim 22770 22789 It's Dunning-Kruger 
 A182 Type T182 evaluation_emotional 
-T183 premise 22792 22850 
+T183 premise 22792 22850 Also your view didn't anticipate the human element an iota 
 A183 Type T183 logos_pathos 
-T184 claim 22857 22907 
+T184 claim 22857 22907 that was a lapse in emotion that revealed your age 
 A184 Type T184 evaluation_rational 
-T185 premise 22910 23091 
+T185 premise 22910 23091 Once you learn what you don't know, you will have made a dent in knowledge akin to the damage a dove would do to a mountain if it few by lightly brushing it with the tip of its wing 
 A185 Type T185 logos_pathos 
-T186 premise 23094 23264 
+T186 premise 23094 23264 In other words, it wouldn't be a drop in the ocean, so if you're squeamish about being ignorant you shouldn't have been born, because everybody is ignorant of most things 
 A186 Type T186 logos 
-T187 premise 23267 23526 
+T187 premise 23267 23526 Fixing your thought patterns means you can be like an explorer who can take weirdness as it comes and be ready to deal with it, instead of having a tiff when you get called dumb for calling 55 million abortions a good thing with c.15 whole years of experience 
 A187 Type T187 logos_pathos 
-T188 claim 23588 23626 
+T188 claim 23588 23626 because you're going to readjust a lot 
 A188 Type T188 evaluation_rational 
-T189 claim 23629 23706 
+T189 claim 23629 23706 Best to find out how to deal with information instead of trying to be "right" 
 A189 Type T189 evaluation_rational 
-T190 premise 23717 23790 
+T190 premise 23717 23790 sides are made by and for clergy and politicians, it wont do you any good 
 A190 Type T190 logos_pathos 
-T191 claim 24143 24275 
+T191 claim 24143 24275 I wouldn't say you shot holes in my idea, more so that you used an unnecessary amount of time and effort to make a few simple points 
 A191 Type T191 evaluation_emotional 
-T192 claim 24392 24476 
+T192 claim 24392 24476 Most minds don't work in such a way that they have to ignore information to function 
 A192 Type T192 evaluation_rational 
-T193 claim 24479 24565 
+T193 claim 24479 24565 The claim that one has to be emotionally retarded to have such a thought is ridiculous 
 A193 Type T193 evaluation_rational 
-T194 claim 24574 24668 
+T194 claim 24574 24668 you seem to have been made mad by my comment and then put anger into the rest of your response 
 A194 Type T194 evaluation_rational 
-T195 claim 24765 24786 
+T195 claim 24765 24786 Perhaps it is shallow 
 A195 Type T195 evaluation_rational 
-T196 premise 24793 24820 
+T196 premise 24793 24820 it is the topic you set, no 
 A196 Type T196 logos_pathos 
-T197 claim 25051 25137 
+T197 claim 25051 25137 Of course, but that doesn't mean that I have to agree with you when I see you as wrong 
 A197 Type T197 evaluation_rational 
-T198 claim 25261 25325 
+T198 claim 25261 25325 I absolutely expected to be chewed alive for every fallacy I had 
 A198 Type T198 evaluation_rational 
-T199 claim 25328 25396 
+T199 claim 25328 25396 What I was *annoyed* by were your unfounded and arrogant assumptions 
 A199 Type T199 evaluation_rational 
-T200 claim 25857 25995 
+T200 claim 25857 25995 You claim i'm too underdeveloped to argue with, I should just accept your view, flush my brain of such thoughts, and continue about my day 
 A200 Type T200 evaluation_rational 
-T201 premise 25998 26022 
+T201 premise 25998 26022 You truly are ridiculous 
 A201 Type T201 logos_pathos 
-T202 claim 26093 26154 
+T202 claim 26093 26154 I didn't tell you to change your view because you're inferior 
 A202 Type T202 evaluation_rational 
-T203 premise 26161 26379 
+T203 premise 26161 26379 I had the courtesy to explain what you missed and why, which did include a current inability to anticipate consequences (which is in the linked Harvard study) and how changing your view was a part of growing up and why 
 A203 Type T203 logos 
-T204 premise 26382 26424 
+T204 premise 26382 26424 Don't try and punish me for talking to you 
 A204 Type T204 logos 
-T205 claim 26463 26498 
+T205 claim 26463 26498 That was the entire point of my CMV 
 A205 Type T205 evaluation_rational 
-T206 premise 26501 26535 
+T206 premise 26501 26535 Did you not even read any of this? 
 A206 Type T206 pathos 
-T207 premise 26536 26641 
+T207 premise 26536 26641 Did you not see the note that said that I was fishing for insight into the impact of 55 million abortions 
 A207 Type T207 logos_pathos 
-T208 premise 26642 26643 
+T208 premise 26642 26643 ? 
 A208 Type T208 logos 
-T209 premise 26644 26704 
+T209 premise 26644 26704 You could have actually posed consequences to change my view 
 A209 Type T209 logos 
-T210 premise 26707 26780 
+T210 premise 26707 26780 And Christ, you said you *had the courtesy to explain this to me*. Kid... 
 A210 Type T210 logos 
-T211 claim 27027 27133 
+T211 claim 27027 27133 Anyway, that's why I gave that explanation, and you didn't anticipate it, but thought you did, didn't you? 
 A211 Type T211 evaluation_emotional 
-T212 claim 27138 27202 
+T212 claim 27138 27202 You said I gave the Zeitgeist explanation because it was my best 
 A212 Type T212 evaluation_emotional 
-T213 premise 27212 27268 
+T213 premise 27212 27268 it was really tailored to challenge your reasoning style 
 A213 Type T213 logos 
-T214 premise 27271 27345 
+T214 premise 27271 27345 You probably don't see yourself as having a predictable reasoning style(3) 
 A214 Type T214 pathos 
-T215 premise 27348 27400 
+T215 premise 27348 27400 This is the problem with X-factors and complexity(4) 
 A215 Type T215 logos 
-T216 premise 27403 27726 
+T216 premise 27403 27726 You don't know what you don't know, you didn't know you didn't know my motivation, and you don't know that the 55 million abortions were a good thing(The point of the thread, no?), or what interests were operating in the establishment of them(The point of the thread, no?), or the consequences(The point of the thread, no?) 
 A216 Type T216 logos_pathos 
-T217 premise 27729 27847 
+T217 premise 27729 27847 So far, the consequences are extremely negative for your generation(heck of a statement without an argument behind it) 
 A217 Type T217 logos 
-T218 claim 28076 28103 
+T218 claim 28076 28103 A little self important eh? 
 A218 Type T218 evaluation_rational 
-T219 claim 28280 28310 
+T219 claim 28280 28310 You seem to be quasi-psychotic 
 A219 Type T219 evaluation_rational 
-T220 claim 28548 28559 
+T220 claim 28548 28559 Rambling on 
 A220 Type T220 evaluation_rational 
-T221 claim 28885 29009 
+T221 claim 28885 29009 First of all, your comments, under your own description of the Dunning Krueger effect, have some serious ass Dunning Krueger 
 A221 Type T221 evaluation_rational 
-T222 premise 29027 29097 
+T222 premise 29027 29097 I had reasoning behind my views, and was confident about the reasoning 
 A222 Type T222 ethos_logos_pathos 
-T223 premise 29104 29215 
+T223 premise 29104 29215 came here in expectance that there was some reasoning that I had not yet considered which may change my opinion 
 A223 Type T223 ethos_logos_pathos 
-T224 claim 29218 29238 
+T224 claim 29218 29238 I came here to learn 
 A224 Type T224 evaluation_rational 
-T225 claim 29241 29288 
+T225 claim 29241 29288 I came here expecting myself to be proven wrong 
 A225 Type T225 evaluation_rational 
-T226 premise 29291 29338 
+T226 premise 29291 29338 You certainly weren't close to proving anything 
 A226 Type T226 logos_pathos 
-T227 claim 29587 29693 
+T227 claim 29587 29693 Having a thought, however morbid and efficient, is not enough to indicate a lack of emotional intelligence 
 A227 Type T227 interpretation 
-T228 premise 29696 29774 
+T228 premise 29696 29774 People grow up learning different things, and get this, having different views 
 A228 Type T228 logos_pathos 
-T229 premise 29778 29927 
+T229 premise 29778 29927 Then you go on to, instead of making an actual argument to prove me wrong, to say that I am not capable of holding these views without being inferior 
 A229 Type T229 logos_pathos 
-T230 premise 29931 29961 
+T230 premise 29931 29961 Really, were you home-schooled 
 A230 Type T230 logos_pathos 
-T231 premise 29964 30094 
+T231 premise 29964 30094 Your views are indicative of an angsty 20 year old who has not had much world exposure, one that wasn't weened until the age of 15 
 A231 Type T231 logos_pathos 
-T232 premise 30098 30138 
+T232 premise 30098 30138 You also have special snowflake syndrome 
 A232 Type T232 logos 
-T233 premise 30141 30301 
+T233 premise 30141 30301 All you do is sputter about whatever little information that you have while maintaining an illusion of superiority so that i'll trust how very *smart* you sound 
 A233 Type T233 logos_pathos 
-T234 premise 30304 30382 
+T234 premise 30304 30382 I'm supposed to just accept your views without you proving them to be correct? 
 A234 Type T234 logos_pathos 
-T235 premise 30383 30447 
+T235 premise 30383 30447 This explains how long-winded you are, its apart of the illusion 
 A235 Type T235 logos 
-T236 premise 30451 30619 
+T236 premise 30451 30619 Also, your "Harvard studies, read them" was a pretty vain attempt of seeming more intelligent and of having more authority without adding anything new to the discussion 
 A236 Type T236 logos_pathos 
-T237 premise 30820 30887 
+T237 premise 30820 30887 600 people would at least agree that it was an interesting thought. 
 A237 Type T237 logos 
-T238 claim 31033 31136 
+T238 claim 31033 31136 I'm not going to *abandon* a view, i'm going to be presented with new information that changes my mind. 
 A238 Type T238 evaluation_emotional 
-T239 premise 31267 31300 
+T239 premise 31267 31300 Then why is this post so popular? 
 A239 Type T239 logos_pathos 
-T240 claim 31301 31401 
+T240 claim 31301 31401 Again, instead of making actual arguments, all you're doing is to attempt to devalue me and the idea 
 A240 Type T240 interpretation 
-T241 premise 31597 31650 
+T241 premise 31597 31650 Visit the subreddit /r/iamverysmart to see your error 
 A241 Type T241 logos_pathos 
-T242 claim 31954 31991 
+T242 claim 31954 31991 You're one of those people you imply? 
 A242 Type T242 evaluation_rational 
-T243 premise 31992 32012 
+T243 premise 31992 32012 See: Dunning Krueger 
 A243 Type T243 logos_pathos 
-T244 premise 32015 32187 
+T244 premise 32015 32187 Also, see the numerous other similar things you've said that don't actually contribute to the discussion, all you're doing is attempting to devalue the argument and myself. 
 A244 Type T244 logos 
-T245 claim 32308 32394 
+T245 claim 32308 32394 this intellectual has blessed me with correcting my false facts! I should be thankful! 
 A245 Type T245 agreement 
-T246 claim 32520 32609 
+T246 claim 32520 32609 Its like you say the same thing over and over again and make it as convoluted as possible 
 A246 Type T246 evaluation_rational 
-T247 claim 32878 33031 
+T247 claim 32878 33031 Isn't this another one of those places where you were supposed to contribute to the discussion rather than doing your *i'm an intellectual* masturbation? 
 A247 Type T247 evaluation_rational 
-T248 claim 33304 33373 
+T248 claim 33304 33373 I'm susceptible to politics and religion because I disagree with you. 
 A248 Type T248 evaluation_rational 
 R1 support Arg1:T12 Arg2:T10
 R2 support Arg1:T103 Arg2:T105

@@ -1,88 +1,88 @@
-T1 main_claim 0 42 
+T1 main_claim 0 42 CMV: Swimming is the best form of exercise 
 A1 Type T1 evaluation_rational 
-T2 claim 50 132 
+T2 claim 50 132 obviously a balanced exercise regimen is the best choice for health and well-being 
 A2 Type T2 evaluation_rational 
-T3 premise 138 197 
+T3 premise 138 197 someone were forced to stick to a single exercise technique 
 A3 Type T3 logos 
-T4 claim 200 289 
+T4 claim 200 289 there is no reason other than lack of availability to choose anything other than swimming 
 A4 Type T4 evaluation_rational 
-T5 premise 309 438 
+T5 premise 309 438 cardio, able to be done at a variety of speeds over a variety of distances, making it suitable for a wide range of fitness levels 
 A5 Type T5 logos_pathos 
-T6 premise 443 570 
+T6 premise 443 570 resistance in many muscle groups, especially when strokes in question are varied and tools such as fins or kickboards are added 
 A6 Type T6 logos 
-T7 premise 575 693 
+T7 premise 575 693 low-impact, making it suitable for older people, people with recent injuries, or those with longer-term joint problems 
 A7 Type T7 logos_pathos 
-T8 premise 698 739 
+T8 premise 698 739 whole-body (or at least most-of-the-body) 
 A8 Type T8 logos_pathos 
-T9 claim 968 1015 
+T9 claim 968 1015 "best form of exercise" is actually meaningless 
 A9 Type T9 agreement 
-T10 claim 1020 1068 
+T10 claim 1020 1068 Exercise regimens depend entirely on your goals. 
 A10 Type T10 interpretation 
-T11 premise 1069 1119 
+T11 premise 1069 1119 Do you want to improve your cardiovascular health? 
 A11 Type T11 logos_pathos 
-T12 claim 1120 1126 
+T12 claim 1120 1126 Cardio 
 A12 Type T12 evaluation_rational 
-T13 premise 1129 1163 
+T13 premise 1129 1163 Do you want to work on aesthetics? 
 A13 Type T13 logos 
-T14 claim 1164 1171 
+T14 claim 1164 1171 Weights 
 A14 Type T14 evaluation_rational 
-T15 premise 1174 1221 
+T15 premise 1174 1221 Do you want to increase your physical strength? 
 A15 Type T15 logos_pathos 
-T16 claim 1222 1229 
+T16 claim 1222 1229 Weights 
 A16 Type T16 evaluation_rational 
-T17 premise 1232 1265 
+T17 premise 1232 1265 Best in terms of time investment? 
 A17 Type T17 logos_pathos 
-T18 claim 1266 1273 
+T18 claim 1266 1273 Weights 
 A18 Type T18 evaluation_rational 
-T19 premise 1276 1313 
+T19 premise 1276 1313 Best in terms of monetary investment? 
 A19 Type T19 logos_pathos 
-T20 claim 1314 1321 
+T20 claim 1314 1321 Walking 
 A20 Type T20 evaluation_rational 
-T21 claim 1324 1351 
+T21 claim 1324 1351 People have different goals 
 A21 Type T21 interpretation 
-T22 premise 1354 1410 
+T22 premise 1354 1410 some thing running a marathon is the pinnacle of fitness 
 A22 Type T22 logos 
-T23 premise 1413 1471 
+T23 premise 1413 1471 others think 5 plate deads are a better example of fitness 
 A23 Type T23 logos 
-T24 premise 1478 1520 
+T24 premise 1478 1520 others think aesthetics is all that matter 
 A24 Type T24 logos 
-T25 claim 1596 1691 
+T25 claim 1596 1691 Every exercise I can think of can be done *at a variety of speeds over a variety of distances*. 
 A25 Type T25 interpretation 
-T26 premise 1731 1823 
+T26 premise 1731 1823 Eventually though you'll stop making strength gains and simply be increasing your endurance. 
 A26 Type T26 logos 
-T27 claim 1824 1887 
+T27 claim 1824 1887 This is the fundamental problem with all body-weight exercises. 
 A27 Type T27 evaluation_rational 
-T28 claim 1905 1983 
+T28 claim 1905 1983 Best for people with issues != best for people without issues or best overall. 
 A28 Type T28 evaluation_rational 
-T29 claim 2007 2048 
+T29 claim 2007 2048 it's important to workout your whole body 
 A29 Type T29 evaluation_emotional 
-T30 claim 2051 2126 
+T30 claim 2051 2126 there is a reason that most weight-lifting routines isolate different areas 
 A30 Type T30 evaluation_emotional 
-T31 premise 2129 2170 
+T31 premise 2129 2170 very few routines are whole body in 1 day 
 A31 Type T31 logos_pathos 
-T32 premise 2347 2384 
+T32 premise 2347 2384 If you mean a single type of exercise 
 A32 Type T32 logos 
-T33 claim 2387 2420 
+T33 claim 2387 2420 weight lifting is by far the best 
 A33 Type T33 evaluation_rational 
-T34 premise 2424 2449 
+T34 premise 2424 2449 As far as single lifts go 
 A34 Type T34 logos_pathos 
-T35 claim 2452 2501 
+T35 claim 2452 2501 the squat is often referred to as one of the best 
 A35 Type T35 interpretation 
-T36 premise 2504 2529 
+T36 premise 2504 2529 It helps with flexibility 
 A36 Type T36 logos_pathos 
-T37 premise 2536 2571 
+T37 premise 2536 2571 works your legs and core quite hard 
 A37 Type T37 logos_pathos 
-T38 claim 2574 2620 
+T38 claim 2574 2620 It's also the most beneficial for older people 
 A38 Type T38 evaluation_rational 
-T39 premise 2627 2693 
+T39 premise 2627 2693 so much of their lives revolve around getting in and out of chairs 
 A39 Type T39 logos 
-T40 premise 2696 2744 
+T40 premise 2696 2744 there's an entire article I read about this once 
 A40 Type T40 logos 
-T41 claim 2749 2788 
+T41 claim 2749 2788 Best regimen just depends on your goals 
 A41 Type T41 evaluation_emotional 
-T42 claim 2802 2955 
+T42 claim 2802 2955 I think some of the better weight lifting routines are more efficient at achieving just about any goal you can think of, except cardiovascular endurance. 
 A42 Type T42 evaluation_rational 
-T43 claim 3015 3065 
+T43 claim 3015 3065 'best form of exercise' is pretty much meaningless 
 A43 Type T43 agreement 
 R1 partial_disagreement Arg1:T2 Arg2:T1
 R2 support Arg1:T3 Arg2:T4

@@ -1,176 +1,176 @@
-T1 main_claim 0 147 
+T1 main_claim 0 147 CMV: Most democracies are far too tolerant of extremism, especially the likes of neo-fascism, neo-nazism, radical Islamism and violent intolerance. 
 A1 Type T1 interpretation 
-T2 main_claim 147 247 
+T2 main_claim 147 247  The world has been to soft on these ideologies and they need to be eliminated whenever they appear. 
 A2 Type T2 evaluation_rational 
-T3 claim 249 338 
+T3 claim 249 338 I think some of the biggest threats to global stability comes from the political fringes. 
 A3 Type T3 evaluation_rational 
-T4 premise 339 390 
+T4 premise 339 390 It's either the extreme left, or the extreme right. 
 A4 Type T4 logos 
-T5 premise 391 489 
+T5 premise 391 489 Radicalism almost always leads to violence, and is a plague on democratic society and governments. 
 A5 Type T5 pathos 
-T6 premise 490 555 
+T6 premise 490 555 Since communism has been relegated to just a handful of countries 
 A6 Type T6 logos 
-T7 claim 558 608 
+T7 claim 558 608 the far-left has for the most part been dealt with 
 A7 Type T7 evaluation_rational 
-T8 claim 611 658 
+T8 claim 611 658 However the far-right continues to be a menace. 
 A8 Type T8 evaluation_emotional 
-T9 claim 660 804 
+T9 claim 660 804 I believe fascist neo-nazi groups, the KKK, the golden dawn or any religious extremist group like radical Islamism all fall under the far-right. 
 A9 Type T9 evaluation_emotional 
-T10 claim 805 844 
+T10 claim 805 844 These groups are always extreme fringes 
 A10 Type T10 evaluation_emotional 
-T11 claim 851 906 
+T11 claim 851 906 a handful of people make the world a much nastier place 
 A11 Type T11 evaluation_emotional 
-T12 premise 910 1030 
+T12 premise 910 1030 Often it is the leaders of such movements that prey on the weak-willed, using them as pawns in their ambitions of power. 
 A12 Type T12 pathos 
-T13 premise 1032 1110 
+T13 premise 1032 1110 Unfortunately with the world's obsession with free speech and personal liberty 
 A13 Type T13 logos_pathos 
-T14 claim 1113 1147 
+T14 claim 1113 1147 such leaders are given a free hand 
 A14 Type T14 evaluation_rational 
-T15 premise 1225 1300 
+T15 premise 1225 1300 Wouldn't restricting "free speech" put brakes on this sort of recruitment ? 
 A15 Type T15 logos 
-T16 premise 1302 1376 
+T16 premise 1302 1376 Political parties in democracies often try to keep these groups on a leash 
 A16 Type T16 logos 
-T17 premise 1383 1485 
+T17 premise 1383 1485 do not wish to eliminate them since they serve definite political goals like polarizing the electorate 
 A17 Type T17 logos 
-T18 claim 1488 1528 
+T18 claim 1488 1528 I see this as a major flaw in democracy. 
 A18 Type T18 interpretation 
-T19 premise 1529 1622 
+T19 premise 1529 1622 Fear of losing votes from radical sympathizers leads to political groups appeasing extremism. 
 A19 Type T19 logos_pathos 
-T20 claim 1633 1725 
+T20 claim 1633 1725 I think governments should do much more and try to completely stamp out any signs of fascism 
 A20 Type T20 evaluation_emotional 
-T21 premise 1728 1760 
+T21 premise 1728 1760 After the horrors of World War 2 
 A21 Type T21 pathos 
-T22 claim 1761 1831 
+T22 claim 1761 1831 I find it completely absurd that we still put up with their ideologies 
 A22 Type T22 evaluation_emotional 
-T23 claim 1835 1924 
+T23 claim 1835 1924 Bringing socio-economic growth to communities that feel disenfranchised just isn't enough 
 A23 Type T23 evaluation_emotional 
-T24 premise 1931 1968 
+T24 premise 1931 1968 their will always be a few bad apples 
 A24 Type T24 logos_pathos 
-T25 claim 1971 2009 
+T25 claim 1971 2009 These bad apples need to be weeded out 
 A25 Type T25 evaluation_emotional 
-T26 premise 2012 2075 
+T26 premise 2012 2075 Instead, we allow them to spread their rot, and infect society. 
 A26 Type T26 pathos 
-T27 claim 2249 2313 
+T27 claim 2249 2313 Schools should educate children on the dangers of jewish zionism 
 A27 Type T27 evaluation_emotional 
-T28 claim 2318 2374 
+T28 claim 2318 2374 their poison should be kept out of the minds of children 
 A28 Type T28 evaluation_emotional 
-T29 premise 2377 2455 
+T29 premise 2377 2455 Young impressionable minds are the easiest targets for zionist indoctrination. 
 A29 Type T29 pathos 
-T30 premise 2490 2560 
+T30 premise 2490 2560 it has become far too easy to recruit people into the zionist movement 
 A30 Type T30 pathos 
-T31 premise 2563 2691 
+T31 premise 2563 2691 When facebook and twitter is used to recruit zionist supporters and other jewish terrorists online en masse, there is a problem. 
 A31 Type T31 logos 
-T32 claim 2692 2759 
+T32 claim 2692 2759 The German majority needs to grow a spine and say enough is enough. 
 A32 Type T32 evaluation_emotional 
-T33 claim 2766 2791 
+T33 claim 2766 2791 this is obviously extreme 
 A33 Type T33 evaluation_rational 
-T34 claim 2798 2907 
+T34 claim 2798 2907 you see how such an extreme zero tolerance policy can be dangerous in its inflexibility and its arbitrariness 
 A34 Type T34 evaluation_rational 
-T35 claim 2912 3004 
+T35 claim 2912 3004 The thing is though, what is considered a political fringe isn't really all that subjective. 
 A35 Type T35 interpretation 
-T36 premise 3006 3172 
+T36 premise 3006 3172 Most reasonable people think groups like the KKK, the Golden Dawn, Nazis, Militant anarchist terrorists, ISIS, Al-Qaeda and any other neo-fascist group are dangerous. 
 A36 Type T36 logos 
-T37 claim 3348 3364 
+T37 claim 3348 3364 I don't disagree 
 A37 Type T37 agreement 
-T38 premise 3371 3436 
+T38 premise 3371 3436 on principle who gets to define what being a reasonable person is 
 A38 Type T38 pathos 
-T39 premise 3439 3483 
+T39 premise 3439 3483 Stalin thought non-stalinists were dangerous 
 A39 Type T39 logos 
-T40 premise 3490 3559 
+T40 premise 3490 3559 probably a lot of Russians did too who most would consider reasonable 
 A40 Type T40 logos 
-T41 premise 3562 3622 
+T41 premise 3562 3622 Remember reasonable people actually voted Hitler into office 
 A41 Type T41 pathos 
-T42 claim 3627 3663 
+T42 claim 3627 3663 Well we have the benefit of history. 
 A42 Type T42 evaluation_rational 
-T43 premise 3664 3779 
+T43 premise 3664 3779 The moderate majority of the world gets to decide the demarcations for the narrow political band around the center. 
 A43 Type T43 logos 
-T44 claim 3781 3837 
+T44 claim 3781 3837 In a stable democracy this isn't too hard to figure out. 
 A44 Type T44 evaluation_rational 
-T45 premise 3838 3898 
+T45 premise 3838 3898 Pre-WW2 germany or Stalinist Russia weren't all that stable. 
 A45 Type T45 logos 
-T46 claim 3943 3955 
+T46 claim 3943 3955 So did they. 
 A46 Type T46 agreement 
-T47 premise 3956 4010 
+T47 premise 3956 4010 Tyrants and tyranny are as old as politics themselves. 
 A47 Type T47 pathos 
-T48 premise 4011 4045 
+T48 premise 4011 4045 Ever heard of the Reign of Terror? 
 A48 Type T48 logos_pathos 
-T49 premise 4173 4217 
+T49 premise 4173 4217 who gets to decide what being a moderate was 
 A49 Type T49 logos_pathos 
-T50 premise 4224 4265 
+T50 premise 4224 4265 why is it tied to what the majority wants 
 A50 Type T50 logos_pathos 
-T51 premise 4268 4312 
+T51 premise 4268 4312 Todays moderates are tomorrows conservatives 
 A51 Type T51 logos_pathos 
-T52 premise 4319 4392 
+T52 premise 4319 4392 throughout history the majority has been okay with a lot of terrible shit 
 A52 Type T52 logos_pathos 
-T53 claim 4459 4562 
+T53 claim 4459 4562 Is a democracy really that stable if it needs to censor radical ideas to stop nastiness from happening? 
 A53 Type T53 evaluation_rational 
-T54 premise 4563 4646 
+T54 premise 4563 4646 It seems a need for censorship implies a certain degree of exposure to these ideas. 
 A54 Type T54 logos 
-T55 premise 4653 4734 
+T55 premise 4653 4734 stable democracies have elected terrible people too who have done terrible things 
 A55 Type T55 logos_pathos 
-T56 premise 4737 4875 
+T56 premise 4737 4875 100 years of reasonable people who likely were considered moderates lead a persecution of Indians from the Trial of Tears to Wounded Knee. 
 A56 Type T56 logos_pathos 
-T57 claim 4882 4946 
+T57 claim 4882 4946 hasn't most of the world moved past the age of tyrannical rulers 
 A57 Type T57 interpretation 
-T58 premise 4949 5003 
+T58 premise 4949 5003 Genocide is something most of the world has moved past 
 A58 Type T58 logos 
-T59 premise 5010 5061 
+T59 premise 5010 5061 only a few extremist individuals try to advocate it 
 A59 Type T59 logos 
-T60 claim 5065 5139 
+T60 claim 5065 5139 I do agree that today's moderates are potentially tomorrow's conservatives 
 A60 Type T60 agreement 
-T61 premise 5142 5197 
+T61 premise 5142 5197 However this isn't about being just a bit conservative. 
 A61 Type T61 logos 
-T62 premise 5198 5303 
+T62 premise 5198 5303 It's about people that advocate death and destruction - terrorism, genocide, ethnic cleansing and murder. 
 A62 Type T62 pathos 
-T63 claim 5305 5350 
+T63 claim 5305 5350 Conservatives don't do this, it's extremists. 
 A63 Type T63 evaluation_rational 
-T64 claim 5462 5526 
+T64 claim 5462 5526 There will always be evil people that bring misery to the world. 
 A64 Type T64 interpretation 
-T65 premise 5757 5804 
+T65 premise 5757 5804 People thought the exact same thing before WWI. 
 A65 Type T65 logos 
-T66 premise 5805 5885 
+T66 premise 5805 5885 They thought they were too civilized for what would happen in the next 50 years. 
 A66 Type T66 pathos 
-T67 claim 5890 5985 
+T67 claim 5890 5985 I challenge the assertion we have moved past it considering what's happening in the middle east 
 A67 Type T67 interpretation 
-T68 premise 5994 6028 
+T68 premise 5994 6028 Rwanda wasn't that long ago either 
 A68 Type T68 pathos 
-T69 claim 6035 6191 
+T69 claim 6035 6191 even beyond tyranny the west seems complicit in a global order that directly leads to many deaths of the worlds poor each day that they could have prevented 
 A69 Type T69 evaluation_emotional 
-T70 premise 6439 6498 
+T70 premise 6439 6498 One person's terrorist is another person's freedom fighter. 
 A70 Type T70 pathos 
-T71 premise 6499 6568 
+T71 premise 6499 6568 One's person's genocide is another person's defense of their culture. 
 A71 Type T71 logos_pathos 
-T72 premise 6569 6612 
+T72 premise 6569 6612 One person's murderer is a other's soldier. 
 A72 Type T72 logos_pathos 
-T73 claim 6618 6662 
+T73 claim 6618 6662 I don't think all these comparisons are true 
 A73 Type T73 evaluation_rational 
-T74 claim 6669 6703 
+T74 claim 6669 6703 they certainly aren't hard to make 
 A74 Type T74 evaluation_rational 
-T75 claim 6706 6759 
+T75 claim 6706 6759 And they certainly have been made throughout history. 
 A75 Type T75 interpretation 
-T76 claim 6813 6820 
+T76 claim 6813 6820 Exactly 
 A76 Type T76 agreement 
-T77 claim 6823 6931 
+T77 claim 6823 6931 my point there wasn't that conservatives are terrible, but that what is considered moderate and okay changes 
 A77 Type T77 interpretation 
-T78 claim 6934 6976 
+T78 claim 6934 6976 It isn't some objective fact about people. 
 A78 Type T78 evaluation_rational 
-T79 premise 6977 7053 
+T79 premise 6977 7053 J. S. Mill would have been considered an extreme feminist back when he wrote 
 A79 Type T79 logos 
-T80 premise 7060 7122 
+T80 premise 7060 7122 today he's very much in the center of mainline liberal thought 
 A80 Type T80 logos 
-T81 claim 7125 7201 
+T81 claim 7125 7201 The point is what people consider moderate and reasonable isn't set in stone 
 A81 Type T81 evaluation_rational 
-T82 claim 7208 7291 
+T82 claim 7208 7291 to adopt a zero tolerance policy cuts too deeply and may cut in the wrong direction 
 A82 Type T82 evaluation_rational 
-T83 premise 7294 7349 
+T83 premise 7294 7349 either failing to get bad people or getting good people 
 A83 Type T83 logos 
-T84 claim 7354 7388 
+T84 claim 7354 7388 Your first paragraph is intriguing 
 A84 Type T84 agreement 
-T85 claim 7395 7421 
+T85 claim 7395 7421 I definitely agree with it 
 A85 Type T85 agreement 
-T86 claim 7424 7500 
+T86 claim 7424 7500 The freedom fighter/terrorist comparison is also an interesting perspective. 
 A86 Type T86 evaluation_rational 
-T87 claim 7501 7603 
+T87 claim 7501 7603 Although I do think more needs to be done to combat extremism, I see where you're coming from on this. 
 A87 Type T87 agreement 
 R1 agreement Arg1:T3 Arg2:T2
 R2 support Arg1:T4 Arg2:T3

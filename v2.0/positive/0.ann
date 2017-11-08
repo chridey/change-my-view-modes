@@ -1,26 +1,26 @@
-T1 main_claim 0 64 
+T1 main_claim 0 64  CMV: Religion is not violent or not violent, its followers are. 
 A1 Type T1 interpretation 
-T2 claim 163 360 
+T2 claim 163 360 I point out that many Christians follow the bible which has numerous examples of sexism, but in application, there are numerous branches of Christianity that are no more sexist than secular groups. 
 A2 Type T2 evaluation_rational 
-T3 premise 361 412 
+T3 premise 361 412 For example, Congregationalists and Universaliists. 
 A3 Type T3 logos_pathos 
-T4 claim 418 589 
+T4 claim 418 589 my belief is that while religion can inform the views of people, it is far more likely that religion will be used to justify actions that would have been executed any way. 
 A4 Type T4 evaluation_rational 
-T5 claim 590 704 
+T5 claim 590 704 I think that most Jewish people don't want to stone adulterers and most Muslims don't want to stone non believers. 
 A5 Type T5 evaluation_rational 
-T6 claim 707 830 
+T6 claim 707 830 Your stance relies on the assumption that religion has no influence on the actions of its followers beyond the superficial. 
 A6 Type T6 evaluation_rational 
-T7 premise 831 890 
+T7 premise 831 890 Yet something must exist that allows this pattern to occur. 
 A7 Type T7 logos 
-T8 premise 938 1049 
+T8 premise 938 1049 you are correct if you assume the culture dominates the religion, and you are incorrect if the reverse is true. 
 A8 Type T8 logos 
-T9 claim 1050 1208 
+T9 claim 1050 1208 With this in mind, I think its safe to assume the truth is somewhere in between, with both the religion and the culture somehow influencing the unrest we see. 
 A9 Type T9 interpretation 
-T10 premise 1211 1303 
+T10 premise 1211 1303 I suppose I was taking a harsh stance when I assumed that religion had no effect on behavior 
 A10 Type T10 pathos 
-T11 claim 1311 1328 
+T11 claim 1311 1328 it obviously does 
 A11 Type T11 agreement 
-T12 claim 1332 1394 
+T12 claim 1332 1394 I still think the culture dominates religion to a great extent 
 A12 Type T12 interpretation 
 R1 agreement Arg1:T2 Arg2:T1
 R2 support Arg1:T3 Arg2:T2

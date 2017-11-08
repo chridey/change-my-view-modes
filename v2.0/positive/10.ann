@@ -1,76 +1,76 @@
-T1 main_claim 0 45 
+T1 main_claim 0 45 CMV: Freedom of speech is being taken too far 
 A1 Type T1 evaluation_rational 
-T2 claim 314 347 
+T2 claim 314 347 I certainly value our free speech 
 A2 Type T2 evaluation_emotional 
-T3 claim 358 427 
+T3 claim 358 427 there is a clear line between exercising your first amendment right ( 
 A3 Type T3 evaluation_emotional 
-T4 premise 430 488 
+T4 premise 430 488 Satirical cartoons of prophets, assassinating leaders, etc 
 A4 Type T4 logos_pathos 
-T5 claim 493 522 
+T5 claim 493 522 Perhaps this is a bad analogy 
 A5 Type T5 evaluation_rational 
-T6 premise 529 644 
+T6 premise 529 644 if you say something antagonizing to a bully and you get your ass kicked, you should have anticipated that outcome. 
 A6 Type T6 logos_pathos 
-T7 premise 804 928 
+T7 premise 804 928 Think of something you do every day that you consider perfectly reasonable; something that harms nobody in any direct sense. 
 A7 Type T7 logos_pathos 
-T8 premise 929 1016 
+T8 premise 929 1016 Let's imagine this thing is to defined as "walking down the street wearing headphones". 
 A8 Type T8 ethos_logos_pathos 
-T9 premise 1017 1135 
+T9 premise 1017 1135 Now imagine that I tell you that you doing this offends me deeply for reasons of personal belief that you don't share. 
 A9 Type T9 logos_pathos 
-T10 premise 1136 1215 
+T10 premise 1136 1215 I warn you that continuing to do this will mean that I will shoot you on sight. 
 A10 Type T10 logos 
-T11 claim 1262 1338 
+T11 claim 1262 1338 it might be *wise* for you to take off your headphones to preserve your life 
 A11 Type T11 evaluation_rational 
-T12 premise 1341 1429 
+T12 premise 1341 1429 That does not make my demand legitimate, does not make my shooting you an acceptable act 
 A12 Type T12 logos 
-T13 premise 1434 1469 
+T13 premise 1434 1469 does not make my actions your fault 
 A13 Type T13 logos 
-T14 claim 1472 1656 
+T14 claim 1472 1656 What you ought to hope is that society will protect you from someone like me and make it clear to me that my preferences will not be especially entertained because I threaten violence. 
 A14 Type T14 evaluation_rational 
-T15 claim 1658 1760 
+T15 claim 1658 1760 I think people who satirize Muhammad in ways that Muslims consider blasphemous should stop doing that. 
 A15 Type T15 evaluation_emotional 
-T16 premise 1761 1824 
+T16 premise 1761 1824 I think it's counterproductive, antagonizing and in poor taste. 
 A16 Type T16 logos_pathos 
-T17 premise 1829 1905 
+T17 premise 1829 1905 if someone disagrees with me on that point, *they don't deserve to be shot.* 
 A17 Type T17 logos_pathos 
-T18 claim 1908 1964 
+T18 claim 1908 1964 I definitely do condone any sort of reactionary violence 
 A18 Type T18 evaluation_emotional 
-T19 claim 1969 2009 
+T19 claim 1969 2009 hope I didn't imply that through my post 
 A19 Type T19 evaluation_emotional 
-T20 premise 2012 2176 
+T20 premise 2012 2176 What would the reaction from Americans be if someone walked through the streets of a predominantly black neighborhood saying "I hate black people" and was murdered? 
 A20 Type T20 pathos 
-T21 premise 2177 2207 
+T21 premise 2177 2207 I guarantee no one would care. 
 A21 Type T21 logos 
-T22 premise 2212 2403 
+T22 premise 2212 2403 suddenly everyone was up in arms when they thought they were never going to see the movie The Interview because for a few moments Sony reevaluated the situation and decided not to release it. 
 A22 Type T22 pathos 
-T23 premise 2404 2499 
+T23 premise 2404 2499 Nobody seemed to be saying "Jeez guys, maybe this is a really bad idea and we shouldn't do it." 
 A23 Type T23 logos 
-T24 premise 2552 2613 
+T24 premise 2552 2613 We'll watch our fucking movie cause we'ere FREE in America!!" 
 A24 Type T24 logos 
-T25 claim 2787 2857 
+T25 claim 2787 2857 "What would the likely reaction be?" is not the right question to ask. 
 A25 Type T25 evaluation_emotional 
-T26 claim 2858 2903 
+T26 claim 2858 2903 You should ask "what is the proper reaction?" 
 A26 Type T26 evaluation_emotional 
-T27 premise 2904 2947 
+T27 premise 2904 2947 A person doing that is probably an asshole, 
 A27 Type T27 logos_pathos 
-T28 premise 2952 3011 
+T28 premise 2952 3011 that does not mean that silencing him is a proper reaction. 
 A28 Type T28 logos 
-T29 premise 3012 3116 
+T29 premise 3012 3116 And I think many people would care, because nothing you say should be enough to justify my shooting you. 
 A29 Type T29 logos 
-T30 claim 3118 3213 
+T30 claim 3118 3213 The two examples you've mentioned are both examples of satire that have been forcibly silenced. 
 A30 Type T30 interpretation 
-T31 premise 3214 3445 
+T31 premise 3214 3445 Satire is the portion of speech that always stretches the boundaries of what we condone because its purpose is often to be offensive as a means of highlighting truths about people or society that are difficult to address seriously. 
 A31 Type T31 logos 
-T32 claim 3460 3497 
+T32 claim 3460 3497 I think you may have missed the point 
 A32 Type T32 evaluation_rational 
-T33 premise 3500 3553 
+T33 premise 3500 3553 None of the examples you given actually hurt anybody. 
 A33 Type T33 logos_pathos 
-T34 premise 3554 3588 
+T34 premise 3554 3588 They have only provoked reactions. 
 A34 Type T34 pathos 
-T35 premise 3589 3703 
+T35 premise 3589 3703 North Korea hacked Sony because they are so paranoid and insecure that they can't stand their leader being mocked. 
 A35 Type T35 logos 
-T36 premise 3704 3863 
+T36 premise 3704 3863 Some Muslims are so irrationally offended and self-important that they believe they have both the imperative and the right to kill people for drawing pictures. 
 A36 Type T36 logos 
-T37 premise 3864 3975 
+T37 premise 3864 3975 Neither of these examples illustrate problems with the speakers, they show the unhinged reactions of listeners. 
 A37 Type T37 logos_pathos 
 R1 rebuttal Arg1:T2 Arg2:T1
 R2 agreement Arg1:T3 Arg2:T1
