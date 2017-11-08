@@ -1,0 +1,40 @@
+CMV: Surplus Value Theorem is definitive proof that capitalism is an inefficient system.
+
+As I understand it, and crudely explained, SVT says that in an economic system that lets people hire other people for labour , waste has to be produced in order for the system to function .
+
+Example: Consider a society of 101 people: 100 workers and 1 boss.
+The boss owns the factory where the workers work , and they produce, say, MLP dolls that everyone wants to buy .
+The boss pays each of her workers £5 for each doll that the worker produces, and a worker produces 1 doll a day .
+At the end of the day, the boss has 100 dolls, worth £1000 and has paid out £500 .
+Wanting to make a profit on the dolls, the boss then sells the dolls for £10 each.
+She is now trying to sell £1000 worth of dolls , but the only people available to sell to are the workers, who's total funds are £500 .
+No matter how they rearrange the money between them, they will be unable to buy more than £500 worth of the dolls , and so the rest are waste inherent to the system and a direct result of the boss wanting to make profit.
+
+This example then scales up to the whole world when you throw in multiple bosses and lots more workers but the basic idea is the same : if each worker is being paid less than the price of the things they produce so that their boss can profit , then items that cannot be sold must still be produced and thrown away.
+
+&gt; The boss pays each of her workers £5 for each doll that the worker produces
+
+Most people aren't paid on commission , so this isn't really a good example , but I think I get where you're going with it.
+
+&gt;if each worker is being paid less than the price of the things they produce
+
+But the money doesn't just disappear.
+For one thing, you're neglecting the janitor who is necessary to keep the factory functioning (and presumably gets paid) but doesn't "produce" anything.
+You're also neglecting that when this system scales up you need to include the boss buying things.
+
+Since whatever profit the boss makes goes back into the system as they spend money , there should be at all times enough money in the system to cover the value of what it produced .
+This value may not be the price being charged for the thing , and that's where supply and demand are involved .
+
+I'm not going to deny that sometimes (or a lot of the time) the boss just hoards their extra money and doesn't re-inject it , but that's more a failure of the system than the system itself .
+The same goes for when something is priced above its market value , it won't sell and will be waste , but that's because the seller overpriced it , not because it was doomed to be waste as soon as it was made.
+
+No ideal system is really going to be inefficient , its the real ones that have problems.
+
+If you mean to say that real-life capitalism is inefficient , then no one is going to dispute you , but I will point out that it's the most efficient real system we have .
+
+
+&#8710;
+That makes a lot of sense!
+Thank you! I can accept that it would be a wasteless system if there were multiple factories and the boss spent all of their money!
+I can definitely think of other bits of inefficiency but that wasn't the question so nevermind! :)
+
