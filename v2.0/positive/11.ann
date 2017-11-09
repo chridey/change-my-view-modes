@@ -1,71 +1,71 @@
-T1 main_claim 0 80 CMV: Eugenics isn't all that bad... And we don't even have to kill anyone for it 
-A1 Type T1 evaluation_emotional 
-T2 claim 146 188 Intelligence is at least partially genetic 
-A2 Type T2 evaluation_rational 
-T3 premise 193 225 therefore passed down by parents 
-A3 Type T3 pathos 
-T4 claim 398 418 I'm against killing. 
-A4 Type T4 evaluation_emotional 
-T5 premise 462 635 For example, we could use the IQ scale (for want of a better intelligence measure) to determine the number of offspring a person should be able to genetically contribute to. 
-A5 Type T5 pathos 
-T6 premise 636 765 Like, round the IQ to the nearest multiple of 50, then divide by 50, and that's the number of offspring you're allowed to create. 
-A6 Type T6 pathos 
-T7 premise 767 909 So someone with near average intelligence (near 100 IQ, 75-124) would have their IQ rounded to 100 and then divided by 50 to make 2 offspring. 
-A7 Type T7 logos_pathos 
-T8 premise 910 996 The total offspring is presumably equal to the number of people who contributed to it. 
-A8 Type T8 logos_pathos 
-T9 premise 997 1094 A man and a woman with average IQ can have two children (not each.) and sustain their population. 
-A9 Type T9 logos_pathos 
-T10 premise 1096 1203 Conversely, really above average IQs of 125-174 can contribute genetically towards 3 children... and so on. 
-A10 Type T10 logos_pathos 
-T11 claim 1205 1254 This would eventually make the human race smarter 
-A11 Type T11 interpretation 
-T12 premise 1261 1321 therefore more likely to survive and advance the human race. 
-A12 Type T12 pathos 
-T13 premise 1323 1404 I know this would be a bitch to implement and it's near impossible to actually do 
-A13 Type T13 pathos 
-T14 premise 1444 1508 I know the IQ test has its faults and every policy can be abused 
-A14 Type T14 logos_pathos 
-T15 claim 1531 1627 Exceptions would be made when you accidentally have twins which causes you to go over your limit 
-A15 Type T15 interpretation 
-T16 premise 1640 1790 If a mother can make 2, and has twins, she can't make more, but if she already has one and has twins after one which makes 3, we're not gonna kill one 
-A16 Type T16 logos_pathos 
-T17 premise 1794 1901 Perhaps if you have a major, heritable health issue your IQ has 25 subtracted from it before being rounded? 
-A17 Type T17 pathos 
-T18 premise 1905 2042 maybe weighted differently, like extremely high chance of cancer (almost 100 percent or something) takes off more... Something like that. 
-A18 Type T18 pathos 
-T19 premise 2044 2098 Much better than "Kill off those with IQ less than 80" 
-A19 Type T19 ethos_pathos 
-T20 premise 2100 2139 I wouldn't mind a smarter human race... 
-A20 Type T20 pathos 
-T21 premise 2687 2755 It looks to me like you've made so many exceptions to your main view 
-A21 Type T21 logos 
-T22 claim 2761 2805 you aren't looking to have your view changed 
-A22 Type T22 evaluation_rational 
-T23 premise 2859 2957 if you have to make so many exceptions to your view, then it seems you already know it's incorrect 
-A23 Type T23 logos_pathos 
-T24 claim 3013 3128 nikeson proved that my argument has changed so much from my main point that it really just proves my argument wrong 
-A24 Type T24 evaluation_emotional 
-R1 agreement Arg1:T2 Arg2:T1
-R2 support Arg1:T3 Arg2:T2
-R3 support Arg1:T12 Arg2:T11
-R4 disagreement Arg1:T13 Arg2:T11
-R5 support Arg1:T14 Arg2:T13
-R6 support Arg1:T15 Arg2:T13
-R7 support Arg1:T16 Arg2:T15
-R8 support Arg1:T17 Arg2:T13
-R9 support Arg1:T18 Arg2:T13
-R10 support Arg1:T19 Arg2:T13
-R11 support Arg1:T20 Arg2:T11
-R12 support Arg1:T21 Arg2:T22
-R13 agreement Arg1:T4 Arg2:T1
-R14 rebuttal Arg1:T22 Arg2:T1
-R15 support Arg1:T23 Arg2:T22
-R16 agreement Arg1:T24 Arg2:T22
-R17 support Arg1:T5 Arg2:T1
-R18 support Arg1:T6 Arg2:T1
-R19 support Arg1:T7 Arg2:T1
-R20 support Arg1:T8 Arg2:T1
-R21 support Arg1:T9 Arg2:T1
-R22 support Arg1:T10 Arg2:T1
-R23 agreement Arg1:T11 Arg2:T1
+T1	main_claim 0 80	CMV: Eugenics isn't all that bad... And we don't even have to kill anyone for it
+A1	Type 1 evaluation_emotional
+T2	claim 146 188	Intelligence is at least partially genetic
+A2	Type 2 evaluation_rational
+T3	premise 193 225	therefore passed down by parents
+A3	Type 3 pathos
+T4	claim 398 418	I'm against killing.
+A4	Type 4 evaluation_emotional
+T5	premise 462 635	For example, we could use the IQ scale (for want of a better intelligence measure) to determine the number of offspring a person should be able to genetically contribute to.
+A5	Type 5 pathos
+T6	premise 636 765	Like, round the IQ to the nearest multiple of 50, then divide by 50, and that's the number of offspring you're allowed to create.
+A6	Type 6 pathos
+T7	premise 767 909	So someone with near average intelligence (near 100 IQ, 75-124) would have their IQ rounded to 100 and then divided by 50 to make 2 offspring.
+A7	Type 7 logos_pathos
+T8	premise 910 996	The total offspring is presumably equal to the number of people who contributed to it.
+A8	Type 8 logos_pathos
+T9	premise 997 1094	A man and a woman with average IQ can have two children (not each.) and sustain their population.
+A9	Type 9 logos_pathos
+T10	premise 1096 1203	Conversely, really above average IQs of 125-174 can contribute genetically towards 3 children... and so on.
+A10	Type 10 logos_pathos
+T11	claim 1205 1254	This would eventually make the human race smarter
+A11	Type 11 interpretation
+T12	premise 1261 1321	therefore more likely to survive and advance the human race.
+A12	Type 12 pathos
+T13	premise 1323 1404	I know this would be a bitch to implement and it's near impossible to actually do
+A13	Type 13 pathos
+T14	premise 1444 1508	I know the IQ test has its faults and every policy can be abused
+A14	Type 14 logos_pathos
+T15	claim 1531 1627	Exceptions would be made when you accidentally have twins which causes you to go over your limit
+A15	Type 15 interpretation
+T16	premise 1640 1790	If a mother can make 2, and has twins, she can't make more, but if she already has one and has twins after one which makes 3, we're not gonna kill one
+A16	Type 16 logos_pathos
+T17	premise 1794 1901	Perhaps if you have a major, heritable health issue your IQ has 25 subtracted from it before being rounded?
+A17	Type 17 pathos
+T18	premise 1905 2042	maybe weighted differently, like extremely high chance of cancer (almost 100 percent or something) takes off more... Something like that.
+A18	Type 18 pathos
+T19	premise 2044 2098	Much better than "Kill off those with IQ less than 80"
+A19	Type 19 ethos_pathos
+T20	premise 2100 2139	I wouldn't mind a smarter human race...
+A20	Type 20 pathos
+T21	premise 2687 2755	It looks to me like you've made so many exceptions to your main view
+A21	Type 21 logos
+T22	claim 2761 2805	you aren't looking to have your view changed
+A22	Type 22 evaluation_rational
+T23	premise 2859 2957	if you have to make so many exceptions to your view, then it seems you already know it's incorrect
+A23	Type 23 logos_pathos
+T24	claim 3013 3128	nikeson proved that my argument has changed so much from my main point that it really just proves my argument wrong
+A24	Type 24 evaluation_emotional
+R1	agreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T2
+R3	support Arg1:T12 Arg2:T11
+R4	disagreement Arg1:T13 Arg2:T11
+R5	support Arg1:T14 Arg2:T13
+R6	support Arg1:T15 Arg2:T13
+R7	support Arg1:T16 Arg2:T15
+R8	support Arg1:T17 Arg2:T13
+R9	support Arg1:T18 Arg2:T13
+R10	support Arg1:T19 Arg2:T13
+R11	support Arg1:T20 Arg2:T11
+R12	support Arg1:T21 Arg2:T22
+R13	agreement Arg1:T4 Arg2:T1
+R14	rebuttal Arg1:T22 Arg2:T1
+R15	support Arg1:T23 Arg2:T22
+R16	agreement Arg1:T24 Arg2:T22
+R17	support Arg1:T5 Arg2:T1
+R18	support Arg1:T6 Arg2:T1
+R19	support Arg1:T7 Arg2:T1
+R20	support Arg1:T8 Arg2:T1
+R21	support Arg1:T9 Arg2:T1
+R22	support Arg1:T10 Arg2:T1
+R23	agreement Arg1:T11 Arg2:T1

@@ -1,131 +1,131 @@
-T1 main_claim 0 86 CMV: Posting nude pictures online is caused by a need for attention and not empowering 
-A1 Type T1 interpretation 
-T2 claim 130 195 I am not saying that people are not allowed to do what they like. 
-A2 Type T2 evaluation_rational 
-T3 premise 196 303 I don't care if people post nudes, I'm just saying that this is how I feel when I see people posting nudes. 
-A3 Type T3 logos 
-T4 claim 304 382 Also, I don't mean to suggest that there is anything wrong with posting nudes. 
-A4 Type T4 evaluation_emotional 
-T5 claim 383 540 Lastly, I have nothing wrong with nudity and am in fact a fan of nudity, I just don't understand exposing yourself to the entirety of the internet on a whim. 
-A5 Type T5 evaluation_rational 
-T6 claim 542 681 Whenever I see anyone, male or female, posting nude pictures on the internet, I immediately assume that they are somehow seeking attention. 
-A6 Type T6 interpretation 
-T7 claim 682 849 Of course, that's the point, but I think that it must stem from some underlying need to get attention that they must either be lacking in some other part of their life 
-A7 Type T7 interpretation 
-T8 premise 855 936 simply need because that's their personality and that they feed off of attention. 
-A8 Type T8 logos_pathos 
-T9 premise 1319 1538 I don't understand how posting images of yourself naked, often with the understanding that others will masturbate to you (/r/gonewild for example) is not empowering but instead a form of whoring yourself out in a sense. 
-A9 Type T9 logos_pathos 
-T10 claim 2253 2349 What you're really seeming to say is that any action which garners attention is morally corrupt. 
-A10 Type T10 interpretation 
-T11 claim 2350 2502 You've drawn this fine line where something that is done for attention cannot also be done for empowerment, which I find to be the crux of your dilemma. 
-A11 Type T11 interpretation 
-T12 premise 2503 2622 If someone is confident in their body, is it not empowering to have other people give you reassurance of that position? 
-A12 Type T12 logos_pathos 
-T13 premise 2623 2703 The definition of empowering is to "make (someone) stronger and more confident". 
-A13 Type T13 logos 
-T14 premise 2704 2764 If the feedback about their bodies does that, then so be it. 
-A14 Type T14 logos_pathos 
-T15 premise 2765 2865 People seem to get very morally judgmental about how the internet has made us all so much more open. 
-A15 Type T15 logos_pathos 
-T16 premise 2866 2950 We share so much and censor so much less... but why is this necessarily a bad thing? 
-A16 Type T16 logos_pathos 
-T17 premise 2951 3034 If  no harm is done, what problem is there in using the internet for such exchange? 
-A17 Type T17 logos_pathos 
-T18 premise 3035 3213 Like it or not, the platforms websites have provided have made a level playing field for anyone to find some kind of minor 'celebrity', with a paparazzi of their anonymous peers. 
-A18 Type T18 logos 
-T19 premise 3214 3287 If the attrition of that kind of fan base is what empowers her, so be it. 
-A19 Type T19 logos_pathos 
-T20 premise 3288 3430 It may be complex for those in relationships who want more exclusivity, but that's more an interpersonal problem than a denial of empowerment. 
-A20 Type T20 logos_pathos 
-T21 claim 3433 3510 I personally am against the openness that society has taken with the internet 
-A21 Type T21 evaluation_emotional 
-T22 claim 3511 3512 . 
-A22 Type T22 evaluation_emotional 
-T23 claim 3612 3711 I think that this openness is not detrimental per se, but is just a display of someone's character. 
-A23 Type T23 interpretation 
-T24 claim 3712 3770 Like I said, I have no*problem* with anyone posting nudes, 
-A24 Type T24 interpretation 
-T25 claim 3771 3837 I just immediately view them differently as one seeking attention. 
-A25 Type T25 interpretation 
-T26 premise 3838 3976 There are plenty of other ways to garner positive attention that everyone can agree is positive, instead of morally questionable behavior. 
-A26 Type T26 logos 
-T27 premise 4101 4185 Also, why is gaining a celebrity status for something like posting nudes empowering? 
-A27 Type T27 logos_pathos 
-T28 premise 4186 4226 What about that makes someone feel good? 
-A28 Type T28 logos_pathos 
-T29 claim 4227 4450 When I see that type of situation I see someone who knowingly is attractive, considering they have a high status, and is willing to sexually pleasure their followers via this attractiveness that they already know they have. 
-A29 Type T29 interpretation 
-T30 claim 4582 4693 I as a person have a hard time seeing through other people's eyes if I can't justify a logical reason to do it. 
-A30 Type T30 evaluation_emotional 
-T31 claim 4694 4747 I just don't see any reason in this type of behavior. 
-A31 Type T31 evaluation_rational 
-T32 premise 4748 4832 Also, I think that some of my problem is, like you said, the fine line I have drawn. 
-A32 Type T32 logos_pathos 
-T33 premise 4833 4952 The lines I tend to draw in life are ambiguous and hard to support which often results in a weak basis for my opinions. 
-A33 Type T33 logos 
-T34 premise 4953 4990 Hence, my seeking of others opinions. 
-A34 Type T34 logos_pathos 
-T35 claim 5160 5216 . And yet this is just the interplay of societal values. 
-A35 Type T35 interpretation 
-T36 premise 5217 5344 Let us not forget that during the Renaissance there was a huge movement for the exploration of the human form as a work of art. 
-A36 Type T36 logos 
-T37 premise 5345 5592 Much of the surviving ancient sculptures and paintings show the nakedness of the human form, and this art compares us to heroes and gods as did much of the writing and philosophy of the time as we tried to figure out our "meaning" in the universe. 
-A37 Type T37 ethos 
-T38 claim 5593 5743 Now of course, this is a romantic view of history which takes the surviving works of outstanding people, rather than looking towards the common man... 
-A38 Type T38 interpretation 
-T39 claim 5748 5815 certainly that is a point to be made about the modern time as well. 
-A39 Type T39 interpretation 
-T40 premise 5816 5862 What makes modern sexuality morally abhorrent? 
-A40 Type T40 logos_pathos 
-T41 premise 5863 5993 What logical basis is there for the rejection of the human form and the demonizing those who are open about their sexual identity? 
-A41 Type T41 logos_pathos 
-T42 premise 5994 6047 Slut shaming, or as you did, calling it as "whoring"? 
-A42 Type T42 logos_pathos 
-T43 claim 6049 6111 Certainly in America there is a huge bias against such things, 
-A43 Type T43 interpretation 
-T44 premise 6116 6357 the basis of that has been our periodic pushes from the church, periods of "Great Awakening" where fundamentalists have tried to restore us to some kind of repressive god-fearing and internalized state of self loathing and cleansing for sin. 
-A44 Type T44 ethos_logos 
-T45 claim 6358 6454 Beyond some shell of spirituality, there is no real objective reasoning to be so opposed to sex. 
-A45 Type T45 evaluation_rational 
-T46 premise 6455 6613 In fact if you look towards Europe, a lot of their media is much more lenient on sex than violence, whereas over here we're more lenient on violence than sex. 
-A46 Type T46 logos_pathos 
-T47 premise 6744 6904 The only ways I can think of are people trying to go back and find those pictures and use them against a person as some kind of ad-hominem attack in the public. 
-A47 Type T47 logos_pathos 
-T48 claim 6905 6992 This again, though, goes back to a culture which seems unreasonably biased towards sex. 
-A48 Type T48 evaluation_rational 
-T49 claim 6993 7123 There's this mystique and taboos surrounding it's open discussion which involve shaming and peer pressure, bullying and non-sense. 
-A49 Type T49 interpretation 
-T50 premise 7129 7302 Even you've admitted you can't really articulate it you just feel this way because you *just do*. Which is no basis for a logical or reasonable way to think about the world. 
-A50 Type T50 logos 
-R1 support Arg1:T3 Arg2:T2
-R2 undercutter_attack Arg1:T12 Arg2:T1
-R3 support Arg1:T13 Arg2:T12
-R4 undercutter_attack Arg1:T14 Arg2:T1
-R5 support Arg1:T15 Arg2:T16
-R6 undercutter_attack Arg1:T16 Arg2:T1
-R7 undercutter_attack Arg1:T17 Arg2:T16
-R8 undercutter_attack Arg1:T18 Arg2:T1
-R9 undercutter_attack Arg1:T19 Arg2:T1
-R10 undercutter_attack Arg1:T20 Arg2:T1
-R11 rebuttal_attack Arg1:T21 Arg2:T16
-R12 support Arg1:T4 Arg2:T2
-R13 support Arg1:T22 Arg2:T21
-R14 partial_attack Arg1:T23 Arg2:T15
-R15 support Arg1:T26 Arg2:T15
-R16 support Arg1:T27 Arg2:T29
-R17 support Arg1:T28 Arg2:T29
-R18 partial_agreement Arg1:T5 Arg2:T2
-R19 undercutter_attack Arg1:T35 Arg2:T26
-R20 support Arg1:T36 Arg2:T35
-R21 support Arg1:T37 Arg2:T35
-R22 support Arg1:T38 Arg2:T35
-R23 support Arg1:T41 Arg2:T39
-R24 support Arg1:T42 Arg2:T35
-R25 support Arg1:T46 Arg2:T45
-R26 partial_agreement Arg1:T47 Arg2:T45
-R27 undercutter_attack Arg1:T48 Arg2:T45
-R28 undercutter_attack Arg1:T49 Arg2:T45
-R29 support Arg1:T50 Arg2:T49
-R30 agreement Arg1:T7 Arg2:T6
-R31 support Arg1:T8 Arg2:T7
+T1	main_claim 0 86	CMV: Posting nude pictures online is caused by a need for attention and not empowering
+A1	Type 1 interpretation
+T2	claim 130 195	I am not saying that people are not allowed to do what they like.
+A2	Type 2 evaluation_rational
+T3	premise 196 303	I don't care if people post nudes, I'm just saying that this is how I feel when I see people posting nudes.
+A3	Type 3 logos
+T4	claim 304 382	Also, I don't mean to suggest that there is anything wrong with posting nudes.
+A4	Type 4 evaluation_emotional
+T5	claim 383 540	Lastly, I have nothing wrong with nudity and am in fact a fan of nudity, I just don't understand exposing yourself to the entirety of the internet on a whim.
+A5	Type 5 evaluation_rational
+T6	claim 542 681	Whenever I see anyone, male or female, posting nude pictures on the internet, I immediately assume that they are somehow seeking attention.
+A6	Type 6 interpretation
+T7	claim 682 849	Of course, that's the point, but I think that it must stem from some underlying need to get attention that they must either be lacking in some other part of their life
+A7	Type 7 interpretation
+T8	premise 855 936	simply need because that's their personality and that they feed off of attention.
+A8	Type 8 logos_pathos
+T9	premise 1319 1538	I don't understand how posting images of yourself naked, often with the understanding that others will masturbate to you (/r/gonewild for example) is not empowering but instead a form of whoring yourself out in a sense.
+A9	Type 9 logos_pathos
+T10	claim 2253 2349	What you're really seeming to say is that any action which garners attention is morally corrupt.
+A10	Type 10 interpretation
+T11	claim 2350 2502	You've drawn this fine line where something that is done for attention cannot also be done for empowerment, which I find to be the crux of your dilemma.
+A11	Type 11 interpretation
+T12	premise 2503 2622	If someone is confident in their body, is it not empowering to have other people give you reassurance of that position?
+A12	Type 12 logos_pathos
+T13	premise 2623 2703	The definition of empowering is to "make (someone) stronger and more confident".
+A13	Type 13 logos
+T14	premise 2704 2764	If the feedback about their bodies does that, then so be it.
+A14	Type 14 logos_pathos
+T15	premise 2765 2865	People seem to get very morally judgmental about how the internet has made us all so much more open.
+A15	Type 15 logos_pathos
+T16	premise 2866 2950	We share so much and censor so much less... but why is this necessarily a bad thing?
+A16	Type 16 logos_pathos
+T17	premise 2951 3034	If  no harm is done, what problem is there in using the internet for such exchange?
+A17	Type 17 logos_pathos
+T18	premise 3035 3213	Like it or not, the platforms websites have provided have made a level playing field for anyone to find some kind of minor 'celebrity', with a paparazzi of their anonymous peers.
+A18	Type 18 logos
+T19	premise 3214 3287	If the attrition of that kind of fan base is what empowers her, so be it.
+A19	Type 19 logos_pathos
+T20	premise 3288 3430	It may be complex for those in relationships who want more exclusivity, but that's more an interpersonal problem than a denial of empowerment.
+A20	Type 20 logos_pathos
+T21	claim 3433 3510	I personally am against the openness that society has taken with the internet
+A21	Type 21 evaluation_emotional
+T22	claim 3511 3512	.
+A22	Type 22 evaluation_emotional
+T23	claim 3612 3711	I think that this openness is not detrimental per se, but is just a display of someone's character.
+A23	Type 23 interpretation
+T24	claim 3712 3770	Like I said, I have no*problem* with anyone posting nudes,
+A24	Type 24 interpretation
+T25	claim 3771 3837	I just immediately view them differently as one seeking attention.
+A25	Type 25 interpretation
+T26	premise 3838 3976	There are plenty of other ways to garner positive attention that everyone can agree is positive, instead of morally questionable behavior.
+A26	Type 26 logos
+T27	premise 4101 4185	Also, why is gaining a celebrity status for something like posting nudes empowering?
+A27	Type 27 logos_pathos
+T28	premise 4186 4226	What about that makes someone feel good?
+A28	Type 28 logos_pathos
+T29	claim 4227 4450	When I see that type of situation I see someone who knowingly is attractive, considering they have a high status, and is willing to sexually pleasure their followers via this attractiveness that they already know they have.
+A29	Type 29 interpretation
+T30	claim 4582 4693	I as a person have a hard time seeing through other people's eyes if I can't justify a logical reason to do it.
+A30	Type 30 evaluation_emotional
+T31	claim 4694 4747	I just don't see any reason in this type of behavior.
+A31	Type 31 evaluation_rational
+T32	premise 4748 4832	Also, I think that some of my problem is, like you said, the fine line I have drawn.
+A32	Type 32 logos_pathos
+T33	premise 4833 4952	The lines I tend to draw in life are ambiguous and hard to support which often results in a weak basis for my opinions.
+A33	Type 33 logos
+T34	premise 4953 4990	Hence, my seeking of others opinions.
+A34	Type 34 logos_pathos
+T35	claim 5160 5216	. And yet this is just the interplay of societal values.
+A35	Type 35 interpretation
+T36	premise 5217 5344	Let us not forget that during the Renaissance there was a huge movement for the exploration of the human form as a work of art.
+A36	Type 36 logos
+T37	premise 5345 5592	Much of the surviving ancient sculptures and paintings show the nakedness of the human form, and this art compares us to heroes and gods as did much of the writing and philosophy of the time as we tried to figure out our "meaning" in the universe.
+A37	Type 37 ethos
+T38	claim 5593 5743	Now of course, this is a romantic view of history which takes the surviving works of outstanding people, rather than looking towards the common man...
+A38	Type 38 interpretation
+T39	claim 5748 5815	certainly that is a point to be made about the modern time as well.
+A39	Type 39 interpretation
+T40	premise 5816 5862	What makes modern sexuality morally abhorrent?
+A40	Type 40 logos_pathos
+T41	premise 5863 5993	What logical basis is there for the rejection of the human form and the demonizing those who are open about their sexual identity?
+A41	Type 41 logos_pathos
+T42	premise 5994 6047	Slut shaming, or as you did, calling it as "whoring"?
+A42	Type 42 logos_pathos
+T43	claim 6049 6111	Certainly in America there is a huge bias against such things,
+A43	Type 43 interpretation
+T44	premise 6116 6357	the basis of that has been our periodic pushes from the church, periods of "Great Awakening" where fundamentalists have tried to restore us to some kind of repressive god-fearing and internalized state of self loathing and cleansing for sin.
+A44	Type 44 ethos_logos
+T45	claim 6358 6454	Beyond some shell of spirituality, there is no real objective reasoning to be so opposed to sex.
+A45	Type 45 evaluation_rational
+T46	premise 6455 6613	In fact if you look towards Europe, a lot of their media is much more lenient on sex than violence, whereas over here we're more lenient on violence than sex.
+A46	Type 46 logos_pathos
+T47	premise 6744 6904	The only ways I can think of are people trying to go back and find those pictures and use them against a person as some kind of ad-hominem attack in the public.
+A47	Type 47 logos_pathos
+T48	claim 6905 6992	This again, though, goes back to a culture which seems unreasonably biased towards sex.
+A48	Type 48 evaluation_rational
+T49	claim 6993 7123	There's this mystique and taboos surrounding it's open discussion which involve shaming and peer pressure, bullying and non-sense.
+A49	Type 49 interpretation
+T50	premise 7129 7302	Even you've admitted you can't really articulate it you just feel this way because you *just do*. Which is no basis for a logical or reasonable way to think about the world.
+A50	Type 50 logos
+R1	support Arg1:T3 Arg2:T2
+R2	undercutter_attack Arg1:T12 Arg2:T1
+R3	support Arg1:T13 Arg2:T12
+R4	undercutter_attack Arg1:T14 Arg2:T1
+R5	support Arg1:T15 Arg2:T16
+R6	undercutter_attack Arg1:T16 Arg2:T1
+R7	undercutter_attack Arg1:T17 Arg2:T16
+R8	undercutter_attack Arg1:T18 Arg2:T1
+R9	undercutter_attack Arg1:T19 Arg2:T1
+R10	undercutter_attack Arg1:T20 Arg2:T1
+R11	rebuttal_attack Arg1:T21 Arg2:T16
+R12	support Arg1:T4 Arg2:T2
+R13	support Arg1:T22 Arg2:T21
+R14	partial_attack Arg1:T23 Arg2:T15
+R15	support Arg1:T26 Arg2:T15
+R16	support Arg1:T27 Arg2:T29
+R17	support Arg1:T28 Arg2:T29
+R18	partial_agreement Arg1:T5 Arg2:T2
+R19	undercutter_attack Arg1:T35 Arg2:T26
+R20	support Arg1:T36 Arg2:T35
+R21	support Arg1:T37 Arg2:T35
+R22	support Arg1:T38 Arg2:T35
+R23	support Arg1:T41 Arg2:T39
+R24	support Arg1:T42 Arg2:T35
+R25	support Arg1:T46 Arg2:T45
+R26	partial_agreement Arg1:T47 Arg2:T45
+R27	undercutter_attack Arg1:T48 Arg2:T45
+R28	undercutter_attack Arg1:T49 Arg2:T45
+R29	support Arg1:T50 Arg2:T49
+R30	agreement Arg1:T7 Arg2:T6
+R31	support Arg1:T8 Arg2:T7

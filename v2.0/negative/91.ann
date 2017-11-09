@@ -1,59 +1,59 @@
-T1 main_claim 0 83 CMV: Veganism and vegetarianism are not the best way to improve farm animal welfare 
-A1 Type T1 evaluation_rational 
-T2 claim 202 283 The chances of the entire world adopting a vegan/vegetarian diet are slim to none 
-A2 Type T2 evaluation_rational 
-T3 premise 289 364 Therefore, there will always be a market for meat and other animal products 
-A3 Type T3 logos_pathos 
-T4 claim 369 461 The food market, like all other markets, operates on general principles of supply and demand 
-A4 Type T4 evaluation_rational 
-T5 claim 466 596 Meat farmers can use techniques exhibiting a range of costs or benefits, both in terms of environmental impact and animal welfare. 
-A5 Type T5 evaluation_rational 
-T6 claim 601 769 A vegan or vegetarian diet denies demand, and thus potential revenue, to all meat-producing farms, regardless of how humane or environmentally sound their practice are. 
-A6 Type T6 evaluation_rational 
-T7 premise 775 826 Since the majority of farms are large factory farms 
-A7 Type T7 logos_pathos 
-T8 claim 829 885 I concede that this is probably good for animal welfare. 
-A8 Type T8 evaluation_rational 
-T9 claim 904 1022 Purchasing meat from farms known to produce their meat in an ethical way not only denies demand to large factory farms 
-A9 Type T9 evaluation_rational 
-T10 claim 1027 1081 helps improve the market share of ethical meat-growing 
-A10 Type T10 evaluation_rational 
-T11 claim 1084 1149 which seems as though it would be even better for animal welfare. 
-A11 Type T11 evaluation_rational 
-T12 claim 1151 1241 My general view is that people should probably as a rule eat less meat from better growers 
-A12 Type T12 evaluation_emotional 
-T13 claim 1248 1361 that will make for a bigger shift in growing practices than simply people dropping out of eating meat altogether. 
-A13 Type T13 evaluation_emotional 
-T14 premise 1372 1455 this practice would be much easier to "evangelize" than a vegetarian or vegan diet. 
-A14 Type T14 pathos 
-T15 premise 1456 1584 Face it, meat is tasty (and non-factory meat is often tastier than factory-farmed meat, at least in my own anecdotal experience) 
-A15 Type T15 logos 
-T16 claim 1587 1636 It really depends on how you view animal welfare. 
-A16 Type T16 evaluation_emotional 
-T17 premise 1637 1758 I think most vegetarians see killing and eating an animal as wrong regardless of how good the conditions it lives in are. 
-A17 Type T17 pathos 
-T18 claim 1761 1826 I guess that this comes from my utilitarian-in-most-cases ethics. 
-A18 Type T18 evaluation_rational 
-T19 claim 1827 1963 I believe that small-medium improvements over large scales, such as an entire market, are better than large improvements at tiny scales. 
-A19 Type T19 interpretation 
-T20 claim 1975 2033 this CMV is not about "veganism and vegetarianism are bad" 
-A20 Type T20 disagreement 
-T21 claim 2034 2132 it's about "eating meat responsibly is better for animal welfare than abstaining from eating meat" 
-A21 Type T21 interpretation 
-R1 agreement Arg1:T2 Arg2:T1
-R2 support Arg1:T3 Arg2:T2
-R3 agreement Arg1:T12 Arg2:T1
-R4 agreement Arg1:T13 Arg2:T1
-R5 support Arg1:T14 Arg2:T12
-R6 support Arg1:T15 Arg2:T13
-R7 undercutter Arg1:T16 Arg2:T8
-R8 support Arg1:T17 Arg2:T16
-R9 agreement Arg1:T18 Arg2:T16
-R10 undercutter Arg1:T19 Arg2:T1
-R11 rebuttal Arg1:T20 Arg2:T1
-R12 rebuttal Arg1:T21 Arg2:T1
-R13 agreement Arg1:T4 Arg2:T1
-R14 agreement Arg1:T5 Arg2:T1
-R15 support Arg1:T6 Arg2:T1
-R16 support Arg1:T7 Arg2:T8
-R17 agreement Arg1:T9 Arg2:T1
+T1	main_claim 0 83	CMV: Veganism and vegetarianism are not the best way to improve farm animal welfare
+A1	Type 1 evaluation_rational
+T2	claim 202 283	The chances of the entire world adopting a vegan/vegetarian diet are slim to none
+A2	Type 2 evaluation_rational
+T3	premise 289 364	Therefore, there will always be a market for meat and other animal products
+A3	Type 3 logos_pathos
+T4	claim 369 461	The food market, like all other markets, operates on general principles of supply and demand
+A4	Type 4 evaluation_rational
+T5	claim 466 596	Meat farmers can use techniques exhibiting a range of costs or benefits, both in terms of environmental impact and animal welfare.
+A5	Type 5 evaluation_rational
+T6	claim 601 769	A vegan or vegetarian diet denies demand, and thus potential revenue, to all meat-producing farms, regardless of how humane or environmentally sound their practice are.
+A6	Type 6 evaluation_rational
+T7	premise 775 826	Since the majority of farms are large factory farms
+A7	Type 7 logos_pathos
+T8	claim 829 885	I concede that this is probably good for animal welfare.
+A8	Type 8 evaluation_rational
+T9	claim 904 1022	Purchasing meat from farms known to produce their meat in an ethical way not only denies demand to large factory farms
+A9	Type 9 evaluation_rational
+T10	claim 1027 1081	helps improve the market share of ethical meat-growing
+A10	Type 10 evaluation_rational
+T11	claim 1084 1149	which seems as though it would be even better for animal welfare.
+A11	Type 11 evaluation_rational
+T12	claim 1151 1241	My general view is that people should probably as a rule eat less meat from better growers
+A12	Type 12 evaluation_emotional
+T13	claim 1248 1361	that will make for a bigger shift in growing practices than simply people dropping out of eating meat altogether.
+A13	Type 13 evaluation_emotional
+T14	premise 1372 1455	this practice would be much easier to "evangelize" than a vegetarian or vegan diet.
+A14	Type 14 pathos
+T15	premise 1456 1584	Face it, meat is tasty (and non-factory meat is often tastier than factory-farmed meat, at least in my own anecdotal experience)
+A15	Type 15 logos
+T16	claim 1587 1636	It really depends on how you view animal welfare.
+A16	Type 16 evaluation_emotional
+T17	premise 1637 1758	I think most vegetarians see killing and eating an animal as wrong regardless of how good the conditions it lives in are.
+A17	Type 17 pathos
+T18	claim 1761 1826	I guess that this comes from my utilitarian-in-most-cases ethics.
+A18	Type 18 evaluation_rational
+T19	claim 1827 1963	I believe that small-medium improvements over large scales, such as an entire market, are better than large improvements at tiny scales.
+A19	Type 19 interpretation
+T20	claim 1975 2033	this CMV is not about "veganism and vegetarianism are bad"
+A20	Type 20 disagreement
+T21	claim 2034 2132	it's about "eating meat responsibly is better for animal welfare than abstaining from eating meat"
+A21	Type 21 interpretation
+R1	agreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T2
+R3	agreement Arg1:T12 Arg2:T1
+R4	agreement Arg1:T13 Arg2:T1
+R5	support Arg1:T14 Arg2:T12
+R6	support Arg1:T15 Arg2:T13
+R7	undercutter Arg1:T16 Arg2:T8
+R8	support Arg1:T17 Arg2:T16
+R9	agreement Arg1:T18 Arg2:T16
+R10	undercutter Arg1:T19 Arg2:T1
+R11	rebuttal Arg1:T20 Arg2:T1
+R12	rebuttal Arg1:T21 Arg2:T1
+R13	agreement Arg1:T4 Arg2:T1
+R14	agreement Arg1:T5 Arg2:T1
+R15	support Arg1:T6 Arg2:T1
+R16	support Arg1:T7 Arg2:T8
+R17	agreement Arg1:T9 Arg2:T1

@@ -1,139 +1,139 @@
-T1 main_claim 0 80 CMV: The highest form of relationship between men and women doomed to be romance 
-A1 Type T1 interpretation 
-T2 claim 82 172 Maybe it has to do with being an adolescent and being new to dealing with the opposite sex 
-A2 Type T2 evaluation_rational 
-T3 claim 179 309 I'm beginning to fall under the assumption that the only purpose for guys to get to know girls is to eventually engage in romance. 
-A3 Type T3 evaluation_rational 
-T4 premise 311 368 "Why else do men engage women in conversation in public?" 
-A4 Type T4 pathos 
-T5 claim 380 457 my perception might just be distorted after reading Neil Strauss's *The Game* 
-A5 Type T5 interpretation 
-T6 premise 463 611 Why do I feel like chasing after girls and getting to know them when I have so many great guy friends already who I know care about me so much more? 
-A6 Type T6 logos_pathos 
-T7 premise 612 736 Why can't I be friends with girls (even pretty ones) and not feel insecure when I don't try to advance some romantic agenda? 
-A7 Type T7 logos_pathos 
-T8 premise 737 796 Why do I find myself inevitably becoming attracted to them? 
-A8 Type T8 pathos 
-T9 claim 1034 1117 the above questions are more like fragments of a bigger picture of misunderstanding 
-A9 Type T9 interpretation 
-T10 premise 1120 1179 because I want to know what older, more mature people think 
-A10 Type T10 logos 
-T11 claim 1182 1275 It also must distort my view to have gone to an all-boy's school for the majority of my life. 
-A11 Type T11 evaluation_rational 
-T12 claim 1287 1382 I feel like the interplay between men and women is always (at least always initially) a bs game 
-A12 Type T12 evaluation_rational 
-T13 premise 1389 1572 the man tries to show the woman how non-threatening and valuable he is from a non-romantic standpoint before she is comfortable with allowing herself to think of him as a safe partner 
-A13 Type T13 logos_pathos 
-T14 premise 1575 1640 Something about that seems so sinister, cynical, and hollow to me 
-A14 Type T14 logos 
-T15 claim 1646 1662 I can't stand it 
-A15 Type T15 evaluation_emotional 
-T16 claim 1723 1795 this has never remotely seemed the case from my perspective as a lesbian 
-A16 Type T16 disagreement 
-T17 claim 1811 1877 there are many people who want close relationships without romance 
-A17 Type T17 disagreement 
-T18 premise 1880 1922 an obvious example would be asexual people 
-A18 Type T18 logos 
-T19 premise 1925 1986 They can have close relationships that rival that of marriage 
-A19 Type T19 logos 
-T20 premise 1993 2025 how would you even quantify that 
-A20 Type T20 logos 
-T21 premise 2028 2058 How can you even compare them? 
-A21 Type T21 logos_pathos 
-T22 premise 2059 2111 What about the relationship of a brother and sister? 
-A22 Type T22 logos_pathos 
-T23 premise 2120 2175 limit it to just heterosexual non-related men and women 
-A23 Type T23 pathos 
-T24 claim 2183 2201 maybe you're right 
-A24 Type T24 evaluation_rational 
-T25 premise 2219 2344 who is to say what form of relationship is the highest, two very close lifetime friends who are platonic or a married couple? 
-A25 Type T25 pathos 
-T26 claim 2370 2399 people are different from you 
-A26 Type T26 interpretation 
-T27 claim 2404 2437 relationships are hard to compare 
-A27 Type T27 interpretation 
-T28 premise 2440 2511 Maybe for you, every relationship with a woman is motivated by romance. 
-A28 Type T28 logos 
-T29 premise 2512 2557 For someone other hetero guy it might not be. 
-A29 Type T29 logos_pathos 
-T30 claim 2558 2612 Sexual attraction is not something that just shuts off 
-A30 Type T30 evaluation_rational 
-T31 premise 2624 2673 you're in a lifelong comitted closed relationship 
-A31 Type T31 logos_pathos 
-T32 premise 2674 2728 you'll still probably feel attraction for other people 
-A32 Type T32 logos_pathos 
-T33 claim 2731 2765 Thats just reality for most people 
-A33 Type T33 evaluation_emotional 
-T34 claim 2772 2826 its not necesarily harmful and its not really shallow. 
-A34 Type T34 evaluation_emotional 
-T35 claim 2828 2902 There are very few absolutes when it comes to interpersonal relationships. 
-A35 Type T35 evaluation_rational 
-T36 premise 2924 3001 I don't need to feel guilty when I'm attracted to people I know I can't have? 
-A36 Type T36 ethos_logos 
-T37 claim 3008 3091 I'm too black-and-white to think that the murmurs of my id are natural and not evil 
-A37 Type T37 evaluation_emotional 
-T38 claim 3165 3184 I see what you mean 
-A38 Type T38 evaluation_rational 
-T39 premise 3187 3266 When I said highest, I meant it not from a perspective of quantity of some sort 
-A39 Type T39 logos 
-T40 premise 3276 3292 a level of worth 
-A40 Type T40 logos 
-T41 claim 3331 3351 I think you're right 
-A41 Type T41 evaluation_rational 
-T42 premise 3360 3417 who is to put a romantic relationship above a friendship? 
-A42 Type T42 logos_pathos 
-T43 premise 3419 3448 It's a bit extreme and morbid 
-A43 Type T43 logos_pathos 
-T44 premise 3455 3599 if I were to put someone's spouse and someone's absolute best friend in front of a train and gave that person one to save, whom would they save? 
-A44 Type T44 logos_pathos 
-T45 premise 3623 3709 once I reach a certain threshold with a guy-friend, I find that we become best friends 
-A45 Type T45 logos_pathos 
-T46 premise 3716 3787 when I reach that threshold with a girl-friend, I find that I want more 
-A46 Type T46 logos_pathos 
-T47 premise 3796 3880 I haven't been around the block enough or had enough female friends to feel this way 
-A47 Type T47 logos_pathos 
-T48 premise 3883 3943 I don't have any lesbian friends (as far as I know at least) 
-A48 Type T48 ethos_logos 
-T49 claim 3949 4012 I don't know how I would react to being great friends with one. 
-A49 Type T49 evaluation_emotional 
-R1 support Arg1:T10 Arg2:T9
-R2 support Arg1:T13 Arg2:T12
-R3 support Arg1:T14 Arg2:T15
-R4 rebuttal_attack Arg1:T16 Arg2:T3
-R5 rebuttal_attack Arg1:T17 Arg2:T3
-R6 support Arg1:T18 Arg2:T17
-R7 support Arg1:T19 Arg2:T17
-R8 support Arg1:T4 Arg2:T5
-R9 support Arg1:T20 Arg2:T17
-R10 support Arg1:T21 Arg2:T17
-R11 support Arg1:T22 Arg2:T17
-R12 support Arg1:T23 Arg2:T24
-R13 partial_agreement Arg1:T24 Arg2:T3
-R14 partial_attack Arg1:T25 Arg2:T3
-R15 undercutter Arg1:T26 Arg2:T3
-R16 undercutter Arg1:T27 Arg2:T3
-R17 support Arg1:T28 Arg2:T26
-R18 support Arg1:T29 Arg2:T26
-R19 undercutter Arg1:T30 Arg2:T12
-R20 support Arg1:T31 Arg2:T30
-R21 support Arg1:T32 Arg2:T30
-R22 undercutter Arg1:T33 Arg2:T12
-R23 undercutter Arg1:T34 Arg2:T12
-R24 undercutter Arg1:T35 Arg2:T3
-R25 support Arg1:T36 Arg2:T37
-R26 partial_agreement Arg1:T37 Arg2:T35
-R27 agreement Arg1:T38 Arg2:T21
-R28 support Arg1:T39 Arg2:T41
-R29 support Arg1:T6 Arg2:T3
-R30 support Arg1:T40 Arg2:T41
-R31 agreement Arg1:T41 Arg2:T21
-R32 support Arg1:T42 Arg2:T41
-R33 support Arg1:T43 Arg2:T41
-R34 support Arg1:T44 Arg2:T41
-R35 support Arg1:T45 Arg2:T41
-R36 support Arg1:T46 Arg2:T41
-R37 support Arg1:T47 Arg2:T41
-R38 support Arg1:T48 Arg2:T49
-R39 partial_agreement Arg1:T49 Arg2:T16
-R40 support Arg1:T7 Arg2:T3
-R41 support Arg1:T8 Arg2:T3
+T1	main_claim 0 80	CMV: The highest form of relationship between men and women doomed to be romance
+A1	Type 1 interpretation
+T2	claim 82 172	Maybe it has to do with being an adolescent and being new to dealing with the opposite sex
+A2	Type 2 evaluation_rational
+T3	claim 179 309	I'm beginning to fall under the assumption that the only purpose for guys to get to know girls is to eventually engage in romance.
+A3	Type 3 evaluation_rational
+T4	premise 311 368	"Why else do men engage women in conversation in public?"
+A4	Type 4 pathos
+T5	claim 380 457	my perception might just be distorted after reading Neil Strauss's *The Game*
+A5	Type 5 interpretation
+T6	premise 463 611	Why do I feel like chasing after girls and getting to know them when I have so many great guy friends already who I know care about me so much more?
+A6	Type 6 logos_pathos
+T7	premise 612 736	Why can't I be friends with girls (even pretty ones) and not feel insecure when I don't try to advance some romantic agenda?
+A7	Type 7 logos_pathos
+T8	premise 737 796	Why do I find myself inevitably becoming attracted to them?
+A8	Type 8 pathos
+T9	claim 1034 1117	the above questions are more like fragments of a bigger picture of misunderstanding
+A9	Type 9 interpretation
+T10	premise 1120 1179	because I want to know what older, more mature people think
+A10	Type 10 logos
+T11	claim 1182 1275	It also must distort my view to have gone to an all-boy's school for the majority of my life.
+A11	Type 11 evaluation_rational
+T12	claim 1287 1382	I feel like the interplay between men and women is always (at least always initially) a bs game
+A12	Type 12 evaluation_rational
+T13	premise 1389 1572	the man tries to show the woman how non-threatening and valuable he is from a non-romantic standpoint before she is comfortable with allowing herself to think of him as a safe partner
+A13	Type 13 logos_pathos
+T14	premise 1575 1640	Something about that seems so sinister, cynical, and hollow to me
+A14	Type 14 logos
+T15	claim 1646 1662	I can't stand it
+A15	Type 15 evaluation_emotional
+T16	claim 1723 1795	this has never remotely seemed the case from my perspective as a lesbian
+A16	Type 16 disagreement
+T17	claim 1811 1877	there are many people who want close relationships without romance
+A17	Type 17 disagreement
+T18	premise 1880 1922	an obvious example would be asexual people
+A18	Type 18 logos
+T19	premise 1925 1986	They can have close relationships that rival that of marriage
+A19	Type 19 logos
+T20	premise 1993 2025	how would you even quantify that
+A20	Type 20 logos
+T21	premise 2028 2058	How can you even compare them?
+A21	Type 21 logos_pathos
+T22	premise 2059 2111	What about the relationship of a brother and sister?
+A22	Type 22 logos_pathos
+T23	premise 2120 2175	limit it to just heterosexual non-related men and women
+A23	Type 23 pathos
+T24	claim 2183 2201	maybe you're right
+A24	Type 24 evaluation_rational
+T25	premise 2219 2344	who is to say what form of relationship is the highest, two very close lifetime friends who are platonic or a married couple?
+A25	Type 25 pathos
+T26	claim 2370 2399	people are different from you
+A26	Type 26 interpretation
+T27	claim 2404 2437	relationships are hard to compare
+A27	Type 27 interpretation
+T28	premise 2440 2511	Maybe for you, every relationship with a woman is motivated by romance.
+A28	Type 28 logos
+T29	premise 2512 2557	For someone other hetero guy it might not be.
+A29	Type 29 logos_pathos
+T30	claim 2558 2612	Sexual attraction is not something that just shuts off
+A30	Type 30 evaluation_rational
+T31	premise 2624 2673	you're in a lifelong comitted closed relationship
+A31	Type 31 logos_pathos
+T32	premise 2674 2728	you'll still probably feel attraction for other people
+A32	Type 32 logos_pathos
+T33	claim 2731 2765	Thats just reality for most people
+A33	Type 33 evaluation_emotional
+T34	claim 2772 2826	its not necesarily harmful and its not really shallow.
+A34	Type 34 evaluation_emotional
+T35	claim 2828 2902	There are very few absolutes when it comes to interpersonal relationships.
+A35	Type 35 evaluation_rational
+T36	premise 2924 3001	I don't need to feel guilty when I'm attracted to people I know I can't have?
+A36	Type 36 ethos_logos
+T37	claim 3008 3091	I'm too black-and-white to think that the murmurs of my id are natural and not evil
+A37	Type 37 evaluation_emotional
+T38	claim 3165 3184	I see what you mean
+A38	Type 38 evaluation_rational
+T39	premise 3187 3266	When I said highest, I meant it not from a perspective of quantity of some sort
+A39	Type 39 logos
+T40	premise 3276 3292	a level of worth
+A40	Type 40 logos
+T41	claim 3331 3351	I think you're right
+A41	Type 41 evaluation_rational
+T42	premise 3360 3417	who is to put a romantic relationship above a friendship?
+A42	Type 42 logos_pathos
+T43	premise 3419 3448	It's a bit extreme and morbid
+A43	Type 43 logos_pathos
+T44	premise 3455 3599	if I were to put someone's spouse and someone's absolute best friend in front of a train and gave that person one to save, whom would they save?
+A44	Type 44 logos_pathos
+T45	premise 3623 3709	once I reach a certain threshold with a guy-friend, I find that we become best friends
+A45	Type 45 logos_pathos
+T46	premise 3716 3787	when I reach that threshold with a girl-friend, I find that I want more
+A46	Type 46 logos_pathos
+T47	premise 3796 3880	I haven't been around the block enough or had enough female friends to feel this way
+A47	Type 47 logos_pathos
+T48	premise 3883 3943	I don't have any lesbian friends (as far as I know at least)
+A48	Type 48 ethos_logos
+T49	claim 3949 4012	I don't know how I would react to being great friends with one.
+A49	Type 49 evaluation_emotional
+R1	support Arg1:T10 Arg2:T9
+R2	support Arg1:T13 Arg2:T12
+R3	support Arg1:T14 Arg2:T15
+R4	rebuttal_attack Arg1:T16 Arg2:T3
+R5	rebuttal_attack Arg1:T17 Arg2:T3
+R6	support Arg1:T18 Arg2:T17
+R7	support Arg1:T19 Arg2:T17
+R8	support Arg1:T4 Arg2:T5
+R9	support Arg1:T20 Arg2:T17
+R10	support Arg1:T21 Arg2:T17
+R11	support Arg1:T22 Arg2:T17
+R12	support Arg1:T23 Arg2:T24
+R13	partial_agreement Arg1:T24 Arg2:T3
+R14	partial_attack Arg1:T25 Arg2:T3
+R15	undercutter Arg1:T26 Arg2:T3
+R16	undercutter Arg1:T27 Arg2:T3
+R17	support Arg1:T28 Arg2:T26
+R18	support Arg1:T29 Arg2:T26
+R19	undercutter Arg1:T30 Arg2:T12
+R20	support Arg1:T31 Arg2:T30
+R21	support Arg1:T32 Arg2:T30
+R22	undercutter Arg1:T33 Arg2:T12
+R23	undercutter Arg1:T34 Arg2:T12
+R24	undercutter Arg1:T35 Arg2:T3
+R25	support Arg1:T36 Arg2:T37
+R26	partial_agreement Arg1:T37 Arg2:T35
+R27	agreement Arg1:T38 Arg2:T21
+R28	support Arg1:T39 Arg2:T41
+R29	support Arg1:T6 Arg2:T3
+R30	support Arg1:T40 Arg2:T41
+R31	agreement Arg1:T41 Arg2:T21
+R32	support Arg1:T42 Arg2:T41
+R33	support Arg1:T43 Arg2:T41
+R34	support Arg1:T44 Arg2:T41
+R35	support Arg1:T45 Arg2:T41
+R36	support Arg1:T46 Arg2:T41
+R37	support Arg1:T47 Arg2:T41
+R38	support Arg1:T48 Arg2:T49
+R39	partial_agreement Arg1:T49 Arg2:T16
+R40	support Arg1:T7 Arg2:T3
+R41	support Arg1:T8 Arg2:T3

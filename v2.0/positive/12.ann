@@ -1,297 +1,297 @@
-T1 main_claim 0 80 CMV: Eugenics isn't all that bad... And we don't even have to kill anyone for it 
-A1 Type T1 evaluation_emotional 
-T2 claim 146 188 Intelligence is at least partially genetic 
-A2 Type T2 evaluation_rational 
-T3 premise 193 225 therefore passed down by parents 
-A3 Type T3 logos 
-T4 claim 398 418 I'm against killing. 
-A4 Type T4 evaluation_emotional 
-T5 premise 462 635 For example, we could use the IQ scale (for want of a better intelligence measure) to determine the number of offspring a person should be able to genetically contribute to. 
-A5 Type T5 logos 
-T6 premise 636 765 Like, round the IQ to the nearest multiple of 50, then divide by 50, and that's the number of offspring you're allowed to create. 
-A6 Type T6 logos 
-T7 premise 767 909 So someone with near average intelligence (near 100 IQ, 75-124) would have their IQ rounded to 100 and then divided by 50 to make 2 offspring. 
-A7 Type T7 logos_pathos 
-T8 premise 910 996 The total offspring is presumably equal to the number of people who contributed to it. 
-A8 Type T8 logos_pathos 
-T9 premise 997 1094 A man and a woman with average IQ can have two children (not each.) and sustain their population. 
-A9 Type T9 logos_pathos 
-T10 premise 1096 1203 Conversely, really above average IQs of 125-174 can contribute genetically towards 3 children... and so on. 
-A10 Type T10 logos_pathos 
-T11 claim 1205 1254 This would eventually make the human race smarter 
-A11 Type T11 interpretation 
-T12 premise 1261 1321 therefore more likely to survive and advance the human race. 
-A12 Type T12 logos 
-T13 premise 1323 1404 I know this would be a bitch to implement and it's near impossible to actually do 
-A13 Type T13 logos 
-T14 premise 1444 1508 I know the IQ test has its faults and every policy can be abused 
-A14 Type T14 logos_pathos 
-T15 claim 1531 1627 Exceptions would be made when you accidentally have twins which causes you to go over your limit 
-A15 Type T15 interpretation 
-T16 premise 1640 1790 If a mother can make 2, and has twins, she can't make more, but if she already has one and has twins after one which makes 3, we're not gonna kill one 
-A16 Type T16 logos_pathos 
-T17 premise 1794 1901 Perhaps if you have a major, heritable health issue your IQ has 25 subtracted from it before being rounded? 
-A17 Type T17 logos 
-T18 premise 1905 2042 maybe weighted differently, like extremely high chance of cancer (almost 100 percent or something) takes off more... Something like that. 
-A18 Type T18 logos 
-T19 premise 2044 2098 Much better than "Kill off those with IQ less than 80" 
-A19 Type T19 ethos_logos 
-T20 premise 2100 2139 I wouldn't mind a smarter human race... 
-A20 Type T20 logos 
-T21 claim 2696 2770 IQ is not considered to be a good or accurate measure of overall intellect 
-A21 Type T21 evaluation_rational 
-T22 premise 2773 2837 Intelligence is hard to define and describe even by neurologists 
-A22 Type T22 logos 
-T23 premise 2842 2929 reducing that complexity down to one number is incredibly challenging if not impossible 
-A23 Type T23 logos 
-T24 claim 2933 3096 It may also be important to note that your system isn't only difficult to implement like you point out, it's also in direct conflict with how things actually work. 
-A24 Type T24 evaluation_emotional 
-T25 premise 3097 3176 More intelligent people tend to have less children than do the more uneducated. 
-A25 Type T25 logos_pathos 
-T26 premise 3177 3277 There are multiple reasons for this, more intelligent people tend to be more busy with careers, etc. 
-A26 Type T26 logos_pathos 
-T27 claim 3279 3345 Lastly you must recognize that the IQ test is a standardized test. 
-A27 Type T27 disagreement 
-T28 premise 3346 3463 This means that even if we went really extreme and killed everyone with an IQ under 80.....that would change nothing. 
-A28 Type T28 logos_pathos 
-T29 premise 3464 3517 The average IQ will still be measured in the same way 
-A29 Type T29 pathos 
-T30 premise 3520 3605 the lowest scores will be assigned the lower numbers and the average will be the same 
-A30 Type T30 pathos 
-T31 claim 3619 3635 I mentioned that 
-A31 Type T31 evaluation_rational 
-T32 premise 3640 3684 "for want of better measure of intelligence" 
-A32 Type T32 logos_pathos 
-T33 premise 3687 3733 I would love a better measure of intelligence. 
-A33 Type T33 logos 
-T34 premise 3736 3867 Some theorize that intelligence can be defined in categories, too...(http://en.wikipedia.org/wiki/Theory_of_multiple_intelligences) 
-A34 Type T34 ethos_logos_pathos 
-T35 premise 3909 3937 Like a total of all of them. 
-A35 Type T35 logos 
-T36 claim 3971 4004 I'm not proposing we implement it 
-A36 Type T36 evaluation_emotional 
-T37 premise 4007 4032 In a perfect world, sure. 
-A37 Type T37 logos_pathos 
-T38 premise 4046 4103 my theory limits the offspring of less-intelligent people 
-A38 Type T38 ethos_logos_pathos 
-T39 premise 4106 4224 Less intelligent- less babies than contributors- less "less intelligent people" (and that would always be the case...) 
-A39 Type T39 logos 
-T40 claim 4226 4281 I completely understand your distaste with the IQ test. 
-A40 Type T40 evaluation_rational 
-T41 premise 4289 4402 I only used the IQ test in my example because so far it is (seemingly) the most available measure of intelligence 
-A41 Type T41 pathos 
-T42 premise 4407 4437 better than SAT scores, right? 
-A42 Type T42 logos_pathos 
-T43 claim 4441 4572 And when the IQ test is adjusted, we would adjust the cutoff rate for "da murder" if we were to take that route in the first place. 
-A43 Type T43 evaluation_rational 
-T44 premise 4575 4659 instead of killing lower than 80, it would be killing lower than like 50 or whatever 
-A44 Type T44 logos 
-T45 premise 4662 4763 The "number of mental retardation" would be adjusted from lower than 70 to whatever it would be, too, 
-A45 Type T45 logos 
-T46 claim 4767 4795 I don't see your point there 
-A46 Type T46 interpretation 
-T47 premise 4798 4895 In total, everyone's IQ would be x points higher and so the human race would be x much smarter... 
-A47 Type T47 logos_pathos 
-T48 claim 4896 4950 My route would be a slower, more ethical way to do it. 
-A48 Type T48 evaluation_rational 
-T49 claim 4953 5029 Separating intelligence into categories *is* a far better way to go about it 
-A49 Type T49 interpretation 
-T50 claim 5036 5083 by it's very nature implies you cannot sum them 
-A50 Type T50 interpretation 
-T51 premise 5086 5300 A brilliant mathematician make suck in all other areas such as music ability, linguistic skills, etc. making them look like a retard compared to a guy who is okay at math but also descent in those other categories. 
-A51 Type T51 logos 
-T52 claim 5301 5389 The point is intelligence is too complicated for us to try to breed certain kinds of it. 
-A52 Type T52 evaluation_emotional 
-T53 premise 5390 5454 It is a complex ploygenic trait we still don't fully understand. 
-A53 Type T53 logos_pathos 
-T54 claim 5455 5493 It is also downright silly to consider 
-A54 Type T54 interpretation 
-T55 premise 5512 5595 it isn't really feasible to control the populations genitals in any ethical manner. 
-A55 Type T55 logos 
-T56 claim 5717 5759 This is not a good reason to use anything. 
-A56 Type T56 interpretation 
-T57 premise 5760 5845 I know it sucks but I have nothing better does not justify using a sucky measurement. 
-A57 Type T57 logos 
-T58 claim 5851 5943 Perhaps, but if we summed it, future generations would be on average smarter than past ones. 
-A58 Type T58 evaluation_emotional 
-T59 premise 5944 6102 If we valued and weighted the categorical intelligences... Perhaps a brilliant mathematician would end up being (weighted) almost equal to a well rounded guy. 
-A59 Type T59 logos_pathos 
-T60 claim 6140 6246 if we learn more about genetics and genetic engineering we would be able to selectively breed intelligence 
-A60 Type T60 evaluation_rational 
-T61 premise 6249 6326 Pass down mathy skills of father and kinesthetic skills of mother or whatever 
-A61 Type T61 logos 
-T62 premise 6492 6592 Eh, maybe we don't fully understand it, but we know that through breeding we can increase it, right? 
-A62 Type T62 logos_pathos 
-T63 premise 6593 6731 Just because we don't understand every minute aspect of it doesn't mean we can't recognize what parts are positive and how to increase it. 
-A63 Type T63 pathos 
-T64 premise 6732 6939 Well hopefully it wouldn't be implemented in a way that forces you to do anything except stop having children after you reached the point where any more and you'd be hurting future generation's intelligence. 
-A64 Type T64 logos 
-T65 claim 6956 6974 You misinterpreted 
-A65 Type T65 disagreement 
-T66 claim 6977 7067 I wouldn't advocate using the actual IQ scale as the starting measure of doing this at all 
-A66 Type T66 agreement 
-T67 premise 7070 7120 I used it as an example of an intelligence measure 
-A67 Type T67 logos 
-T68 premise 7127 7210 I meant most available as the "most available/recognizable example of intelligence" 
-A68 Type T68 logos 
-T69 claim 7211 7287 I do not want our current IQ scale to be used in any way even close to this. 
-A69 Type T69 disagreement 
-T70 claim 7290 7331 I think you are still oversimplifying it. 
-A70 Type T70 agreement 
-T71 claim 7336 7433 no you can't just increase intelligence through controlling the breeding rights of the population 
-A71 Type T71 evaluation_rational 
-T72 premise 7436 7625 Since we do not know the one to one correlations between a complex variety of genes and gene interactions and the vaguely defined intelligence that they produce you cannot feasibly do this. 
-A72 Type T72 logos 
-T73 premise 7626 7730 What if someone with a low intellect (however the hell you measure it) and high intellect want to breed? 
-A73 Type T73 logos_pathos 
-T74 premise 7732 7782 Also, only one of my parents finished high school. 
-A74 Type T74 logos_pathos 
-T75 premise 7783 7804 I am their 6th child. 
-A75 Type T75 ethos_logos 
-T76 premise 7805 7829 I have a Masters degree. 
-A76 Type T76 pathos 
-T77 premise 7832 7865 See my user history for reference 
-A77 Type T77 ethos_logos_pathos 
-T78 premise 7869 8013 We don't know all of the complex genetic and environmental elements that go into intellect to do anything remotely like what you are describing. 
-A78 Type T78 logos 
-T79 claim 8164 8267 I, like some of the other commentators here, find the hypothetical game to be intellectually dishonest. 
-A79 Type T79 evaluation_rational 
-T80 premise 8268 8324 The "Yeah but what if..." thing just isn't going to fly. 
-A80 Type T80 logos_pathos 
-T81 premise 8325 8387 It is not conducive to a productive conversation of this sort. 
-A81 Type T81 logos_pathos 
-T82 premise 8390 8537 Well if someone of low intellect wanted to breed with someone of high intellect, their children count would be limited by the lower children count. 
-A82 Type T82 logos 
-T83 premise 8538 8705 Later in life, if higher intellect person wants more children, they can, only if they don't have a genetic contributor from someone who already fulfilled their amount? 
-A83 Type T83 logos 
-T84 claim 8707 8803 I think you could increase intelligence through controlling the breeding rights of a population. 
-A84 Type T84 disagreement 
-T85 claim 8804 8841 I don't think its feasible, though... 
-A85 Type T85 agreement 
-T86 claim 8872 8925 degrees are no more a measure of intelligence than IQ 
-A86 Type T86 evaluation_rational 
-T87 premise 8928 8973 which kind of is, meaning degrees kind of are 
-A87 Type T87 logos_pathos 
-T88 premise 8977 8994 We don't know all 
-A88 Type T88 logos 
-T89 premise 9007 9019 we know some 
-A89 Type T89 logos 
-T90 claim 9022 9069 which should be enough to increase intelligence 
-A90 Type T90 disagreement 
-T91 premise 9073 9172 Maybe the hypothetical game is annoying and not productive, but its not intellectually dishonest... 
-A91 Type T91 logos_pathos 
-T92 premise 9173 9225 I'm sorry, maybe I shouldn't have posted this topic. 
-A92 Type T92 ethos 
-T93 claim 9226 9327 I posted with the actual intent of proving that a hypothetical situation could have eugenics be good. 
-A93 Type T93 evaluation_emotional 
-T94 claim 9373 9411 Eugenics is not realistically feasible 
-A94 Type T94 evaluation_rational 
-T95 claim 9415 9489 But in a hypothetical world where it is feasible, it would be a good thing 
-A95 Type T95 evaluation_rational 
-T96 claim 9494 9533 Eugenics would work if eugenics worked. 
-A96 Type T96 evaluation_rational 
-T97 premise 9568 9641 Which is basically like saying if unicorns were real, they would be real. 
-A97 Type T97 logos_pathos 
-T98 claim 9780 9782 No 
-A98 Type T98 disagreement 
-T99 claim 9785 9966 I think you'll find someone who has a degree in topic X is a much better indicator of their holistic intellectual ability with respect to category X than a simple reductive IQ test. 
-A99 Type T99 disagreement 
-T100 claim 9969 9993 Yes and yes and sorry :/ 
-A100 Type T100 agreement 
-R1 agreement Arg1:T2 Arg2:T1
-R2 support Arg1:T3 Arg2:T2
-R3 support Arg1:T12 Arg2:T11
-R4 support Arg1:T13 Arg2:T11
-R5 rebuttal Arg1:T14 Arg2:T5
-R6 agreement Arg1:T15 Arg2:T14
-R7 support Arg1:T16 Arg2:T15
-R8 support Arg1:T17 Arg2:T14
-R9 support Arg1:T18 Arg2:T14
-R10 support Arg1:T19 Arg2:T14
-R11 support Arg1:T20 Arg2:T14
-R12 rebuttal Arg1:T21 Arg2:T5
-R13 agreement Arg1:T4 Arg2:T1
-R14 support Arg1:T22 Arg2:T21
-R15 support Arg1:T23 Arg2:T21
-R16 undercutter Arg1:T24 Arg2:T5
-R17 support Arg1:T25 Arg2:T24
-R18 support Arg1:T26 Arg2:T24
-R19 agreement Arg1:T27 Arg2:T5
-R20 support Arg1:T28 Arg2:T27
-R21 support Arg1:T29 Arg2:T27
-R22 rebuttal Arg1:T31 Arg2:T21
-R23 support Arg1:T5 Arg2:T1
-R24 support Arg1:T32 Arg2:T31
-R25 support Arg1:T33 Arg2:T31
-R26 support Arg1:T34 Arg2:T31
-R27 support Arg1:T35 Arg2:T31
-R28 rebuttal Arg1:T36 Arg2:T24
-R29 support Arg1:T37 Arg2:T36
-R30 support Arg1:T38 Arg2:T36
-R31 support Arg1:T39 Arg2:T36
-R32 agreement Arg1:T40 Arg2:T21
-R33 support Arg1:T6 Arg2:T1
-R34 support Arg1:T41 Arg2:T40
-R35 support Arg1:T42 Arg2:T40
-R36 rebuttal Arg1:T43 Arg2:T40
-R37 support Arg1:T44 Arg2:T43
-R38 support Arg1:T45 Arg2:T43
-R39 rebuttal Arg1:T46 Arg2:T27
-R40 support Arg1:T47 Arg2:T46
-R41 agreement Arg1:T48 Arg2:T1
-R42 agreement Arg1:T49 Arg2:T34
-R43 rebuttal Arg1:T50 Arg2:T49
-R44 support Arg1:T7 Arg2:T1
-R45 support Arg1:T51 Arg2:T50
-R46 undercutter Arg1:T52 Arg2:T34
-R47 support Arg1:T53 Arg2:T52
-R48 agreement Arg1:T54 Arg2:T52
-R49 support Arg1:T55 Arg2:T54
-R50 rebuttal Arg1:T56 Arg2:T41
-R51 support Arg1:T57 Arg2:T56
-R52 undercutter Arg1:T58 Arg2:T50
-R53 support Arg1:T59 Arg2:T58
-R54 agreement Arg1:T60 Arg2:T1
-R55 support Arg1:T8 Arg2:T1
-R56 support Arg1:T61 Arg2:T60
-R57 undercutter Arg1:T62 Arg2:T52
-R58 support Arg1:T63 Arg2:T62
-R59 support Arg1:T64 Arg2:T62
-R60 rebuttal Arg1:T65 Arg2:T62
-R61 agreement Arg1:T66 Arg2:T65
-R62 support Arg1:T67 Arg2:T66
-R63 support Arg1:T68 Arg2:T66
-R64 agreement Arg1:T69 Arg2:T56
-R65 rebuttal Arg1:T70 Arg2:T62
-R66 support Arg1:T9 Arg2:T1
-R67 support Arg1:T71 Arg2:T70
-R68 support Arg1:T72 Arg2:T70
-R69 support Arg1:T73 Arg2:T70
-R70 support Arg1:T74 Arg2:T70
-R71 support Arg1:T75 Arg2:T70
-R72 support Arg1:T76 Arg2:T70
-R73 support Arg1:T77 Arg2:T70
-R74 support Arg1:T78 Arg2:T70
-R75 rebuttal Arg1:T79 Arg2:T60
-R76 support Arg1:T80 Arg2:T79
-R77 support Arg1:T10 Arg2:T1
-R78 support Arg1:T81 Arg2:T79
-R79 support Arg1:T82 Arg2:T73
-R80 support Arg1:T83 Arg2:T73
-R81 agreement Arg1:T84 Arg2:T78
-R82 rebuttal Arg1:T85 Arg2:T84
-R83 undercutter Arg1:T86 Arg2:T76
-R84 support Arg1:T87 Arg2:T86
-R85 agreement Arg1:T88 Arg2:T78
-R86 rebuttal Arg1:T89 Arg2:T78
-R87 rebuttal Arg1:T90 Arg2:T78
-R88 agreement Arg1:T11 Arg2:T1
-R89 rebuttal Arg1:T91 Arg2:T79
-R90 support Arg1:T92 Arg2:T91
-R91 rebuttal Arg1:T93 Arg2:T79
-R92 agreement Arg1:T94 Arg2:T70
-R93 agreement Arg1:T95 Arg2:T71
-R94 rebuttal Arg1:T96 Arg2:T95
-R95 support Arg1:T97 Arg2:T96
-R96 rebuttal Arg1:T98 Arg2:T86
-R97 undercutter Arg1:T99 Arg2:T86
+T1	main_claim 0 80	CMV: Eugenics isn't all that bad... And we don't even have to kill anyone for it
+A1	Type 1 evaluation_emotional
+T2	claim 146 188	Intelligence is at least partially genetic
+A2	Type 2 evaluation_rational
+T3	premise 193 225	therefore passed down by parents
+A3	Type 3 logos
+T4	claim 398 418	I'm against killing.
+A4	Type 4 evaluation_emotional
+T5	premise 462 635	For example, we could use the IQ scale (for want of a better intelligence measure) to determine the number of offspring a person should be able to genetically contribute to.
+A5	Type 5 logos
+T6	premise 636 765	Like, round the IQ to the nearest multiple of 50, then divide by 50, and that's the number of offspring you're allowed to create.
+A6	Type 6 logos
+T7	premise 767 909	So someone with near average intelligence (near 100 IQ, 75-124) would have their IQ rounded to 100 and then divided by 50 to make 2 offspring.
+A7	Type 7 logos_pathos
+T8	premise 910 996	The total offspring is presumably equal to the number of people who contributed to it.
+A8	Type 8 logos_pathos
+T9	premise 997 1094	A man and a woman with average IQ can have two children (not each.) and sustain their population.
+A9	Type 9 logos_pathos
+T10	premise 1096 1203	Conversely, really above average IQs of 125-174 can contribute genetically towards 3 children... and so on.
+A10	Type 10 logos_pathos
+T11	claim 1205 1254	This would eventually make the human race smarter
+A11	Type 11 interpretation
+T12	premise 1261 1321	therefore more likely to survive and advance the human race.
+A12	Type 12 logos
+T13	premise 1323 1404	I know this would be a bitch to implement and it's near impossible to actually do
+A13	Type 13 logos
+T14	premise 1444 1508	I know the IQ test has its faults and every policy can be abused
+A14	Type 14 logos_pathos
+T15	claim 1531 1627	Exceptions would be made when you accidentally have twins which causes you to go over your limit
+A15	Type 15 interpretation
+T16	premise 1640 1790	If a mother can make 2, and has twins, she can't make more, but if she already has one and has twins after one which makes 3, we're not gonna kill one
+A16	Type 16 logos_pathos
+T17	premise 1794 1901	Perhaps if you have a major, heritable health issue your IQ has 25 subtracted from it before being rounded?
+A17	Type 17 logos
+T18	premise 1905 2042	maybe weighted differently, like extremely high chance of cancer (almost 100 percent or something) takes off more... Something like that.
+A18	Type 18 logos
+T19	premise 2044 2098	Much better than "Kill off those with IQ less than 80"
+A19	Type 19 ethos_logos
+T20	premise 2100 2139	I wouldn't mind a smarter human race...
+A20	Type 20 logos
+T21	claim 2696 2770	IQ is not considered to be a good or accurate measure of overall intellect
+A21	Type 21 evaluation_rational
+T22	premise 2773 2837	Intelligence is hard to define and describe even by neurologists
+A22	Type 22 logos
+T23	premise 2842 2929	reducing that complexity down to one number is incredibly challenging if not impossible
+A23	Type 23 logos
+T24	claim 2933 3096	It may also be important to note that your system isn't only difficult to implement like you point out, it's also in direct conflict with how things actually work.
+A24	Type 24 evaluation_emotional
+T25	premise 3097 3176	More intelligent people tend to have less children than do the more uneducated.
+A25	Type 25 logos_pathos
+T26	premise 3177 3277	There are multiple reasons for this, more intelligent people tend to be more busy with careers, etc.
+A26	Type 26 logos_pathos
+T27	claim 3279 3345	Lastly you must recognize that the IQ test is a standardized test.
+A27	Type 27 disagreement
+T28	premise 3346 3463	This means that even if we went really extreme and killed everyone with an IQ under 80.....that would change nothing.
+A28	Type 28 logos_pathos
+T29	premise 3464 3517	The average IQ will still be measured in the same way
+A29	Type 29 pathos
+T30	premise 3520 3605	the lowest scores will be assigned the lower numbers and the average will be the same
+A30	Type 30 pathos
+T31	claim 3619 3635	I mentioned that
+A31	Type 31 evaluation_rational
+T32	premise 3640 3684	"for want of better measure of intelligence"
+A32	Type 32 logos_pathos
+T33	premise 3687 3733	I would love a better measure of intelligence.
+A33	Type 33 logos
+T34	premise 3736 3867	Some theorize that intelligence can be defined in categories, too...(http://en.wikipedia.org/wiki/Theory_of_multiple_intelligences)
+A34	Type 34 ethos_logos_pathos
+T35	premise 3909 3937	Like a total of all of them.
+A35	Type 35 logos
+T36	claim 3971 4004	I'm not proposing we implement it
+A36	Type 36 evaluation_emotional
+T37	premise 4007 4032	In a perfect world, sure.
+A37	Type 37 logos_pathos
+T38	premise 4046 4103	my theory limits the offspring of less-intelligent people
+A38	Type 38 ethos_logos_pathos
+T39	premise 4106 4224	Less intelligent- less babies than contributors- less "less intelligent people" (and that would always be the case...)
+A39	Type 39 logos
+T40	claim 4226 4281	I completely understand your distaste with the IQ test.
+A40	Type 40 evaluation_rational
+T41	premise 4289 4402	I only used the IQ test in my example because so far it is (seemingly) the most available measure of intelligence
+A41	Type 41 pathos
+T42	premise 4407 4437	better than SAT scores, right?
+A42	Type 42 logos_pathos
+T43	claim 4441 4572	And when the IQ test is adjusted, we would adjust the cutoff rate for "da murder" if we were to take that route in the first place.
+A43	Type 43 evaluation_rational
+T44	premise 4575 4659	instead of killing lower than 80, it would be killing lower than like 50 or whatever
+A44	Type 44 logos
+T45	premise 4662 4763	The "number of mental retardation" would be adjusted from lower than 70 to whatever it would be, too,
+A45	Type 45 logos
+T46	claim 4767 4795	I don't see your point there
+A46	Type 46 interpretation
+T47	premise 4798 4895	In total, everyone's IQ would be x points higher and so the human race would be x much smarter...
+A47	Type 47 logos_pathos
+T48	claim 4896 4950	My route would be a slower, more ethical way to do it.
+A48	Type 48 evaluation_rational
+T49	claim 4953 5029	Separating intelligence into categories *is* a far better way to go about it
+A49	Type 49 interpretation
+T50	claim 5036 5083	by it's very nature implies you cannot sum them
+A50	Type 50 interpretation
+T51	premise 5086 5300	A brilliant mathematician make suck in all other areas such as music ability, linguistic skills, etc. making them look like a retard compared to a guy who is okay at math but also descent in those other categories.
+A51	Type 51 logos
+T52	claim 5301 5389	The point is intelligence is too complicated for us to try to breed certain kinds of it.
+A52	Type 52 evaluation_emotional
+T53	premise 5390 5454	It is a complex ploygenic trait we still don't fully understand.
+A53	Type 53 logos_pathos
+T54	claim 5455 5493	It is also downright silly to consider
+A54	Type 54 interpretation
+T55	premise 5512 5595	it isn't really feasible to control the populations genitals in any ethical manner.
+A55	Type 55 logos
+T56	claim 5717 5759	This is not a good reason to use anything.
+A56	Type 56 interpretation
+T57	premise 5760 5845	I know it sucks but I have nothing better does not justify using a sucky measurement.
+A57	Type 57 logos
+T58	claim 5851 5943	Perhaps, but if we summed it, future generations would be on average smarter than past ones.
+A58	Type 58 evaluation_emotional
+T59	premise 5944 6102	If we valued and weighted the categorical intelligences... Perhaps a brilliant mathematician would end up being (weighted) almost equal to a well rounded guy.
+A59	Type 59 logos_pathos
+T60	claim 6140 6246	if we learn more about genetics and genetic engineering we would be able to selectively breed intelligence
+A60	Type 60 evaluation_rational
+T61	premise 6249 6326	Pass down mathy skills of father and kinesthetic skills of mother or whatever
+A61	Type 61 logos
+T62	premise 6492 6592	Eh, maybe we don't fully understand it, but we know that through breeding we can increase it, right?
+A62	Type 62 logos_pathos
+T63	premise 6593 6731	Just because we don't understand every minute aspect of it doesn't mean we can't recognize what parts are positive and how to increase it.
+A63	Type 63 pathos
+T64	premise 6732 6939	Well hopefully it wouldn't be implemented in a way that forces you to do anything except stop having children after you reached the point where any more and you'd be hurting future generation's intelligence.
+A64	Type 64 logos
+T65	claim 6956 6974	You misinterpreted
+A65	Type 65 disagreement
+T66	claim 6977 7067	I wouldn't advocate using the actual IQ scale as the starting measure of doing this at all
+A66	Type 66 agreement
+T67	premise 7070 7120	I used it as an example of an intelligence measure
+A67	Type 67 logos
+T68	premise 7127 7210	I meant most available as the "most available/recognizable example of intelligence"
+A68	Type 68 logos
+T69	claim 7211 7287	I do not want our current IQ scale to be used in any way even close to this.
+A69	Type 69 disagreement
+T70	claim 7290 7331	I think you are still oversimplifying it.
+A70	Type 70 agreement
+T71	claim 7336 7433	no you can't just increase intelligence through controlling the breeding rights of the population
+A71	Type 71 evaluation_rational
+T72	premise 7436 7625	Since we do not know the one to one correlations between a complex variety of genes and gene interactions and the vaguely defined intelligence that they produce you cannot feasibly do this.
+A72	Type 72 logos
+T73	premise 7626 7730	What if someone with a low intellect (however the hell you measure it) and high intellect want to breed?
+A73	Type 73 logos_pathos
+T74	premise 7732 7782	Also, only one of my parents finished high school.
+A74	Type 74 logos_pathos
+T75	premise 7783 7804	I am their 6th child.
+A75	Type 75 ethos_logos
+T76	premise 7805 7829	I have a Masters degree.
+A76	Type 76 pathos
+T77	premise 7832 7865	See my user history for reference
+A77	Type 77 ethos_logos_pathos
+T78	premise 7869 8013	We don't know all of the complex genetic and environmental elements that go into intellect to do anything remotely like what you are describing.
+A78	Type 78 logos
+T79	claim 8164 8267	I, like some of the other commentators here, find the hypothetical game to be intellectually dishonest.
+A79	Type 79 evaluation_rational
+T80	premise 8268 8324	The "Yeah but what if..." thing just isn't going to fly.
+A80	Type 80 logos_pathos
+T81	premise 8325 8387	It is not conducive to a productive conversation of this sort.
+A81	Type 81 logos_pathos
+T82	premise 8390 8537	Well if someone of low intellect wanted to breed with someone of high intellect, their children count would be limited by the lower children count.
+A82	Type 82 logos
+T83	premise 8538 8705	Later in life, if higher intellect person wants more children, they can, only if they don't have a genetic contributor from someone who already fulfilled their amount?
+A83	Type 83 logos
+T84	claim 8707 8803	I think you could increase intelligence through controlling the breeding rights of a population.
+A84	Type 84 disagreement
+T85	claim 8804 8841	I don't think its feasible, though...
+A85	Type 85 agreement
+T86	claim 8872 8925	degrees are no more a measure of intelligence than IQ
+A86	Type 86 evaluation_rational
+T87	premise 8928 8973	which kind of is, meaning degrees kind of are
+A87	Type 87 logos_pathos
+T88	premise 8977 8994	We don't know all
+A88	Type 88 logos
+T89	premise 9007 9019	we know some
+A89	Type 89 logos
+T90	claim 9022 9069	which should be enough to increase intelligence
+A90	Type 90 disagreement
+T91	premise 9073 9172	Maybe the hypothetical game is annoying and not productive, but its not intellectually dishonest...
+A91	Type 91 logos_pathos
+T92	premise 9173 9225	I'm sorry, maybe I shouldn't have posted this topic.
+A92	Type 92 ethos
+T93	claim 9226 9327	I posted with the actual intent of proving that a hypothetical situation could have eugenics be good.
+A93	Type 93 evaluation_emotional
+T94	claim 9373 9411	Eugenics is not realistically feasible
+A94	Type 94 evaluation_rational
+T95	claim 9415 9489	But in a hypothetical world where it is feasible, it would be a good thing
+A95	Type 95 evaluation_rational
+T96	claim 9494 9533	Eugenics would work if eugenics worked.
+A96	Type 96 evaluation_rational
+T97	premise 9568 9641	Which is basically like saying if unicorns were real, they would be real.
+A97	Type 97 logos_pathos
+T98	claim 9780 9782	No
+A98	Type 98 disagreement
+T99	claim 9785 9966	I think you'll find someone who has a degree in topic X is a much better indicator of their holistic intellectual ability with respect to category X than a simple reductive IQ test.
+A99	Type 99 disagreement
+T100	claim 9969 9993	Yes and yes and sorry :/
+A100	Type 100 agreement
+R1	agreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T2
+R3	support Arg1:T12 Arg2:T11
+R4	support Arg1:T13 Arg2:T11
+R5	rebuttal Arg1:T14 Arg2:T5
+R6	agreement Arg1:T15 Arg2:T14
+R7	support Arg1:T16 Arg2:T15
+R8	support Arg1:T17 Arg2:T14
+R9	support Arg1:T18 Arg2:T14
+R10	support Arg1:T19 Arg2:T14
+R11	support Arg1:T20 Arg2:T14
+R12	rebuttal Arg1:T21 Arg2:T5
+R13	agreement Arg1:T4 Arg2:T1
+R14	support Arg1:T22 Arg2:T21
+R15	support Arg1:T23 Arg2:T21
+R16	undercutter Arg1:T24 Arg2:T5
+R17	support Arg1:T25 Arg2:T24
+R18	support Arg1:T26 Arg2:T24
+R19	agreement Arg1:T27 Arg2:T5
+R20	support Arg1:T28 Arg2:T27
+R21	support Arg1:T29 Arg2:T27
+R22	rebuttal Arg1:T31 Arg2:T21
+R23	support Arg1:T5 Arg2:T1
+R24	support Arg1:T32 Arg2:T31
+R25	support Arg1:T33 Arg2:T31
+R26	support Arg1:T34 Arg2:T31
+R27	support Arg1:T35 Arg2:T31
+R28	rebuttal Arg1:T36 Arg2:T24
+R29	support Arg1:T37 Arg2:T36
+R30	support Arg1:T38 Arg2:T36
+R31	support Arg1:T39 Arg2:T36
+R32	agreement Arg1:T40 Arg2:T21
+R33	support Arg1:T6 Arg2:T1
+R34	support Arg1:T41 Arg2:T40
+R35	support Arg1:T42 Arg2:T40
+R36	rebuttal Arg1:T43 Arg2:T40
+R37	support Arg1:T44 Arg2:T43
+R38	support Arg1:T45 Arg2:T43
+R39	rebuttal Arg1:T46 Arg2:T27
+R40	support Arg1:T47 Arg2:T46
+R41	agreement Arg1:T48 Arg2:T1
+R42	agreement Arg1:T49 Arg2:T34
+R43	rebuttal Arg1:T50 Arg2:T49
+R44	support Arg1:T7 Arg2:T1
+R45	support Arg1:T51 Arg2:T50
+R46	undercutter Arg1:T52 Arg2:T34
+R47	support Arg1:T53 Arg2:T52
+R48	agreement Arg1:T54 Arg2:T52
+R49	support Arg1:T55 Arg2:T54
+R50	rebuttal Arg1:T56 Arg2:T41
+R51	support Arg1:T57 Arg2:T56
+R52	undercutter Arg1:T58 Arg2:T50
+R53	support Arg1:T59 Arg2:T58
+R54	agreement Arg1:T60 Arg2:T1
+R55	support Arg1:T8 Arg2:T1
+R56	support Arg1:T61 Arg2:T60
+R57	undercutter Arg1:T62 Arg2:T52
+R58	support Arg1:T63 Arg2:T62
+R59	support Arg1:T64 Arg2:T62
+R60	rebuttal Arg1:T65 Arg2:T62
+R61	agreement Arg1:T66 Arg2:T65
+R62	support Arg1:T67 Arg2:T66
+R63	support Arg1:T68 Arg2:T66
+R64	agreement Arg1:T69 Arg2:T56
+R65	rebuttal Arg1:T70 Arg2:T62
+R66	support Arg1:T9 Arg2:T1
+R67	support Arg1:T71 Arg2:T70
+R68	support Arg1:T72 Arg2:T70
+R69	support Arg1:T73 Arg2:T70
+R70	support Arg1:T74 Arg2:T70
+R71	support Arg1:T75 Arg2:T70
+R72	support Arg1:T76 Arg2:T70
+R73	support Arg1:T77 Arg2:T70
+R74	support Arg1:T78 Arg2:T70
+R75	rebuttal Arg1:T79 Arg2:T60
+R76	support Arg1:T80 Arg2:T79
+R77	support Arg1:T10 Arg2:T1
+R78	support Arg1:T81 Arg2:T79
+R79	support Arg1:T82 Arg2:T73
+R80	support Arg1:T83 Arg2:T73
+R81	agreement Arg1:T84 Arg2:T78
+R82	rebuttal Arg1:T85 Arg2:T84
+R83	undercutter Arg1:T86 Arg2:T76
+R84	support Arg1:T87 Arg2:T86
+R85	agreement Arg1:T88 Arg2:T78
+R86	rebuttal Arg1:T89 Arg2:T78
+R87	rebuttal Arg1:T90 Arg2:T78
+R88	agreement Arg1:T11 Arg2:T1
+R89	rebuttal Arg1:T91 Arg2:T79
+R90	support Arg1:T92 Arg2:T91
+R91	rebuttal Arg1:T93 Arg2:T79
+R92	agreement Arg1:T94 Arg2:T70
+R93	agreement Arg1:T95 Arg2:T71
+R94	rebuttal Arg1:T96 Arg2:T95
+R95	support Arg1:T97 Arg2:T96
+R96	rebuttal Arg1:T98 Arg2:T86
+R97	undercutter Arg1:T99 Arg2:T86

@@ -1,42 +1,42 @@
-T1 main_claim 0 108 CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry... 
-A1 Type T1 interpretation 
-T2 claim 110 136 The options are as follows 
-A2 Type T2 evaluation_rational 
-T3 claim 140 204 1. You don't agree with what is going on and stop supporting it. 
-A3 Type T3 evaluation_rational 
-T4 claim 206 309 2. You don't care about animals, so you're content with paying for them to be abused for your pleasure. 
-A4 Type T4 evaluation_emotional 
-T5 claim 311 423 3. You don't agree with what is going on, but try to put it to the back of your mind and continue to support it. 
-A5 Type T5 interpretation 
-T6 premise 436 562 I used to follow 'option number 3', but recently started 'option number 1' in an attempt to line my actions up with my values. 
-A6 Type T6 logos_pathos 
-T7 claim 563 635 I suspect this way of looking at it is still somewhat simplistic however 
-A7 Type T7 evaluation_emotional 
-T8 premise 766 795 As in never buying meat again 
-A8 Type T8 pathos 
-T9 premise 798 885 even as you know that doing so will not have any impact on the meat industry whatsoever 
-A9 Type T9 pathos 
-T10 premise 892 955 won't make even an ounce of difference in the lives of animals? 
-A10 Type T10 pathos 
-T11 premise 956 973 What's the point? 
-A11 Type T11 logos 
-T12 claim 974 1086 If I stop eating meat today, it won't make any difference whatsoever and won't save even a single animal's life. 
-A12 Type T12 evaluation_rational 
-T13 claim 1088 1210 The only way to make real change in industries like this is to organize and participate in a boycott on a wide-scale level 
-A13 Type T13 evaluation_rational 
-T14 claim 1220 1274 to petition the government to make regulation changes. 
-A14 Type T14 evaluation_rational 
-T15 premise 1277 1338 I wouldn't buy ivory, dog leather or fur for the same reasons 
-A15 Type T15 ethos_logos_pathos 
-T16 premise 1341 1468 I find meat disgusting based on what I've seen and want no part of endorsing it whether it makes any difference overall or not. 
-A16 Type T16 ethos_logos_pathos 
-R1 support Arg1:T11 Arg2:T12
-R2 undercutter Arg1:T12 Arg2:T2
-R3 rebuttal_attack Arg1:T13 Arg2:T3
-R4 rebuttal_attack Arg1:T14 Arg2:T3
-R5 support Arg1:T15 Arg2:T3
-R6 support Arg1:T16 Arg2:T3
-R7 support Arg1:T6 Arg2:T2
-R8 support Arg1:T8 Arg2:T12
-R9 support Arg1:T9 Arg2:T12
-R10 support Arg1:T10 Arg2:T12
+T1	main_claim 0 108	CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...
+A1	Type 1 interpretation
+T2	claim 110 136	The options are as follows
+A2	Type 2 evaluation_rational
+T3	claim 140 204	1. You don't agree with what is going on and stop supporting it.
+A3	Type 3 evaluation_rational
+T4	claim 206 309	2. You don't care about animals, so you're content with paying for them to be abused for your pleasure.
+A4	Type 4 evaluation_emotional
+T5	claim 311 423	3. You don't agree with what is going on, but try to put it to the back of your mind and continue to support it.
+A5	Type 5 interpretation
+T6	premise 436 562	I used to follow 'option number 3', but recently started 'option number 1' in an attempt to line my actions up with my values.
+A6	Type 6 logos_pathos
+T7	claim 563 635	I suspect this way of looking at it is still somewhat simplistic however
+A7	Type 7 evaluation_emotional
+T8	premise 766 795	As in never buying meat again
+A8	Type 8 pathos
+T9	premise 798 885	even as you know that doing so will not have any impact on the meat industry whatsoever
+A9	Type 9 pathos
+T10	premise 892 955	won't make even an ounce of difference in the lives of animals?
+A10	Type 10 pathos
+T11	premise 956 973	What's the point?
+A11	Type 11 logos
+T12	claim 974 1086	If I stop eating meat today, it won't make any difference whatsoever and won't save even a single animal's life.
+A12	Type 12 evaluation_rational
+T13	claim 1088 1210	The only way to make real change in industries like this is to organize and participate in a boycott on a wide-scale level
+A13	Type 13 evaluation_rational
+T14	claim 1220 1274	to petition the government to make regulation changes.
+A14	Type 14 evaluation_rational
+T15	premise 1277 1338	I wouldn't buy ivory, dog leather or fur for the same reasons
+A15	Type 15 ethos_logos_pathos
+T16	premise 1341 1468	I find meat disgusting based on what I've seen and want no part of endorsing it whether it makes any difference overall or not.
+A16	Type 16 ethos_logos_pathos
+R1	support Arg1:T11 Arg2:T12
+R2	undercutter Arg1:T12 Arg2:T2
+R3	rebuttal_attack Arg1:T13 Arg2:T3
+R4	rebuttal_attack Arg1:T14 Arg2:T3
+R5	support Arg1:T15 Arg2:T3
+R6	support Arg1:T16 Arg2:T3
+R7	support Arg1:T6 Arg2:T2
+R8	support Arg1:T8 Arg2:T12
+R9	support Arg1:T9 Arg2:T12
+R10	support Arg1:T10 Arg2:T12

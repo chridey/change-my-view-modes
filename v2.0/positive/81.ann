@@ -1,149 +1,149 @@
-T1 main_claim 0 69 CMV: The Call of Duty franchise is extremely overrated and overhyped. 
-A1 Type T1 evaluation_emotional 
-T2 claim 71 156 I'd like to start off by saying that the CoD games are good games in their own right, 
-A2 Type T2 evaluation_rational 
-T3 claim 164 192 they are extremely overhyped 
-A3 Type T3 evaluation_rational 
-T4 premise 195 305 One reason I take this stance is because the newly released games are ectremely similar to their predecessors. 
-A4 Type T4 logos_pathos 
-T5 premise 306 411 There are few if any changes in gameplay, and the basic level design for the most part, remains the same. 
-A5 Type T5 logos_pathos 
-T6 premise 412 547 Even Advanced Warfare, which seemed to promise the most novel changes, was criticized for changing too little from its preceding games. 
-A6 Type T6 logos_pathos 
-T7 premise 549 678 Another reason for my opinion is that CoD doesn't really have anything astoundingly different from other games of the same genre. 
-A7 Type T7 logos_pathos 
-T8 premise 679 835 There are a few unique features here and there, but overall, it's just another FPS with nothing spectacular that sets it above the other games in its genre. 
-A8 Type T8 logos 
-T9 claim 885 903 numbers don't lie. 
-A9 Type T9 interpretation 
-T10 premise 904 991 With absolutely anything, there will always be things that people that aren't a fan of. 
-A10 Type T10 logos_pathos 
-T11 premise 992 1121 Make major changes and instead of Person A hating the series and Person B loving it, now Person A loves it and Person B hates it. 
-A11 Type T11 logos 
-T12 premise 1363 1406 Consider the goal the creators of CoD have. 
-A12 Type T12 logos 
-T13 premise 1407 1421 To make money. 
-A13 Type T13 logos_pathos 
-T14 premise 1422 1483 And they consistently perform this goal well year after year. 
-A14 Type T14 logos_pathos 
-T15 premise 1484 1532 Now, you're an executive of Activision-Blizzard. 
-A15 Type T15 logos_pathos 
-T16 premise 1533 1624 Why would you tell the developers to do a complete 180 on the series, "for change's sake."? 
-A16 Type T16 logos 
-T17 premise 1625 1666 You only run risk and very little reward. 
-A17 Type T17 logos_pathos 
-T18 premise 1667 1970 If you stick to the tried and true model they've had, you're very nearly guaranteed to make a certain amount of sales. I'm sure they can graph the sales of each subsequent game and make predictions to the gradual decline with each passing year as more and more individuals grow bored of the CoD formula. 
-A18 Type T18 logos_pathos 
-T19 claim 1972 2127 Really, your view of "overrated and overhyped" is nothing more than an idiosyncratic reflection of your own *personal* threshold for formulaic video games. 
-A19 Type T19 evaluation_rational 
-T20 claim 2128 2195 But this view is separate from the objective success of the series. 
-A20 Type T20 evaluation_rational 
-T21 premise 2196 2278 If they keep selling games, it means people still enjoy the series for what it is. 
-A21 Type T21 pathos 
-T22 premise 2335 2494 There are more people who still like the series and will buy new iterations without much change compared to the minority who do find it cliche, hackneyed, etc. 
-A22 Type T22 logos_pathos 
-T23 premise 2495 2594 I mean, be realistic here, if they promised the most radically new CoD next year, would you buy it? 
-A23 Type T23 logos_pathos 
-T24 premise 2595 2608 Probably not. 
-A24 Type T24 logos_pathos 
-T25 premise 2609 2644 You have a bias against the series. 
-A25 Type T25 logos_pathos 
-T26 premise 2645 2712 Why would their target audience be the people who *don't* like CoD? 
-A26 Type T26 logos_pathos 
-T27 premise 2713 2731 It makes no sense. 
-A27 Type T27 logos 
-T28 claim 2733 2809 The other major point is that video game development is extremely expensive. 
-A28 Type T28 interpretation 
-T29 premise 2810 2940 Making an entirely new engine is costly, takes years to develop, and you never have a guarantee of financial success upon release. 
-A29 Type T29 logos_pathos 
-T30 premise 2941 3088 It makes more sense to stick with the old engine and old code, which drastically reduces the time (and therefore cost) it takes to make a new game. 
-A30 Type T30 logos 
-T31 claim 3089 3188 Brand new engine CoDs likely wouldn't make sufficiently more money to offset their cost to make it. 
-A31 Type T31 evaluation_rational 
-T32 premise 3189 3244 They aren't a charity, so gamers aren't entitled to it. 
-A32 Type T32 logos 
-T33 claim 3279 3371 And your explanation on why the series' games are extremely similar to each other is superb. 
-A33 Type T33 evaluation_rational 
-T34 claim 3372 3438 However, this in itself isn't why I think the games are overrated. 
-A34 Type T34 evaluation_rational 
-T35 premise 3439 3583 Many other game serie use a formulaic system for their games that renders them very similar to each other, such as Assassin's Creed, or Pokemon. 
-A35 Type T35 ethos_logos_pathos 
-T36 premise 3584 3712 The thing about CoD that really makes it an overrated series is that it is very similar to other FPS games, such as Battlefield. 
-A36 Type T36 logos 
-T37 claim 3713 3789 It really doesn't have any revolutionary groundbreaking features of its own, 
-A37 Type T37 evaluation_emotional 
-T38 claim 3794 3845 each game feeds off the success of its predecessor. 
-A38 Type T38 evaluation_emotional 
-T39 premise 3923 4045 It was the first FPS to really popularize the RPG elements of progression and grow multiplayer FPS to the size that it is. 
-A39 Type T39 logos 
-T40 premise 4046 4225 Halo may have been the first of its kind at the time, but CoD created a very effective system where you leveled up, unlocked new guns, and gave you customization in your load out. 
-A40 Type T40 logos_pathos 
-T41 premise 4226 4321 When considering the first few CoDs, this was massive and largely is attributed to its success. 
-A41 Type T41 pathos 
-T42 premise 4322 4395 It turned multiplayer FPS from a niche genre to if not the largest genre. 
-A42 Type T42 pathos 
-T43 claim 4396 4518 One can argue some earlier games like Counterstrike did something similar much sooner, for some reason CoD popularized it. 
-A43 Type T43 evaluation_emotional 
-T44 claim 4519 4548 Brought it to the mainstream. 
-A44 Type T44 evaluation_emotional 
-T45 claim 4550 4641 It's not so much that CoD is similar to other FPS as other FPSs largely copied their model. 
-A45 Type T45 evaluation_emotional 
-T46 premise 4642 4777 Hell, consider Halo 4 that changed their fundamental mechanics to match more of a CoD pace and include load outs and level progression. 
-A46 Type T46 pathos 
-T47 premise 4778 4963 It's a large statement that such a dedicated fanbase Halo had moved toward the direction of CoD. Given CoD's immense popularity, everyone wanted to jump on the bandwagon of its success. 
-A47 Type T47 logos 
-T48 premise 4965 5123 To view CoD as overrated for being the series that really grew the genre to what it is today would be to say WoW is overrated given how many MMOs are similar. 
-A48 Type T48 logos 
-T49 premise 5124 5328 When you consider there were a select few MMOs before WoW that failed to mainstream and popularize the genre, and the immense number of WoW clones after its success, it's not fair to say WoW is overrated. 
-A49 Type T49 logos_pathos 
-T50 premise 5329 5354 It's iconic in its genre. 
-A50 Type T50 logos_pathos 
-T51 claim 5355 5440 It's the copies and general state of the genre today that is overrated and hackneyed. 
-A51 Type T51 agreement 
-T52 claim 5457 5575 I feel that your view isn't so much feeling that CoD is overrated as it is that you feel multiplayer FPS is overrated. 
-A52 Type T52 evaluation_emotional 
-R1 partial_attack Arg1:T3 Arg2:T2
-R2 support Arg1:T12 Arg2:T9
-R3 support Arg1:T13 Arg2:T9
-R4 support Arg1:T14 Arg2:T9
-R5 support Arg1:T15 Arg2:T9
-R6 support Arg1:T16 Arg2:T9
-R7 support Arg1:T17 Arg2:T16
-R8 support Arg1:T18 Arg2:T16
-R9 undercutter_attack Arg1:T19 Arg2:T3
-R10 undercutter_attack Arg1:T20 Arg2:T3
-R11 support Arg1:T21 Arg2:T20
-R12 support Arg1:T4 Arg2:T3
-R13 support Arg1:T22 Arg2:T3
-R14 support Arg1:T24 Arg2:T9
-R15 support Arg1:T25 Arg2:T9
-R16 support Arg1:T26 Arg2:T9
-R17 support Arg1:T27 Arg2:T9
-R18 support Arg1:T28 Arg2:T3
-R19 support Arg1:T29 Arg2:T30
-R20 support Arg1:T30 Arg2:T3
-R21 support Arg1:T31 Arg2:T3
-R22 support Arg1:T5 Arg2:T4
-R23 support Arg1:T32 Arg2:T3
-R24 agreement Arg1:T33 Arg2:T4
-R25 undercutter_attack Arg1:T34 Arg2:T3
-R26 support Arg1:T35 Arg2:T34
-R27 support Arg1:T36 Arg2:T35
-R28 support Arg1:T37 Arg2:T36
-R29 support Arg1:T38 Arg2:T36
-R30 support Arg1:T39 Arg2:T50
-R31 support Arg1:T40 Arg2:T50
-R32 support Arg1:T41 Arg2:T50
-R33 support Arg1:T6 Arg2:T4
-R34 support Arg1:T42 Arg2:T50
-R35 support Arg1:T43 Arg2:T50
-R36 support Arg1:T44 Arg2:T50
-R37 rebuttal_attack Arg1:T48 Arg2:T3
-R38 rebuttal_attack Arg1:T49 Arg2:T3
-R39 support Arg1:T50 Arg2:T49
-R40 support Arg1:T7 Arg2:T3
-R41 partial_attack Arg1:T52 Arg2:T3
-R42 support Arg1:T8 Arg2:T7
-R43 undercutter_attack Arg1:T9 Arg2:T3
-R44 support Arg1:T10 Arg2:T9
-R45 support Arg1:T11 Arg2:T10
+T1	main_claim 0 69	CMV: The Call of Duty franchise is extremely overrated and overhyped.
+A1	Type 1 evaluation_emotional
+T2	claim 71 156	I'd like to start off by saying that the CoD games are good games in their own right,
+A2	Type 2 evaluation_rational
+T3	claim 164 192	they are extremely overhyped
+A3	Type 3 evaluation_rational
+T4	premise 195 305	One reason I take this stance is because the newly released games are ectremely similar to their predecessors.
+A4	Type 4 logos_pathos
+T5	premise 306 411	There are few if any changes in gameplay, and the basic level design for the most part, remains the same.
+A5	Type 5 logos_pathos
+T6	premise 412 547	Even Advanced Warfare, which seemed to promise the most novel changes, was criticized for changing too little from its preceding games.
+A6	Type 6 logos_pathos
+T7	premise 549 678	Another reason for my opinion is that CoD doesn't really have anything astoundingly different from other games of the same genre.
+A7	Type 7 logos_pathos
+T8	premise 679 835	There are a few unique features here and there, but overall, it's just another FPS with nothing spectacular that sets it above the other games in its genre.
+A8	Type 8 logos
+T9	claim 885 903	numbers don't lie.
+A9	Type 9 interpretation
+T10	premise 904 991	With absolutely anything, there will always be things that people that aren't a fan of.
+A10	Type 10 logos_pathos
+T11	premise 992 1121	Make major changes and instead of Person A hating the series and Person B loving it, now Person A loves it and Person B hates it.
+A11	Type 11 logos
+T12	premise 1363 1406	Consider the goal the creators of CoD have.
+A12	Type 12 logos
+T13	premise 1407 1421	To make money.
+A13	Type 13 logos_pathos
+T14	premise 1422 1483	And they consistently perform this goal well year after year.
+A14	Type 14 logos_pathos
+T15	premise 1484 1532	Now, you're an executive of Activision-Blizzard.
+A15	Type 15 logos_pathos
+T16	premise 1533 1624	Why would you tell the developers to do a complete 180 on the series, "for change's sake."?
+A16	Type 16 logos
+T17	premise 1625 1666	You only run risk and very little reward.
+A17	Type 17 logos_pathos
+T18	premise 1667 1970	If you stick to the tried and true model they've had, you're very nearly guaranteed to make a certain amount of sales. I'm sure they can graph the sales of each subsequent game and make predictions to the gradual decline with each passing year as more and more individuals grow bored of the CoD formula.
+A18	Type 18 logos_pathos
+T19	claim 1972 2127	Really, your view of "overrated and overhyped" is nothing more than an idiosyncratic reflection of your own *personal* threshold for formulaic video games.
+A19	Type 19 evaluation_rational
+T20	claim 2128 2195	But this view is separate from the objective success of the series.
+A20	Type 20 evaluation_rational
+T21	premise 2196 2278	If they keep selling games, it means people still enjoy the series for what it is.
+A21	Type 21 pathos
+T22	premise 2335 2494	There are more people who still like the series and will buy new iterations without much change compared to the minority who do find it cliche, hackneyed, etc.
+A22	Type 22 logos_pathos
+T23	premise 2495 2594	I mean, be realistic here, if they promised the most radically new CoD next year, would you buy it?
+A23	Type 23 logos_pathos
+T24	premise 2595 2608	Probably not.
+A24	Type 24 logos_pathos
+T25	premise 2609 2644	You have a bias against the series.
+A25	Type 25 logos_pathos
+T26	premise 2645 2712	Why would their target audience be the people who *don't* like CoD?
+A26	Type 26 logos_pathos
+T27	premise 2713 2731	It makes no sense.
+A27	Type 27 logos
+T28	claim 2733 2809	The other major point is that video game development is extremely expensive.
+A28	Type 28 interpretation
+T29	premise 2810 2940	Making an entirely new engine is costly, takes years to develop, and you never have a guarantee of financial success upon release.
+A29	Type 29 logos_pathos
+T30	premise 2941 3088	It makes more sense to stick with the old engine and old code, which drastically reduces the time (and therefore cost) it takes to make a new game.
+A30	Type 30 logos
+T31	claim 3089 3188	Brand new engine CoDs likely wouldn't make sufficiently more money to offset their cost to make it.
+A31	Type 31 evaluation_rational
+T32	premise 3189 3244	They aren't a charity, so gamers aren't entitled to it.
+A32	Type 32 logos
+T33	claim 3279 3371	And your explanation on why the series' games are extremely similar to each other is superb.
+A33	Type 33 evaluation_rational
+T34	claim 3372 3438	However, this in itself isn't why I think the games are overrated.
+A34	Type 34 evaluation_rational
+T35	premise 3439 3583	Many other game serie use a formulaic system for their games that renders them very similar to each other, such as Assassin's Creed, or Pokemon.
+A35	Type 35 ethos_logos_pathos
+T36	premise 3584 3712	The thing about CoD that really makes it an overrated series is that it is very similar to other FPS games, such as Battlefield.
+A36	Type 36 logos
+T37	claim 3713 3789	It really doesn't have any revolutionary groundbreaking features of its own,
+A37	Type 37 evaluation_emotional
+T38	claim 3794 3845	each game feeds off the success of its predecessor.
+A38	Type 38 evaluation_emotional
+T39	premise 3923 4045	It was the first FPS to really popularize the RPG elements of progression and grow multiplayer FPS to the size that it is.
+A39	Type 39 logos
+T40	premise 4046 4225	Halo may have been the first of its kind at the time, but CoD created a very effective system where you leveled up, unlocked new guns, and gave you customization in your load out.
+A40	Type 40 logos_pathos
+T41	premise 4226 4321	When considering the first few CoDs, this was massive and largely is attributed to its success.
+A41	Type 41 pathos
+T42	premise 4322 4395	It turned multiplayer FPS from a niche genre to if not the largest genre.
+A42	Type 42 pathos
+T43	claim 4396 4518	One can argue some earlier games like Counterstrike did something similar much sooner, for some reason CoD popularized it.
+A43	Type 43 evaluation_emotional
+T44	claim 4519 4548	Brought it to the mainstream.
+A44	Type 44 evaluation_emotional
+T45	claim 4550 4641	It's not so much that CoD is similar to other FPS as other FPSs largely copied their model.
+A45	Type 45 evaluation_emotional
+T46	premise 4642 4777	Hell, consider Halo 4 that changed their fundamental mechanics to match more of a CoD pace and include load outs and level progression.
+A46	Type 46 pathos
+T47	premise 4778 4963	It's a large statement that such a dedicated fanbase Halo had moved toward the direction of CoD. Given CoD's immense popularity, everyone wanted to jump on the bandwagon of its success.
+A47	Type 47 logos
+T48	premise 4965 5123	To view CoD as overrated for being the series that really grew the genre to what it is today would be to say WoW is overrated given how many MMOs are similar.
+A48	Type 48 logos
+T49	premise 5124 5328	When you consider there were a select few MMOs before WoW that failed to mainstream and popularize the genre, and the immense number of WoW clones after its success, it's not fair to say WoW is overrated.
+A49	Type 49 logos_pathos
+T50	premise 5329 5354	It's iconic in its genre.
+A50	Type 50 logos_pathos
+T51	claim 5355 5440	It's the copies and general state of the genre today that is overrated and hackneyed.
+A51	Type 51 agreement
+T52	claim 5457 5575	I feel that your view isn't so much feeling that CoD is overrated as it is that you feel multiplayer FPS is overrated.
+A52	Type 52 evaluation_emotional
+R1	partial_attack Arg1:T3 Arg2:T2
+R2	support Arg1:T12 Arg2:T9
+R3	support Arg1:T13 Arg2:T9
+R4	support Arg1:T14 Arg2:T9
+R5	support Arg1:T15 Arg2:T9
+R6	support Arg1:T16 Arg2:T9
+R7	support Arg1:T17 Arg2:T16
+R8	support Arg1:T18 Arg2:T16
+R9	undercutter_attack Arg1:T19 Arg2:T3
+R10	undercutter_attack Arg1:T20 Arg2:T3
+R11	support Arg1:T21 Arg2:T20
+R12	support Arg1:T4 Arg2:T3
+R13	support Arg1:T22 Arg2:T3
+R14	support Arg1:T24 Arg2:T9
+R15	support Arg1:T25 Arg2:T9
+R16	support Arg1:T26 Arg2:T9
+R17	support Arg1:T27 Arg2:T9
+R18	support Arg1:T28 Arg2:T3
+R19	support Arg1:T29 Arg2:T30
+R20	support Arg1:T30 Arg2:T3
+R21	support Arg1:T31 Arg2:T3
+R22	support Arg1:T5 Arg2:T4
+R23	support Arg1:T32 Arg2:T3
+R24	agreement Arg1:T33 Arg2:T4
+R25	undercutter_attack Arg1:T34 Arg2:T3
+R26	support Arg1:T35 Arg2:T34
+R27	support Arg1:T36 Arg2:T35
+R28	support Arg1:T37 Arg2:T36
+R29	support Arg1:T38 Arg2:T36
+R30	support Arg1:T39 Arg2:T50
+R31	support Arg1:T40 Arg2:T50
+R32	support Arg1:T41 Arg2:T50
+R33	support Arg1:T6 Arg2:T4
+R34	support Arg1:T42 Arg2:T50
+R35	support Arg1:T43 Arg2:T50
+R36	support Arg1:T44 Arg2:T50
+R37	rebuttal_attack Arg1:T48 Arg2:T3
+R38	rebuttal_attack Arg1:T49 Arg2:T3
+R39	support Arg1:T50 Arg2:T49
+R40	support Arg1:T7 Arg2:T3
+R41	partial_attack Arg1:T52 Arg2:T3
+R42	support Arg1:T8 Arg2:T7
+R43	undercutter_attack Arg1:T9 Arg2:T3
+R44	support Arg1:T10 Arg2:T9
+R45	support Arg1:T11 Arg2:T10

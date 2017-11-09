@@ -1,67 +1,67 @@
-T1 main_claim 0 78 CMV: I believe that regularly browsing 4chan will make you into a worse person 
-A1 Type T1 evaluation_emotional 
-T2 premise 80 221 Because of the anonymity on 4chan people are more prone to not think through, care about what they post and are quicker to throw out insults. 
-A2 Type T2 logos_pathos 
-T3 premise 222 269 They will care about how people respond to them 
-A3 Type T3 logos_pathos 
-T4 premise 276 417 since it's largely negative they will stoop down to the same level rather than go to any high ground since they are not linked to an identity 
-A4 Type T4 logos_pathos 
-T5 premise 421 494 Surrounding the entire site there's a general pessimistic group mentality 
-A5 Type T5 logos_pathos 
-T6 premise 501 607 people are subconsciously encouraged to take part of it in order to feel like they are a part of the group 
-A6 Type T6 logos_pathos 
-T7 premise 610 723 Some boards will have specific groups of people who they are encouraged to hate, women, SJWs, casual gamers, Jews 
-A7 Type T7 pathos 
-T8 premise 730 857 any reasonable argument against a poster can be made redundant by saying or thinking they are a part of these agendas or groups 
-A8 Type T8 pathos 
-T9 premise 861 955 On boards you will find echo chambers where people are more prone to believe rumors than proof 
-A9 Type T9 logos_pathos 
-T10 premise 958 1005 Things about e-celebrities will start as rumors 
-A10 Type T10 pathos 
-T11 premise 1008 1123 ideas about them or things will get taken out of context and it will be posted continually until it's taken as fact 
-A11 Type T11 pathos 
-T12 premise 1126 1298 It will reach conspiracy theory levels of "proof" where people will simply believe it because they feel as if they are a part of a group-effort that's uncovering something. 
-A12 Type T12 logos 
-T13 claim 1300 1421 Surrounding yourself with this will in general make you into a more pessimistic, negative and possibly depressive person. 
-A13 Type T13 evaluation_emotional 
-T14 claim 1423 1498 I'm not saying that every person who browses 4chan is depressed or negative 
-A14 Type T14 interpretation 
-T15 claim 1505 1575 that the majority of them are affected negatively by browsing the site 
-A15 Type T15 interpretation 
-T16 claim 1579 1720 Thinking that you are unaffected by this doesn't necessarily mean you are, but instead means that you are unaware of how much it affects you. 
-A16 Type T16 evaluation_rational 
-T17 claim 1867 1898 I think this isn't ALWAYS true. 
-A17 Type T17 disagreement 
-T18 premise 1899 1948 Some people aren't changed by others that easily. 
-A18 Type T18 logos 
-T19 claim 1953 2015 I think your argument applies only to boards like /b/ or /pol/ 
-A19 Type T19 interpretation 
-T20 premise 2018 2126 If you go on 4chan right now to the /wg/ board (wallpapers) or the /vr/ board, almost everyone there is nice 
-A20 Type T20 logos_pathos 
-T21 claim 2200 2260 I think those boards are bit more niche and have less users. 
-A21 Type T21 interpretation 
-T22 claim 2266 2282 I get your point 
-A22 Type T22 agreement 
-T23 premise 2285 2438 in my experience /vg/ has been pretty good since people in those threads generally like the games they're talking about and not just wildly pissing about 
-A23 Type T23 logos 
-R1 support Arg1:T2 Arg2:T1
-R2 support Arg1:T3 Arg2:T1
-R3 support Arg1:T12 Arg2:T1
-R4 agreement Arg1:T13 Arg2:T1
-R5 agreement Arg1:T14 Arg2:T1
-R6 agreement Arg1:T15 Arg2:T1
-R7 agreement Arg1:T16 Arg2:T1
-R8 partial_disagreement Arg1:T17 Arg2:T1
-R9 support Arg1:T18 Arg2:T17
-R10 support Arg1:T19 Arg2:T17
-R11 support Arg1:T20 Arg2:T17
-R12 undercutter Arg1:T21 Arg2:T20
-R13 partial_agreement Arg1:T22 Arg2:T17
-R14 support Arg1:T23 Arg2:T22
-R15 support Arg1:T5 Arg2:T1
-R16 support Arg1:T6 Arg2:T1
-R17 support Arg1:T7 Arg2:T1
-R18 support Arg1:T8 Arg2:T1
-R19 support Arg1:T9 Arg2:T1
-R20 support Arg1:T10 Arg2:T1
-R21 support Arg1:T11 Arg2:T1
+T1	main_claim 0 78	CMV: I believe that regularly browsing 4chan will make you into a worse person
+A1	Type 1 evaluation_emotional
+T2	premise 80 221	Because of the anonymity on 4chan people are more prone to not think through, care about what they post and are quicker to throw out insults.
+A2	Type 2 logos_pathos
+T3	premise 222 269	They will care about how people respond to them
+A3	Type 3 logos_pathos
+T4	premise 276 417	since it's largely negative they will stoop down to the same level rather than go to any high ground since they are not linked to an identity
+A4	Type 4 logos_pathos
+T5	premise 421 494	Surrounding the entire site there's a general pessimistic group mentality
+A5	Type 5 logos_pathos
+T6	premise 501 607	people are subconsciously encouraged to take part of it in order to feel like they are a part of the group
+A6	Type 6 logos_pathos
+T7	premise 610 723	Some boards will have specific groups of people who they are encouraged to hate, women, SJWs, casual gamers, Jews
+A7	Type 7 pathos
+T8	premise 730 857	any reasonable argument against a poster can be made redundant by saying or thinking they are a part of these agendas or groups
+A8	Type 8 pathos
+T9	premise 861 955	On boards you will find echo chambers where people are more prone to believe rumors than proof
+A9	Type 9 logos_pathos
+T10	premise 958 1005	Things about e-celebrities will start as rumors
+A10	Type 10 pathos
+T11	premise 1008 1123	ideas about them or things will get taken out of context and it will be posted continually until it's taken as fact
+A11	Type 11 pathos
+T12	premise 1126 1298	It will reach conspiracy theory levels of "proof" where people will simply believe it because they feel as if they are a part of a group-effort that's uncovering something.
+A12	Type 12 logos
+T13	claim 1300 1421	Surrounding yourself with this will in general make you into a more pessimistic, negative and possibly depressive person.
+A13	Type 13 evaluation_emotional
+T14	claim 1423 1498	I'm not saying that every person who browses 4chan is depressed or negative
+A14	Type 14 interpretation
+T15	claim 1505 1575	that the majority of them are affected negatively by browsing the site
+A15	Type 15 interpretation
+T16	claim 1579 1720	Thinking that you are unaffected by this doesn't necessarily mean you are, but instead means that you are unaware of how much it affects you.
+A16	Type 16 evaluation_rational
+T17	claim 1867 1898	I think this isn't ALWAYS true.
+A17	Type 17 disagreement
+T18	premise 1899 1948	Some people aren't changed by others that easily.
+A18	Type 18 logos
+T19	claim 1953 2015	I think your argument applies only to boards like /b/ or /pol/
+A19	Type 19 interpretation
+T20	premise 2018 2126	If you go on 4chan right now to the /wg/ board (wallpapers) or the /vr/ board, almost everyone there is nice
+A20	Type 20 logos_pathos
+T21	claim 2200 2260	I think those boards are bit more niche and have less users.
+A21	Type 21 interpretation
+T22	claim 2266 2282	I get your point
+A22	Type 22 agreement
+T23	premise 2285 2438	in my experience /vg/ has been pretty good since people in those threads generally like the games they're talking about and not just wildly pissing about
+A23	Type 23 logos
+R1	support Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T1
+R3	support Arg1:T12 Arg2:T1
+R4	agreement Arg1:T13 Arg2:T1
+R5	agreement Arg1:T14 Arg2:T1
+R6	agreement Arg1:T15 Arg2:T1
+R7	agreement Arg1:T16 Arg2:T1
+R8	partial_disagreement Arg1:T17 Arg2:T1
+R9	support Arg1:T18 Arg2:T17
+R10	support Arg1:T19 Arg2:T17
+R11	support Arg1:T20 Arg2:T17
+R12	undercutter Arg1:T21 Arg2:T20
+R13	partial_agreement Arg1:T22 Arg2:T17
+R14	support Arg1:T23 Arg2:T22
+R15	support Arg1:T5 Arg2:T1
+R16	support Arg1:T6 Arg2:T1
+R17	support Arg1:T7 Arg2:T1
+R18	support Arg1:T8 Arg2:T1
+R19	support Arg1:T9 Arg2:T1
+R20	support Arg1:T10 Arg2:T1
+R21	support Arg1:T11 Arg2:T1

@@ -1,208 +1,208 @@
-T1 main_claim 0 86 CMV: Posting nude pictures online is caused by a need for attention and not empowering 
-A1 Type T1 interpretation 
-T2 claim 130 195 I am not saying that people are not allowed to do what they like. 
-A2 Type T2 evaluation_rational 
-T3 premise 196 303 I don't care if people post nudes, I'm just saying that this is how I feel when I see people posting nudes. 
-A3 Type T3 logos 
-T4 claim 304 382 Also, I don't mean to suggest that there is anything wrong with posting nudes. 
-A4 Type T4 evaluation_emotional 
-T5 claim 383 540 Lastly, I have nothing wrong with nudity and am in fact a fan of nudity, I just don't understand exposing yourself to the entirety of the internet on a whim. 
-A5 Type T5 evaluation_rational 
-T6 claim 542 681 Whenever I see anyone, male or female, posting nude pictures on the internet, I immediately assume that they are somehow seeking attention. 
-A6 Type T6 interpretation 
-T7 claim 682 849 Of course, that's the point, but I think that it must stem from some underlying need to get attention that they must either be lacking in some other part of their life 
-A7 Type T7 interpretation 
-T8 premise 855 936 simply need because that's their personality and that they feed off of attention. 
-A8 Type T8 logos_pathos 
-T9 premise 1319 1538 I don't understand how posting images of yourself naked, often with the understanding that others will masturbate to you (/r/gonewild for example) is not empowering but instead a form of whoring yourself out in a sense. 
-A9 Type T9 logos_pathos 
-T10 premise 2253 2278 It depends on the person. 
-A10 Type T10 logos 
-T11 premise 2279 2345 One person can be incredibly confident with his/her private parts. 
-A11 Type T11 logos 
-T12 premise 2346 2412 Therefore, the person is eager to show off and get some attention. 
-A12 Type T12 logos_pathos 
-T13 premise 2413 2496 However, most people are not quite as endowed or gifted as these attention-seekers. 
-A13 Type T13 logos_pathos 
-T14 premise 2497 2615 It's an empowering feeling to be so comfortable with yourself (endowed or not) that you are proud to post nude photos. 
-A14 Type T14 logos_pathos 
-T15 premise 2616 2651 The compliments feel great as well! 
-A15 Type T15 logos 
-T16 claim 2652 2696 In this sense, it is not done for attention. 
-A16 Type T16 interpretation 
-T17 premise 2697 2790 After all, most people choose to remain anonymous -so what attention are they really getting? 
-A17 Type T17 ethos_logos_pathos 
-T18 premise 2792 2892 You're also forgetting the tremendous amount of sexual energy that factors into posting nude photos. 
-A18 Type T18 logos 
-T19 premise 2893 2983 People enjoy browsing other's nude photos, so they decide to contribute some of their own. 
-A19 Type T19 logos_pathos 
-T20 premise 2984 3074 It gives them pleasure to know that other people get pleasure by seeing the posted photos. 
-A20 Type T20 logos 
-T21 premise 3075 3129 Again, this is more empowering than attention-seeking. 
-A21 Type T21 ethos_logos 
-T22 claim 3132 3169 I agree that people enjoy showing off 
-A22 Type T22 agreement 
-T23 premise 3192 3237 isn't that stool a form of attention seeking? 
-A23 Type T23 logos 
-T24 premise 3238 3436 Being proud of something (which in the case of nudes, like breast size, is sometimes uncontrollable and not something that one has to work for to attain that pride) is different than showing it off. 
-A24 Type T24 logos 
-T25 premise 3437 3558 I'm proud of my own genitals but I have no need to show them to anyone other than my girlfriend who I want to enjoy them. 
-A25 Type T25 logos_pathos 
-T26 premise 3559 3644 The difference I see is between pride and attention seeking behavior caused by pride. 
-A26 Type T26 logos 
-T27 claim 3646 3695 You so make a good point about the sexual energy. 
-A27 Type T27 agreement 
-T28 premise 3747 3919 Of course, for those in relationships or some kind of monogamous partnership, I understand the sexual energy between sharing and receiving sexual images between each other. 
-A28 Type T28 logos 
-T29 premise 3920 4136 In the example of the monogamous partnership, I do not consider that type of behavior as being attention seeking or anything because it is meant to be between the two individuals for their own mutual sexual pleasure. 
-A29 Type T29 pathos 
-T30 claim 4137 4351 The difference between that scenario (which I think most people can agree with) and posting nudes online is that often someone will post an image and an unknown amount of people may see it and get pleasure from it. 
-A30 Type T30 evaluation_rational 
-T31 premise 4352 4417 Nudes end up all over the internet and going into that situation, 
-A31 Type T31 logos_pathos 
-T32 premise 4457 4591 In anticipating this inevitability, aren't they then giving away they're nudes essentially for anyone to recurve sexual pleasure from? 
-A32 Type T32 logos_pathos 
-T33 claim 4592 4632 I see that behavior as attention seeking 
-A33 Type T33 evaluation_emotional 
-T34 premise 4641 4759 what they get in return is the gratification of strangers admitting their nudity without the mutual respect in return. 
-A34 Type T34 ethos_logos 
-T35 premise 4798 4971 I don't see it as one wanting to gain some type of status from it attached to themselves, but instead the gratification of having others pleasure themselves to their nudity. 
-A35 Type T35 logos_pathos 
-T36 premise 4972 5101 For example, internet trolls work on the basis of causing as much fuss and attention as possible while often remaining anonymous. 
-A36 Type T36 logos 
-T37 premise 5102 5246 They are not trying to get attention toward themselves superficially, but they're instead attention seeking to just get the attention of others. 
-A37 Type T37 logos_pathos 
-T38 premise 5415 5457 Do you do this to seek attention from her? 
-A38 Type T38 logos_pathos 
-T39 premise 5458 5499 Or do you do it because it is empowering? 
-A39 Type T39 ethos_logos_pathos 
-T40 premise 5500 5613 It makes you feel good when she tells you how impressed she is with your junk and when she gets pleasure from it. 
-A40 Type T40 logos 
-T41 premise 5614 5694 Other people don't have partners to do this with so they resort to the internet. 
-A41 Type T41 logos 
-T42 premise 5695 5742 Some people even have partners and still do it. 
-A42 Type T42 ethos_logos 
-T43 premise 5743 5803 It's a thrill and a risk that gives people immense pleasure. 
-A43 Type T43 ethos_logos_pathos 
-T44 premise 5946 6025 They are not getting any attention though, since they usually remain anonymous. 
-A44 Type T44 logos 
-T45 premise 6026 6125 Also, when it is spread online you hardly ever find out who has seen it or what people think of it. 
-A45 Type T45 logos 
-T46 premise 6126 6194 Therefore, you may never be able to recognize the attention you get. 
-A46 Type T46 logos_pathos 
-T47 premise 6195 6300 Just the act of posting the photo is enough to drive some people wild, whether 1 person sees it or 1,000. 
-A47 Type T47 logos_pathos 
-T48 claim 6303 6535 I want to show them to my girlfriend because I know that it makes her think of our sexual activities and I'm trying to make her think about that to remind her off how it feels good physically and to be close with her in a sexual way 
-A48 Type T48 evaluation_emotional 
-T49 claim 6538 6613 I don't do it to bring attention to myself, but rather to our relationship. 
-A49 Type T49 interpretation 
-T50 claim 6614 6701 This is much different from posting a photo that a tension stranger will masturbate to. 
-A50 Type T50 evaluation_rational 
-T51 premise 6703 6833 Like I've said, isn't the garnering of any attention on the internet from your nudes photos still seeking the attention of others? 
-A51 Type T51 logos 
-T52 premise 6834 6917 It doesn't matter how many strangers see it, just the fact that they are strangers. 
-A52 Type T52 logos_pathos 
-T53 premise 6918 7165 I think the anonymity of the internet allows people to freely get the attention without worrying about the recognition or views of friends and family, so they're purposely looking for attention they can't find within their immediate relationships. 
-A53 Type T53 logos_pathos 
-T54 claim 7168 7268 You do it because you get pleasure from your girlfriend being into you and your sexual relationship. 
-A54 Type T54 agreement 
-T55 claim 7269 7311 This is empowering, not attention seeking. 
-A55 Type T55 disagreement 
-T56 claim 7312 7391 Other people do it because they get pleasure from strangers masturbating to it. 
-A56 Type T56 evaluation_rational 
-T57 claim 7392 7434 This is empowering, not attention seeking. 
-A57 Type T57 evaluation_emotional 
-T58 premise 7435 7524 Just because you don't find it empowering to post nudes, doesn't mean other people won't. 
-A58 Type T58 logos_pathos 
-T59 premise 7525 7617 It's impossible to assert that everyone who has posted nudes does it strictly for attention. 
-A59 Type T59 logos_pathos 
-T60 claim 7785 7987 I can guarantee you I was not trying to get attention from these girls, and nor was I trying to make them think of our sexual activities or remind them of sex (impossible since I didn't live near them). 
-A60 Type T60 interpretation 
-T61 claim 7988 8086 I enjoyed their compliments, knowing that they received pleasure, and seeing their photos as well. 
-A61 Type T61 interpretation 
-T62 claim 8087 8163 Sexting is an entirely separate entity that has it's own set of motivations. 
-A62 Type T62 disagreement 
-T63 claim 8280 8388 I just don't understand that you're of behavior and since I have never partaken in it I just can't grasp it. 
-A63 Type T63 evaluation_rational 
-T64 claim 8389 8491 The trouble I have is that I don't get a good enough perspective from those that do post nudes online. 
-A64 Type T64 evaluation_rational 
-T65 claim 8492 8528 You're right about the sexting thing 
-A65 Type T65 agreement 
-T66 claim 8581 8646 the fine line ice drawn is hard to find and relatively ambiguous. 
-A66 Type T66 evaluation_rational 
-T67 premise 8647 8714 Of course, I have no issue with sexting, considering I do it often, 
-A67 Type T67 logos 
-T68 claim 8715 8813 so I guess in that sense I can sort of understand the stance one would receive from posting nudes. 
-A68 Type T68 interpretation 
-T69 premise 8816 8944 Just as I don't necessarily understand the joy of exhibitionism, exhibitionists don't understand how I *don't* find joy from it. 
-A69 Type T69 ethos_pathos 
-T70 premise 8945 9050 Since I am so unaccustomed to it and do not partake in it, I can't make an uninformed judgement about it. 
-A70 Type T70 logos_pathos 
-T71 premise 9051 9228 I am not going to tell that person that he/she is doing it for attention - because frankly - I have no clue why exactly the person does it (the person may not even know either)! 
-A71 Type T71 pathos 
-T72 claim 9231 9248 Thats very true . 
-A72 Type T72 agreement 
-T73 claim 9458 9588 Applying it to my own life and what I personally do is a good way to assess not only this situation, but any situation in general. 
-A73 Type T73 interpretation 
-R1 support Arg1:T3 Arg2:T2
-R2 support Arg1:T12 Arg2:T10
-R3 partial_disagreement Arg1:T13 Arg2:T12
-R4 support Arg1:T14 Arg2:T16
-R5 support Arg1:T15 Arg2:T16
-R6 support Arg1:T17 Arg2:T16
-R7 rebuttal_attack Arg1:T18 Arg2:T9
-R8 rebuttal_attack Arg1:T19 Arg2:T9
-R9 rebuttal_attack Arg1:T20 Arg2:T9
-R10 rebuttal_attack Arg1:T21 Arg2:T9
-R11 support Arg1:T4 Arg2:T2
-R12 undercutter_attack Arg1:T23 Arg2:T20
-R13 agreement Arg1:T22 Arg2:T20
-R14 undercutter_attack Arg1:T24 Arg2:T20
-R15 undercutter_attack Arg1:T25 Arg2:T20
-R16 undercutter_attack Arg1:T26 Arg2:T20
-R17 undercutter_attack Arg1:T27 Arg2:T18
-R18 support Arg1:T28 Arg2:T27
-R19 support Arg1:T29 Arg2:T27
-R20 support Arg1:T31 Arg2:T30
-R21 support Arg1:T32 Arg2:T27
-R22 partial_agreement Arg1:T5 Arg2:T2
-R23 support Arg1:T34 Arg2:T33
-R24 support Arg1:T35 Arg2:T27
-R25 support Arg1:T36 Arg2:T35
-R26 support Arg1:T37 Arg2:T27
-R27 undercutter_attack Arg1:T41 Arg2:T25
-R28 undercutter_attack Arg1:T42 Arg2:T25
-R29 undercutter_attack Arg1:T43 Arg2:T25
-R30 rebuttal_attack Arg1:T44 Arg2:T32
-R31 rebuttal_attack Arg1:T45 Arg2:T32
-R32 rebuttal_attack Arg1:T46 Arg2:T32
-R33 rebuttal_attack Arg1:T47 Arg2:T32
-R34 rebuttal_attack Arg1:T49 Arg2:T40
-R35 rebuttal_attack Arg1:T50 Arg2:T40
-R36 rebuttal_attack Arg1:T51 Arg2:T40
-R37 rebuttal_attack Arg1:T52 Arg2:T40
-R38 agreement Arg1:T7 Arg2:T6
-R39 rebuttal_attack Arg1:T53 Arg2:T40
-R40 agreement Arg1:T54 Arg2:T48
-R41 rebuttal_attack Arg1:T55 Arg2:T49
-R42 rebuttal_attack Arg1:T56 Arg2:T48
-R43 rebuttal_attack Arg1:T57 Arg2:T53
-R44 rebuttal_attack Arg1:T58 Arg2:T53
-R45 rebuttal_attack Arg1:T59 Arg2:T53
-R46 rebuttal_attack Arg1:T60 Arg2:T53
-R47 rebuttal_attack Arg1:T61 Arg2:T53
-R48 rebuttal_attack Arg1:T62 Arg2:T53
-R49 support Arg1:T8 Arg2:T7
-R50 undercutter_attack Arg1:T63 Arg2:T60
-R51 undercutter_attack Arg1:T64 Arg2:T60
-R52 agreement Arg1:T66 Arg2:T62
-R53 agreement Arg1:T65 Arg2:T62
-R54 support Arg1:T67 Arg2:T68
-R55 agreement Arg1:T68 Arg2:T62
-R56 partial_attack Arg1:T69 Arg2:T62
-R57 partial_agreement Arg1:T70 Arg2:T62
-R58 partial_agreement Arg1:T71 Arg2:T62
-R59 agreement Arg1:T72 Arg2:T71
-R60 agreement Arg1:T73 Arg2:T59
-R61 rebuttal_attack Arg1:T10 Arg2:T9
-R62 support Arg1:T11 Arg2:T10
+T1	main_claim 0 86	CMV: Posting nude pictures online is caused by a need for attention and not empowering
+A1	Type 1 interpretation
+T2	claim 130 195	I am not saying that people are not allowed to do what they like.
+A2	Type 2 evaluation_rational
+T3	premise 196 303	I don't care if people post nudes, I'm just saying that this is how I feel when I see people posting nudes.
+A3	Type 3 logos
+T4	claim 304 382	Also, I don't mean to suggest that there is anything wrong with posting nudes.
+A4	Type 4 evaluation_emotional
+T5	claim 383 540	Lastly, I have nothing wrong with nudity and am in fact a fan of nudity, I just don't understand exposing yourself to the entirety of the internet on a whim.
+A5	Type 5 evaluation_rational
+T6	claim 542 681	Whenever I see anyone, male or female, posting nude pictures on the internet, I immediately assume that they are somehow seeking attention.
+A6	Type 6 interpretation
+T7	claim 682 849	Of course, that's the point, but I think that it must stem from some underlying need to get attention that they must either be lacking in some other part of their life
+A7	Type 7 interpretation
+T8	premise 855 936	simply need because that's their personality and that they feed off of attention.
+A8	Type 8 logos_pathos
+T9	premise 1319 1538	I don't understand how posting images of yourself naked, often with the understanding that others will masturbate to you (/r/gonewild for example) is not empowering but instead a form of whoring yourself out in a sense.
+A9	Type 9 logos_pathos
+T10	premise 2253 2278	It depends on the person.
+A10	Type 10 logos
+T11	premise 2279 2345	One person can be incredibly confident with his/her private parts.
+A11	Type 11 logos
+T12	premise 2346 2412	Therefore, the person is eager to show off and get some attention.
+A12	Type 12 logos_pathos
+T13	premise 2413 2496	However, most people are not quite as endowed or gifted as these attention-seekers.
+A13	Type 13 logos_pathos
+T14	premise 2497 2615	It's an empowering feeling to be so comfortable with yourself (endowed or not) that you are proud to post nude photos.
+A14	Type 14 logos_pathos
+T15	premise 2616 2651	The compliments feel great as well!
+A15	Type 15 logos
+T16	claim 2652 2696	In this sense, it is not done for attention.
+A16	Type 16 interpretation
+T17	premise 2697 2790	After all, most people choose to remain anonymous -so what attention are they really getting?
+A17	Type 17 ethos_logos_pathos
+T18	premise 2792 2892	You're also forgetting the tremendous amount of sexual energy that factors into posting nude photos.
+A18	Type 18 logos
+T19	premise 2893 2983	People enjoy browsing other's nude photos, so they decide to contribute some of their own.
+A19	Type 19 logos_pathos
+T20	premise 2984 3074	It gives them pleasure to know that other people get pleasure by seeing the posted photos.
+A20	Type 20 logos
+T21	premise 3075 3129	Again, this is more empowering than attention-seeking.
+A21	Type 21 ethos_logos
+T22	claim 3132 3169	I agree that people enjoy showing off
+A22	Type 22 agreement
+T23	premise 3192 3237	isn't that stool a form of attention seeking?
+A23	Type 23 logos
+T24	premise 3238 3436	Being proud of something (which in the case of nudes, like breast size, is sometimes uncontrollable and not something that one has to work for to attain that pride) is different than showing it off.
+A24	Type 24 logos
+T25	premise 3437 3558	I'm proud of my own genitals but I have no need to show them to anyone other than my girlfriend who I want to enjoy them.
+A25	Type 25 logos_pathos
+T26	premise 3559 3644	The difference I see is between pride and attention seeking behavior caused by pride.
+A26	Type 26 logos
+T27	claim 3646 3695	You so make a good point about the sexual energy.
+A27	Type 27 agreement
+T28	premise 3747 3919	Of course, for those in relationships or some kind of monogamous partnership, I understand the sexual energy between sharing and receiving sexual images between each other.
+A28	Type 28 logos
+T29	premise 3920 4136	In the example of the monogamous partnership, I do not consider that type of behavior as being attention seeking or anything because it is meant to be between the two individuals for their own mutual sexual pleasure.
+A29	Type 29 pathos
+T30	claim 4137 4351	The difference between that scenario (which I think most people can agree with) and posting nudes online is that often someone will post an image and an unknown amount of people may see it and get pleasure from it.
+A30	Type 30 evaluation_rational
+T31	premise 4352 4417	Nudes end up all over the internet and going into that situation,
+A31	Type 31 logos_pathos
+T32	premise 4457 4591	In anticipating this inevitability, aren't they then giving away they're nudes essentially for anyone to recurve sexual pleasure from?
+A32	Type 32 logos_pathos
+T33	claim 4592 4632	I see that behavior as attention seeking
+A33	Type 33 evaluation_emotional
+T34	premise 4641 4759	what they get in return is the gratification of strangers admitting their nudity without the mutual respect in return.
+A34	Type 34 ethos_logos
+T35	premise 4798 4971	I don't see it as one wanting to gain some type of status from it attached to themselves, but instead the gratification of having others pleasure themselves to their nudity.
+A35	Type 35 logos_pathos
+T36	premise 4972 5101	For example, internet trolls work on the basis of causing as much fuss and attention as possible while often remaining anonymous.
+A36	Type 36 logos
+T37	premise 5102 5246	They are not trying to get attention toward themselves superficially, but they're instead attention seeking to just get the attention of others.
+A37	Type 37 logos_pathos
+T38	premise 5415 5457	Do you do this to seek attention from her?
+A38	Type 38 logos_pathos
+T39	premise 5458 5499	Or do you do it because it is empowering?
+A39	Type 39 ethos_logos_pathos
+T40	premise 5500 5613	It makes you feel good when she tells you how impressed she is with your junk and when she gets pleasure from it.
+A40	Type 40 logos
+T41	premise 5614 5694	Other people don't have partners to do this with so they resort to the internet.
+A41	Type 41 logos
+T42	premise 5695 5742	Some people even have partners and still do it.
+A42	Type 42 ethos_logos
+T43	premise 5743 5803	It's a thrill and a risk that gives people immense pleasure.
+A43	Type 43 ethos_logos_pathos
+T44	premise 5946 6025	They are not getting any attention though, since they usually remain anonymous.
+A44	Type 44 logos
+T45	premise 6026 6125	Also, when it is spread online you hardly ever find out who has seen it or what people think of it.
+A45	Type 45 logos
+T46	premise 6126 6194	Therefore, you may never be able to recognize the attention you get.
+A46	Type 46 logos_pathos
+T47	premise 6195 6300	Just the act of posting the photo is enough to drive some people wild, whether 1 person sees it or 1,000.
+A47	Type 47 logos_pathos
+T48	claim 6303 6535	I want to show them to my girlfriend because I know that it makes her think of our sexual activities and I'm trying to make her think about that to remind her off how it feels good physically and to be close with her in a sexual way
+A48	Type 48 evaluation_emotional
+T49	claim 6538 6613	I don't do it to bring attention to myself, but rather to our relationship.
+A49	Type 49 interpretation
+T50	claim 6614 6701	This is much different from posting a photo that a tension stranger will masturbate to.
+A50	Type 50 evaluation_rational
+T51	premise 6703 6833	Like I've said, isn't the garnering of any attention on the internet from your nudes photos still seeking the attention of others?
+A51	Type 51 logos
+T52	premise 6834 6917	It doesn't matter how many strangers see it, just the fact that they are strangers.
+A52	Type 52 logos_pathos
+T53	premise 6918 7165	I think the anonymity of the internet allows people to freely get the attention without worrying about the recognition or views of friends and family, so they're purposely looking for attention they can't find within their immediate relationships.
+A53	Type 53 logos_pathos
+T54	claim 7168 7268	You do it because you get pleasure from your girlfriend being into you and your sexual relationship.
+A54	Type 54 agreement
+T55	claim 7269 7311	This is empowering, not attention seeking.
+A55	Type 55 disagreement
+T56	claim 7312 7391	Other people do it because they get pleasure from strangers masturbating to it.
+A56	Type 56 evaluation_rational
+T57	claim 7392 7434	This is empowering, not attention seeking.
+A57	Type 57 evaluation_emotional
+T58	premise 7435 7524	Just because you don't find it empowering to post nudes, doesn't mean other people won't.
+A58	Type 58 logos_pathos
+T59	premise 7525 7617	It's impossible to assert that everyone who has posted nudes does it strictly for attention.
+A59	Type 59 logos_pathos
+T60	claim 7785 7987	I can guarantee you I was not trying to get attention from these girls, and nor was I trying to make them think of our sexual activities or remind them of sex (impossible since I didn't live near them).
+A60	Type 60 interpretation
+T61	claim 7988 8086	I enjoyed their compliments, knowing that they received pleasure, and seeing their photos as well.
+A61	Type 61 interpretation
+T62	claim 8087 8163	Sexting is an entirely separate entity that has it's own set of motivations.
+A62	Type 62 disagreement
+T63	claim 8280 8388	I just don't understand that you're of behavior and since I have never partaken in it I just can't grasp it.
+A63	Type 63 evaluation_rational
+T64	claim 8389 8491	The trouble I have is that I don't get a good enough perspective from those that do post nudes online.
+A64	Type 64 evaluation_rational
+T65	claim 8492 8528	You're right about the sexting thing
+A65	Type 65 agreement
+T66	claim 8581 8646	the fine line ice drawn is hard to find and relatively ambiguous.
+A66	Type 66 evaluation_rational
+T67	premise 8647 8714	Of course, I have no issue with sexting, considering I do it often,
+A67	Type 67 logos
+T68	claim 8715 8813	so I guess in that sense I can sort of understand the stance one would receive from posting nudes.
+A68	Type 68 interpretation
+T69	premise 8816 8944	Just as I don't necessarily understand the joy of exhibitionism, exhibitionists don't understand how I *don't* find joy from it.
+A69	Type 69 ethos_pathos
+T70	premise 8945 9050	Since I am so unaccustomed to it and do not partake in it, I can't make an uninformed judgement about it.
+A70	Type 70 logos_pathos
+T71	premise 9051 9228	I am not going to tell that person that he/she is doing it for attention - because frankly - I have no clue why exactly the person does it (the person may not even know either)!
+A71	Type 71 pathos
+T72	claim 9231 9248	Thats very true .
+A72	Type 72 agreement
+T73	claim 9458 9588	Applying it to my own life and what I personally do is a good way to assess not only this situation, but any situation in general.
+A73	Type 73 interpretation
+R1	support Arg1:T3 Arg2:T2
+R2	support Arg1:T12 Arg2:T10
+R3	partial_disagreement Arg1:T13 Arg2:T12
+R4	support Arg1:T14 Arg2:T16
+R5	support Arg1:T15 Arg2:T16
+R6	support Arg1:T17 Arg2:T16
+R7	rebuttal_attack Arg1:T18 Arg2:T9
+R8	rebuttal_attack Arg1:T19 Arg2:T9
+R9	rebuttal_attack Arg1:T20 Arg2:T9
+R10	rebuttal_attack Arg1:T21 Arg2:T9
+R11	support Arg1:T4 Arg2:T2
+R12	undercutter_attack Arg1:T23 Arg2:T20
+R13	agreement Arg1:T22 Arg2:T20
+R14	undercutter_attack Arg1:T24 Arg2:T20
+R15	undercutter_attack Arg1:T25 Arg2:T20
+R16	undercutter_attack Arg1:T26 Arg2:T20
+R17	undercutter_attack Arg1:T27 Arg2:T18
+R18	support Arg1:T28 Arg2:T27
+R19	support Arg1:T29 Arg2:T27
+R20	support Arg1:T31 Arg2:T30
+R21	support Arg1:T32 Arg2:T27
+R22	partial_agreement Arg1:T5 Arg2:T2
+R23	support Arg1:T34 Arg2:T33
+R24	support Arg1:T35 Arg2:T27
+R25	support Arg1:T36 Arg2:T35
+R26	support Arg1:T37 Arg2:T27
+R27	undercutter_attack Arg1:T41 Arg2:T25
+R28	undercutter_attack Arg1:T42 Arg2:T25
+R29	undercutter_attack Arg1:T43 Arg2:T25
+R30	rebuttal_attack Arg1:T44 Arg2:T32
+R31	rebuttal_attack Arg1:T45 Arg2:T32
+R32	rebuttal_attack Arg1:T46 Arg2:T32
+R33	rebuttal_attack Arg1:T47 Arg2:T32
+R34	rebuttal_attack Arg1:T49 Arg2:T40
+R35	rebuttal_attack Arg1:T50 Arg2:T40
+R36	rebuttal_attack Arg1:T51 Arg2:T40
+R37	rebuttal_attack Arg1:T52 Arg2:T40
+R38	agreement Arg1:T7 Arg2:T6
+R39	rebuttal_attack Arg1:T53 Arg2:T40
+R40	agreement Arg1:T54 Arg2:T48
+R41	rebuttal_attack Arg1:T55 Arg2:T49
+R42	rebuttal_attack Arg1:T56 Arg2:T48
+R43	rebuttal_attack Arg1:T57 Arg2:T53
+R44	rebuttal_attack Arg1:T58 Arg2:T53
+R45	rebuttal_attack Arg1:T59 Arg2:T53
+R46	rebuttal_attack Arg1:T60 Arg2:T53
+R47	rebuttal_attack Arg1:T61 Arg2:T53
+R48	rebuttal_attack Arg1:T62 Arg2:T53
+R49	support Arg1:T8 Arg2:T7
+R50	undercutter_attack Arg1:T63 Arg2:T60
+R51	undercutter_attack Arg1:T64 Arg2:T60
+R52	agreement Arg1:T66 Arg2:T62
+R53	agreement Arg1:T65 Arg2:T62
+R54	support Arg1:T67 Arg2:T68
+R55	agreement Arg1:T68 Arg2:T62
+R56	partial_attack Arg1:T69 Arg2:T62
+R57	partial_agreement Arg1:T70 Arg2:T62
+R58	partial_agreement Arg1:T71 Arg2:T62
+R59	agreement Arg1:T72 Arg2:T71
+R60	agreement Arg1:T73 Arg2:T59
+R61	rebuttal_attack Arg1:T10 Arg2:T9
+R62	support Arg1:T11 Arg2:T10

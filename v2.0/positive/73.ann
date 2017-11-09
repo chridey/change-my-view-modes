@@ -1,68 +1,68 @@
-T1 main_claim 0 58 CMV: Otherkin are delusional and should be treated as such 
-A1 Type T1 evaluation_emotional 
-T2 premise 60 91 The DSM-IV defines delusion as: 
-A2 Type T2 logos 
-T3 premise 92 319 A false belief based on incorrect inference about external reality that is firmly sustained despite what almost everyone else believes and despite what constitutes incontrovertible and obvious proof or evidence to the contrary. 
-A3 Type T3 logos_pathos 
-T4 claim 321 427 Otherkin, or animalkin, the belief that their soul is an animal or something nonhuman, fit this definition 
-A4 Type T4 interpretation 
-T5 claim 432 528 should be urged to seek psychiatric evaluation rather than joining communities of similar "kin." 
-A5 Type T5 evaluation_emotional 
-T6 premise 530 614 If someone walks around genuinely convinced they are Jesus, the person is delusional 
-A6 Type T6 pathos 
-T7 premise 619 743 others would want to see that person medicated or receiving some form of psychiatric treatment for that persons own benefit. 
-A7 Type T7 pathos 
-T8 premise 744 910 But out of fear of offending and looking like an insensitive bigot, no one would respond to an otherkin in the same way they would someone claiming ultimate divinity. 
-A8 Type T8 logos_pathos 
-T9 claim 912 1031 We should not encourage and accept otherkin behavior, but rather encourage seeking treatment for a delusional disorder. 
-A9 Type T9 interpretation 
-T10 premise 1039 1224 Since you mentioned the DSM IV, it is worth pointing out that all of the disorders listed in the DSM IV have one central piece of criteria that is at the heart of the diagnostic process 
-A10 Type T10 logos 
-T11 premise 1262 1407 that has to do with the degree to which the disorder is disruptive not only to the person who has the disorder, but to the general public as well 
-A11 Type T11 logos 
-T12 claim 1492 1668 Generally speaking, delusions themselves are arguably less relevant to whether or not a behavior is indicative of a disorder than are the social repercussions of that behavior. 
-A12 Type T12 evaluation_rational 
-T13 premise 1669 1720 Take for instance being "taken by the holy spirit". 
-A13 Type T13 logos_pathos 
-T14 premise 1721 1900 From an outside perspective, this certainly appears to me to be a delusional behavior, but of course this alone is not enough for it to meet the criteria of a particular disorder. 
-A14 Type T14 logos_pathos 
-T15 premise 1901 2131 As people can engage in all kinds of delusional behavior and often still function in the world quite well, this is not sufficient evidence for whether or not something should or should not be constituted as evidence of a disorder. 
-A15 Type T15 logos_pathos 
-T16 premise 2133 2265 The belief that one has an animal spirit is not new and has been a component of many primitive animistic cultures throughout history 
-A16 Type T16 logos_pathos 
-T17 premise 2272 2333 certain Native American practices still have vestiges of this 
-A17 Type T17 logos_pathos 
-T18 premise 2343 2494 most of us wouldn't describe them as "delusional" simply because they follow the traditions of their ancestors as they've been practiced for centuries. 
-A18 Type T18 logos_pathos 
-T19 claim 2496 2654 While you may find the practice disingenuous or disgusting, this is not reason enough to hold the behavior as evidence of a specific disorder in and of itself 
-A19 Type T19 evaluation_rational 
-T20 claim 2661 2932 in cases where there may be genuine mental illness involved, I believe that there's enough criteria already set forth in the DSM to diagnose these conditions accurately without directly addressing this particular cultural phenomenon as some kind of mental health outlier. 
-A20 Type T20 evaluation_rational 
-T21 claim 2943 2956 You're right. 
-A21 Type T21 agreement 
-T22 premise 2957 3084 I forgot that one of the main diagnostic criteria for almost any mental disorder is the impact it has on the persons well-being 
-A22 Type T22 logos_pathos 
-T23 claim 3091 3260 if someone is generally in a better state identifying as an otherkin, then there would be no real need to treat them, unless they started disrupting the lives of others. 
-A23 Type T23 evaluation_rational 
-R1 support Arg1:T2 Arg2:T1
-R2 support Arg1:T3 Arg2:T1
-R3 rebuttal Arg1:T12 Arg2:T2
-R4 support Arg1:T13 Arg2:T12
-R5 support Arg1:T14 Arg2:T12
-R6 support Arg1:T15 Arg2:T12
-R7 support Arg1:T16 Arg2:T12
-R8 support Arg1:T17 Arg2:T12
-R9 support Arg1:T18 Arg2:T12
-R10 undercutter Arg1:T19 Arg2:T1
-R11 undercutter Arg1:T20 Arg2:T1
-R12 agreement Arg1:T21 Arg2:T12
-R13 agreement Arg1:T4 Arg2:T1
-R14 support Arg1:T22 Arg2:T21
-R15 agreement Arg1:T23 Arg2:T12
-R16 disagreement Arg1:T5 Arg2:T1
-R17 support Arg1:T6 Arg2:T4
-R18 support Arg1:T7 Arg2:T5
-R19 support Arg1:T8 Arg2:T9
-R20 agreement Arg1:T9 Arg2:T1
-R21 support Arg1:T10 Arg2:T12
-R22 support Arg1:T11 Arg2:T12
+T1	main_claim 0 58	CMV: Otherkin are delusional and should be treated as such
+A1	Type 1 evaluation_emotional
+T2	premise 60 91	The DSM-IV defines delusion as:
+A2	Type 2 logos
+T3	premise 92 319	A false belief based on incorrect inference about external reality that is firmly sustained despite what almost everyone else believes and despite what constitutes incontrovertible and obvious proof or evidence to the contrary.
+A3	Type 3 logos_pathos
+T4	claim 321 427	Otherkin, or animalkin, the belief that their soul is an animal or something nonhuman, fit this definition
+A4	Type 4 interpretation
+T5	claim 432 528	should be urged to seek psychiatric evaluation rather than joining communities of similar "kin."
+A5	Type 5 evaluation_emotional
+T6	premise 530 614	If someone walks around genuinely convinced they are Jesus, the person is delusional
+A6	Type 6 pathos
+T7	premise 619 743	others would want to see that person medicated or receiving some form of psychiatric treatment for that persons own benefit.
+A7	Type 7 pathos
+T8	premise 744 910	But out of fear of offending and looking like an insensitive bigot, no one would respond to an otherkin in the same way they would someone claiming ultimate divinity.
+A8	Type 8 logos_pathos
+T9	claim 912 1031	We should not encourage and accept otherkin behavior, but rather encourage seeking treatment for a delusional disorder.
+A9	Type 9 interpretation
+T10	premise 1039 1224	Since you mentioned the DSM IV, it is worth pointing out that all of the disorders listed in the DSM IV have one central piece of criteria that is at the heart of the diagnostic process
+A10	Type 10 logos
+T11	premise 1262 1407	that has to do with the degree to which the disorder is disruptive not only to the person who has the disorder, but to the general public as well
+A11	Type 11 logos
+T12	claim 1492 1668	Generally speaking, delusions themselves are arguably less relevant to whether or not a behavior is indicative of a disorder than are the social repercussions of that behavior.
+A12	Type 12 evaluation_rational
+T13	premise 1669 1720	Take for instance being "taken by the holy spirit".
+A13	Type 13 logos_pathos
+T14	premise 1721 1900	From an outside perspective, this certainly appears to me to be a delusional behavior, but of course this alone is not enough for it to meet the criteria of a particular disorder.
+A14	Type 14 logos_pathos
+T15	premise 1901 2131	As people can engage in all kinds of delusional behavior and often still function in the world quite well, this is not sufficient evidence for whether or not something should or should not be constituted as evidence of a disorder.
+A15	Type 15 logos_pathos
+T16	premise 2133 2265	The belief that one has an animal spirit is not new and has been a component of many primitive animistic cultures throughout history
+A16	Type 16 logos_pathos
+T17	premise 2272 2333	certain Native American practices still have vestiges of this
+A17	Type 17 logos_pathos
+T18	premise 2343 2494	most of us wouldn't describe them as "delusional" simply because they follow the traditions of their ancestors as they've been practiced for centuries.
+A18	Type 18 logos_pathos
+T19	claim 2496 2654	While you may find the practice disingenuous or disgusting, this is not reason enough to hold the behavior as evidence of a specific disorder in and of itself
+A19	Type 19 evaluation_rational
+T20	claim 2661 2932	in cases where there may be genuine mental illness involved, I believe that there's enough criteria already set forth in the DSM to diagnose these conditions accurately without directly addressing this particular cultural phenomenon as some kind of mental health outlier.
+A20	Type 20 evaluation_rational
+T21	claim 2943 2956	You're right.
+A21	Type 21 agreement
+T22	premise 2957 3084	I forgot that one of the main diagnostic criteria for almost any mental disorder is the impact it has on the persons well-being
+A22	Type 22 logos_pathos
+T23	claim 3091 3260	if someone is generally in a better state identifying as an otherkin, then there would be no real need to treat them, unless they started disrupting the lives of others.
+A23	Type 23 evaluation_rational
+R1	support Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T1
+R3	rebuttal Arg1:T12 Arg2:T2
+R4	support Arg1:T13 Arg2:T12
+R5	support Arg1:T14 Arg2:T12
+R6	support Arg1:T15 Arg2:T12
+R7	support Arg1:T16 Arg2:T12
+R8	support Arg1:T17 Arg2:T12
+R9	support Arg1:T18 Arg2:T12
+R10	undercutter Arg1:T19 Arg2:T1
+R11	undercutter Arg1:T20 Arg2:T1
+R12	agreement Arg1:T21 Arg2:T12
+R13	agreement Arg1:T4 Arg2:T1
+R14	support Arg1:T22 Arg2:T21
+R15	agreement Arg1:T23 Arg2:T12
+R16	disagreement Arg1:T5 Arg2:T1
+R17	support Arg1:T6 Arg2:T4
+R18	support Arg1:T7 Arg2:T5
+R19	support Arg1:T8 Arg2:T9
+R20	agreement Arg1:T9 Arg2:T1
+R21	support Arg1:T10 Arg2:T12
+R22	support Arg1:T11 Arg2:T12

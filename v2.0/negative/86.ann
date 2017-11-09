@@ -1,50 +1,50 @@
-T1 main_claim 0 64 CMV: Humans are going to die out because of an economic collapse 
-A1 Type T1 interpretation 
-T2 claim 66 140 Bill Gade presents the argument better than I do so I will just quote him. 
-A2 Type T2 evaluation_rational 
-T3 premise 1074 1128 There is also a Youtube video to go with this opinion. 
-A3 Type T3 logos_pathos 
-T4 premise 1129 1172 https://www.youtube.com/watch?v=rlQrYCacrKo 
-A4 Type T4 logos_pathos 
-T5 claim 1174 1319 I do realize that this is a very unhealthy idea to have whether or not that the idea is true or not, I just have not been able to beat it myself. 
-A5 Type T5 evaluation_emotional 
-T6 claim 1321 1358 I do disagree with Gade a little bit. 
-A6 Type T6 disagreement 
-T7 claim 1359 1397 I don't think it would kill everybody, 
-A7 Type T7 interpretation 
-T8 premise 1402 1602 the some few people that still know how to hunt and gather would probably survive as well people who were rich enough to have access to a lot of resources to start out with before the economy crashes. 
-A8 Type T8 logos_pathos 
-T9 claim 1603 1667 I probably believe this because I listen to Alex Jones too much. 
-A9 Type T9 interpretation 
-T10 claim 1670 1806 Society might collapse, lots of people may starve/die in struggle for survival, but extinction of a whole species seems highly unlikely. 
-A10 Type T10 evaluation_rational 
-T11 premise 1807 1856 We're not dependent on our technology to survive. 
-A11 Type T11 logos_pathos 
-T12 premise 1857 1917 There's lots of open country and unspoiled/airable farmland. 
-A12 Type T12 logos 
-T13 premise 1918 1990 Lots of people today live subsistence off the grid throughout the world. 
-A13 Type T13 logos 
-T14 claim 1991 2080 I don;t think it would devolve into a pure hunter gatherer society (maybe a bit at first) 
-A14 Type T14 interpretation 
-T15 claim 2085 2174 once the dust settles it would probably stabilize at a preindustrial agricultural society 
-A15 Type T15 interpretation 
-T16 premise 2177 2335 People are smart, printed books still exist, where the average group of city slickers could get enough knowledge to plant some crops and survive off the land. 
-A16 Type T16 logos_pathos 
-T17 claim 2338 2370 You phrased it better than I did 
-A17 Type T17 evaluation_rational 
-T18 claim 2377 2414 you didn't actually disagree with me. 
-A18 Type T18 evaluation_rational 
-R1 support Arg1:T3 Arg2:T2
-R2 support Arg1:T16 Arg2:T10
-R3 rebuttal_attack Arg1:T18 Arg2:T10
-R4 support Arg1:T4 Arg2:T2
-R5 support Arg1:T9 Arg2:T8
-R6 partial_attack Arg1:T6 Arg2:T2
-R7 rebuttal_attack Arg1:T7 Arg2:T2
-R8 rebuttal_attack Arg1:T8 Arg2:T2
-R9 partial_attack Arg1:T10 Arg2:T2
-R10 support Arg1:T11 Arg2:T10
-R11 support Arg1:T12 Arg2:T11
-R12 support Arg1:T13 Arg2:T14
-R13 support Arg1:T14 Arg2:T2
-R14 support Arg1:T15 Arg2:T2
+T1	main_claim 0 64	CMV: Humans are going to die out because of an economic collapse
+A1	Type 1 interpretation
+T2	claim 66 140	Bill Gade presents the argument better than I do so I will just quote him.
+A2	Type 2 evaluation_rational
+T3	premise 1074 1128	There is also a Youtube video to go with this opinion.
+A3	Type 3 logos_pathos
+T4	premise 1129 1172	https://www.youtube.com/watch?v=rlQrYCacrKo
+A4	Type 4 logos_pathos
+T5	claim 1174 1319	I do realize that this is a very unhealthy idea to have whether or not that the idea is true or not, I just have not been able to beat it myself.
+A5	Type 5 evaluation_emotional
+T6	claim 1321 1358	I do disagree with Gade a little bit.
+A6	Type 6 disagreement
+T7	claim 1359 1397	I don't think it would kill everybody,
+A7	Type 7 interpretation
+T8	premise 1402 1602	the some few people that still know how to hunt and gather would probably survive as well people who were rich enough to have access to a lot of resources to start out with before the economy crashes.
+A8	Type 8 logos_pathos
+T9	claim 1603 1667	I probably believe this because I listen to Alex Jones too much.
+A9	Type 9 interpretation
+T10	claim 1670 1806	Society might collapse, lots of people may starve/die in struggle for survival, but extinction of a whole species seems highly unlikely.
+A10	Type 10 evaluation_rational
+T11	premise 1807 1856	We're not dependent on our technology to survive.
+A11	Type 11 logos_pathos
+T12	premise 1857 1917	There's lots of open country and unspoiled/airable farmland.
+A12	Type 12 logos
+T13	premise 1918 1990	Lots of people today live subsistence off the grid throughout the world.
+A13	Type 13 logos
+T14	claim 1991 2080	I don;t think it would devolve into a pure hunter gatherer society (maybe a bit at first)
+A14	Type 14 interpretation
+T15	claim 2085 2174	once the dust settles it would probably stabilize at a preindustrial agricultural society
+A15	Type 15 interpretation
+T16	premise 2177 2335	People are smart, printed books still exist, where the average group of city slickers could get enough knowledge to plant some crops and survive off the land.
+A16	Type 16 logos_pathos
+T17	claim 2338 2370	You phrased it better than I did
+A17	Type 17 evaluation_rational
+T18	claim 2377 2414	you didn't actually disagree with me.
+A18	Type 18 evaluation_rational
+R1	support Arg1:T3 Arg2:T2
+R2	support Arg1:T16 Arg2:T10
+R3	rebuttal_attack Arg1:T18 Arg2:T10
+R4	support Arg1:T4 Arg2:T2
+R5	support Arg1:T9 Arg2:T8
+R6	partial_attack Arg1:T6 Arg2:T2
+R7	rebuttal_attack Arg1:T7 Arg2:T2
+R8	rebuttal_attack Arg1:T8 Arg2:T2
+R9	partial_attack Arg1:T10 Arg2:T2
+R10	support Arg1:T11 Arg2:T10
+R11	support Arg1:T12 Arg2:T11
+R12	support Arg1:T13 Arg2:T14
+R13	support Arg1:T14 Arg2:T2
+R14	support Arg1:T15 Arg2:T2

@@ -1,34 +1,34 @@
-T1 main_claim 0 42 CMV The EGG came first before the chicken. 
-A1 Type T1 interpretation 
-T2 premise 44 134 According to the theory of evolution it makes more sense that the egg preceded the chicken 
-A2 Type T2 logos 
-T3 premise 137 199 Before the chicken there was a similar but different creature. 
-A3 Type T3 logos 
-T4 premise 200 216 Let's call it X. 
-A4 Type T4 logos_pathos 
-T5 premise 217 286 Its completely arbitrary when the X officially evolved into a chicken 
-A5 Type T5 logos_pathos 
-T6 premise 293 314 at some point it does 
-A6 Type T6 logos_pathos 
-T7 premise 317 364 An X, not a chicken lays the first chicken egg. 
-A7 Type T7 logos 
-T8 claim 365 434 The chicken egg comes before any creature considered a chicken exist. 
-A8 Type T8 interpretation 
-T9 premise 516 585 The modern domestic chicken is a hybrid of a red and grey junglefowl. 
-A9 Type T9 logos 
-T10 premise 586 667 The egg produced by cross-breading the two species resulted in the first chicken. 
-A10 Type T10 logos 
-T11 claim 679 728 you are correct in saying that the egg came first 
-A11 Type T11 agreement 
-T12 claim 735 764 your explanation is incorrect 
-A12 Type T12 disagreement 
-R1 support Arg1:T2 Arg2:T8
-R2 support Arg1:T3 Arg2:T8
+T1	main_claim 0 42	CMV The EGG came first before the chicken.
+A1	Type 1 interpretation
+T2	premise 44 134	According to the theory of evolution it makes more sense that the egg preceded the chicken
+A2	Type 2 logos
+T3	premise 137 199	Before the chicken there was a similar but different creature.
+A3	Type 3 logos
+T4	premise 200 216	Let's call it X.
+A4	Type 4 logos_pathos
+T5	premise 217 286	Its completely arbitrary when the X officially evolved into a chicken
+A5	Type 5 logos_pathos
+T6	premise 293 314	at some point it does
+A6	Type 6 logos_pathos
+T7	premise 317 364	An X, not a chicken lays the first chicken egg.
+A7	Type 7 logos
+T8	claim 365 434	The chicken egg comes before any creature considered a chicken exist.
+A8	Type 8 interpretation
+T9	premise 516 585	The modern domestic chicken is a hybrid of a red and grey junglefowl.
+A9	Type 9 logos
+T10	premise 586 667	The egg produced by cross-breading the two species resulted in the first chicken.
+A10	Type 10 logos
+T11	claim 679 728	you are correct in saying that the egg came first
+A11	Type 11 agreement
+T12	claim 735 764	your explanation is incorrect
+A12	Type 12 disagreement
+R1	support Arg1:T2 Arg2:T8
+R2	support Arg1:T3 Arg2:T8
 R3 partial_attack Arg1:T12 Arg2:T1
 R4 partial_attack Arg1:T12 Arg2:T8
-R5 support Arg1:T4 Arg2:T8
-R6 support Arg1:T7 Arg2:T8
-R7 agreement Arg1:T8 Arg2:T1
+R5	support Arg1:T4 Arg2:T8
+R6	support Arg1:T7 Arg2:T8
+R7	agreement Arg1:T8 Arg2:T1
 R8 rebuttal_attack Arg1:T9 Arg2:T1
 R9 rebuttal_attack Arg1:T9 Arg2:T8
 R10 rebuttal_attack Arg1:T10 Arg2:T1

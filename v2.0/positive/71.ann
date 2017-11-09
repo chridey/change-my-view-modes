@@ -1,178 +1,178 @@
-T1 main_claim 0 81 CMV: People who cheat on their spouses can and should, in some cases, be forgiven 
-A1 Type T1 evaluation_emotional 
-T2 premise 83 220 There seems to be a commonly held belief that people who cheat on their SO/partner should be dropped immediately with no further contact. 
-A2 Type T2 pathos 
-T3 claim 221 307 I understand that physical/sexual conduct with another person can seem like a betrayal 
-A3 Type T3 evaluation_rational 
-T4 premise 314 438 in some cases, there are many worse things that can happen in a relationship, which couples seem to be able to work through. 
-A4 Type T4 pathos 
-T5 claim 440 568 There are a few assumptions underlying the belief that "sex with another person = relationship over" that I don't think hold up. 
-A5 Type T5 evaluation_emotional 
-T6 premise 572 706 **Sex is the most important part of a relationship,** and therefore, betraying it and that agreement mean the relationship should end. 
-A6 Type T6 logos_pathos 
-T7 claim 707 800 My belief: sex is a very important part of a relationship, but not *the* most important part. 
-A7 Type T7 evaluation_rational 
-T8 premise 889 966 **Nobody makes mistakes ever,** so when they do, the relationship should end. 
-A8 Type T8 logos_pathos 
-T9 claim 967 1103 My belief: obviously this isn't true, and a cornerstone of strong relationships is the ability to work through mistakes/issues together. 
-A9 Type T9 evaluation_rational 
-T10 premise 1107 1169 **Cheaters will always cheat again,** so better to end it now. 
-A10 Type T10 logos_pathos 
-T11 claim 1170 1209 my view: That may be true in some cases 
-A11 Type T11 interpretation 
-T12 premise 1216 1293 other than anecdotal evidence, I haven't seen anything to support this claim. 
-A12 Type T12 logos_pathos 
-T13 premise 1384 1454 **Cheaters cheat because of underlying issues with the relationship.** 
-A13 Type T13 logos_pathos 
-T14 claim 1455 1566 My belief: if that's true, there are a lot of possibilities - not just breaking up - that could fix the problem 
-A14 Type T14 evaluation_rational 
-T15 premise 1569 1607 such as ... talking about the problem. 
-A15 Type T15 logos_pathos 
-T16 premise 1608 1669 Maybe fixing that issue will resolve the motivation to cheat. 
-A16 Type T16 logos_pathos 
-T17 claim 1671 1891 Caveat: sometimes, cheating happens because there are parts of the relationship that are fundamentally broken and/or the relationship is too far gone/unsalvageable and/or this is the straw the broke the camel's back etc. 
-A17 Type T17 evaluation_rational 
-T18 claim 1893 1962 Cheating shouldn't always signify an immediate end to a relationship. 
-A18 Type T18 evaluation_emotional 
-T19 claim 1963 2026 In some cases, couples can and should choose to work through it 
-A19 Type T19 interpretation 
-T20 premise 2036 2083 I'l begin by saying it has never happened to me 
-A20 Type T20 ethos 
-T21 claim 2090 2116 you make some good points. 
-A21 Type T21 agreement 
-T22 claim 2286 2361 To break it would be to break one of the most important parts of a marriage 
-A22 Type T22 evaluation_rational 
-T23 premise 2387 2478 even if you value it not at all, cheating breaks other important parts of the relationship. 
-A23 Type T23 logos_pathos 
-T24 premise 2479 2490 Like trust. 
-A24 Type T24 logos_pathos 
-T25 premise 2491 2499 Loyalty. 
-A25 Type T25 logos_pathos 
-T26 premise 2500 2514 Companionship. 
-A26 Type T26 logos_pathos 
-T27 claim 2595 2630 You are correct that this is false. 
-A27 Type T27 agreement 
-T28 premise 2631 2685 However, cheating on a spouse is *pretty big mistake*. 
-A28 Type T28 pathos 
-T29 claim 2686 2724 Cheating, as I define it, is a choice. 
-A29 Type T29 interpretation 
-T30 premise 2725 2787 A bad choice which breaks one of the cornerstones of marriage. 
-A30 Type T30 pathos 
-T31 claim 2827 2862 You are correct that this is false. 
-A31 Type T31 agreement 
-T32 claim 2863 2931 However, I would say that *cheaters are more likely to cheat again*. 
-A32 Type T32 interpretation 
-T33 premise 2932 3002 The circumstances that resulted in cheating the first time may repeat. 
-A33 Type T33 ethos_logos 
-T34 claim 3228 3232 Yes. 
-A34 Type T34 agreement 
-T35 claim 3233 3287 But "talking about the problem" is an ideal situation. 
-A35 Type T35 interpretation 
-T36 premise 3288 3331 It often doesn't work out so well that way. 
-A36 Type T36 logos_pathos 
-T37 premise 3332 3450 People get stuck in a pattern... living in the same house, married to the same person you stopped really caring about. 
-A37 Type T37 logos_pathos 
-T38 premise 3451 3503 Cheating is evidence that *something* must be wrong. 
-A38 Type T38 logos_pathos 
-T39 claim 3539 3609 is a bad choice which breaks one of the cornerstones of a relationship 
-A39 Type T39 evaluation_rational 
-T40 claim 3613 3665 is an indication that such a thing will happen again 
-A40 Type T40 interpretation 
-T41 claim 3669 3731 is an indication that there is a problem with the relationship 
-A41 Type T41 evaluation_emotional 
-T42 premise 3733 3798 Are there no situations in which the cheaters should be forgiven? 
-A42 Type T42 logos_pathos 
-T43 claim 3799 3940 I'm trying to argue that if you find your spouse cheating, breaking up with them is the most logical thing to do, whatever the circumstances. 
-A43 Type T43 evaluation_rational 
-T44 premise 3942 4030 I point out, cheating has a profound negative emotional effect of the person cheated on. 
-A44 Type T44 ethos_logos_pathos 
-T45 claim 4067 4104 In my mind, marriage is a commitment. 
-A45 Type T45 interpretation 
-T46 claim 4105 4158 If you break that commitment, the marriage is broken. 
-A46 Type T46 evaluation_rational 
-T47 premise 4160 4235 One partner isn't fulfilling all of his/her obligations (i.e. not to cheat) 
-A47 Type T47 pathos 
-T48 premise 4236 4301 So why should the other person be obligated to fill out his/hers? 
-A48 Type T48 pathos 
-T49 premise 4302 4330 Why should you stay married? 
-A49 Type T49 logos_pathos 
-T50 claim 4332 4407 It is entirely up to the person making the decision as to what they may do. 
-A50 Type T50 interpretation 
-T51 premise 4408 4432 It's an ethical question 
-A51 Type T51 logos_pathos 
-T52 premise 4439 4474 everyone has their different values 
-A52 Type T52 logos_pathos 
-T53 claim 4480 4548 it's impossible to prove definitively what you should/should not do. 
-A53 Type T53 evaluation_rational 
-T54 claim 4549 4647 It's just a logical conclusion that breaking up is the right choice in most if not all situations. 
-A54 Type T54 evaluation_rational 
-T55 premise 4648 4662 It's a choice. 
-A55 Type T55 logos_pathos 
-T56 premise 4664 4762 But if you don't break up, you are stuck with a person who doesn't value you enough to stay loyal. 
-A56 Type T56 logos 
-T57 premise 4763 4817 Why would you forfeit yourself to such a relationship? 
-A57 Type T57 logos_pathos 
-T58 premise 4819 4838 Things need change. 
-A58 Type T58 pathos 
-T59 premise 4839 4884 And the cheater is the source of the problem. 
-A59 Type T59 logos_pathos 
-T60 claim 4885 4932 Change the cheater by breaking up with him/her. 
-A60 Type T60 interpretation 
-R1 support Arg1:T2 Arg2:T3
-R2 partial_disagreement Arg1:T3 Arg2:T1
-R3 support Arg1:T12 Arg2:T11
-R4 support Arg1:T13 Arg2:T5
-R5 agreement Arg1:T14 Arg2:T1
-R6 support Arg1:T15 Arg2:T14
-R7 support Arg1:T16 Arg2:T14
-R8 partial_disagreement Arg1:T17 Arg2:T14
-R9 agreement Arg1:T18 Arg2:T1
-R10 agreement Arg1:T19 Arg2:T1
-R11 support Arg1:T20 Arg2:T21
-R12 support Arg1:T4 Arg2:T3
-R13 agreement Arg1:T21 Arg2:T1
-R14 rebuttal Arg1:T22 Arg2:T6
-R15 support Arg1:T23 Arg2:T21
-R16 support Arg1:T24 Arg2:T21
-R17 support Arg1:T25 Arg2:T21
-R18 support Arg1:T26 Arg2:T21
-R19 agreement Arg1:T27 Arg2:T6
-R20 support Arg1:T28 Arg2:T27
-R21 rebuttal Arg1:T29 Arg2:T1
-R22 agreement Arg1:T5 Arg2:T1
-R23 support Arg1:T30 Arg2:T28
-R24 agreement Arg1:T31 Arg2:T11
-R25 disagreement Arg1:T32 Arg2:T11
-R26 support Arg1:T33 Arg2:T32
-R27 agreement Arg1:T34 Arg2:T14
-R28 rebuttal Arg1:T35 Arg2:T14
-R29 support Arg1:T36 Arg2:T34
-R30 support Arg1:T38 Arg2:T34
-R31 agreement Arg1:T39 Arg2:T29
-R32 support Arg1:T6 Arg2:T5
-R33 agreement Arg1:T40 Arg2:T32
-R34 agreement Arg1:T41 Arg2:T34
-R35 support Arg1:T42 Arg2:T39
-R36 rebuttal Arg1:T43 Arg2:T1
-R37 support Arg1:T44 Arg2:T43
-R38 rebuttal Arg1:T45 Arg2:T1
-R39 rebuttal Arg1:T46 Arg2:T1
-R40 support Arg1:T47 Arg2:T46
-R41 support Arg1:T48 Arg2:T46
-R42 support Arg1:T49 Arg2:T46
-R43 agreement Arg1:T7 Arg2:T1
-R44 rebuttal Arg1:T50 Arg2:T1
-R45 support Arg1:T51 Arg2:T50
-R46 support Arg1:T52 Arg2:T50
-R47 rebuttal Arg1:T53 Arg2:T1
-R48 rebuttal Arg1:T54 Arg2:T1
-R49 support Arg1:T55 Arg2:T54
-R50 support Arg1:T56 Arg2:T54
-R51 support Arg1:T57 Arg2:T54
-R52 support Arg1:T58 Arg2:T54
-R53 support Arg1:T59 Arg2:T54
-R54 support Arg1:T8 Arg2:T5
-R55 rebuttal Arg1:T60 Arg2:T1
-R56 agreement Arg1:T9 Arg2:T1
-R57 support Arg1:T10 Arg2:T5
-R58 partial_disagreement Arg1:T11 Arg2:T1
+T1	main_claim 0 81	CMV: People who cheat on their spouses can and should, in some cases, be forgiven
+A1	Type 1 evaluation_emotional
+T2	premise 83 220	There seems to be a commonly held belief that people who cheat on their SO/partner should be dropped immediately with no further contact.
+A2	Type 2 pathos
+T3	claim 221 307	I understand that physical/sexual conduct with another person can seem like a betrayal
+A3	Type 3 evaluation_rational
+T4	premise 314 438	in some cases, there are many worse things that can happen in a relationship, which couples seem to be able to work through.
+A4	Type 4 pathos
+T5	claim 440 568	There are a few assumptions underlying the belief that "sex with another person = relationship over" that I don't think hold up.
+A5	Type 5 evaluation_emotional
+T6	premise 572 706	**Sex is the most important part of a relationship,** and therefore, betraying it and that agreement mean the relationship should end.
+A6	Type 6 logos_pathos
+T7	claim 707 800	My belief: sex is a very important part of a relationship, but not *the* most important part.
+A7	Type 7 evaluation_rational
+T8	premise 889 966	**Nobody makes mistakes ever,** so when they do, the relationship should end.
+A8	Type 8 logos_pathos
+T9	claim 967 1103	My belief: obviously this isn't true, and a cornerstone of strong relationships is the ability to work through mistakes/issues together.
+A9	Type 9 evaluation_rational
+T10	premise 1107 1169	**Cheaters will always cheat again,** so better to end it now.
+A10	Type 10 logos_pathos
+T11	claim 1170 1209	my view: That may be true in some cases
+A11	Type 11 interpretation
+T12	premise 1216 1293	other than anecdotal evidence, I haven't seen anything to support this claim.
+A12	Type 12 logos_pathos
+T13	premise 1384 1454	**Cheaters cheat because of underlying issues with the relationship.**
+A13	Type 13 logos_pathos
+T14	claim 1455 1566	My belief: if that's true, there are a lot of possibilities - not just breaking up - that could fix the problem
+A14	Type 14 evaluation_rational
+T15	premise 1569 1607	such as ... talking about the problem.
+A15	Type 15 logos_pathos
+T16	premise 1608 1669	Maybe fixing that issue will resolve the motivation to cheat.
+A16	Type 16 logos_pathos
+T17	claim 1671 1891	Caveat: sometimes, cheating happens because there are parts of the relationship that are fundamentally broken and/or the relationship is too far gone/unsalvageable and/or this is the straw the broke the camel's back etc.
+A17	Type 17 evaluation_rational
+T18	claim 1893 1962	Cheating shouldn't always signify an immediate end to a relationship.
+A18	Type 18 evaluation_emotional
+T19	claim 1963 2026	In some cases, couples can and should choose to work through it
+A19	Type 19 interpretation
+T20	premise 2036 2083	I'l begin by saying it has never happened to me
+A20	Type 20 ethos
+T21	claim 2090 2116	you make some good points.
+A21	Type 21 agreement
+T22	claim 2286 2361	To break it would be to break one of the most important parts of a marriage
+A22	Type 22 evaluation_rational
+T23	premise 2387 2478	even if you value it not at all, cheating breaks other important parts of the relationship.
+A23	Type 23 logos_pathos
+T24	premise 2479 2490	Like trust.
+A24	Type 24 logos_pathos
+T25	premise 2491 2499	Loyalty.
+A25	Type 25 logos_pathos
+T26	premise 2500 2514	Companionship.
+A26	Type 26 logos_pathos
+T27	claim 2595 2630	You are correct that this is false.
+A27	Type 27 agreement
+T28	premise 2631 2685	However, cheating on a spouse is *pretty big mistake*.
+A28	Type 28 pathos
+T29	claim 2686 2724	Cheating, as I define it, is a choice.
+A29	Type 29 interpretation
+T30	premise 2725 2787	A bad choice which breaks one of the cornerstones of marriage.
+A30	Type 30 pathos
+T31	claim 2827 2862	You are correct that this is false.
+A31	Type 31 agreement
+T32	claim 2863 2931	However, I would say that *cheaters are more likely to cheat again*.
+A32	Type 32 interpretation
+T33	premise 2932 3002	The circumstances that resulted in cheating the first time may repeat.
+A33	Type 33 ethos_logos
+T34	claim 3228 3232	Yes.
+A34	Type 34 agreement
+T35	claim 3233 3287	But "talking about the problem" is an ideal situation.
+A35	Type 35 interpretation
+T36	premise 3288 3331	It often doesn't work out so well that way.
+A36	Type 36 logos_pathos
+T37	premise 3332 3450	People get stuck in a pattern... living in the same house, married to the same person you stopped really caring about.
+A37	Type 37 logos_pathos
+T38	premise 3451 3503	Cheating is evidence that *something* must be wrong.
+A38	Type 38 logos_pathos
+T39	claim 3539 3609	is a bad choice which breaks one of the cornerstones of a relationship
+A39	Type 39 evaluation_rational
+T40	claim 3613 3665	is an indication that such a thing will happen again
+A40	Type 40 interpretation
+T41	claim 3669 3731	is an indication that there is a problem with the relationship
+A41	Type 41 evaluation_emotional
+T42	premise 3733 3798	Are there no situations in which the cheaters should be forgiven?
+A42	Type 42 logos_pathos
+T43	claim 3799 3940	I'm trying to argue that if you find your spouse cheating, breaking up with them is the most logical thing to do, whatever the circumstances.
+A43	Type 43 evaluation_rational
+T44	premise 3942 4030	I point out, cheating has a profound negative emotional effect of the person cheated on.
+A44	Type 44 ethos_logos_pathos
+T45	claim 4067 4104	In my mind, marriage is a commitment.
+A45	Type 45 interpretation
+T46	claim 4105 4158	If you break that commitment, the marriage is broken.
+A46	Type 46 evaluation_rational
+T47	premise 4160 4235	One partner isn't fulfilling all of his/her obligations (i.e. not to cheat)
+A47	Type 47 pathos
+T48	premise 4236 4301	So why should the other person be obligated to fill out his/hers?
+A48	Type 48 pathos
+T49	premise 4302 4330	Why should you stay married?
+A49	Type 49 logos_pathos
+T50	claim 4332 4407	It is entirely up to the person making the decision as to what they may do.
+A50	Type 50 interpretation
+T51	premise 4408 4432	It's an ethical question
+A51	Type 51 logos_pathos
+T52	premise 4439 4474	everyone has their different values
+A52	Type 52 logos_pathos
+T53	claim 4480 4548	it's impossible to prove definitively what you should/should not do.
+A53	Type 53 evaluation_rational
+T54	claim 4549 4647	It's just a logical conclusion that breaking up is the right choice in most if not all situations.
+A54	Type 54 evaluation_rational
+T55	premise 4648 4662	It's a choice.
+A55	Type 55 logos_pathos
+T56	premise 4664 4762	But if you don't break up, you are stuck with a person who doesn't value you enough to stay loyal.
+A56	Type 56 logos
+T57	premise 4763 4817	Why would you forfeit yourself to such a relationship?
+A57	Type 57 logos_pathos
+T58	premise 4819 4838	Things need change.
+A58	Type 58 pathos
+T59	premise 4839 4884	And the cheater is the source of the problem.
+A59	Type 59 logos_pathos
+T60	claim 4885 4932	Change the cheater by breaking up with him/her.
+A60	Type 60 interpretation
+R1	support Arg1:T2 Arg2:T3
+R2	partial_disagreement Arg1:T3 Arg2:T1
+R3	support Arg1:T12 Arg2:T11
+R4	support Arg1:T13 Arg2:T5
+R5	agreement Arg1:T14 Arg2:T1
+R6	support Arg1:T15 Arg2:T14
+R7	support Arg1:T16 Arg2:T14
+R8	partial_disagreement Arg1:T17 Arg2:T14
+R9	agreement Arg1:T18 Arg2:T1
+R10	agreement Arg1:T19 Arg2:T1
+R11	support Arg1:T20 Arg2:T21
+R12	support Arg1:T4 Arg2:T3
+R13	agreement Arg1:T21 Arg2:T1
+R14	rebuttal Arg1:T22 Arg2:T6
+R15	support Arg1:T23 Arg2:T21
+R16	support Arg1:T24 Arg2:T21
+R17	support Arg1:T25 Arg2:T21
+R18	support Arg1:T26 Arg2:T21
+R19	agreement Arg1:T27 Arg2:T6
+R20	support Arg1:T28 Arg2:T27
+R21	rebuttal Arg1:T29 Arg2:T1
+R22	agreement Arg1:T5 Arg2:T1
+R23	support Arg1:T30 Arg2:T28
+R24	agreement Arg1:T31 Arg2:T11
+R25	disagreement Arg1:T32 Arg2:T11
+R26	support Arg1:T33 Arg2:T32
+R27	agreement Arg1:T34 Arg2:T14
+R28	rebuttal Arg1:T35 Arg2:T14
+R29	support Arg1:T36 Arg2:T34
+R30	support Arg1:T38 Arg2:T34
+R31	agreement Arg1:T39 Arg2:T29
+R32	support Arg1:T6 Arg2:T5
+R33	agreement Arg1:T40 Arg2:T32
+R34	agreement Arg1:T41 Arg2:T34
+R35	support Arg1:T42 Arg2:T39
+R36	rebuttal Arg1:T43 Arg2:T1
+R37	support Arg1:T44 Arg2:T43
+R38	rebuttal Arg1:T45 Arg2:T1
+R39	rebuttal Arg1:T46 Arg2:T1
+R40	support Arg1:T47 Arg2:T46
+R41	support Arg1:T48 Arg2:T46
+R42	support Arg1:T49 Arg2:T46
+R43	agreement Arg1:T7 Arg2:T1
+R44	rebuttal Arg1:T50 Arg2:T1
+R45	support Arg1:T51 Arg2:T50
+R46	support Arg1:T52 Arg2:T50
+R47	rebuttal Arg1:T53 Arg2:T1
+R48	rebuttal Arg1:T54 Arg2:T1
+R49	support Arg1:T55 Arg2:T54
+R50	support Arg1:T56 Arg2:T54
+R51	support Arg1:T57 Arg2:T54
+R52	support Arg1:T58 Arg2:T54
+R53	support Arg1:T59 Arg2:T54
+R54	support Arg1:T8 Arg2:T5
+R55	rebuttal Arg1:T60 Arg2:T1
+R56	agreement Arg1:T9 Arg2:T1
+R57	support Arg1:T10 Arg2:T5
+R58	partial_disagreement Arg1:T11 Arg2:T1

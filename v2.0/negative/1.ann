@@ -1,47 +1,47 @@
-T1 main_claim 0 64  CMV: Religion is not violent or not violent, its followers are. 
-A1 Type T1 interpretation 
-T2 claim 163 360 I point out that many Christians follow the bible which has numerous examples of sexism, but in application, there are numerous branches of Christianity that are no more sexist than secular groups. 
-A2 Type T2 evaluation_rational 
-T3 premise 361 412 For example, Congregationalists and Universaliists. 
-A3 Type T3 logos_pathos 
-T4 claim 418 589 my belief is that while religion can inform the views of people, it is far more likely that religion will be used to justify actions that would have been executed any way. 
-A4 Type T4 evaluation_rational 
-T5 claim 590 704 I think that most Jewish people don't want to stone adulterers and most Muslims don't want to stone non believers. 
-A5 Type T5 evaluation_rational 
-T6 claim 707 772 This is like saying "Guns don't kill people, people kill people." 
-A6 Type T6 interpretation 
-T7 claim 773 791 This might be true 
-A7 Type T7 agreement 
-T8 premise 798 834 the gun certainty played a big part. 
-A8 Type T8 logos 
-T9 claim 837 841 Okay 
-A9 Type T9 agreement 
-T10 claim 844 952 but even if religion did motivate people to kill, it doesn't provide the means to kill, only the motivation. 
-A10 Type T10 interpretation 
-T11 premise 953 1054 However, assuming that a gun provides the motivation, it also provides the tool to kill someone with. 
-A11 Type T11 logos 
-T12 claim 1073 1187 I'm not convinced that either motivates people to kill, and one gives the tools to kill with and the other doesn't 
-A12 Type T12 evaluation_rational 
-T13 claim 1190 1222 This analogy falls short for me. 
-A13 Type T13 evaluation_rational 
-T14 claim 1225 1313 Religion gives them the psychological tools to justify to themselves that killing is ok. 
-A14 Type T14 interpretation 
-T15 premise 1314 1358 Without that, they wouldn't be able to kill. 
-A15 Type T15 logos 
-T16 premise 1359 1443 So while the person is ultimately responsible, like the gun, religion played a part. 
-A16 Type T16 logos 
-R1 agreement Arg1:T2 Arg2:T1
-R2 support Arg1:T3 Arg2:T2
-R3 agreement Arg1:T4 Arg2:T1
-R4 agreement Arg1:T5 Arg2:T4
-R5 undercutter Arg1:T6 Arg2:T1
-R6 partial_agreement Arg1:T7 Arg2:T6
-R7 support Arg1:T8 Arg2:T7
-R8 undercutter Arg1:T10 Arg2:T6
-R9 partial_agreement Arg1:T9 Arg2:T6
-R10 support Arg1:T11 Arg2:T10
-R11 rebuttal Arg1:T12 Arg2:T6
-R12 rebuttal Arg1:T13 Arg2:T6
-R13 undercutter Arg1:T14 Arg2:T10
-R14 support Arg1:T15 Arg2:T14
-R15 support Arg1:T16 Arg2:T14
+T1	main_claim 0 64	 CMV: Religion is not violent or not violent, its followers are.
+A1	Type 1 interpretation
+T2	claim 163 360	I point out that many Christians follow the bible which has numerous examples of sexism, but in application, there are numerous branches of Christianity that are no more sexist than secular groups.
+A2	Type 2 evaluation_rational
+T3	premise 361 412	For example, Congregationalists and Universaliists.
+A3	Type 3 logos_pathos
+T4	claim 418 589	my belief is that while religion can inform the views of people, it is far more likely that religion will be used to justify actions that would have been executed any way.
+A4	Type 4 evaluation_rational
+T5	claim 590 704	I think that most Jewish people don't want to stone adulterers and most Muslims don't want to stone non believers.
+A5	Type 5 evaluation_rational
+T6	claim 707 772	This is like saying "Guns don't kill people, people kill people."
+A6	Type 6 interpretation
+T7	claim 773 791	This might be true
+A7	Type 7 agreement
+T8	premise 798 834	the gun certainty played a big part.
+A8	Type 8 logos
+T9	claim 837 841	Okay
+A9	Type 9 agreement
+T10	claim 844 952	but even if religion did motivate people to kill, it doesn't provide the means to kill, only the motivation.
+A10	Type 10 interpretation
+T11	premise 953 1054	However, assuming that a gun provides the motivation, it also provides the tool to kill someone with.
+A11	Type 11 logos
+T12	claim 1073 1187	I'm not convinced that either motivates people to kill, and one gives the tools to kill with and the other doesn't
+A12	Type 12 evaluation_rational
+T13	claim 1190 1222	This analogy falls short for me.
+A13	Type 13 evaluation_rational
+T14	claim 1225 1313	Religion gives them the psychological tools to justify to themselves that killing is ok.
+A14	Type 14 interpretation
+T15	premise 1314 1358	Without that, they wouldn't be able to kill.
+A15	Type 15 logos
+T16	premise 1359 1443	So while the person is ultimately responsible, like the gun, religion played a part.
+A16	Type 16 logos
+R1	agreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T2
+R3	agreement Arg1:T4 Arg2:T1
+R4	agreement Arg1:T5 Arg2:T4
+R5	undercutter Arg1:T6 Arg2:T1
+R6	partial_agreement Arg1:T7 Arg2:T6
+R7	support Arg1:T8 Arg2:T7
+R8	undercutter Arg1:T10 Arg2:T6
+R9	partial_agreement Arg1:T9 Arg2:T6
+R10	support Arg1:T11 Arg2:T10
+R11	rebuttal Arg1:T12 Arg2:T6
+R12	rebuttal Arg1:T13 Arg2:T6
+R13	undercutter Arg1:T14 Arg2:T10
+R14	support Arg1:T15 Arg2:T14
+R15	support Arg1:T16 Arg2:T14

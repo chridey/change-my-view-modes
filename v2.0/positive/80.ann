@@ -1,76 +1,76 @@
-T1 main_claim 0 87 CMV Me joining the army is not a waste of time nor does it conflict with my personality 
-A1 Type T1 evaluation_emotional 
-T2 claim 89 169 I've always had a respect for the men in uniform and I've always wanted to join. 
-A2 Type T2 evaluation_emotional 
-T3 claim 170 233 Recently I've disagreed with the practices of the U.S. military 
-A3 Type T3 evaluation_rational 
-T4 premise 282 321 just the people that force them into it 
-A4 Type T4 logos_pathos 
-T5 premise 324 411 I'm an immigrant and a Muslim neither of which is or should be a deterrent from joining 
-A5 Type T5 ethos 
-T6 premise 414 499 I want to be a doctor, not because of familial pressure but of a genuine need to help 
-A6 Type T6 ethos 
-T7 claim 1029 1100 The only reservation that I had was that it would be a waste of my time 
-A7 Type T7 evaluation_rational 
-T8 premise 1101 1180 because I want to be a neurosurgeon and that's a looooooooong and rigorous path 
-A8 Type T8 pathos 
-T9 premise 1190 1245 I might be losing precious time by joining the military 
-A9 Type T9 pathos 
-T10 claim 1331 1400 I love the idea of a brotherhood but I don't agree with the ideology, 
-A10 Type T10 evaluation_rational 
-T11 claim 1401 1473 the military putting me through Med school will help me jump start life, 
-A11 Type T11 evaluation_rational 
-T12 claim 1474 1561 I'm very inexperienced and haven't seen much of the world and this I think will help me 
-A12 Type T12 evaluation_rational 
-T13 premise 1733 1791 FYI, you don't have to go to USHS to be a military doctor. 
-A13 Type T13 logos 
-T14 premise 1792 1912 You can go to civilian medical school, and get HPSP which is slightly different but accomplishes roughly the same thing. 
-A14 Type T14 logos 
-T15 premise 2137 2174 Well, it's not worth it for the money 
-A15 Type T15 logos_pathos 
-T16 premise 2175 2267 . You'll lose money by taking HPSP and especially with USHS (a longer commitment than HPSP). 
-A16 Type T16 logos 
-T17 premise 2268 2381 You'll owe the military tons of time for the training, so you won't be able to enter civilian practice for years. 
-A17 Type T17 logos 
-T18 premise 2382 2505 Civilian neurosurgeons will easily catch up to their debtless peers in the military due to the huge difference in salaries. 
-A18 Type T18 logos_pathos 
-T19 premise 2506 2556 A civilian neurosurgeon can make over 400k easily. 
-A19 Type T19 pathos 
-T20 claim 2602 2696 So, with NSRGY you will have a net loss in the military compared to a civilian path with loans 
-A20 Type T20 interpretation 
-T21 claim 2699 2783 This is assuming you get a neurosurgery residency in the military, which is suspect. 
-A21 Type T21 evaluation_rational 
-T22 premise 2784 2887 Neurosurgery is already competitive, and the military's neurosurgery residencies are extremely limited. 
-A22 Type T22 logos_pathos 
-T23 premise 2888 3003 You may end up as a general surgeon, or doing several GMO tours before starting your 7 year neurosurgery residency. 
-A23 Type T23 logos_pathos 
-T24 premise 3114 3189 If you're not all in with the military you'll hate being a military doctor. 
-A24 Type T24 logos 
-T25 premise 3190 3308 The only reason to do HPSP or USHS is because you want to be a doctor in the military, not because you want the money. 
-A25 Type T25 pathos 
-T26 premise 3309 3352 If you're ambivalent the risk is too great. 
-A26 Type T26 logos_pathos 
-T27 premise 3454 3515 Banks have zero problem giving out loans to medical students. 
-A27 Type T27 logos 
-T28 premise 3516 3612 You'll easily cover your tuition, and while debt sucks you'll easily pay it off after residency. 
-A28 Type T28 logos_pathos 
-R1 agreement Arg1:T14 Arg2:T7
-R2 agreement Arg1:T15 Arg2:T7
-R3 agreement Arg1:T16 Arg2:T7
-R4 agreement Arg1:T17 Arg2:T7
-R5 agreement Arg1:T18 Arg2:T7
-R6 agreement Arg1:T19 Arg2:T7
-R7 agreement Arg1:T20 Arg2:T7
-R8 agreement Arg1:T21 Arg2:T7
-R9 support Arg1:T22 Arg2:T21
-R10 support Arg1:T23 Arg2:T21
-R11 support Arg1:T5 Arg2:T2
-R12 support Arg1:T6 Arg2:T2
-R13 undercutter Arg1:T24 Arg2:T10
-R14 undercutter Arg1:T25 Arg2:T10
-R15 undercutter Arg1:T26 Arg2:T10
-R16 undercutter Arg1:T27 Arg2:T11
-R17 undercutter Arg1:T28 Arg2:T11
-R18 support Arg1:T8 Arg2:T7
-R19 support Arg1:T9 Arg2:T7
-R20 agreement Arg1:T13 Arg2:T7
+T1	main_claim 0 87	CMV Me joining the army is not a waste of time nor does it conflict with my personality
+A1	Type 1 evaluation_emotional
+T2	claim 89 169	I've always had a respect for the men in uniform and I've always wanted to join.
+A2	Type 2 evaluation_emotional
+T3	claim 170 233	Recently I've disagreed with the practices of the U.S. military
+A3	Type 3 evaluation_rational
+T4	premise 282 321	just the people that force them into it
+A4	Type 4 logos_pathos
+T5	premise 324 411	I'm an immigrant and a Muslim neither of which is or should be a deterrent from joining
+A5	Type 5 ethos
+T6	premise 414 499	I want to be a doctor, not because of familial pressure but of a genuine need to help
+A6	Type 6 ethos
+T7	claim 1029 1100	The only reservation that I had was that it would be a waste of my time
+A7	Type 7 evaluation_rational
+T8	premise 1101 1180	because I want to be a neurosurgeon and that's a looooooooong and rigorous path
+A8	Type 8 pathos
+T9	premise 1190 1245	I might be losing precious time by joining the military
+A9	Type 9 pathos
+T10	claim 1331 1400	I love the idea of a brotherhood but I don't agree with the ideology,
+A10	Type 10 evaluation_rational
+T11	claim 1401 1473	the military putting me through Med school will help me jump start life,
+A11	Type 11 evaluation_rational
+T12	claim 1474 1561	I'm very inexperienced and haven't seen much of the world and this I think will help me
+A12	Type 12 evaluation_rational
+T13	premise 1733 1791	FYI, you don't have to go to USHS to be a military doctor.
+A13	Type 13 logos
+T14	premise 1792 1912	You can go to civilian medical school, and get HPSP which is slightly different but accomplishes roughly the same thing.
+A14	Type 14 logos
+T15	premise 2137 2174	Well, it's not worth it for the money
+A15	Type 15 logos_pathos
+T16	premise 2175 2267	. You'll lose money by taking HPSP and especially with USHS (a longer commitment than HPSP).
+A16	Type 16 logos
+T17	premise 2268 2381	You'll owe the military tons of time for the training, so you won't be able to enter civilian practice for years.
+A17	Type 17 logos
+T18	premise 2382 2505	Civilian neurosurgeons will easily catch up to their debtless peers in the military due to the huge difference in salaries.
+A18	Type 18 logos_pathos
+T19	premise 2506 2556	A civilian neurosurgeon can make over 400k easily.
+A19	Type 19 pathos
+T20	claim 2602 2696	So, with NSRGY you will have a net loss in the military compared to a civilian path with loans
+A20	Type 20 interpretation
+T21	claim 2699 2783	This is assuming you get a neurosurgery residency in the military, which is suspect.
+A21	Type 21 evaluation_rational
+T22	premise 2784 2887	Neurosurgery is already competitive, and the military's neurosurgery residencies are extremely limited.
+A22	Type 22 logos_pathos
+T23	premise 2888 3003	You may end up as a general surgeon, or doing several GMO tours before starting your 7 year neurosurgery residency.
+A23	Type 23 logos_pathos
+T24	premise 3114 3189	If you're not all in with the military you'll hate being a military doctor.
+A24	Type 24 logos
+T25	premise 3190 3308	The only reason to do HPSP or USHS is because you want to be a doctor in the military, not because you want the money.
+A25	Type 25 pathos
+T26	premise 3309 3352	If you're ambivalent the risk is too great.
+A26	Type 26 logos_pathos
+T27	premise 3454 3515	Banks have zero problem giving out loans to medical students.
+A27	Type 27 logos
+T28	premise 3516 3612	You'll easily cover your tuition, and while debt sucks you'll easily pay it off after residency.
+A28	Type 28 logos_pathos
+R1	agreement Arg1:T14 Arg2:T7
+R2	agreement Arg1:T15 Arg2:T7
+R3	agreement Arg1:T16 Arg2:T7
+R4	agreement Arg1:T17 Arg2:T7
+R5	agreement Arg1:T18 Arg2:T7
+R6	agreement Arg1:T19 Arg2:T7
+R7	agreement Arg1:T20 Arg2:T7
+R8	agreement Arg1:T21 Arg2:T7
+R9	support Arg1:T22 Arg2:T21
+R10	support Arg1:T23 Arg2:T21
+R11	support Arg1:T5 Arg2:T2
+R12	support Arg1:T6 Arg2:T2
+R13	undercutter Arg1:T24 Arg2:T10
+R14	undercutter Arg1:T25 Arg2:T10
+R15	undercutter Arg1:T26 Arg2:T10
+R16	undercutter Arg1:T27 Arg2:T11
+R17	undercutter Arg1:T28 Arg2:T11
+R18	support Arg1:T8 Arg2:T7
+R19	support Arg1:T9 Arg2:T7
+R20	agreement Arg1:T13 Arg2:T7

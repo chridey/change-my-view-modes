@@ -1,43 +1,43 @@
-T1 main_claim 0 64 CMV: Humans are going to die out because of an economic collapse 
-A1 Type T1 interpretation 
-T2 claim 66 140 Bill Gade presents the argument better than I do so I will just quote him. 
-A2 Type T2 evaluation_rational 
-T3 premise 1074 1128 There is also a Youtube video to go with this opinion. 
-A3 Type T3 logos_pathos 
-T4 premise 1129 1172 https://www.youtube.com/watch?v=rlQrYCacrKo 
-A4 Type T4 logos_pathos 
-T5 claim 1174 1319 I do realize that this is a very unhealthy idea to have whether or not that the idea is true or not, I just have not been able to beat it myself. 
-A5 Type T5 evaluation_emotional 
-T6 claim 1321 1358 I do disagree with Gade a little bit. 
-A6 Type T6 disagreement 
-T7 claim 1359 1397 I don't think it would kill everybody, 
-A7 Type T7 interpretation 
-T8 premise 1402 1602 the some few people that still know how to hunt and gather would probably survive as well people who were rich enough to have access to a lot of resources to start out with before the economy crashes. 
-A8 Type T8 logos_pathos 
-T9 claim 1603 1667 I probably believe this because I listen to Alex Jones too much. 
-A9 Type T9 interpretation 
-T10 claim 1670 1774 Something like this will take decades or centuries and won't be applied evenly across the entire planet. 
-A10 Type T10 interpretation 
-T11 premise 1775 1883 I don't see how it's possible society couldn't adapt as the inevitability of a laborless civilization grows. 
-A11 Type T11 logos_pathos 
-T12 claim 1900 1959 Economic bubbles historically popped in a matter of months. 
-A12 Type T12 evaluation_rational 
-T13 claim 1962 2035 I have trouble equating a financial bubble with the entire world economy. 
-A13 Type T13 evaluation_emotional 
-T14 premise 2093 2147 Yes, if they all went belly up we would have a problem 
-A14 Type T14 logos_pathos 
-T15 premise 2152 2184 someone would pick up the slack. 
-A15 Type T15 logos_pathos 
-R1 support Arg1:T3 Arg2:T2
-R2 support Arg1:T4 Arg2:T2
-R3 support Arg1:T9 Arg2:T8
-R4 partial_attack Arg1:T6 Arg2:T2
-R5 rebuttal_attack Arg1:T7 Arg2:T2
-R6 rebuttal_attack Arg1:T8 Arg2:T2
-R7 undercutter_attack Arg1:T10 Arg2:T11
-R8 support Arg1:T11 Arg2:T10
-R9 undercutter_attack Arg1:T12 Arg2:T10
+T1	main_claim 0 64	CMV: Humans are going to die out because of an economic collapse
+A1	Type 1 interpretation
+T2	claim 66 140	Bill Gade presents the argument better than I do so I will just quote him.
+A2	Type 2 evaluation_rational
+T3	premise 1074 1128	There is also a Youtube video to go with this opinion.
+A3	Type 3 logos_pathos
+T4	premise 1129 1172	https://www.youtube.com/watch?v=rlQrYCacrKo
+A4	Type 4 logos_pathos
+T5	claim 1174 1319	I do realize that this is a very unhealthy idea to have whether or not that the idea is true or not, I just have not been able to beat it myself.
+A5	Type 5 evaluation_emotional
+T6	claim 1321 1358	I do disagree with Gade a little bit.
+A6	Type 6 disagreement
+T7	claim 1359 1397	I don't think it would kill everybody,
+A7	Type 7 interpretation
+T8	premise 1402 1602	the some few people that still know how to hunt and gather would probably survive as well people who were rich enough to have access to a lot of resources to start out with before the economy crashes.
+A8	Type 8 logos_pathos
+T9	claim 1603 1667	I probably believe this because I listen to Alex Jones too much.
+A9	Type 9 interpretation
+T10	claim 1670 1774	Something like this will take decades or centuries and won't be applied evenly across the entire planet.
+A10	Type 10 interpretation
+T11	premise 1775 1883	I don't see how it's possible society couldn't adapt as the inevitability of a laborless civilization grows.
+A11	Type 11 logos_pathos
+T12	claim 1900 1959	Economic bubbles historically popped in a matter of months.
+A12	Type 12 evaluation_rational
+T13	claim 1962 2035	I have trouble equating a financial bubble with the entire world economy.
+A13	Type 13 evaluation_emotional
+T14	premise 2093 2147	Yes, if they all went belly up we would have a problem
+A14	Type 14 logos_pathos
+T15	premise 2152 2184	someone would pick up the slack.
+A15	Type 15 logos_pathos
+R1	support Arg1:T3 Arg2:T2
+R2	support Arg1:T4 Arg2:T2
+R3	support Arg1:T9 Arg2:T8
+R4	partial_attack Arg1:T6 Arg2:T2
+R5	rebuttal_attack Arg1:T7 Arg2:T2
+R6	rebuttal_attack Arg1:T8 Arg2:T2
+R7	undercutter_attack Arg1:T10 Arg2:T11
+R8	support Arg1:T11 Arg2:T10
+R9	undercutter_attack Arg1:T12 Arg2:T10
 R10 undercutter_attack Arg1:T13 Arg2:T11
 R11 undercutter_attack Arg1:T13 Arg2:T12
-R12 agreement Arg1:T14 Arg2:T12
-R13 undercutter_attack Arg1:T15 Arg2:T12
+R12	agreement Arg1:T14 Arg2:T12
+R13	undercutter_attack Arg1:T15 Arg2:T12

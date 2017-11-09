@@ -1,114 +1,114 @@
-T1 main_claim 0 95 CMV: If a child struggles to achieve in grade school it is virtually always the parents' fault. 
-A1 Type T1 interpretation 
-T2 premise 97 195 For the sake of this thread, we'll exclude children with medically diagnosed learning disabilities 
-A2 Type T2 logos 
-T3 claim 198 343 IMO the knowledge and resource base for teaching said children is probably proportionate to the percentage they make up of the overall population 
-A3 Type T3 evaluation_rational 
-T4 premise 347 461 With a healthy child, income, neighborhood, peers and teachers should be filtered through a responsible parent(s). 
-A4 Type T4 logos 
-T5 claim 462 559 A child who struggles in earnest or intentionally slacks off is a direct reflection of parenting. 
-A5 Type T5 interpretation 
-T6 claim 560 671 I am curious regarding potential for more public accountability held to parents who fail to direct their child. 
-A6 Type T6 evaluation_rational 
-T7 premise 674 825 maybe a monetary incentive derived from public tax coffers paid to parents of children who maintain a passing grade, to be withheld if child dips below 
-A7 Type T7 logos_pathos 
-T8 claim 830 925 I think parents are virtually 100% responsible for producing scholastically successful children 
-A8 Type T8 interpretation 
-T9 premise 935 1015 I had parents who were extremely persistent about making sure i stayed on track. 
-A9 Type T9 ethos 
-T10 premise 1016 1076 I was only recently diagnosed with adhd a reading disability 
-A10 Type T10 ethos_pathos 
-T11 premise 1081 1096 im 20 years old 
-A11 Type T11 ethos 
-T12 premise 1099 1142 I graduated on time but i struggled so much 
-A12 Type T12 pathos 
-T13 premise 1145 1236 I failed a bunch of stuff and was constantly embarrassed to show my grades to other people. 
-A13 Type T13 pathos 
-T14 premise 1237 1283 I lost hope often because things felt hopeless 
-A14 Type T14 ethos_pathos 
-T15 premise 1286 1368 which lead teachers, doctors, family and other students to think i just didnt care 
-A15 Type T15 ethos_pathos 
-T16 claim 1372 1455 An issue is there are a ton of people with "disabilities" more so than you'd think. 
-A16 Type T16 evaluation_rational 
-T17 premise 1456 1510 Thats because we teach everyone to think the same way. 
-A17 Type T17 logos 
-T18 claim 1512 1528 Thats the issue. 
-A18 Type T18 evaluation_rational 
-T19 premise 1529 1568 Im really good at doing certain things. 
-A19 Type T19 pathos 
-T20 premise 1569 1639 For example, i can read , write, and even speak backwards pretty well. 
-A20 Type T20 ethos_logos 
-T21 premise 1640 1670 My brain is wired differently. 
-A21 Type T21 ethos_logos 
-T22 premise 1672 1715 I cant do the things the average person can 
-A22 Type T22 ethos_pathos 
-T23 premise 1722 1761 i can do a lot of things that they cant 
-A23 Type T23 ethos_pathos 
-T24 claim 1764 1788 It doesnt make me stupid 
-A24 Type T24 interpretation 
-T25 premise 1799 1852 im capable of the same things just in a different way 
-A25 Type T25 ethos_pathos 
-T26 premise 1859 1928 my experience at school did its best to convince me that i was stupid 
-A26 Type T26 ethos_pathos 
-T27 claim 1931 1948 THAT is the issue 
-A27 Type T27 interpretation 
-T28 claim 1951 1996 Everyone has a mind that works in its own way 
-A28 Type T28 evaluation_rational 
-T29 claim 2000 2067 The problem isnt always bad parenting, though that can play a role, 
-A29 Type T29 evaluation_rational 
-T30 claim 2068 2119 the problem is a black and white educational system 
-A30 Type T30 evaluation_rational 
-T31 claim 2123 2213 Treating everyone the same way, other than special classes for "dumb" kids is the problem. 
-A31 Type T31 evaluation_emotional 
-T32 claim 2215 2255 Learning seems hard or dumb to some kids 
-A32 Type T32 evaluation_emotional 
-T33 premise 2260 2311 thats because its not tapping into their mind right 
-A33 Type T33 logos_pathos 
-T34 claim 2315 2403 If a child can discuss something he or she cares about then the parents are just a plus. 
-A34 Type T34 interpretation 
-T35 claim 2742 2746 Yes. 
-A35 Type T35 agreement 
-T36 claim 2747 2784 I think that builds my initial point. 
-A36 Type T36 interpretation 
-T37 premise 2785 2862 Parents should be educated on how to identify *how* their child's mind works. 
-A37 Type T37 logos_pathos 
-T38 premise 2863 2918 This is what I meant when I said "100%" on the parents. 
-A38 Type T38 logos 
-T39 claim 2919 3040 You're parents would've known how to turn the way your mind worked into a successful academic career, in a perfect world. 
-A39 Type T39 evaluation_rational 
-R1 support Arg1:T2 Arg2:T1
-R2 support Arg1:T12 Arg2:T16
-R3 support Arg1:T13 Arg2:T16
-R4 support Arg1:T14 Arg2:T16
-R5 support Arg1:T15 Arg2:T16
-R6 support Arg1:T17 Arg2:T16
+T1	main_claim 0 95	CMV: If a child struggles to achieve in grade school it is virtually always the parents' fault.
+A1	Type 1 interpretation
+T2	premise 97 195	For the sake of this thread, we'll exclude children with medically diagnosed learning disabilities
+A2	Type 2 logos
+T3	claim 198 343	IMO the knowledge and resource base for teaching said children is probably proportionate to the percentage they make up of the overall population
+A3	Type 3 evaluation_rational
+T4	premise 347 461	With a healthy child, income, neighborhood, peers and teachers should be filtered through a responsible parent(s).
+A4	Type 4 logos
+T5	claim 462 559	A child who struggles in earnest or intentionally slacks off is a direct reflection of parenting.
+A5	Type 5 interpretation
+T6	claim 560 671	I am curious regarding potential for more public accountability held to parents who fail to direct their child.
+A6	Type 6 evaluation_rational
+T7	premise 674 825	maybe a monetary incentive derived from public tax coffers paid to parents of children who maintain a passing grade, to be withheld if child dips below
+A7	Type 7 logos_pathos
+T8	claim 830 925	I think parents are virtually 100% responsible for producing scholastically successful children
+A8	Type 8 interpretation
+T9	premise 935 1015	I had parents who were extremely persistent about making sure i stayed on track.
+A9	Type 9 ethos
+T10	premise 1016 1076	I was only recently diagnosed with adhd a reading disability
+A10	Type 10 ethos_pathos
+T11	premise 1081 1096	im 20 years old
+A11	Type 11 ethos
+T12	premise 1099 1142	I graduated on time but i struggled so much
+A12	Type 12 pathos
+T13	premise 1145 1236	I failed a bunch of stuff and was constantly embarrassed to show my grades to other people.
+A13	Type 13 pathos
+T14	premise 1237 1283	I lost hope often because things felt hopeless
+A14	Type 14 ethos_pathos
+T15	premise 1286 1368	which lead teachers, doctors, family and other students to think i just didnt care
+A15	Type 15 ethos_pathos
+T16	claim 1372 1455	An issue is there are a ton of people with "disabilities" more so than you'd think.
+A16	Type 16 evaluation_rational
+T17	premise 1456 1510	Thats because we teach everyone to think the same way.
+A17	Type 17 logos
+T18	claim 1512 1528	Thats the issue.
+A18	Type 18 evaluation_rational
+T19	premise 1529 1568	Im really good at doing certain things.
+A19	Type 19 pathos
+T20	premise 1569 1639	For example, i can read , write, and even speak backwards pretty well.
+A20	Type 20 ethos_logos
+T21	premise 1640 1670	My brain is wired differently.
+A21	Type 21 ethos_logos
+T22	premise 1672 1715	I cant do the things the average person can
+A22	Type 22 ethos_pathos
+T23	premise 1722 1761	i can do a lot of things that they cant
+A23	Type 23 ethos_pathos
+T24	claim 1764 1788	It doesnt make me stupid
+A24	Type 24 interpretation
+T25	premise 1799 1852	im capable of the same things just in a different way
+A25	Type 25 ethos_pathos
+T26	premise 1859 1928	my experience at school did its best to convince me that i was stupid
+A26	Type 26 ethos_pathos
+T27	claim 1931 1948	THAT is the issue
+A27	Type 27 interpretation
+T28	claim 1951 1996	Everyone has a mind that works in its own way
+A28	Type 28 evaluation_rational
+T29	claim 2000 2067	The problem isnt always bad parenting, though that can play a role,
+A29	Type 29 evaluation_rational
+T30	claim 2068 2119	the problem is a black and white educational system
+A30	Type 30 evaluation_rational
+T31	claim 2123 2213	Treating everyone the same way, other than special classes for "dumb" kids is the problem.
+A31	Type 31 evaluation_emotional
+T32	claim 2215 2255	Learning seems hard or dumb to some kids
+A32	Type 32 evaluation_emotional
+T33	premise 2260 2311	thats because its not tapping into their mind right
+A33	Type 33 logos_pathos
+T34	claim 2315 2403	If a child can discuss something he or she cares about then the parents are just a plus.
+A34	Type 34 interpretation
+T35	claim 2742 2746	Yes.
+A35	Type 35 agreement
+T36	claim 2747 2784	I think that builds my initial point.
+A36	Type 36 interpretation
+T37	premise 2785 2862	Parents should be educated on how to identify *how* their child's mind works.
+A37	Type 37 logos_pathos
+T38	premise 2863 2918	This is what I meant when I said "100%" on the parents.
+A38	Type 38 logos
+T39	claim 2919 3040	You're parents would've known how to turn the way your mind worked into a successful academic career, in a perfect world.
+A39	Type 39 evaluation_rational
+R1	support Arg1:T2 Arg2:T1
+R2	support Arg1:T12 Arg2:T16
+R3	support Arg1:T13 Arg2:T16
+R4	support Arg1:T14 Arg2:T16
+R5	support Arg1:T15 Arg2:T16
+R6	support Arg1:T17 Arg2:T16
 R7 support Arg1:T19 Arg2:T17
 R8 support Arg1:T19 Arg2:T18
 R9 support Arg1:T20 Arg2:T17
 R10 support Arg1:T20 Arg2:T18
 R11 support Arg1:T21 Arg2:T17
 R12 support Arg1:T21 Arg2:T18
-R13 support Arg1:T4 Arg2:T1
+R13	support Arg1:T4 Arg2:T1
 R14 support Arg1:T22 Arg2:T17
 R15 support Arg1:T22 Arg2:T18
 R16 support Arg1:T23 Arg2:T17
 R17 support Arg1:T23 Arg2:T18
-R18 support Arg1:T25 Arg2:T24
-R19 support Arg1:T26 Arg2:T27
-R20 support Arg1:T33 Arg2:T32
+R18	support Arg1:T25 Arg2:T24
+R19	support Arg1:T26 Arg2:T27
+R20	support Arg1:T33 Arg2:T32
 R21 rebuttal_attack Arg1:T36 Arg2:T24
 R22 rebuttal_attack Arg1:T36 Arg2:T25
 R23 rebuttal_attack Arg1:T36 Arg2:T26
 R24 rebuttal_attack Arg1:T36 Arg2:T27
 R25 rebuttal_attack Arg1:T36 Arg2:T28
-R26 support Arg1:T37 Arg2:T36
-R27 support Arg1:T38 Arg2:T8
+R26	support Arg1:T37 Arg2:T36
+R27	support Arg1:T38 Arg2:T8
 R28 rebuttal_attack Arg1:T39 Arg2:T24
 R29 rebuttal_attack Arg1:T39 Arg2:T25
 R30 rebuttal_attack Arg1:T39 Arg2:T26
 R31 rebuttal_attack Arg1:T39 Arg2:T27
 R32 rebuttal_attack Arg1:T39 Arg2:T28
-R33 support Arg1:T7 Arg2:T6
-R34 support Arg1:T9 Arg2:T16
-R35 support Arg1:T10 Arg2:T16
-R36 support Arg1:T11 Arg2:T16
+R33	support Arg1:T7 Arg2:T6
+R34	support Arg1:T9 Arg2:T16
+R35	support Arg1:T10 Arg2:T16
+R36	support Arg1:T11 Arg2:T16

@@ -1,47 +1,47 @@
-T1 main_claim 0 104 CMV: I think the Paris shooting makes a good case for culture of responsible gun ownership any carrying. 
-A1 Type T1 interpretation 
-T2 claim 260 318 I think France is in a tough spot in how to react to this. 
-A2 Type T2 interpretation 
-T3 premise 319 402 There would be even stronger calls for an anti-islam and anti-immigration policies. 
-A3 Type T3 logos_pathos 
-T4 premise 403 482 These event reminds people that they cannot depend on protection by government. 
-A4 Type T4 logos_pathos 
-T5 claim 483 659 I think it would be a shame to allow the many, who are afraid more then anything, to be swayed by xenophobic nationalists (which might have been the goal of the attack anyway). 
-A5 Type T5 interpretation 
-T6 claim 661 836 I think this, regardless of whether the weapons used by the attackers were owned legally, makes a good case for promoting a culture of a reasonable gun ownership and carrying. 
-A6 Type T6 evaluation_rational 
-T7 premise 837 969 Say if 1 out of 5 people carried a gun with them, was well trained in its use and tested in his responsibility to prevent its misuse 
-A7 Type T7 logos_pathos 
-T8 premise 976 1161 society upheld the value of these people as protectors, it would benefit the society more the the current state of legislature and culture of gun ownership in most of European countries 
-A8 Type T8 logos_pathos 
-T9 claim 1164 1245 I also think this would be much better then increase in police numbers and rights 
-A9 Type T9 evaluation_rational 
-T10 premise 1246 1416 as policemen are a very homogeneous group trained to stick together and the danger of even deepening the "not one of us" (pack) mentality and escalation of "police state" 
-A10 Type T10 logos_pathos 
-T11 premise 1774 1853 Did you forget that there were two people there already with guns and training? 
-A11 Type T11 logos 
-T12 premise 1854 1903 The two armed police officers guarding the place. 
-A12 Type T12 logos_pathos 
-T13 premise 1904 1952 That would be the 1 out of 5 people you call for 
-A13 Type T13 logos 
-T14 claim 1971 1991 it didn't solve much 
-A14 Type T14 evaluation_rational 
-T15 premise 1996 2011 They were there 
-A15 Type T15 logos 
-T16 claim 2018 2082 it seems to me as evidence that just having police is not enough 
-A16 Type T16 evaluation_rational 
-R1 agreement Arg1:T2 Arg2:T1
-R2 support Arg1:T3 Arg2:T2
-R3 support Arg1:T12 Arg2:T14
-R4 support Arg1:T13 Arg2:T14
-R5 rebuttal Arg1:T14 Arg2:T1
-R6 support Arg1:T15 Arg2:T16
-R7 undercutter Arg1:T16 Arg2:T14
-R8 support Arg1:T4 Arg2:T2
-R9 agreement Arg1:T5 Arg2:T1
-R10 agreement Arg1:T6 Arg2:T1
-R11 support Arg1:T7 Arg2:T6
-R12 support Arg1:T8 Arg2:T6
-R13 agreement Arg1:T9 Arg2:T1
-R14 support Arg1:T10 Arg2:T9
-R15 support Arg1:T11 Arg2:T14
+T1	main_claim 0 104	CMV: I think the Paris shooting makes a good case for culture of responsible gun ownership any carrying.
+A1	Type 1 interpretation
+T2	claim 260 318	I think France is in a tough spot in how to react to this.
+A2	Type 2 interpretation
+T3	premise 319 402	There would be even stronger calls for an anti-islam and anti-immigration policies.
+A3	Type 3 logos_pathos
+T4	premise 403 482	These event reminds people that they cannot depend on protection by government.
+A4	Type 4 logos_pathos
+T5	claim 483 659	I think it would be a shame to allow the many, who are afraid more then anything, to be swayed by xenophobic nationalists (which might have been the goal of the attack anyway).
+A5	Type 5 interpretation
+T6	claim 661 836	I think this, regardless of whether the weapons used by the attackers were owned legally, makes a good case for promoting a culture of a reasonable gun ownership and carrying.
+A6	Type 6 evaluation_rational
+T7	premise 837 969	Say if 1 out of 5 people carried a gun with them, was well trained in its use and tested in his responsibility to prevent its misuse
+A7	Type 7 logos_pathos
+T8	premise 976 1161	society upheld the value of these people as protectors, it would benefit the society more the the current state of legislature and culture of gun ownership in most of European countries
+A8	Type 8 logos_pathos
+T9	claim 1164 1245	I also think this would be much better then increase in police numbers and rights
+A9	Type 9 evaluation_rational
+T10	premise 1246 1416	as policemen are a very homogeneous group trained to stick together and the danger of even deepening the "not one of us" (pack) mentality and escalation of "police state"
+A10	Type 10 logos_pathos
+T11	premise 1774 1853	Did you forget that there were two people there already with guns and training?
+A11	Type 11 logos
+T12	premise 1854 1903	The two armed police officers guarding the place.
+A12	Type 12 logos_pathos
+T13	premise 1904 1952	That would be the 1 out of 5 people you call for
+A13	Type 13 logos
+T14	claim 1971 1991	it didn't solve much
+A14	Type 14 evaluation_rational
+T15	premise 1996 2011	They were there
+A15	Type 15 logos
+T16	claim 2018 2082	it seems to me as evidence that just having police is not enough
+A16	Type 16 evaluation_rational
+R1	agreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T2
+R3	support Arg1:T12 Arg2:T14
+R4	support Arg1:T13 Arg2:T14
+R5	rebuttal Arg1:T14 Arg2:T1
+R6	support Arg1:T15 Arg2:T16
+R7	undercutter Arg1:T16 Arg2:T14
+R8	support Arg1:T4 Arg2:T2
+R9	agreement Arg1:T5 Arg2:T1
+R10	agreement Arg1:T6 Arg2:T1
+R11	support Arg1:T7 Arg2:T6
+R12	support Arg1:T8 Arg2:T6
+R13	agreement Arg1:T9 Arg2:T1
+R14	support Arg1:T10 Arg2:T9
+R15	support Arg1:T11 Arg2:T14

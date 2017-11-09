@@ -1,80 +1,80 @@
-T1 main_claim 0 37 CMV: Nativity scenes are antisemitic. 
-A1 Type T1 evaluation_emotional 
-T2 claim 39 126 This has nothing to do with the celebration of Christmas excluding religious minorities 
-A2 Type T2 evaluation_emotional 
-T3 claim 142 211 traditional nativity scenes reinforce negative stereotypes about Jews 
-A3 Type T3 evaluation_emotional 
-T4 premise 215 387 As the story goes, when Jesus was about to be born his parents were travelling to Bethlehem, but when they got there the inn was full, so Mary had to give birth in the barn 
-A4 Type T4 logos 
-T5 premise 390 549 The problem is, if nativity scenes are any indication, baby Jesus was still in the manger when the three wise men came to visit and give him Christmas presents 
-A5 Type T5 logos 
-T6 premise 552 684 Most people know Jesus was born on Christmas, but less realize that the wise men didn't show up until the Epiphany twelve days later 
-A6 Type T6 logos 
-T7 claim 688 784 Are we honestly expected to believe that no vacancies opened up at the inn for almost two weeks? 
-A7 Type T7 interpretation 
-T8 premise 785 869 Because that would be the most unbelievable aspect of the entire story if you ask me 
-A8 Type T8 logos 
-T9 premise 876 920 it seriously strains credulity to begin with 
-A9 Type T9 logos 
-T10 premise 924 999 Even miracles make more sense in the context of the birth of the Son of God 
-A10 Type T10 logos 
-T11 premise 1002 1109 Maybe a virgin really could give birth to a deity, or a new star could magically appear over the birthplace 
-A11 Type T11 logos_pathos 
-T12 premise 1116 1206 there's no reason for the inn to miraculously have no rooms come open for nearly two weeks 
-A12 Type T12 logos 
-T13 premise 1209 1430 Plus Mary and Joseph would be the first to know when something came available since they were basically squatting in the garage and would surely notice when patrons came to get their ox or camel or whatever before leaving 
-A13 Type T13 logos_pathos 
-T14 claim 1434 1638 The obvious implication is that Jesus' chintzy Jewish stepdad was such a tightwad that he was willing to let his pubescent wife and her newborn baby sleep in donkey slop if it would save him a few shekels 
-A14 Type T14 interpretation 
-T15 premise 1641 1815 Joseph probably would have made that barn the family's permanent rent-free residence if the wise men hadn't showed up bearing enough cash and prizes to go live it up in Egypt 
-A15 Type T15 logos_pathos 
-T16 premise 1829 1862 why did they stay so long anyway? 
-A16 Type T16 logos 
-T17 premise 1863 1911 It's not like Mary needed the time to recuperate 
-A17 Type T17 logos 
-T18 premise 1914 2070 Thanks to baby Jesus' healing powers even her hymen immediately regenerated, kind of like the redhead vampire from True Blood or the cheerleader from Heroes 
-A18 Type T18 logos_pathos 
-T19 premise 2075 2175 Not the real life Hayden Panettiere though, you know those gigantic Klitschkos split that wide open. 
-A19 Type T19 pathos 
-T20 claim 2198 2269 Actually, most commentators think they didn't show up for a year or two 
-A20 Type T20 interpretation 
-T21 claim 2278 2314 "inn" is arguably a poor translation 
-A21 Type T21 evaluation_rational 
-T22 premise 2317 2365 It wasn't a hotel that didn't have room for them 
-A22 Type T22 logos 
-T23 premise 2368 2440 It was that extended family didn't have a guest room for Joseph's family 
-A23 Type T23 logos 
-T24 premise 2443 2504 perhaps because of the scandalous nature of Mary's pregnancy? 
-A24 Type T24 logos_pathos 
-T25 claim 2508 2637 Them being stuck in a barn has nothing to do with Joseph being cheap and everything to do with his family having poor hospitality 
-A25 Type T25 evaluation_rational 
-T26 claim 2650 2698 Interesting, I was not aware of this perspective 
-A26 Type T26 evaluation_rational 
-T27 claim 2705 2796 certainly a lot can be lost in translation, especially multiple translations over centuries 
-A27 Type T27 interpretation 
-R1 agreement Arg1:T2 Arg2:T1
-R2 agreement Arg1:T3 Arg2:T1
-R3 support Arg1:T12 Arg2:T7
-R4 support Arg1:T13 Arg2:T7
-R5 agreement Arg1:T14 Arg2:T1
-R6 support Arg1:T15 Arg2:T14
-R7 support Arg1:T16 Arg2:T14
-R8 support Arg1:T17 Arg2:T14
-R9 support Arg1:T18 Arg2:T14
-R10 support Arg1:T19 Arg2:T14
-R11 undercutter Arg1:T20 Arg2:T6
-R12 undercutter Arg1:T21 Arg2:T7
-R13 support Arg1:T4 Arg2:T3
-R14 support Arg1:T22 Arg2:T21
-R15 support Arg1:T23 Arg2:T21
-R16 support Arg1:T24 Arg2:T21
-R17 undercutter Arg1:T25 Arg2:T14
-R18 agreement Arg1:T26 Arg2:T21
-R19 agreement Arg1:T27 Arg2:T21
-R20 support Arg1:T5 Arg2:T3
-R21 support Arg1:T6 Arg2:T3
-R22 agreement Arg1:T7 Arg2:T1
-R23 support Arg1:T8 Arg2:T7
-R24 support Arg1:T9 Arg2:T7
-R25 support Arg1:T10 Arg2:T7
-R26 support Arg1:T11 Arg2:T7
+T1	main_claim 0 37	CMV: Nativity scenes are antisemitic.
+A1	Type 1 evaluation_emotional
+T2	claim 39 126	This has nothing to do with the celebration of Christmas excluding religious minorities
+A2	Type 2 evaluation_emotional
+T3	claim 142 211	traditional nativity scenes reinforce negative stereotypes about Jews
+A3	Type 3 evaluation_emotional
+T4	premise 215 387	As the story goes, when Jesus was about to be born his parents were travelling to Bethlehem, but when they got there the inn was full, so Mary had to give birth in the barn
+A4	Type 4 logos
+T5	premise 390 549	The problem is, if nativity scenes are any indication, baby Jesus was still in the manger when the three wise men came to visit and give him Christmas presents
+A5	Type 5 logos
+T6	premise 552 684	Most people know Jesus was born on Christmas, but less realize that the wise men didn't show up until the Epiphany twelve days later
+A6	Type 6 logos
+T7	claim 688 784	Are we honestly expected to believe that no vacancies opened up at the inn for almost two weeks?
+A7	Type 7 interpretation
+T8	premise 785 869	Because that would be the most unbelievable aspect of the entire story if you ask me
+A8	Type 8 logos
+T9	premise 876 920	it seriously strains credulity to begin with
+A9	Type 9 logos
+T10	premise 924 999	Even miracles make more sense in the context of the birth of the Son of God
+A10	Type 10 logos
+T11	premise 1002 1109	Maybe a virgin really could give birth to a deity, or a new star could magically appear over the birthplace
+A11	Type 11 logos_pathos
+T12	premise 1116 1206	there's no reason for the inn to miraculously have no rooms come open for nearly two weeks
+A12	Type 12 logos
+T13	premise 1209 1430	Plus Mary and Joseph would be the first to know when something came available since they were basically squatting in the garage and would surely notice when patrons came to get their ox or camel or whatever before leaving
+A13	Type 13 logos_pathos
+T14	claim 1434 1638	The obvious implication is that Jesus' chintzy Jewish stepdad was such a tightwad that he was willing to let his pubescent wife and her newborn baby sleep in donkey slop if it would save him a few shekels
+A14	Type 14 interpretation
+T15	premise 1641 1815	Joseph probably would have made that barn the family's permanent rent-free residence if the wise men hadn't showed up bearing enough cash and prizes to go live it up in Egypt
+A15	Type 15 logos_pathos
+T16	premise 1829 1862	why did they stay so long anyway?
+A16	Type 16 logos
+T17	premise 1863 1911	It's not like Mary needed the time to recuperate
+A17	Type 17 logos
+T18	premise 1914 2070	Thanks to baby Jesus' healing powers even her hymen immediately regenerated, kind of like the redhead vampire from True Blood or the cheerleader from Heroes
+A18	Type 18 logos_pathos
+T19	premise 2075 2175	Not the real life Hayden Panettiere though, you know those gigantic Klitschkos split that wide open.
+A19	Type 19 pathos
+T20	claim 2198 2269	Actually, most commentators think they didn't show up for a year or two
+A20	Type 20 interpretation
+T21	claim 2278 2314	"inn" is arguably a poor translation
+A21	Type 21 evaluation_rational
+T22	premise 2317 2365	It wasn't a hotel that didn't have room for them
+A22	Type 22 logos
+T23	premise 2368 2440	It was that extended family didn't have a guest room for Joseph's family
+A23	Type 23 logos
+T24	premise 2443 2504	perhaps because of the scandalous nature of Mary's pregnancy?
+A24	Type 24 logos_pathos
+T25	claim 2508 2637	Them being stuck in a barn has nothing to do with Joseph being cheap and everything to do with his family having poor hospitality
+A25	Type 25 evaluation_rational
+T26	claim 2650 2698	Interesting, I was not aware of this perspective
+A26	Type 26 evaluation_rational
+T27	claim 2705 2796	certainly a lot can be lost in translation, especially multiple translations over centuries
+A27	Type 27 interpretation
+R1	agreement Arg1:T2 Arg2:T1
+R2	agreement Arg1:T3 Arg2:T1
+R3	support Arg1:T12 Arg2:T7
+R4	support Arg1:T13 Arg2:T7
+R5	agreement Arg1:T14 Arg2:T1
+R6	support Arg1:T15 Arg2:T14
+R7	support Arg1:T16 Arg2:T14
+R8	support Arg1:T17 Arg2:T14
+R9	support Arg1:T18 Arg2:T14
+R10	support Arg1:T19 Arg2:T14
+R11	undercutter Arg1:T20 Arg2:T6
+R12	undercutter Arg1:T21 Arg2:T7
+R13	support Arg1:T4 Arg2:T3
+R14	support Arg1:T22 Arg2:T21
+R15	support Arg1:T23 Arg2:T21
+R16	support Arg1:T24 Arg2:T21
+R17	undercutter Arg1:T25 Arg2:T14
+R18	agreement Arg1:T26 Arg2:T21
+R19	agreement Arg1:T27 Arg2:T21
+R20	support Arg1:T5 Arg2:T3
+R21	support Arg1:T6 Arg2:T3
+R22	agreement Arg1:T7 Arg2:T1
+R23	support Arg1:T8 Arg2:T7
+R24	support Arg1:T9 Arg2:T7
+R25	support Arg1:T10 Arg2:T7
+R26	support Arg1:T11 Arg2:T7

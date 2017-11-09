@@ -1,71 +1,71 @@
-T1 main_claim 0 64  CMV: Religion is not violent or not violent, its followers are. 
-A1 Type T1 interpretation 
-T2 claim 163 360 I point out that many Christians follow the bible which has numerous examples of sexism, but in application, there are numerous branches of Christianity that are no more sexist than secular groups. 
-A2 Type T2 evaluation_rational 
-T3 premise 361 412 For example, Congregationalists and Universaliists. 
-A3 Type T3 logos_pathos 
-T4 claim 418 589 my belief is that while religion can inform the views of people, it is far more likely that religion will be used to justify actions that would have been executed any way. 
-A4 Type T4 evaluation_rational 
-T5 claim 590 704 I think that most Jewish people don't want to stone adulterers and most Muslims don't want to stone non believers. 
-A5 Type T5 evaluation_rational 
-T6 premise 707 890 The fact I don't fear an Amish flying a plane into my office tower or a Jain blowing up my bus makes me doubt that religions have no inherent features that influence people's actions. 
-A6 Type T6 logos_pathos 
-T7 claim 893 996 The Amish and the Vedic religions in general haven't been demonized to the same extent as Muslims have. 
-A7 Type T7 interpretation 
-T8 premise 997 1070 I'm far morel likely in general to be killed by a Christian than a Muslim 
-A8 Type T8 logos 
-T9 claim 1077 1120 that doesn't mean I should fear Christians. 
-A9 Type T9 evaluation_emotional 
-T10 premise 1122 1263 So, if you're measuring by fear people feel, you're more likely to find the source of that in the mainstream media than you will in religion. 
-A10 Type T10 logos 
-T11 premise 1264 1340 Look at how scared everyone got over Ebola, a non issue for most westerners. 
-A11 Type T11 logos 
-T12 claim 1344 1413 I am just expressing that I find current islam a religion I mistrust. 
-A12 Type T12 evaluation_emotional 
-T13 claim 1414 1507 I am not saying everyone should mistrust them or that I should change my behaviour in any way 
-A13 Type T13 evaluation_emotional 
-T14 premise 1514 1572 islam has some toxic components christianity no longer has 
-A14 Type T14 pathos 
-T15 claim 1652 1726 This has nothing to do with the religion but by what we are surrounded by. 
-A15 Type T15 evaluation_emotional 
-T16 premise 1727 1823 I probably am more likely to be killed by a muslim than a christian *because of their religion*. 
-A16 Type T16 logos_pathos 
-T17 premise 1890 2025 Your surrounded by enough Christians you're still probably more likely to be killed by a Christian for religious reasons than a Muslim. 
-A17 Type T17 logos 
-T18 claim 2091 2201 I'm not going to take an emotional appeal when considering whether or not a religion has dangerous components. 
-A18 Type T18 evaluation_rational 
-T19 claim 2203 2245 What particular aspects do you find toxic? 
-A19 Type T19 disagreement 
-T20 premise 2389 2455 That is due to statistics, not to scripture or religious property. 
-A20 Type T20 logos 
-T21 premise 2456 2526 you are more likely to be killed by a heart attack than by a christian 
-A21 Type T21 logos 
-T22 claim 2529 2573 this doesn't say anything about christianity 
-A22 Type T22 interpretation 
-T23 claim 2705 2771 I am just looking at the outcome of people following the religion. 
-A23 Type T23 interpretation 
-T24 premise 2829 2887 The fanatism and radical actions it allows and encourages. 
-A24 Type T24 logos 
-R1 agreement Arg1:T2 Arg2:T1
-R2 support Arg1:T3 Arg2:T2
-R3 support Arg1:T21 Arg2:T22
-R4 rebuttal Arg1:T22 Arg2:T17
-R5 agreement Arg1:T23 Arg2:T18
-R6 undercutter Arg1:T24 Arg2:T19
-R7 agreement Arg1:T4 Arg2:T1
-R8 undercutter Arg1:T6 Arg2:T4
-R9 undercutter Arg1:T7 Arg2:T6
-R10 support Arg1:T8 Arg2:T7
-R11 agreement Arg1:T9 Arg2:T7
-R12 support Arg1:T10 Arg2:T7
-R13 support Arg1:T11 Arg2:T7
-R14 agreement Arg1:T5 Arg2:T4
-R15 rebuttal Arg1:T12 Arg2:T9
-R16 rebuttal Arg1:T13 Arg2:T9
-R17 support Arg1:T14 Arg2:T13
-R18 undercutter Arg1:T15 Arg2:T8
-R19 support Arg1:T16 Arg2:T15
-R20 undercutter Arg1:T17 Arg2:T16
-R21 rebuttal Arg1:T18 Arg2:T16
-R22 rebuttal Arg1:T19 Arg2:T16
-R23 undercutter Arg1:T20 Arg2:T17
+T1	main_claim 0 64	 CMV: Religion is not violent or not violent, its followers are.
+A1	Type 1 interpretation
+T2	claim 163 360	I point out that many Christians follow the bible which has numerous examples of sexism, but in application, there are numerous branches of Christianity that are no more sexist than secular groups.
+A2	Type 2 evaluation_rational
+T3	premise 361 412	For example, Congregationalists and Universaliists.
+A3	Type 3 logos_pathos
+T4	claim 418 589	my belief is that while religion can inform the views of people, it is far more likely that religion will be used to justify actions that would have been executed any way.
+A4	Type 4 evaluation_rational
+T5	claim 590 704	I think that most Jewish people don't want to stone adulterers and most Muslims don't want to stone non believers.
+A5	Type 5 evaluation_rational
+T6	premise 707 890	The fact I don't fear an Amish flying a plane into my office tower or a Jain blowing up my bus makes me doubt that religions have no inherent features that influence people's actions.
+A6	Type 6 logos_pathos
+T7	claim 893 996	The Amish and the Vedic religions in general haven't been demonized to the same extent as Muslims have.
+A7	Type 7 interpretation
+T8	premise 997 1070	I'm far morel likely in general to be killed by a Christian than a Muslim
+A8	Type 8 logos
+T9	claim 1077 1120	that doesn't mean I should fear Christians.
+A9	Type 9 evaluation_emotional
+T10	premise 1122 1263	So, if you're measuring by fear people feel, you're more likely to find the source of that in the mainstream media than you will in religion.
+A10	Type 10 logos
+T11	premise 1264 1340	Look at how scared everyone got over Ebola, a non issue for most westerners.
+A11	Type 11 logos
+T12	claim 1344 1413	I am just expressing that I find current islam a religion I mistrust.
+A12	Type 12 evaluation_emotional
+T13	claim 1414 1507	I am not saying everyone should mistrust them or that I should change my behaviour in any way
+A13	Type 13 evaluation_emotional
+T14	premise 1514 1572	islam has some toxic components christianity no longer has
+A14	Type 14 pathos
+T15	claim 1652 1726	This has nothing to do with the religion but by what we are surrounded by.
+A15	Type 15 evaluation_emotional
+T16	premise 1727 1823	I probably am more likely to be killed by a muslim than a christian *because of their religion*.
+A16	Type 16 logos_pathos
+T17	premise 1890 2025	Your surrounded by enough Christians you're still probably more likely to be killed by a Christian for religious reasons than a Muslim.
+A17	Type 17 logos
+T18	claim 2091 2201	I'm not going to take an emotional appeal when considering whether or not a religion has dangerous components.
+A18	Type 18 evaluation_rational
+T19	claim 2203 2245	What particular aspects do you find toxic?
+A19	Type 19 disagreement
+T20	premise 2389 2455	That is due to statistics, not to scripture or religious property.
+A20	Type 20 logos
+T21	premise 2456 2526	you are more likely to be killed by a heart attack than by a christian
+A21	Type 21 logos
+T22	claim 2529 2573	this doesn't say anything about christianity
+A22	Type 22 interpretation
+T23	claim 2705 2771	I am just looking at the outcome of people following the religion.
+A23	Type 23 interpretation
+T24	premise 2829 2887	The fanatism and radical actions it allows and encourages.
+A24	Type 24 logos
+R1	agreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T2
+R3	support Arg1:T21 Arg2:T22
+R4	rebuttal Arg1:T22 Arg2:T17
+R5	agreement Arg1:T23 Arg2:T18
+R6	undercutter Arg1:T24 Arg2:T19
+R7	agreement Arg1:T4 Arg2:T1
+R8	undercutter Arg1:T6 Arg2:T4
+R9	undercutter Arg1:T7 Arg2:T6
+R10	support Arg1:T8 Arg2:T7
+R11	agreement Arg1:T9 Arg2:T7
+R12	support Arg1:T10 Arg2:T7
+R13	support Arg1:T11 Arg2:T7
+R14	agreement Arg1:T5 Arg2:T4
+R15	rebuttal Arg1:T12 Arg2:T9
+R16	rebuttal Arg1:T13 Arg2:T9
+R17	support Arg1:T14 Arg2:T13
+R18	undercutter Arg1:T15 Arg2:T8
+R19	support Arg1:T16 Arg2:T15
+R20	undercutter Arg1:T17 Arg2:T16
+R21	rebuttal Arg1:T18 Arg2:T16
+R22	rebuttal Arg1:T19 Arg2:T16
+R23	undercutter Arg1:T20 Arg2:T17
