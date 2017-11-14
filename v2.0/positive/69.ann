@@ -1,37 +1,37 @@
 T1	main_claim 0 136	CMV: Any given aspect of the legal system should be short and simple enough that an average high school graduate could fully memorize it
-A1	Type 1 evaluation_rational
+A1	Type1 T1 evaluation_rational
 T2	claim 295 416	simple enough that almost anyone could, if they were struck by the impulse to make that unusually large commitment, do so
-A2	Type 2 evaluation_emotional
+A2	Type2 T2 evaluation_emotional
 T3	premise 419 476	Like, most people don't memorize all of Romeo and Juliet.
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	premise 477 539	But most people, I think, if they really wanted to, **could.**
-A4	Type 4 logos_pathos
+A4	Type3 T4 logos_pathos
 T5	premise 765 912	I'm 100% on board with trashing the US constitution and starting from scratch with new documents, so appealing to the constitution is not on topic.
-A5	Type 5 logos_pathos
+A5	Type3 T5 logos_pathos
 T6	premise 959 1030	I think the American legal system has gotten out of hand in complexity.
-A6	Type 6 pathos
+A6	Type3 T6 pathos
 T7	claim 1031 1169	I think the law should be simple enough that close to anybody could reasonably know the mechanics of all the laws likely to apply to them.
-A7	Type 7 interpretation
+A7	Type2 T7 interpretation
 T8	claim 1171 1387	Ideally, it should be a relatively simple feat of memorization to learn the names of all the categories of law; the number of laws in each category; and the basic mechanics of the enforcement of that category's laws.
-A8	Type 8 evaluation_rational
+A8	Type2 T8 evaluation_rational
 T9	premise 1389 1538	By categories, I mean things like: criminal law; the tax code; any given category of regulation by profession (medical, construction, IT, and so on).
-A9	Type 9 pathos
+A9	Type3 T9 pathos
 T10	claim 1632 1763	it should be well within the average citizen's capacity to know all the laws likely to apply to them, word-for-word or close to it.
-A10	Type 10 evaluation_rational
+A10	Type2 T10 evaluation_rational
 T11	claim 2678 2761	many laws regulate things that are simply far too complex to simplify to that level
-A11	Type 11 evaluation_rational
+A11	Type2 T11 evaluation_rational
 T12	premise 2764 2933	It generally takes an undergraduate college level education at minimum to understand something like international financial markets and to then effectively regulate them
-A12	Type 12 logos_pathos
+A12	Type3 T12 logos_pathos
 T13	premise 2936 3033	Laws have to be made with a working knowledge of the system and their language will reflect that.
-A13	Type 13 pathos
+A13	Type3 T13 pathos
 T14	claim 3065 3121	changing the US laws would not change international laws
-A14	Type 14 agreement
+A14	Type2 T14 agreement
 T15	claim 3128 3290	the systems of treaties necessary to interface with other countries' economies would be complex in proportion to the complexities of those countries' economic law
-A15	Type 15 agreement
+A15	Type2 T15 agreement
 T16	premise 3353 3458	the actual practice of economics would become drastically simpler if the law were simpler internationally
-A16	Type 16 pathos
+A16	Type3 T16 pathos
 T17	claim 3580 3793	reforming all the countries' economic legal systems to be simpler in compatible ways at the same time is a way bigger implausibility than reforming just one country's economic law in a way that is self-consistent.
-A17	Type 17 evaluation_emotional
+A17	Type2 T17 evaluation_emotional
 R1	agreement Arg1:T2 Arg2:T1
 R2	support Arg1:T3 Arg2:T2
 R3	undercutter Arg1:T11 Arg2:T1

@@ -1,47 +1,47 @@
 T1	main_claim 0 137	CMV: If you're able, European and subscribe even loosely to European values, you should be on the Ukrainian border, driving back Russians
-A1	Type 1 evaluation_rational
+A1	Type1 T1 evaluation_rational
 T2	claim 246 306	Feels to me as if Putin senses weakness in the Western world
-A2	Type 2 interpretation
+A2	Type2 T2 interpretation
 T3	premise 309 393	with the US and Europe driven farther apart by issues like privacy and human rights,
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	premise 394 448	the US withdrawing as a dominant force in geopolitics,
-A4	Type 4 logos_pathos
+A4	Type3 T4 logos_pathos
 T5	premise 449 531	because people in and outside of the US are fed up with the US policing the world.
-A5	Type 5 logos_pathos
+A5	Type3 T5 logos_pathos
 T6	claim 532 662	His territorial pissings seems to be meant to elbow some room for himself on the geopolitical stage, in other words gaining power.
-A6	Type 6 interpretation
+A6	Type2 T6 interpretation
 T7	claim 663 772	Putin is a totalitarian, oppressive, ruthless man, and allowing him to gain more power will affect all of us.
-A7	Type 7 evaluation_emotional
+A7	Type2 T7 evaluation_emotional
 T8	claim 775 926	I doubt anyone on the Ukrainian front actually wants a bunch of untrained Europeans to show up and start attacking anything that looks vaguely Russian.
-A8	Type 8 disagreement
+A8	Type2 T8 disagreement
 T9	premise 927 973	This just won't help the situation in any way.
-A9	Type 9 logos_pathos
+A9	Type3 T9 logos_pathos
 T10	claim 974 1095	If you really want to help, sending money you earn with something you're actually good at (your job) is far more helpful.
-A10	Type 10 evaluation_rational
+A10	Type2 T10 evaluation_rational
 T11	claim 1096 1171	Another thing you can do is to tell your government to send (military) aid.
-A11	Type 11 evaluation_rational
+A11	Type2 T11 evaluation_rational
 T12	premise 1172 1281	Neither things are as cool as fighting Russians out of a moral sense of duty, but they're far more effective.
-A12	Type 12 logos_pathos
+A12	Type3 T12 logos_pathos
 T13	claim 1283 1373	The above assumes that the Europeans should get more involved with the Ukrainian conflict.
-A13	Type 13 evaluation_rational
+A13	Type2 T13 evaluation_rational
 T14	claim 1374 1429	While I agree that that might be the moral thing to do,
-A14	Type 14 agreement
+A14	Type2 T14 agreement
 T15	claim 1430 1485	we should be very careful not to escalate the conflict.
-A15	Type 15 disagreement
+A15	Type2 T15 disagreement
 T16	premise 1486 1602	You should not underestimate how threatened Russia feels by the West's expansion into what used to be a buffer zone.
-A16	Type 16 logos
+A16	Type3 T16 logos
 T17	premise 1603 1762	Whether that feeling and their reaction are justified or not doesn't really matter; the fact is that a proxy war between Europe and Russia would be disastrous.
-A17	Type 17 logos
+A17	Type3 T17 logos
 T18	premise 2020 2080	Telling my government to send help is easier said than done.
-A18	Type 18 logos
+A18	Type3 T18 logos
 T19	premise 2082 2256	Not everybody will make enough that his financial support will outweigh the military support he can provide, this is a definite nuance to my general initial statement though.
-A19	Type 19 logos_pathos
+A19	Type3 T19 logos_pathos
 T20	premise 2257 2409	Supporting foreign militaries financially also has proven sketchy at best in the past, because it's hard to control where the weapons eventually end up.
-A20	Type 20 logos_pathos
+A20	Type3 T20 logos_pathos
 T21	premise 2517 2563	Putin knows very well that he's transgressing.
-A21	Type 21 logos
+A21	Type3 T21 logos
 T22	premise 2564 2720	If that's quelled quickly and effectively, things will get back to normal, whereas if he gets away with it, he might push and push to see how far he can go.
-A22	Type 22 pathos
+A22	Type3 T22 pathos
 R1	support Arg1:T3 Arg2:T2
 R2 support Arg1:T12 Arg2:T10
 R3 support Arg1:T12 Arg2:T11

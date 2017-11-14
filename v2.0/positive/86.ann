@@ -1,33 +1,33 @@
 T1	main_claim 0 73	CMV: I believe the Brave Little Toaster is an incredibly underrated movie
-A1	Type 1 evaluation_emotional
+A1	Type1 T1 evaluation_emotional
 T2	claim 75 185	Ive seen a lot of animated movies in my life but in my opinion they dont stand up to the Brave Little Toaster.
-A2	Type 2 evaluation_rational
+A2	Type2 T2 evaluation_rational
 T3	premise 186 324	The animation is very solid for being made in the 1980`s and I absolutely love the inanimate objects journey to try and find their master.
-A3	Type 3 logos
+A3	Type3 T3 logos
 T4	premise 325 412	One very tense scene for me was when the vacuum cleaner was trying to cross the canyon.
-A4	Type 4 logos
+A4	Type3 T4 logos
 T5	claim 508 620	I feel like this masterpiece is largely unappreciated by a majority of people in favor of other animated movies.
-A5	Type 5 evaluation_rational
+A5	Type2 T5 evaluation_rational
 T6	claim 622 707	Reddit I think the Brave Little Toaster needs some more attention and some more love.
-A6	Type 6 interpretation
+A6	Type2 T6 interpretation
 T7	premise 714 844	The Brave Little Toaster is rated "Fresh" on Rotten Tomatoes, and came fairly close to winning the Sundance Film Festival in 1987.
-A7	Type 7 logos
+A7	Type3 T7 logos
 T8	claim 845 940	The reason it is doesn't have attention now is because it didn't get attention back in the day.
-A8	Type 8 interpretation
+A8	Type2 T8 interpretation
 T9	premise 941 1033	The movie was not widely released in theaters because they never found a distributor for it.
-A9	Type 9 pathos
+A9	Type3 T9 pathos
 T10	premise 1035 1129	So most of us who saw it did so in comparatively limited TV showings, or picked up a VHS tape.
-A10	Type 10 logos
+A10	Type3 T10 logos
 T11	premise 1130 1202	It wasn't a made for TV movie, but that's what ended up happening to it.
-A11	Type 11 logos_pathos
+A11	Type3 T11 logos_pathos
 T12	premise 1203 1275	It has massively outsized footprint for how easy it is to find and view.
-A12	Type 12 logos_pathos
+A12	Type3 T12 logos_pathos
 T13	premise 1276 1372	Those who worked on it went on to do great things, and those who stumbled across it remember it.
-A13	Type 13 logos_pathos
+A13	Type3 T13 logos_pathos
 T14	claim 1393 1462	The Brave Little Toaster isn't underrated as it is rated very highly,
-A14	Type 14 interpretation
+A14	Type2 T14 interpretation
 T15	premise 1463 1543	but it is obscure and can be a hard sell because key elements haven't aged well.
-A15	Type 15 logos_pathos
+A15	Type3 T15 logos_pathos
 R1	support Arg1:T3 Arg2:T2
 R2	undercutter_attack Arg1:T14 Arg2:T5
 R3	partial_agreement Arg1:T15 Arg2:T6

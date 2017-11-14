@@ -1,93 +1,93 @@
 T1	main_claim 0 85	CMV: The global dominance of the abrahamic faiths is largely an accident of geography
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	premise 133 159	I'm Unitarian Universalist
-A2	Type 2 ethos
+A2	Type3 T2 ethos
 T3	premise 313 613	Had a group of religions identical in all respects to Judaism, Christianity, and Islam developed in pretty much any area other than the middle east, they would be no more successful than any of the other relatively minor faiths out there today, depending on what the location in question actually was
-A3	Type 3 logos
+A3	Type3 T3 logos
 T4	premise 618 722	Whatever other religion had ended up developing in the middle east would likely now be globally dominant
-A4	Type 4 logos
+A4	Type3 T4 logos
 T5	claim 758 942	it seems that the core of the success of the Abrahamic religions is dependent largely on the middle east's nature as both a major trade hub between Africa, Europe, and the rest of Asia
-A5	Type 5 interpretation
+A5	Type2 T5 interpretation
 T6	claim 945 1023	and on the fertile crescent's comparatively ancient status as a settled region
-A6	Type 6 interpretation
+A6	Type2 T6 interpretation
 T7	premise 1054 1203	a large part of this view came from something a history teacher told me 6 years ago: "Geography Determines Destiny", and that quote has stuck with me
-A7	Type 7 ethos
+A7	Type3 T7 ethos
 T8	premise 1330 1383	Christianity was primarily spread by the Roman empire
-A8	Type 8 logos
+A8	Type3 T8 logos
 T9	premise 1386 1454	But Rome already had a state religion before it adopted Christianity
-A9	Type 9 logos
+A9	Type3 T9 logos
 T10	claim 1457 1562	So the victory of Christianity over the Roman version of Hellenism can't be attributed to geography alone
-A10	Type 10 interpretation
+A10	Type2 T10 interpretation
 T11	premise 1566 1632	Likewise, Islam was hardly the first religion that Arabia had seen
-A11	Type 11 logos
+A11	Type3 T11 logos
 T12	claim 1635 1677	Its dominance there was not mere geography
-A12	Type 12 interpretation
+A12	Type2 T12 interpretation
 T13	claim 1682 1755	I'm definitely intrigued by this, but not quite convinced enough to delta
-A13	Type 13 evaluation_rational
+A13	Type2 T13 evaluation_rational
 T14	claim 1758 1889	I might be able to go to "The religion eventually adopted by the Roman empire had a very good chance of becoming globally dominant"
-A14	Type 14 evaluation_rational
+A14	Type2 T14 evaluation_rational
 T15	claim 1896 1949	I think that's still largely an accident of geography
-A15	Type 15 interpretation
+A15	Type2 T15 interpretation
 T16	claim 1956 2067	your post definitely didn't address my point A) about a hypothetical identical religion in a different location
-A16	Type 16 evaluation_rational
+A16	Type2 T16 evaluation_rational
 T17	claim 2206 2246	Geography certainly has to be part of it
-A17	Type 17 interpretation
+A17	Type2 T17 interpretation
 T18	premise 2249 2356	If Islam had arisen amongst the Moriori instead of in Arabia, I suspect we'd have a largely Christian world
-A18	Type 18 logos
+A18	Type3 T18 logos
 T19	premise 2359 2465	I can't imagine missionaries travelling out of New Zealand having the same impact that the Arab armies did
-A19	Type 19 logos_pathos
+A19	Type3 T19 logos_pathos
 T20	claim 2473 2544	you can't blame geography for which religion became pre-eminent in Rome
-A20	Type 20 interpretation
+A20	Type2 T20 interpretation
 T21	claim 2605 2648	The emphasis on belief rather than practice
-A21	Type 21 interpretation
+A21	Type2 T21 interpretation
 T22	premise 2651 2693	For most religions, it matters what you do
-A22	Type 22 logos
+A22	Type3 T22 logos
 T23	premise 2696 2824	When pagan Vikings met Christians, they knew the Christian warriors would end up in Valhalla or somewhere Christianly equivalent
-A23	Type 23 logos
+A23	Type3 T23 logos
 T24	premise 2827 2902	Why would Thor reject a valiant warrior just because he didn't worship him?
-A24	Type 24 logos_pathos
+A24	Type3 T24 logos_pathos
 T25	premise 3059 3173	It seems like a compromise but the eventual outcome is that the belief wins and the practices may or may not stick
-A25	Type 25 logos
+A25	Type3 T25 logos
 T26	premise 3176 3315	You might be a Christian that acts like a Roman, but the word is Christian and the idols eventually disappear while the Bible sticks around
-A26	Type 26 logos
+A26	Type3 T26 logos
 T27	premise 3318 3393	Note that this is to a large extent what happened with the Native Americans
-A27	Type 27 logos
+A27	Type3 T27 logos
 T28	premise 3396 3493	It's not just that the Christians defeated the tribes militarily (though that happened sometimes)
-A28	Type 28 logos
+A28	Type3 T28 logos
 T29	premise 3496 3654	It's more that the Christians would come to the tribes, adopt their ways, offer them good things like education, and all they'd want is a little Bible reading
-A29	Type 29 logos
+A29	Type3 T29 logos
 T30	premise 3657 3800	Well the native faiths don't think reading the Bible is against their religion - they didn't emphasize belief the way Christians and Muslims do
-A30	Type 30 logos
+A30	Type3 T30 logos
 T31	claim 3829 3838	Education
-A31	Type 31 interpretation
+A31	Type2 T31 interpretation
 T32	premise 3841 3924	To a large extent, Judaism/Christianity/Islam were religions that demanded literacy
-A32	Type 32 logos
+A32	Type3 T32 logos
 T33	premise 3927 3979	This meant the teachers were also religious teachers
-A33	Type 33 logos
+A33	Type3 T33 logos
 T34	premise 3982 4043	Compare this to China, where literacy wasn't tied to religion
-A34	Type 34 logos
+A34	Type3 T34 logos
 T35	premise 4046 4185	There may have been better literacy in China, but the smartest people (or most avid readers anyway) weren't necessarily going into religion
-A35	Type 35 logos
+A35	Type3 T35 logos
 T36	claim 4192 4270	A whole lot of history is actually just individuals doing idiosyncratic things
-A36	Type 36 interpretation
+A36	Type2 T36 interpretation
 T37	claim 4273 4326	The right person in the right place at the right time
-A37	Type 37 interpretation
+A37	Type2 T37 interpretation
 T38	claim 4333 4345	Universalism
-A38	Type 38 interpretation
+A38	Type2 T38 interpretation
 T39	premise 4348 4458	Christianity was one of a very small number of religions that claim a duty to proselytize and convert everyone
-A39	Type 39 logos
+A39	Type3 T39 logos
 T40	premise 4461 4670	Most religions, confronted with a different religion, just say "this is true here and that's true there" or "those are some deities we hadn't known about" or at worst "those are some deities that are not ours"
-A40	Type 40 logos
+A40	Type3 T40 logos
 T41	premise 4677 4790	Christianity really goes for the "this is true for everyone for always, and we should actively work to spread it"
-A41	Type 41 logos
+A41	Type3 T41 logos
 T42	premise 4793 4905	If Alexander the Great had that kind of religious zealotry, he could have spread Hellenism much more than he did
-A42	Type 42 logos_pathos
+A42	Type3 T42 logos_pathos
 T43	premise 4912 4996	he was satisfied with just adding himself to whatever pantheon the locals worshipped
-A43	Type 43 logos_pathos
+A43	Type3 T43 logos_pathos
 T44	claim 5001 5114	Well, you have successfully moved me from "it's probably about 80% geography" to "it's probably 40-60% geography"
-A44	Type 44 evaluation_rational
+A44	Type2 T44 evaluation_rational
 T45	claim 5117 5161	I think that's enough for a ∆, so have one
-A45	Type 45 evaluation_rational
+A45	Type2 T45 evaluation_rational
 R1	agreement Arg1:T2 Arg2:T5
 R2	support Arg1:T3 Arg2:T5
 R3	undercutter Arg1:T12 Arg2:T6

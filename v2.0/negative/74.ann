@@ -1,67 +1,67 @@
 T1	main_claim 0 108	CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	claim 110 136	The options are as follows
-A2	Type 2 evaluation_rational
+A2	Type2 T2 evaluation_rational
 T3	claim 140 204	1. You don't agree with what is going on and stop supporting it.
-A3	Type 3 evaluation_rational
+A3	Type2 T3 evaluation_rational
 T4	claim 206 309	2. You don't care about animals, so you're content with paying for them to be abused for your pleasure.
-A4	Type 4 evaluation_emotional
+A4	Type2 T4 evaluation_emotional
 T5	claim 311 423	3. You don't agree with what is going on, but try to put it to the back of your mind and continue to support it.
-A5	Type 5 interpretation
+A5	Type2 T5 interpretation
 T6	premise 436 562	I used to follow 'option number 3', but recently started 'option number 1' in an attempt to line my actions up with my values.
-A6	Type 6 logos_pathos
+A6	Type3 T6 logos_pathos
 T7	claim 563 635	I suspect this way of looking at it is still somewhat simplistic however
-A7	Type 7 evaluation_emotional
+A7	Type2 T7 evaluation_emotional
 T8	premise 779 863	What about "I care about animals, but see it as a necessary evil for my sustenance."
-A8	Type 8 pathos
+A8	Type3 T8 pathos
 T9	claim 865 919	I feel the same way about animals in medical research.
-A9	Type 9 evaluation_emotional
+A9	Type2 T9 evaluation_emotional
 T10	premise 920 951	I feel terrible for the animals
-A10	Type 10 logos_pathos
+A10	Type3 T10 logos_pathos
 T11	premise 958 1044	it's necessary for the health of humans and a better option than researching on humans
-A11	Type 11 logos_pathos
+A11	Type3 T11 logos_pathos
 T12	claim 1049 1113	Slaughtering animals is not a necessary evil for your sustenance
-A12	Type 12 interpretation
+A12	Type2 T12 interpretation
 T13	claim 1129 1141	I don't know
-A13	Type 13 evaluation_rational
+A13	Type2 T13 evaluation_rational
 T14	premise 1220 1278	I am an omnivore, and my diet consists of meat and plants.
-A14	Type 14 ethos
+A14	Type3 T14 ethos
 T15	claim 1279 1403	There is not a good way to supply meat at an industrial scale that doesn't involve some measure of suffering for the animal.
-A15	Type 15 evaluation_rational
+A15	Type2 T15 evaluation_rational
 T16	claim 1405 1518	We could trade information back and forth as to whether or not it's possible to be happy and healthy without meat
-A16	Type 16 evaluation_rational
+A16	Type2 T16 evaluation_rational
 T17	claim 1525 1585	I'm firmly convinced that meat is a requirement for my diet.
-A17	Type 17 evaluation_rational
+A17	Type2 T17 evaluation_rational
 T18	claim 1588 1652	Meat is the industry that creates the most suffering for animals
-A18	Type 18 evaluation_rational
+A18	Type2 T18 evaluation_rational
 T19	premise 1663 1791	Being the one that requires the most land usage and causes the most environmental issues as well as obviously slaughtering them.
-A19	Type 19 logos_pathos
+A19	Type3 T19 logos_pathos
 T20	premise 1793 1970	Vegans are also the group least likely to die of heart disease, with vegetarians being second and omnivores being first (or the same, depending on which study you're looking at)
-A20	Type 20 logos_pathos
+A20	Type3 T20 logos_pathos
 T21	claim 1973 2056	I'm convinced it's a healthier diet, which is a nice bonus for being compassionate.
-A21	Type 21 evaluation_rational
+A21	Type2 T21 evaluation_rational
 T22	claim 2268 2332	This doesn't really matter if it is something that is necessary.
-A22	Type 22 evaluation_rational
+A22	Type2 T22 evaluation_rational
 T23	premise 2603 2742	[This study](http://www.ncbi.nlm.nih.gov/pubmed/20479151) shows that unprocessed meat is not linked to heart disease, but processed meat is
-A23	Type 23 logos_pathos
+A23	Type3 T23 logos_pathos
 T24	premise 2769 2820	a vegan *has* to be more conscious about their diet
-A24	Type 24 logos_pathos
+A24	Type3 T24 logos_pathos
 T25	claim 2832 2874	extra attention results in health benefits
-A25	Type 25 evaluation_rational
+A25	Type2 T25 evaluation_rational
 T26	premise 2878 2977	Many people consider fish to be extremely healthy, and often include it in their "vegetarian" diets
-A26	Type 26 logos
+A26	Type3 T26 logos
 T27	premise 2980 3051	Eating fish has been associated with a *reduced* risk of heart disease.
-A27	Type 27 logos
+A27	Type3 T27 logos
 T28	premise 3052 3116	Fish farms are equally as cruel as the rest of the meat industry
-A28	Type 28 logos_pathos
+A28	Type3 T28 logos_pathos
 T29	claim 3123 3186	we don't relate to them as much so they don't tug on our morals
-A29	Type 29 interpretation
+A29	Type2 T29 interpretation
 T30	claim 3190 3249	Certainly, you can still be healthy with alternative diets.
-A30	Type 30 interpretation
+A30	Type2 T30 interpretation
 T31	claim 3259 3325	you have to curate your diet much more if you do not include meat.
-A31	Type 31 evaluation_rational
+A31	Type2 T31 evaluation_rational
 T32	claim 3326 3411	I'm not convinced that an equally curated diet including meat would not be healthier.
-A32	Type 32 evaluation_rational
+A32	Type2 T32 evaluation_rational
 R1	rebuttal_attack Arg1:T12 Arg2:T9
 R2	undercutter Arg1:T13 Arg2:T9
 R3	support Arg1:T14 Arg2:T15

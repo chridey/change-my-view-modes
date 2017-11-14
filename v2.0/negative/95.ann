@@ -1,57 +1,57 @@
 T1	main_claim 0 84	CMV:Patriotism is the belief that being born on one side of a line makes you better.
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	claim 86 149	American patriots have a general mentality against immigration.
-A2	Type 2 interpretation
+A2	Type2 T2 interpretation
 T3	premise 150 261	Saying these people shouldn’t be allowed to become part of the country, is the same as saying they are worse,
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	premise 262 314	because they were born on a different side of a line
-A4	Type 4 logos_pathos
+A4	Type3 T4 logos_pathos
 T5	premise 321 390	americans are better because of the side of the line they are born on
-A5	Type 5 logos_pathos
+A5	Type3 T5 logos_pathos
 T6	premise 393 501	This is prominent in many ads and political champagnes, namely the slogan “Creating jobs for americans”.
-A6	Type 6 logos
+A6	Type3 T6 logos
 T7	claim 502 543	I understand why politics use this slogan
-A7	Type 7 evaluation_rational
+A7	Type2 T7 evaluation_rational
 T8	premise 546 603	because they are trying to get americans to vote for them
-A8	Type 8 logos
+A8	Type3 T8 logos
 T9	premise 610 675	this slogan is also prominent in ads made by private corporations
-A9	Type 9 logos
+A9	Type3 T9 logos
 T10	premise 678 779	As if creating jobs for americans is morally superior to creating jobs for people of other countries.
-A10	Type 10 logos_pathos
+A10	Type3 T10 logos_pathos
 T11	premise 780 898	The companies launching these ads may be trying to win in the american market, so they can sell more of their product,
-A11	Type 11 logos
+A11	Type3 T11 logos
 T12	premise 903 1015	the fact that this can increase sales shows that many americans hold the being born on one side of a line belief
-A12	Type 12 logos
+A12	Type3 T12 logos
 T13	claim 1018 1100	I am not blaming the politicians or corporations running ads running these slogans
-A13	Type 13 interpretation
+A13	Type2 T13 interpretation
 T14	premise 1103 1172	they are merely trying to win votes or make money from this mentality
-A14	Type 14 logos
+A14	Type3 T14 logos
 T15	claim 1179 1313	really it is the citizens that have the belief that they are better, because of the side of a line they are born on, that are at fault
-A15	Type 15 interpretation
+A15	Type2 T15 interpretation
 T16	claim 1316 1354	Patriotism is really just this belief.
-A16	Type 16 interpretation
+A16	Type2 T16 interpretation
 T17	claim 1357 1484	I'm sure you can find many people who self-identify as patriots while also favoring policies that would allow more immigration.
-A17	Type 17 evaluation_rational
+A17	Type2 T17 evaluation_rational
 T18	premise 1485 1509	I'm one of these people.
-A18	Type 18 ethos_logos
+A18	Type3 T18 ethos_logos
 T19	premise 1530 1632	you don't have to necessarily think you're better than other people because you're against immigration
-A19	Type 19 pathos
+A19	Type3 T19 pathos
 T20	premise 1635 1802	Many of these people believe that it's not our responsibility as Americans to provide for people from other countries, but rather the responsibility of those countries
-A20	Type 20 pathos
+A20	Type3 T20 pathos
 T21	premise 1805 1868	That's not the same as thinking you're better than other people
-A21	Type 21 logos_pathos
+A21	Type3 T21 logos_pathos
 T22	claim 1871 1947	I don't want absolutely no immigration control for people coming into the US
-A22	Type 22 evaluation_rational
+A22	Type2 T22 evaluation_rational
 T23	claim 1954 2021	I don't think I'm better than the people I'd be denying citizenship
-A23	Type 23 evaluation_rational
+A23	Type2 T23 evaluation_rational
 T24	claim 2026 2171	I confused patriotism, which is the love of one's country, with nationalism, which is the idea that one's country is better than other countries.
-A24	Type 24 interpretation
+A24	Type2 T24 interpretation
 T25	premise 2172 2219	What you said is definitely true about patriots
-A25	Type 25 logos_pathos
+A25	Type3 T25 logos_pathos
 T26	premise 2226 2264	I misused patriots to mean nationalist
-A26	Type 26 logos_pathos
+A26	Type3 T26 logos_pathos
 T27	claim 2269 2396	Believing your country is better than all others is not the same as believing your country's people are better than all others.
-A27	Type 27 interpretation
+A27	Type2 T27 interpretation
 R1	agreement Arg1:T2 Arg2:T1
 R2	support Arg1:T3 Arg2:T2
 R3	support Arg1:T11 Arg2:T7

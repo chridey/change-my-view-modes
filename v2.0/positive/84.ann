@@ -1,65 +1,65 @@
 T1	main_claim 0 196	CMV: Networking for jobs behaves as a discriminatory mechanism to keep money and good jobs inside a particular social circle, and should be discouraged or eliminated as a criterion for employment.
-A1	Type 1 evaluation_rational
+A1	Type1 T1 evaluation_rational
 T2	claim 202 231	Networking is discriminatory.
-A2	Type 2 evaluation_rational
+A2	Type2 T2 evaluation_rational
 T3	premise 239 428	A "standard" hiring method would ensure that every applicant would be evaluated on the same criteria - the satisfaction of requirements of the position and merits relevant to that position.
-A3	Type 3 ethos_logos_pathos
+A3	Type3 T3 ethos_logos_pathos
 T4	premise 436 671	Who an applicant knows is occasionally useful for those jobs which require maintaining relationships with certain people in key positions (e.g. sales), but for the vast majority of jobs, who your friends are is functionally irrelevant.
-A4	Type 4 ethos_logos_pathos
+A4	Type3 T4 ethos_logos_pathos
 T5	premise 679 946	Allowing someone to circumvent the standard application process ("jumping the line") or to use some important person's recommendation as additional clout for their application ("came very highly recommended by Bob") is preferential treatment for irrelevant qualities.
-A5	Type 5 logos
+A5	Type3 T5 logos
 T6	claim 956 1092	I recognize and appreciate that it is difficult in most employment processes to find individuals who are trustworthy, socially apt, etc.
-A6	Type 6 evaluation_rational
+A6	Type2 T6 evaluation_rational
 T7	premise 1093 1220	This is a failing of the existing job application paradigm, not an excuse to circumvent it in order to make the process easier.
-A7	Type 7 logos
+A7	Type3 T7 logos
 T8	claim 1226 1363	Networking, as a practice, favors individuals who come from already socially favorable situations, moreso than other evaluation criteria.
-A8	Type 8 evaluation_rational
+A8	Type2 T8 evaluation_rational
 T9	premise 1371 1605	Beyond straight nepotism, it is self-evident that individuals who come from families and backgrounds which allow for more interaction with individuals in power will be able to call on more of those individuals for networking purposes.
-A9	Type 9 logos_pathos
+A9	Type3 T9 logos_pathos
 T10	premise 1613 1810	Individuals who are extraordinarily qualified for a position but come from a region/social background without those connections enter a networking-friendly employment opportunity at a disadvantage.
-A10	Type 10 logos_pathos
+A10	Type3 T10 logos_pathos
 T11	claim 1838 1928	there are other unfair advantages an applicant might have (being tall, white, male, etc.).
-A11	Type 11 evaluation_rational
+A11	Type2 T11 evaluation_rational
 T12	premise 1929 2088	Allowing networking to influence a hiring decision is not dependent on cultural bias and may be safely exorcised from the hiring process to render it more fair
-A12	Type 12 pathos
+A12	Type3 T12 pathos
 T13	claim 2126 2234	Businesses and societies would be better off disallowing networking from influencing their hiring decisions.
-A13	Type 13 evaluation_emotional
+A13	Type2 T13 evaluation_emotional
 T14	claim 2242 2399	If a hiring process takes networking into account, it is necessarily showing preference to individuals who already come from advantaged background, as per 2.
-A14	Type 14 interpretation
+A14	Type2 T14 interpretation
 T15	premise 2400 2504	This decreases social/economic mobility, which has been demonstrated to be bad for societies in general.
-A15	Type 15 logos
+A15	Type3 T15 logos
 T16	premise 2512 2789	If the egalitarian hiring process in-place is so ineffective at determining qualifications/character that it must depend on recommendations from trusted sources to establish merit, the productivity of any positions where such a trusted source does not come forward will suffer.
-A16	Type 16 ethos_logos
+A16	Type3 T16 ethos_logos
 T17	premise 2797 2829	"Fix the process, not the game."
-A17	Type 17 logos_pathos
+A17	Type3 T17 logos_pathos
 T18	claim 2844 2956	"this is how the world works," and many feel at ease participating in networking events without any moral qualms
-A18	Type 18 interpretation
+A18	Type2 T18 interpretation
 T19	claim 3373 3459	I'm not going to challenge your view that networking is unfair, because it totally is.
-A19	Type 19 interpretation
+A19	Type2 T19 interpretation
 T20	claim 3460 3542	But I am going to challenge your view that it should be discouraged or eliminated.
-A20	Type 20 disagreement
+A20	Type2 T20 disagreement
 T21	premise 3544 3598	Businesses are and should be designed to be effective.
-A21	Type 21 pathos
+A21	Type3 T21 pathos
 T22	premise 3599 3640	Being fair is, at best, a secondary goal.
-A22	Type 22 logos_pathos
+A22	Type3 T22 logos_pathos
 T23	premise 3641 3887	Any company/society which encourages business practices that are not effective will quickly be out-competed by one that is effective, and having effective businesses in a society in general improves the quality of life of the people living there.
-A23	Type 23 ethos_logos_pathos
+A23	Type3 T23 ethos_logos_pathos
 T24	claim 3888 3982	There are some exceptions, that justify regulation, such as environmental or fraud protection,
-A24	Type 24 evaluation_rational
+A24	Type2 T24 evaluation_rational
 T25	claim 3987 4027	I don't think networking is one of them,
-A25	Type 25 evaluation_rational
+A25	Type2 T25 evaluation_rational
 T26	premise 4114 4345	Simply getting an employee in the door often costs about 1 years worth of their salary, with that money going to the recruiters that found the person, paying people to review their resume, interview them, do background checks, etc.
-A26	Type 26 logos
+A26	Type3 T26 logos
 T27	premise 4346 4492	Then, after they start working, they have to be trained, and get up to speed on their new job, which (depending on the job) can often take months.
-A27	Type 27 logos_pathos
+A27	Type3 T27 logos_pathos
 T28	premise 4493 4675	If all of this time and money goes towards a bad hire, that is an extremely bad thing for the business, which means that it's extremely important to minimize the number of bad hires.
-A28	Type 28 logos_pathos
+A28	Type3 T28 logos_pathos
 T29	claim 4676 4880	The best way to do that is to hire people you've worked with before, and you know are good, or people your colleagues and friends have worked with before, who you trust when they say that someone is good.
-A29	Type 29 evaluation_rational
+A29	Type2 T29 evaluation_rational
 T30	premise 4881 4999	Interviews are an extremely poor replacement actually working with someone, or for the opinion of a trusted colleague.
-A30	Type 30 ethos_logos_pathos
+A30	Type3 T30 ethos_logos_pathos
 T31	claim 5002 5050	Totally valid game theory, and well-articulated!
-A31	Type 31 evaluation_rational
+A31	Type2 T31 evaluation_rational
 R1	support Arg1:T3 Arg2:T2
 R2	support Arg1:T12 Arg2:T2
 R3	support Arg1:T13 Arg2:T2

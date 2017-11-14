@@ -1,57 +1,57 @@
 T1	main_claim 0 84	CMV:Patriotism is the belief that being born on one side of a line makes you better.
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	claim 86 149	American patriots have a general mentality against immigration.
-A2	Type 2 interpretation
+A2	Type2 T2 interpretation
 T3	premise 150 261	Saying these people shouldn’t be allowed to become part of the country, is the same as saying they are worse,
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	premise 262 314	because they were born on a different side of a line
-A4	Type 4 logos_pathos
+A4	Type3 T4 logos_pathos
 T5	premise 321 390	americans are better because of the side of the line they are born on
-A5	Type 5 logos_pathos
+A5	Type3 T5 logos_pathos
 T6	premise 393 501	This is prominent in many ads and political champagnes, namely the slogan “Creating jobs for americans”.
-A6	Type 6 logos
+A6	Type3 T6 logos
 T7	claim 502 543	I understand why politics use this slogan
-A7	Type 7 evaluation_rational
+A7	Type2 T7 evaluation_rational
 T8	premise 546 603	because they are trying to get americans to vote for them
-A8	Type 8 logos
+A8	Type3 T8 logos
 T9	premise 610 675	this slogan is also prominent in ads made by private corporations
-A9	Type 9 logos
+A9	Type3 T9 logos
 T10	premise 678 779	As if creating jobs for americans is morally superior to creating jobs for people of other countries.
-A10	Type 10 logos_pathos
+A10	Type3 T10 logos_pathos
 T11	premise 780 898	The companies launching these ads may be trying to win in the american market, so they can sell more of their product,
-A11	Type 11 logos
+A11	Type3 T11 logos
 T12	premise 903 1015	the fact that this can increase sales shows that many americans hold the being born on one side of a line belief
-A12	Type 12 logos
+A12	Type3 T12 logos
 T13	claim 1018 1100	I am not blaming the politicians or corporations running ads running these slogans
-A13	Type 13 interpretation
+A13	Type2 T13 interpretation
 T14	premise 1103 1172	they are merely trying to win votes or make money from this mentality
-A14	Type 14 logos
+A14	Type3 T14 logos
 T15	claim 1179 1313	really it is the citizens that have the belief that they are better, because of the side of a line they are born on, that are at fault
-A15	Type 15 interpretation
+A15	Type2 T15 interpretation
 T16	claim 1316 1354	Patriotism is really just this belief.
-A16	Type 16 interpretation
+A16	Type2 T16 interpretation
 T17	premise 1357 1466	I would define patriotism quite simply as supporting one's country, but not *necessarily* disparaging others.
-A17	Type 17 logos
+A17	Type3 T17 logos
 T18	claim 1467 1585	Therefore I would say that the antithesis of patriotism is not having a global perspective, but is in fact selfishness
-A18	Type 18 interpretation
+A18	Type2 T18 interpretation
 T19	premise 1588 1698	Someone who attempts to extract gain for themselves at harm to their overall country is acting unpatriotically
-A19	Type 19 logos_pathos
+A19	Type3 T19 logos_pathos
 T20	premise 1701 1901	someone who assists another country that is in worse shape instead of assisting their own can still be a patriot, but also recognize significant need in other nations and decide to assist them as well
-A20	Type 20 logos_pathos
+A20	Type3 T20 logos_pathos
 T21	claim 1904 2050	Whether you support immigration or not, so long as you are supporting what you believe is best for your nation, you are still acting patriotically
-A21	Type 21 interpretation
+A21	Type2 T21 interpretation
 T22	claim 2057 2186	even if you decide to support another nation you can still be acting patriotically as well so long as you support your nation too
-A22	Type 22 interpretation
+A22	Type2 T22 interpretation
 T23	claim 2191 2203	This is true
-A23	Type 23 agreement
+A23	Type2 T23 agreement
 T24	claim 2211 2298	I think, supporting the common good is also more important than supporting your country
-A24	Type 24 evaluation_emotional
+A24	Type2 T24 evaluation_emotional
 T25	claim 2303 2306	Yes
-A25	Type 25 agreement
+A25	Type2 T25 agreement
 T26	claim 2313 2343	the two are often one the same
-A26	Type 26 evaluation_emotional
+A26	Type2 T26 evaluation_emotional
 T27	premise 2346 2473	especially when you live in a country as large as the U.S. most acts which serve the common good generally support your country
-A27	Type 27 logos_pathos
+A27	Type3 T27 logos_pathos
 R1	agreement Arg1:T2 Arg2:T1
 R2	support Arg1:T3 Arg2:T2
 R3	support Arg1:T11 Arg2:T7

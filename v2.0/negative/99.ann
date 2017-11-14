@@ -1,95 +1,95 @@
 T1	main_claim 0 78	CMV: I believe that regularly browsing 4chan will make you into a worse person
-A1	Type 1 evaluation_emotional
+A1	Type1 T1 evaluation_emotional
 T2	premise 80 221	Because of the anonymity on 4chan people are more prone to not think through, care about what they post and are quicker to throw out insults.
-A2	Type 2 logos_pathos
+A2	Type3 T2 logos_pathos
 T3	premise 222 269	They will care about how people respond to them
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	premise 276 417	since it's largely negative they will stoop down to the same level rather than go to any high ground since they are not linked to an identity
-A4	Type 4 logos_pathos
+A4	Type3 T4 logos_pathos
 T5	premise 421 494	Surrounding the entire site there's a general pessimistic group mentality
-A5	Type 5 logos_pathos
+A5	Type3 T5 logos_pathos
 T6	premise 501 607	people are subconsciously encouraged to take part of it in order to feel like they are a part of the group
-A6	Type 6 logos_pathos
+A6	Type3 T6 logos_pathos
 T7	premise 610 723	Some boards will have specific groups of people who they are encouraged to hate, women, SJWs, casual gamers, Jews
-A7	Type 7 pathos
+A7	Type3 T7 pathos
 T8	premise 730 857	any reasonable argument against a poster can be made redundant by saying or thinking they are a part of these agendas or groups
-A8	Type 8 pathos
+A8	Type3 T8 pathos
 T9	premise 861 955	On boards you will find echo chambers where people are more prone to believe rumors than proof
-A9	Type 9 logos_pathos
+A9	Type3 T9 logos_pathos
 T10	premise 958 1005	Things about e-celebrities will start as rumors
-A10	Type 10 pathos
+A10	Type3 T10 pathos
 T11	premise 1008 1123	ideas about them or things will get taken out of context and it will be posted continually until it's taken as fact
-A11	Type 11 pathos
+A11	Type3 T11 pathos
 T12	premise 1126 1298	It will reach conspiracy theory levels of "proof" where people will simply believe it because they feel as if they are a part of a group-effort that's uncovering something.
-A12	Type 12 logos
+A12	Type3 T12 logos
 T13	claim 1300 1421	Surrounding yourself with this will in general make you into a more pessimistic, negative and possibly depressive person.
-A13	Type 13 evaluation_emotional
+A13	Type2 T13 evaluation_emotional
 T14	claim 1423 1498	I'm not saying that every person who browses 4chan is depressed or negative
-A14	Type 14 interpretation
+A14	Type2 T14 interpretation
 T15	claim 1505 1575	that the majority of them are affected negatively by browsing the site
-A15	Type 15 interpretation
+A15	Type2 T15 interpretation
 T16	claim 1579 1720	Thinking that you are unaffected by this doesn't necessarily mean you are, but instead means that you are unaware of how much it affects you.
-A16	Type 16 evaluation_rational
+A16	Type2 T16 evaluation_rational
 T17	claim 1867 1910	It will certainly make you a colder person.
-A17	Type 17 interpretation
+A17	Type2 T17 interpretation
 T18	claim 1914 1950	let's say, a "less sensitive" person
-A18	Type 18 evaluation_emotional
+A18	Type2 T18 evaluation_emotional
 T19	claim 1957 2006	I'm not conviced that this is always a bad thing.
-A19	Type 19 evaluation_rational
+A19	Type2 T19 evaluation_rational
 T20	premise 2008 2227	After all the gore I witnessed on 4chan, I'm able to jump in an accident scene and actually keep my cool while most other people around are freaking out like crazed apes, yelling and really doing nothing to help at all.
-A20	Type 20 logos_pathos
+A20	Type3 T20 logos_pathos
 T21	premise 2228 2372	After all the freak sexualities i was exposed to in 4chan, I find it hard to judge anyone about anything they do with their bodies and partners.
-A21	Type 21 pathos
+A21	Type3 T21 pathos
 T22	claim 2386 2456	I'd say 4chan will open your eyes and show you Reality on many topics.
-A22	Type 22 interpretation
+A22	Type2 T22 interpretation
 T23	premise 2458 2513	It can have a bad influence with all the racism etc tho
-A23	Type 23 logos_pathos
+A23	Type3 T23 logos_pathos
 T24	premise 2518 2558	this, you have to keep in check yourself
-A24	Type 24 logos_pathos
+A24	Type3 T24 logos_pathos
 T25	premise 2594 2747	some people may answer to you that there is not much to be optimistic about in this world and that maybe you are delusional/uninformed to think otherwise
-A25	Type 25 pathos
+A25	Type3 T25 pathos
 T26	claim 2782 2794	Hard to tell
-A26	Type 26 evaluation_rational
+A26	Type2 T26 evaluation_rational
 T27	claim 2958 2961	Yes
-A27	Type 27 agreement
+A27	Type2 T27 agreement
 T28	claim 2966 2968	no
-A28	Type 28 disagreement
+A28	Type2 T28 disagreement
 T29	premise 2972 3013	a little girl was swept by a car in Paris
-A29	Type 29 pathos
+A29	Type3 T29 pathos
 T30	premise 3016 3075	she was lying unconscious with a bit of blood from her nose
-A30	Type 30 pathos
+A30	Type3 T30 pathos
 T31	premise 3078 3100	people were hysterical
-A31	Type 31 pathos
+A31	Type3 T31 pathos
 T32	premise 3103 3162	I kept the mother in check cause she was trying to move her
-A32	Type 32 pathos
+A32	Type3 T32 pathos
 T33	premise 3165 3298	then had to keep the people around in check cause they were physically trying to restrain her to prevent the mother to only touch her
-A33	Type 33 pathos
+A33	Type3 T33 pathos
 T34	premise 3303 3330	she was getting totally mad
-A34	Type 34 pathos
+A34	Type3 T34 pathos
 T35	premise 3335 3524	All while calling the ER and taking a picture of the car's licence plate cause the driver kept near his open door all the time (while he was being harassed and yelled at by like 10 persons)
-A35	Type 35 ethos_pathos
+A35	Type3 T35 ethos_pathos
 T36	premise 3568 3631	Just 2 weeks ago, heard and felt a crash very close to my house
-A36	Type 36 pathos
+A36	Type3 T36 pathos
 T37	premise 3634 3736	a drunken teen had just smashed his car full force into another's property wall after missing the turn
-A37	Type 37 pathos
+A37	Type3 T37 pathos
 T38	premise 3739 3971	neighbors went out but no one had the head to keep the guy in check, cause he was walking near his ruined car, not understanding what just happened told him to stay put and sit and just generally speak to him so he doesn't freak out
-A38	Type 38 pathos
+A38	Type3 T38 pathos
 T39	premise 3974 4031	People were looking from a few meters, not doing anything
-A39	Type 39 pathos
+A39	Type3 T39 pathos
 T40	premise 4034 4049	I called the ER
-A40	Type 40 pathos
+A40	Type3 T40 pathos
 T41	premise 4052 4097	the guy stood up and tried to restart his car
-A41	Type 41 pathos
+A41	Type3 T41 pathos
 T42	premise 4100 4310	had to take his keys from him, spent 20 minutes, making small talk, reassuring him and just generally checking if he wasn't internally hurt/losing consciousness/ had blood coming out from the mouth ears or nose
-A42	Type 42 pathos
+A42	Type3 T42 pathos
 T43	premise 4313 4375	He seemed ok appart from the shock and high level drunkenness.
-A43	Type 43 logos_pathos
+A43	Type3 T43 logos_pathos
 T44	premise 4386 4410	I work in a surgery unit
-A44	Type 44 pathos
+A44	Type3 T44 pathos
 T45	premise 4415 4471	the kind of gore I witness there doesn't shock me at all
-A45	Type 45 pathos
+A45	Type3 T45 pathos
 T46	claim 4557 4642	I think a bit of desensitization can help keep a leveled head in stressful situations
-A46	Type 46 evaluation_emotional
+A46	Type2 T46 evaluation_emotional
 R1	support Arg1:T2 Arg2:T1
 R2	support Arg1:T3 Arg2:T1
 R3	support Arg1:T12 Arg2:T1

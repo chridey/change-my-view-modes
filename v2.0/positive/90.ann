@@ -1,49 +1,49 @@
 T1	main_claim 0 90	CMV: People over the retirement age (62) should not be allowed to participate in politics.
-A1	Type 1 evaluation_rational
+A1	Type1 T1 evaluation_rational
 T2	claim 158 205	I have always thought that that was a bad thing
-A2	Type 2 evaluation_rational
+A2	Type2 T2 evaluation_rational
 T3	premise 237 416	if you are already old, then the long-term consequences of your decisions probably won't happen until after you are gone, but will be horrible for all of us that are still around,
-A3	Type 3 logos
+A3	Type3 T3 logos
 T4	premise 420 573	if you are already retired, then you wouldn't know what it is like for a working person today, especially someone struggling to live paycheck-to-paycheck
-A4	Type 4 logos
+A4	Type3 T4 logos
 T5	claim 584 619	old people shouldn't be in politics
-A5	Type 5 evaluation_rational
+A5	Type2 T5 evaluation_rational
 T6	premise 628 681	the consequences of their decisions won't affect them
-A6	Type 6 logos
+A6	Type3 T6 logos
 T7	premise 688 745	they don't understand what the circumstances of today are
-A7	Type 7 logos
+A7	Type3 T7 logos
 T8	claim 751 795	Some of your criticisms are definitely valid
-A8	Type 8 agreement
+A8	Type2 T8 agreement
 T9	claim 807 932	older people often have more varied or extensive life experiences to draw on, and do not generally make decisions in a vacuum
-A9	Type 9 interpretation
+A9	Type2 T9 interpretation
 T10	premise 936 1002	For example, imagine a relatively long (30+ years) period of peace
-A10	Type 10 logos_pathos
+A10	Type3 T10 logos_pathos
 T11	premise 1005 1042	All of a sudden, war is a possibility
-A11	Type 11 logos_pathos
+A11	Type3 T11 logos_pathos
 T12	premise 1045 1158	I would like my decision-making body to have at least a few people who might have had prior experience with a war
-A12	Type 12 logos_pathos
+A12	Type3 T12 logos_pathos
 T13	premise 1162 1289	Additionally, when you elect someone, like your senator, you're not just electing them, you're also electing their entire staff
-A13	Type 13 logos_pathos
+A13	Type3 T13 logos_pathos
 T14	premise 1292 1510	The senator might not have direct experience of what it's like to be a working person today, but does that matter as long as they have someone who can explain it to them in such a way that they understand and accept it
-A14	Type 14 logos_pathos
+A14	Type3 T14 logos_pathos
 T15	claim 1524 1595	it's highly unlikely that there would be a long period without conflict
-A15	Type 15 interpretation
+A15	Type2 T15 interpretation
 T16	claim 1598 1642	I can see how something similar could happen
-A16	Type 16 interpretation
+A16	Type2 T16 interpretation
 T17	claim 1654 1726	it's not like the previous generation's knowledge would have disappeared
-A17	Type 17 interpretation
+A17	Type2 T17 interpretation
 T18	premise 1727 1785	there are thousands of guides and essays about every topic
-A18	Type 18 logos
+A18	Type3 T18 logos
 T19	claim 1790 1794	sure
-A19	Type 19 agreement
+A19	Type2 T19 agreement
 T20	claim 1801 1870	guides and essays are not necessarily the same as personal experience
-A20	Type 20 interpretation
+A20	Type2 T20 interpretation
 T21	claim 1873 2036	I was using that point to support the more general statement that older people often have a breadth and depth of experience that younger people may or may not have
-A21	Type 21 evaluation_rational
+A21	Type2 T21 evaluation_rational
 T22	claim 2043 2100	that is useful for decision making in a political context
-A22	Type 22 evaluation_rational
+A22	Type2 T22 evaluation_rational
 T23	claim 2105 2182	I guess we will always need first-hand experience when odd situations come up
-A23	Type 23 interpretation
+A23	Type2 T23 interpretation
 R1	agreement Arg1:T2 Arg2:T1
 R2	support Arg1:T11 Arg2:T9
 R3	support Arg1:T12 Arg2:T9

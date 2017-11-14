@@ -1,87 +1,87 @@
 T1	main_claim 0 108	CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	claim 110 136	The options are as follows
-A2	Type 2 evaluation_rational
+A2	Type2 T2 evaluation_rational
 T3	claim 140 204	1. You don't agree with what is going on and stop supporting it.
-A3	Type 3 evaluation_rational
+A3	Type2 T3 evaluation_rational
 T4	claim 206 309	2. You don't care about animals, so you're content with paying for them to be abused for your pleasure.
-A4	Type 4 evaluation_emotional
+A4	Type2 T4 evaluation_emotional
 T5	claim 311 423	3. You don't agree with what is going on, but try to put it to the back of your mind and continue to support it.
-A5	Type 5 interpretation
+A5	Type2 T5 interpretation
 T6	premise 436 562	I used to follow 'option number 3', but recently started 'option number 1' in an attempt to line my actions up with my values.
-A6	Type 6 logos_pathos
+A6	Type3 T6 logos_pathos
 T7	claim 563 635	I suspect this way of looking at it is still somewhat simplistic however
-A7	Type 7 evaluation_emotional
+A7	Type2 T7 evaluation_emotional
 T8	claim 693 742	You hate animals and you want to see them killed.
-A8	Type 8 evaluation_rational
+A8	Type2 T8 evaluation_rational
 T9	claim 744 758	View. Changed.
-A9	Type 9 evaluation_emotional
+A9	Type2 T9 evaluation_emotional
 T10	premise 761 802	Shall we rule out sociopathy/psychopathy?
-A10	Type 10 logos_pathos
+A10	Type3 T10 logos_pathos
 T11	claim 805 844	Hmm maybe if it makes it easier for you
-A11	Type 11 agreement
+A11	Type2 T11 agreement
 T12	claim 856 933	I can imagine someone that has empathy for humans but none for other animals.
-A12	Type 12 interpretation
+A12	Type2 T12 interpretation
 T13	claim 936 946	Good point
-A13	Type 13 agreement
+A13	Type2 T13 agreement
 T14	claim 958 986	I regard that as speciesism.
-A14	Type 14 interpretation
+A14	Type2 T14 interpretation
 T15	claim 988 1044	I do have a Christian friend who is extremely charitable
-A15	Type 15 evaluation_rational
+A15	Type2 T15 evaluation_rational
 T16	premise 1047 1133	She's a carer, a foster mother and a complete romantic who writes novels about angels.
-A16	Type 16 logos
+A16	Type3 T16 logos
 T17	premise 1134 1184	She 's obviously an all-round good and kind person
-A17	Type 17 logos_pathos
+A17	Type3 T17 logos_pathos
 T18	premise 1191 1204	she eats meat
-A18	Type 18 logos_pathos
+A18	Type3 T18 logos_pathos
 T19	claim 1208 1274	I rationalise this by realising that helping people is her passion
-A19	Type 19 interpretation
+A19	Type2 T19 interpretation
 T20	premise 1281 1368	perhaps her religion justifies a moral distinction between humans and non-human animals
-A20	Type 20 logos_pathos
+A20	Type3 T20 logos_pathos
 T21	premise 1371 1477	Doesn't the Bible claim something along the lines of that animals were created for the enjoyment of humans
-A21	Type 21 logos
+A21	Type3 T21 logos
 T22	claim 1508 1554	I think it's fairly normal to be a speciesist.
-A22	Type 22 evaluation_rational
+A22	Type2 T22 evaluation_rational
 T23	claim 1580 1666	I'm not trying to argue from a point of naturalism in regards to what ought to be done
-A23	Type 23 evaluation_emotional
+A23	Type2 T23 evaluation_emotional
 T24	claim 1678 1752	it shouldn't be that surprising when we encounter people that are that way
-A24	Type 24 evaluation_emotional
+A24	Type2 T24 evaluation_emotional
 T25	claim 1769 1832	it's hard enough for many people to empathize with *each other*
-A25	Type 25 disagreement
+A25	Type2 T25 disagreement
 T26	premise 1839 1906	you're asking them to try to put themselves in the hooves of a cow?
-A26	Type 26 logos_pathos
+A26	Type3 T26 logos_pathos
 T27	claim 1907 1949	It's just beyond the scope for many people
-A27	Type 27 evaluation_emotional
+A27	Type2 T27 evaluation_emotional
 T28	premise 1957 2005	they seriously put the time in to think about it
-A28	Type 28 logos_pathos
+A28	Type3 T28 logos_pathos
 T29	premise 2012 2054	they've got their own lives to worry about
-A29	Type 29 logos_pathos
+A29	Type3 T29 logos_pathos
 T30	claim 2094 2165	the bible states that all animals were put on earth by God to serve man
-A30	Type 30 disagreement
+A30	Type2 T30 disagreement
 T31	claim 2168 2213	There were rules against eating certain kinds
-A31	Type 31 evaluation_rational
+A31	Type2 T31 evaluation_rational
 T32	claim 2220 2275	overall the idea was that humans have dominion over all
-A32	Type 32 evaluation_rational
+A32	Type2 T32 evaluation_rational
 T33	claim 2293 2325	there is no cognitive dissonance
-A33	Type 33 interpretation
+A33	Type2 T33 interpretation
 T34	claim 2332 2389	this would probably fall under your 2nd line of reasoning
-A34	Type 34 interpretation
+A34	Type2 T34 interpretation
 T35	claim 2644 2678	Yes, speciesism is indeed the norm
-A35	Type 35 agreement
+A35	Type2 T35 agreement
 T36	claim 2683 2726	I appreciate you taking the time to comment
-A36	Type 36 evaluation_rational
+A36	Type2 T36 evaluation_rational
 T37	claim 2729 2869	I asked this question so as to keep myself grounded in what other justifications my loved ones around me didn't have the same epiphany I did
-A37	Type 37 evaluation_emotional
+A37	Type2 T37 evaluation_emotional
 T38	premise 2872 2948	as it may not necessary be the same reasons I had for not going vegan sooner
-A38	Type 38 logos
+A38	Type3 T38 logos
 T39	claim 3254 3285	A very good reminder, thank you
-A39	Type 39 agreement
+A39	Type2 T39 agreement
 T40	claim 3288 3362	Not everyone is as obsessed with philosophy, psychology and nature as I am
-A40	Type 40 evaluation_rational
+A40	Type2 T40 evaluation_rational
 T41	premise 3365 3484	just as I don't concern myself with keeping extremely up to date on world politics and Amnesty International petitions.
-A41	Type 41 logos_pathos
+A41	Type3 T41 logos_pathos
 T42	claim 3486 3523	I'd still class it as option 3 though
-A42	Type 42 evaluation_rational
+A42	Type2 T42 evaluation_rational
 R1	partial_attack Arg1:T12 Arg2:T10
 R2	partial_agreement Arg1:T13 Arg2:T12
 R3	partial_attack Arg1:T14 Arg2:T12

@@ -1,35 +1,35 @@
 T1	main_claim 0 64	CMV: Humans are going to die out because of an economic collapse
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	claim 66 140	Bill Gade presents the argument better than I do so I will just quote him.
-A2	Type 2 evaluation_rational
+A2	Type2 T2 evaluation_rational
 T3	premise 1074 1128	There is also a Youtube video to go with this opinion.
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	premise 1129 1172	https://www.youtube.com/watch?v=rlQrYCacrKo
-A4	Type 4 logos_pathos
+A4	Type3 T4 logos_pathos
 T5	claim 1174 1319	I do realize that this is a very unhealthy idea to have whether or not that the idea is true or not, I just have not been able to beat it myself.
-A5	Type 5 evaluation_emotional
+A5	Type2 T5 evaluation_emotional
 T6	claim 1321 1358	I do disagree with Gade a little bit.
-A6	Type 6 disagreement
+A6	Type2 T6 disagreement
 T7	claim 1359 1397	I don't think it would kill everybody,
-A7	Type 7 interpretation
+A7	Type2 T7 interpretation
 T8	premise 1402 1602	the some few people that still know how to hunt and gather would probably survive as well people who were rich enough to have access to a lot of resources to start out with before the economy crashes.
-A8	Type 8 logos_pathos
+A8	Type3 T8 logos_pathos
 T9	claim 1603 1667	I probably believe this because I listen to Alex Jones too much.
-A9	Type 9 interpretation
+A9	Type2 T9 interpretation
 T10	claim 1943 1960	~~slaves~~ robots
-A10	Type 10 evaluation_rational
+A10	Type2 T10 evaluation_rational
 T11	claim 1999 2118	Automation is a slow process that will take decades, and end up revolutionizing our economic structure and way of life.
-A11	Type 11 evaluation_rational
+A11	Type2 T11 evaluation_rational
 T12	premise 2119 2236	Just like the Industrial revolution forced feudal and mercantile agriculturalist societies to become capitalist ones,
-A12	Type 12 logos_pathos
+A12	Type3 T12 logos_pathos
 T13	claim 2237 2320	the Automation revolution will force capitalist economies to become socialist ones.
-A13	Type 13 evaluation_emotional
+A13	Type2 T13 evaluation_emotional
 T14	claim 2323 2406	On one hand the trend if confirmed would be consistent with Karl Marx's prediction.
-A14	Type 14 evaluation_rational
+A14	Type2 T14 evaluation_rational
 T15	premise 2407 2467	On the other hand I work with Free Software on a daily basis
-A15	Type 15 logos_pathos
+A15	Type3 T15 logos_pathos
 T16	claim 2472 2511	it seems more capitalist than anything.
-A16	Type 16 evaluation_rational
+A16	Type2 T16 evaluation_rational
 R1	support Arg1:T3 Arg2:T2
 R2	support Arg1:T16 Arg2:T13
 R3	support Arg1:T4 Arg2:T2

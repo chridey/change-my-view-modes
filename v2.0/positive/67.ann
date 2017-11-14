@@ -1,97 +1,97 @@
 T1	main_claim 0 76	CMV: There is only one "right" way to play the Mass Effect series (spoilers)
-A1	Type 1 evaluation_emotional
+A1	Type1 T1 evaluation_emotional
 T2	claim 796 811	a.) incompetent
-A2	Type 2 evaluation_emotional
+A2	Type2 T2 evaluation_emotional
 T3	premise 1042 1100	It's really not that difficult with a little common sense!
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	premise 1167 1188	It's worth it dammit!
-A4	Type 4 logos_pathos
+A4	Type3 T4 logos_pathos
 T5	claim 1194 1236	rushing/missing the damn point of the game
-A5	Type 5 evaluation_emotional
+A5	Type2 T5 evaluation_emotional
 T6	premise 1282 1300	you bought an RPG!
-A6	Type 6 pathos
+A6	Type3 T6 pathos
 T7	premise 1301 1355	You're already taking a good bit time to play the game
-A7	Type 7 logos_pathos
+A7	Type3 T7 logos_pathos
 T8	premise 1462 1542	You get so much more out of the experience if you just take the time to explore.
-A8	Type 8 pathos
+A8	Type3 T8 pathos
 T9	claim 1548 1584	unfit to fairly criticize the series
-A9	Type 9 evaluation_emotional
+A9	Type2 T9 evaluation_emotional
 T10	premise 1614 1721	I do agree with most of the criticisms of the plot and that it could have been much better than what it was
-A10	Type 10 logos_pathos
+A10	Type3 T10 logos_pathos
 T11	claim 1826 1935	the real heart of the Mass Effect franchise lies not with the story or the narrative, but with its characters
-A11	Type 11 interpretation
+A11	Type2 T11 interpretation
 T12	premise 1938 2096	With only a couple exceptions, the vast majority of Shepard's crew are interesting, fleshed-out characters, each with their own flaws and redeeming qualities.
-A12	Type 12 ethos_pathos
+A12	Type3 T12 ethos_pathos
 T13	premise 2126 2318	seeing Wrex grow from a mere gun-for-hire in ME1 to the responsible, yet still badass leader of the Genophage-free Krogan in ME3 was one of the most gratifying experiences of my gaming career.
-A13	Type 13 logos_pathos
+A13	Type3 T13 logos_pathos
 T14	premise 2330 2556	the leap of faith Shepard takes when trusting Legion on Rannoch, thus ending hundreds of years of conflict and bringing the Quarians and Geth together was immensely satisfying and could easily qualify for /r/frission material.
-A14	Type 14 logos_pathos
+A14	Type3 T14 logos_pathos
 T15	premise 2558 2631	Without these experiences, yeah, Mass Effect 3 didn't live up to the hype
-A15	Type 15 logos
+A15	Type3 T15 logos
 T16	premise 2648 2747	It's such a hollow victory watching Wreav royally screw things up, or watching Tali commit suicide.
-A16	Type 16 ethos_pathos
+A16	Type3 T16 ethos_pathos
 T17	claim 2763 2830	it's a complete waste of the player's time going about it that way.
-A17	Type 17 evaluation_rational
+A17	Type2 T17 evaluation_rational
 T18	claim 2886 2968	there is one right way to play Mass Effect: a completionist run where NO ONE dies.
-A18	Type 18 evaluation_rational
+A18	Type2 T18 evaluation_rational
 T19	claim 4058 4115	if the material is in the game, it's there for a purpose.
-A19	Type 19 interpretation
+A19	Type2 T19 interpretation
 T20	premise 4116 4181	It was there to be seen by players and to be experienced by them.
-A20	Type 20 logos
+A20	Type3 T20 logos
 T21	premise 4182 4235	And sometimes, tragedies are more fun than victories.
-A21	Type 21 pathos
+A21	Type3 T21 pathos
 T22	claim 4237 4268	I did do the completionist run!
-A22	Type 22 agreement
+A22	Type2 T22 agreement
 T23	premise 4269 4459	I had a closeted gay paragon Shepard because I thought it was hilarious and he eventually shacked up with Kaidan, saved the world, let no one die, then picked destroy ending because why not.
-A23	Type 23 pathos
+A23	Type3 T23 pathos
 T24	premise 4460 4490	It went - well, okay, I guess.
-A24	Type 24 logos_pathos
+A24	Type3 T24 logos_pathos
 T25	claim 4492 4550	However, after that, I wanted some real emotional punches.
-A25	Type 25 evaluation_emotional
+A25	Type2 T25 evaluation_emotional
 T26	premise 4917 4997	I thought you know what, I want a Shepard where this kind of ending makes sense.
-A26	Type 26 pathos
+A26	Type3 T26 pathos
 T27	premise 5272 5343	And so I made the world's giantest asshole most self-justifying Shepard
-A27	Type 27 logos_pathos
+A27	Type3 T27 logos_pathos
 T28	premise 5365 5431	It's about as far as you can get from *your* completionist Shepard
-A28	Type 28 logos_pathos
+A28	Type3 T28 logos_pathos
 T29	premise 5438 5502	taken with ME3's ending, I think it makes for a far better story
-A29	Type 29 logos_pathos
+A29	Type3 T29 logos_pathos
 T30	premise 5505 5699	A renegade lady who wasn't *xenophobic* as much as *very* pro-human, straight but distrusted Jacob and uninterested in any of the alien male love interests (and who killed Kaidan in ME1, woops).
-A30	Type 30 logos
+A30	Type3 T30 logos
 T31	premise 5700 5785	Who was alone from start to end in a quest that only she seemed to really believe in.
-A31	Type 31 logos_pathos
+A31	Type3 T31 logos_pathos
 T32	claim 5797 6207	when you play a character who's a lot more of an asshole but who's a really *determined* asshole, who keeps losing stuff and who has people die but who convinces herself that it's *worth* something, that her mission has to be worth all that, who is willing to make sacrifices that she believes are necessary (when you, the player, know that they aren't) - the 'bad ends' in ME3 make for a fantastic experience.
-A32	Type 32 disagreement
+A32	Type2 T32 disagreement
 T33	premise 6208 6301	It's basically the game going 'well Shepard, you fucked up, and this is what you get for it'.
-A33	Type 33 pathos
+A33	Type3 T33 pathos
 T34	claim 6303 6348	They're not hollow at all, they're fantastic.
-A34	Type 34 evaluation_emotional
+A34	Type2 T34 evaluation_emotional
 T35	premise 6349 6511	The entire game and story turns into Shepard realizing too late that things could've been different and that the state of the universe going to shit is on *them*.
-A35	Type 35 pathos
+A35	Type3 T35 pathos
 T36	premise 6599 6835	The finale of ME3 goes from a completely unsatisfying throughly annoying ending that ignored the themes of choice and self-determination that had been going on through the game into one final, desperate chance to make it right, instead.
-A36	Type 36 logos_pathos
+A36	Type3 T36 logos_pathos
 T37	premise 6837 7104	Whatever Shepard picks, I felt a lot more satisfied with *that* story as a whole instead of the 'no one dies' run where it didn't really matter that no one died and that they worked so fucking hard for that - just pick choice A, B or C and that's your ending for you.
-A37	Type 37 logos_pathos
+A37	Type3 T37 logos_pathos
 T38	premise 7106 7248	Shitty failure Shepard's ending was also a dialogue choice, but that just underscored that she'd burned and destroyed anything else around her
-A38	Type 38 pathos
+A38	Type3 T38 pathos
 T39	claim 7347 7502	To me, that kind of ending fit much better with the way I'd played her, and I felt far more vicious satisfaction putting that sort of character through it.
-A39	Type 39 interpretation
+A39	Type2 T39 interpretation
 T40	premise 7503 7607	Every other *possible* ending that could've been, she'd gone and wrecked through her own shitty actions.
-A40	Type 40 logos_pathos
+A40	Type3 T40 logos_pathos
 T41	premise 7608 7701	Losing all the choices at the end made *sense*, this time, in the context of her experiences.
-A41	Type 41 pathos
+A41	Type3 T41 pathos
 T42	claim 7776 7962	the 'everyone dies' route, seeing as it *is* there, also was meant to be played and in fact works pretty well as an overall story where Shepard is the one that's screwed up the whole way
-A42	Type 42 evaluation_emotional
+A42	Type2 T42 evaluation_emotional
 T43	premise 7965 8163	I don't think of it as *me* killing of those characters off, it's whatever Shepard I'm playing in that particular runthrough that's doing it - a vicious, angry, bitter and ultimately futile Shepard.
-A43	Type 43 ethos_logos
+A43	Type3 T43 ethos_logos
 T44	premise 8164 8338	The emotional payoff on finishing the series went from 'are you serious is that actually the ending, the fuck' to 'HAHA YES, Shepard fucking deserved that, that was *great*'.
-A44	Type 44 logos
+A44	Type3 T44 logos
 T45	claim 8347 8469	The right way to play it is to experience everything that is there, and then figure out what makes you the most satisfied.
-A45	Type 45 evaluation_emotional
+A45	Type2 T45 evaluation_emotional
 T46	premise 8470 8510	For me, that wasn't a completionist run.
-A46	Type 46 logos_pathos
+A46	Type3 T46 logos_pathos
 T47	claim 8685 8869	The one I find the most hilarious and interesting is the one whose story makes the most sense as a whole, and that's the one where Shepard totally fails save anyone, including herself.
-A47	Type 47 evaluation_emotional
+A47	Type2 T47 evaluation_emotional
 R1	agreement Arg1:T2 Arg2:T1
 R2	agreement Arg1:T11 Arg2:T1
 R3	support Arg1:T12 Arg2:T11

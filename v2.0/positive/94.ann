@@ -1,97 +1,97 @@
 T1	main_claim 0 147	CMV: Most democracies are far too tolerant of extremism, especially the likes of neo-fascism, neo-nazism, radical Islamism and violent intolerance.
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	main_claim 147 247	 The world has been to soft on these ideologies and they need to be eliminated whenever they appear.
-A2	Type 2 evaluation_rational
+A2	Type1 T2 evaluation_rational
 T3	claim 249 338	I think some of the biggest threats to global stability comes from the political fringes.
-A3	Type 3 evaluation_rational
+A3	Type2 T3 evaluation_rational
 T4	premise 339 390	It's either the extreme left, or the extreme right.
-A4	Type 4 logos
+A4	Type3 T4 logos
 T5	premise 391 489	Radicalism almost always leads to violence, and is a plague on democratic society and governments.
-A5	Type 5 pathos
+A5	Type3 T5 pathos
 T6	premise 490 555	Since communism has been relegated to just a handful of countries
-A6	Type 6 logos
+A6	Type3 T6 logos
 T7	claim 558 608	the far-left has for the most part been dealt with
-A7	Type 7 evaluation_rational
+A7	Type2 T7 evaluation_rational
 T8	claim 611 658	However the far-right continues to be a menace.
-A8	Type 8 evaluation_emotional
+A8	Type2 T8 evaluation_emotional
 T9	claim 660 804	I believe fascist neo-nazi groups, the KKK, the golden dawn or any religious extremist group like radical Islamism all fall under the far-right.
-A9	Type 9 evaluation_emotional
+A9	Type2 T9 evaluation_emotional
 T10	claim 805 844	These groups are always extreme fringes
-A10	Type 10 evaluation_emotional
+A10	Type2 T10 evaluation_emotional
 T11	claim 851 906	a handful of people make the world a much nastier place
-A11	Type 11 evaluation_emotional
+A11	Type2 T11 evaluation_emotional
 T12	premise 910 1030	Often it is the leaders of such movements that prey on the weak-willed, using them as pawns in their ambitions of power.
-A12	Type 12 pathos
+A12	Type3 T12 pathos
 T13	premise 1032 1110	Unfortunately with the world's obsession with free speech and personal liberty
-A13	Type 13 logos_pathos
+A13	Type3 T13 logos_pathos
 T14	claim 1113 1147	such leaders are given a free hand
-A14	Type 14 evaluation_rational
+A14	Type2 T14 evaluation_rational
 T15	premise 1225 1300	Wouldn't restricting "free speech" put brakes on this sort of recruitment ?
-A15	Type 15 logos
+A15	Type3 T15 logos
 T16	premise 1302 1376	Political parties in democracies often try to keep these groups on a leash
-A16	Type 16 logos
+A16	Type3 T16 logos
 T17	premise 1383 1485	do not wish to eliminate them since they serve definite political goals like polarizing the electorate
-A17	Type 17 logos
+A17	Type3 T17 logos
 T18	claim 1488 1528	I see this as a major flaw in democracy.
-A18	Type 18 interpretation
+A18	Type2 T18 interpretation
 T19	premise 1529 1622	Fear of losing votes from radical sympathizers leads to political groups appeasing extremism.
-A19	Type 19 logos_pathos
+A19	Type3 T19 logos_pathos
 T20	claim 1633 1725	I think governments should do much more and try to completely stamp out any signs of fascism
-A20	Type 20 evaluation_emotional
+A20	Type2 T20 evaluation_emotional
 T21	premise 1728 1760	After the horrors of World War 2
-A21	Type 21 pathos
+A21	Type3 T21 pathos
 T22	claim 1761 1831	I find it completely absurd that we still put up with their ideologies
-A22	Type 22 evaluation_emotional
+A22	Type2 T22 evaluation_emotional
 T23	claim 1835 1924	Bringing socio-economic growth to communities that feel disenfranchised just isn't enough
-A23	Type 23 evaluation_emotional
+A23	Type2 T23 evaluation_emotional
 T24	premise 1931 1968	their will always be a few bad apples
-A24	Type 24 logos_pathos
+A24	Type3 T24 logos_pathos
 T25	claim 1971 2009	These bad apples need to be weeded out
-A25	Type 25 evaluation_emotional
+A25	Type2 T25 evaluation_emotional
 T26	premise 2012 2075	Instead, we allow them to spread their rot, and infect society.
-A26	Type 26 pathos
+A26	Type3 T26 pathos
 T27	claim 2173 2201	The only constant is change.
-A27	Type 27 interpretation
+A27	Type2 T27 interpretation
 T28	claim 2202 2294	Global stability is a myth grown out of a population that has gotten good at balancing acts.
-A28	Type 28 evaluation_rational
+A28	Type2 T28 evaluation_rational
 T29	premise 2295 2356	The supports necessary for real stability simply don't exist.
-A29	Type 29 logos
+A29	Type3 T29 logos
 T30	claim 2358 2471	To carry out a balancing act, you have to avoid any extreme reactions, as they only make for larger oscillations.
-A30	Type 30 interpretation
+A30	Type2 T30 interpretation
 T31	premise 2472 2525	Censorship is an extreme reaction to an extreme force
-A31	Type 31 logos
+A31	Type3 T31 logos
 T32	premise 2614 2715	There are many things we used to consider extreme that are now fundamental principles of our society.
-A32	Type 32 logos_pathos
+A32	Type3 T32 logos_pathos
 T33	premise 2716 2799	We claim that our old positions were wrong, and have good evidence to back this up.
-A33	Type 33 logos_pathos
+A33	Type3 T33 logos_pathos
 T34	premise 2800 2978	With this in mind, we are forced to acknowledge that we are probably making errors in other places, and may even have been led astray in one of the areas we have already changed.
-A34	Type 34 logos
+A34	Type3 T34 logos
 T35	premise 2979 3042	Censorship halts this process and locks in whatever is current.
-A35	Type 35 logos_pathos
+A35	Type3 T35 logos_pathos
 T36	premise 3047 3101	Censorship does not eliminate the censored individual.
-A36	Type 36 logos
+A36	Type3 T36 logos
 T37	premise 3102 3209	Indeed, they will work hard to evade the censor, carrying out their activities further from the public eye.
-A37	Type 37 logos_pathos
+A37	Type3 T37 logos_pathos
 T38	premise 3210 3327	This brings their arguments out of public discourse, where a solid counter-argument is more likely to be interjected.
-A38	Type 38 logos_pathos
+A38	Type3 T38 logos_pathos
 T39	premise 3328 3457	It also dooms any attempt to change their beliefs, as their opponents no longer understand those beliefs sufficiently to do this.
-A39	Type 39 logos_pathos
+A39	Type3 T39 logos_pathos
 T40	premise 3458 3588	Finally it gives them a true claim that they are being oppressed and targeted, which history suggests tends to strengthen a group.
-A40	Type 40 logos
+A40	Type3 T40 logos
 T41	claim 3591 3605	Good arguments
-A41	Type 41 agreement
+A41	Type2 T41 agreement
 T42	claim 3608 3680	Although I may disagree somewhat, I see why censorship can be dangerous.
-A42	Type 42 interpretation
+A42	Type2 T42 interpretation
 T43	claim 3710 3825	don't you think it's a problem that the likes of ISIS some neo-nazi groups actively recruit on twitter and facebook
-A43	Type 43 evaluation_emotional
+A43	Type2 T43 evaluation_emotional
 T44	claim 3828 3868	Should't this sort of thing be stopped ?
-A44	Type 44 evaluation_emotional
+A44	Type2 T44 evaluation_emotional
 T45	premise 3977 4139	While this may be true, hasn't the killing of innocents (and murder or rape, or destruction of property) always been considered deeply immoral (outside of wars) ?
-A45	Type 45 logos_pathos
+A45	Type3 T45 logos_pathos
 T46	premise 4141 4264	We already clamp down on extremism, and potential extremists are actively monitored using existing surveillance techniques.
-A46	Type 46 logos_pathos
+A46	Type3 T46 logos_pathos
 T47	premise 4265 4328	Is it really that bad to go after them just a little bit more ?
-A47	Type 47 logos
+A47	Type3 T47 logos
 R1	agreement Arg1:T3 Arg2:T2
 R2	support Arg1:T4 Arg2:T3
 R3	support Arg1:T13 Arg2:T14

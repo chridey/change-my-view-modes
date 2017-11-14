@@ -1,45 +1,45 @@
 T1	main_claim 0 104	CMV: I think the Paris shooting makes a good case for culture of responsible gun ownership any carrying.
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	claim 260 318	I think France is in a tough spot in how to react to this.
-A2	Type 2 interpretation
+A2	Type2 T2 interpretation
 T3	premise 319 402	There would be even stronger calls for an anti-islam and anti-immigration policies.
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	premise 403 482	These event reminds people that they cannot depend on protection by government.
-A4	Type 4 logos_pathos
+A4	Type3 T4 logos_pathos
 T5	claim 483 659	I think it would be a shame to allow the many, who are afraid more then anything, to be swayed by xenophobic nationalists (which might have been the goal of the attack anyway).
-A5	Type 5 interpretation
+A5	Type2 T5 interpretation
 T6	claim 661 836	I think this, regardless of whether the weapons used by the attackers were owned legally, makes a good case for promoting a culture of a reasonable gun ownership and carrying.
-A6	Type 6 evaluation_rational
+A6	Type2 T6 evaluation_rational
 T7	premise 837 969	Say if 1 out of 5 people carried a gun with them, was well trained in its use and tested in his responsibility to prevent its misuse
-A7	Type 7 logos_pathos
+A7	Type3 T7 logos_pathos
 T8	premise 976 1161	society upheld the value of these people as protectors, it would benefit the society more the the current state of legislature and culture of gun ownership in most of European countries
-A8	Type 8 logos_pathos
+A8	Type3 T8 logos_pathos
 T9	claim 1164 1245	I also think this would be much better then increase in police numbers and rights
-A9	Type 9 evaluation_rational
+A9	Type2 T9 evaluation_rational
 T10	premise 1246 1416	as policemen are a very homogeneous group trained to stick together and the danger of even deepening the "not one of us" (pack) mentality and escalation of "police state"
-A10	Type 10 logos_pathos
+A10	Type3 T10 logos_pathos
 T11	claim 1774 1878	Are you suggesting that INCREASING the number of weapons would decrease the lethal use of those weapons?
-A11	Type 11 evaluation_emotional
+A11	Type2 T11 evaluation_emotional
 T12	claim 1879 1950	It MIGHT help mitigate one instance of shootings, like today's in Paris
-A12	Type 12 interpretation
+A12	Type2 T12 interpretation
 T13	claim 1957 2067	surely tempt or instigate more occurrences in its place as the weapons are that much easier to access and use?
-A13	Type 13 interpretation
+A13	Type2 T13 interpretation
 T14	premise 2068 2230	If increasing gun ownership would benefit society, would there be a point where if X number of people owned and carried a gun, there would be no shootings at all?
-A14	Type 14 logos
+A14	Type3 T14 logos
 T15	premise 2231 2281	How do the stats stack up in support of your view?
-A15	Type 15 logos
+A15	Type3 T15 logos
 T16	claim 2283 2385	This seems like a very difficult thing to prove or disprove either way because of the lack of research
-A16	Type 16 interpretation
+A16	Type2 T16 interpretation
 T17	claim 2392 2468	I'm loathed to suggest increasing gun ownership could be a possible solution
-A17	Type 17 evaluation_emotional
+A17	Type2 T17 evaluation_emotional
 T18	premise 2482 2524	I dunno,they have a reputation for misuse?
-A18	Type 18 logos_pathos
+A18	Type3 T18 logos_pathos
 T19	claim 2525 2554	Surely, LESS would be better?
-A19	Type 19 evaluation_emotional
+A19	Type2 T19 evaluation_emotional
 T20	claim 2557 2582	No I'm not claiming this.
-A20	Type 20 disagreement
+A20	Type2 T20 disagreement
 T21	premise 2654 2749	Distinguish between decreasing and stopping, owning and responsibly owning, laws and culture...
-A21	Type 21 logos
+A21	Type3 T21 logos
 R1	agreement Arg1:T2 Arg2:T1
 R2	support Arg1:T3 Arg2:T2
 R3	partial_agreement Arg1:T12 Arg2:T6

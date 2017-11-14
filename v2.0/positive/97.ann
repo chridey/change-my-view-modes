@@ -1,123 +1,123 @@
 T1	main_claim 0 57	CMV: I think the board game "Monopoly" is poorly designed
-A1	Type 1 evaluation_emotional
+A1	Type1 T1 evaluation_emotional
 T2	premise 59 177	Like many American kids, I was often forced throughout my childhood to participate in "Monopoly" games with my family.
-A2	Type 2 ethos
+A2	Type3 T2 ethos
 T3	claim 200 255	there is very little skill involved in playing the game
-A3	Type 3 evaluation_emotional
+A3	Type2 T3 evaluation_emotional
 T4	premise 258 317	it just seems to be a giant crapshoot the whole way through
-A4	Type 4 logos
+A4	Type3 T4 logos
 T5	claim 473 571	Though it does this job well, I believe it is this intent that causes it to be thoroughly not fun.
-A5	Type 5 interpretation
+A5	Type2 T5 interpretation
 T6	premise 572 806	Once ~50% of the board has been claimed, even if the landholdings of all the players are about equal, it is immediately obvious which player will lose based on who falls in another's territory first and has to pay the incredulous tax.
-A6	Type 6 logos
+A6	Type3 T6 logos
 T7	premise 807 1050	After that, it is just a long fall into bankruptcy as eventually the player has to sell their property to others, decreasing the chance that they can earn revenue while simultaneously increasing the chance that the others can profit from them.
-A7	Type 7 logos
+A7	Type3 T7 logos
 T8	claim 1052 1181	While this system would work in a **quick** game between 2 to 3 people, monopoly is usually drawn out and played with 4+ players.
-A8	Type 8 evaluation_rational
+A8	Type2 T8 evaluation_rational
 T9	premise 1182 1328	One after another, a player pays out the net-worth to the other players until there is a long, long drawn-out stand-off between the remaining few.
-A9	Type 9 logos
+A9	Type3 T9 logos
 T10	premise 1329 1390	At this point, it comes to down to complete and utter chance.
-A10	Type 10 logos
+A10	Type3 T10 logos
 T11	premise 1391 1443	Whomever gets the worst successive dice rolls loses.
-A11	Type 11 logos
+A11	Type3 T11 logos
 T12	premise 1444 1538	When that happens, barring any statistically unlikely dice rolls, it is evident who will lose.
-A12	Type 12 logos
+A12	Type3 T12 logos
 T13	premise 1539 1645	But the game keeps going and going, because it would be "unfair" to keep going despite the likely outcome.
-A13	Type 13 logos_pathos
+A13	Type3 T13 logos_pathos
 T14	claim 1647 1698	If Monopoly was redesigned to rely less on chance (
-A14	Type 14 evaluation_rational
+A14	Type2 T14 evaluation_rational
 T15	premise 1699 1881	As of right now, after the first few passes around the board, it is easier to calculate the theoretical outcome with the help of a computer then to finish the game to its completion.
-A15	Type 15 logos
+A15	Type3 T15 logos
 T16	claim 2156 2169	I have to ask
-A16	Type 16 evaluation_rational
+A16	Type2 T16 evaluation_rational
 T17	premise 2170 2277	because it's very, very common for people to unwitting ignore or add rules and cause the game to run longer
-A17	Type 17 logos
+A17	Type3 T17 logos
 T18	premise 2280 2361	By far the most egregious violation of this nature is ignoring the Auction rule (
-A18	Type 18 logos
+A18	Type3 T18 logos
 T19	premise 2362 2602	Another common one I grew up with was the "Free Parking" rule addition, where landing on Free Parking confers some kind of monetary reward, which introduces more money into the game and makes it harder to go bankrupt, dragging out the game.
-A19	Type 19 logos
+A19	Type3 T19 logos
 T20	claim 2604 2737	Assuming that you're playing with auctions (and preferably without that Free Parking house rule), the key to the game is negotiation.
-A20	Type 20 evaluation_rational
+A20	Type2 T20 evaluation_rational
 T21	premise 2738 2812	The game only becomes a drawn-out slugfest if players can't get monopolies
-A21	Type 21 logos
+A21	Type3 T21 logos
 T22	premise 2815 2860	which only happens if players don't negotiate
-A22	Type 22 logos
+A22	Type3 T22 logos
 T23	premise 2863 2891	This is the soul of the game
-A23	Type 23 logos
+A23	Type3 T23 logos
 T24	premise 2898 2967	ignoring it is the reason many people develop a distaste for the game
-A24	Type 24 logos
+A24	Type3 T24 logos
 T25	premise 2970 3076	If players A, B, C, and D are playing, and A is obviously ahead after a few go-arounds, should A just win?
-A25	Type 25 logos
+A25	Type3 T25 logos
 T26	premise 3077 3091	Of course not!
-A26	Type 26 ethos_logos
+A26	Type3 T26 ethos_logos
 T27	premise 3092 3150	B, C, and D should be conspiring like hell to take A down.
-A27	Type 27 pathos
+A27	Type3 T27 pathos
 T28	premise 3151 3241	B can "not notice" when C and D land on his properties, making A the only one to pay rent.
-A28	Type 28 logos
+A28	Type3 T28 logos
 T29	premise 3242 3330	C and D can agree to help each other complete monopolies and make trades of that nature.
-A29	Type 29 logos
+A29	Type3 T29 logos
 T30	premise 3331 3458	Once some players have monopolies, the other players have to either trade to make their own monopolies or get bled out quickly.
-A30	Type 30 logos
+A30	Type3 T30 logos
 T31	premise 3459 3597	Once monopolies (and the corresponding houses and hotels) come into play, tiny rents become enormous and the game quickly comes to an end.
-A31	Type 31 logos
+A31	Type3 T31 logos
 T32	claim 3609 3709	Monopoly is drawn out because people don't play by the rules, or the miss the main point of the game
-A32	Type 32 interpretation
+A32	Type2 T32 interpretation
 T33	premise 3724 3776	Forming monopolies is by far the quickest way to win
-A33	Type 33 logos
+A33	Type3 T33 logos
 T34	premise 3783 3900	the easiest way to do so is through negotiating with other players, a point that many Monopoly players fail to notice
-A34	Type 34 logos
+A34	Type3 T34 logos
 T35	premise 3903 3970	A properly played game of Monopoly may come down to luck in the end
-A35	Type 35 logos
+A35	Type3 T35 logos
 T36	premise 3973 4080	but it's luck that is heavily influenced by the mid-game, which is decided by the players' diplomatic skill
-A36	Type 36 logos
+A36	Type3 T36 logos
 T37	premise 4140 4210	Only recently (past 4 years) my family added money to the free parking
-A37	Type 37 logos_pathos
+A37	Type3 T37 logos_pathos
 T38	premise 4217 4293	though I always attempted to get the auction rule in I was always voted down
-A38	Type 38 logos_pathos
+A38	Type3 T38 logos_pathos
 T39	claim 4296 4368	Perhaps that is the reason why I have such a strong dislike of the game.
-A39	Type 39 interpretation
+A39	Type2 T39 interpretation
 T40	claim 4560 4611	Though it is theoretically sound it may not hold up
-A40	Type 40 evaluation_rational
+A40	Type2 T40 evaluation_rational
 T41	claim 4614 4677	It does admittedly depend a lot on the people you play it with.
-A41	Type 41 evaluation_rational
+A41	Type2 T41 evaluation_rational
 T42	premise 4678 4819	If your fellow players absolutely refuse to negotiate, even when it would benefit them in the long run, then the game is not going to be fun.
-A42	Type 42 logos_pathos
+A42	Type3 T42 logos_pathos
 T43	premise 4820 4870	It's like playing poker with players who never bet
-A43	Type 43 logos_pathos
+A43	Type3 T43 logos_pathos
 T44	premise 4873 4915	it's not fun, it's just a long, awful slog
-A44	Type 44 logos_pathos
+A44	Type3 T44 logos_pathos
 T45	claim 4918 4962	That doesn't make Poker a bad game by design
-A45	Type 45 evaluation_emotional
+A45	Type2 T45 evaluation_emotional
 T46	premise 4965 5010	even though it can be unfun in some scenarios
-A46	Type 46 logos_pathos
+A46	Type3 T46 logos_pathos
 T47	claim 5014 5073	it just means that it's not a game that everyone will enjoy
-A47	Type 47 evaluation_rational
+A47	Type2 T47 evaluation_rational
 T48	claim 5077 5159	I'd recommend pointing out to people that the point of the game is to make trades.
-A48	Type 48 evaluation_rational
+A48	Type2 T48 evaluation_rational
 T49	premise 5160 5294	The most beneficial trade I've found involves two players helping each other complete a monopoly, but giving "immunity" to that group.
-A49	Type 49 logos
+A49	Type3 T49 logos
 T50	premise 5297 5416	i.e. Alice has two Yellow properties and one Green property, while Bob has two Green properties and one Yellow property
-A50	Type 50 logos
+A50	Type3 T50 logos
 T51	premise 5419 5635	Alice agrees to trade her Green for Bob's Yellow, giving them both monopolies, on the condition that Alice won't have to pay if she lands on a Green property and Bob won't have to pay if he lands on a Yellow property
-A51	Type 51 logos
+A51	Type3 T51 logos
 T52	premise 5639 5732	Players who don't like trades tend to be nervous about giving other players a better position
-A52	Type 52 logos
+A52	Type3 T52 logos
 T53	premise 5739 5826	I find that they're more inclined to do so if they feel it won't come back to bite them
-A53	Type 53 logos
+A53	Type3 T53 logos
 T54	premise 5829 5857	Seriously, immunity is great
-A54	Type 54 logos_pathos
+A54	Type3 T54 logos_pathos
 T55	premise 5860 5992	Even without auctions, making sure people are aware that they can be "flexible" about collecting rent makes the game go much faster.
-A55	Type 55 logos_pathos
+A55	Type3 T55 logos_pathos
 T56	premise 5993 6044	If you can't sell auctions, this should still help.
-A56	Type 56 logos
+A56	Type3 T56 logos
 T57	claim 6056 6075	Yeah, you're right.
-A57	Type 57 agreement
+A57	Type2 T57 agreement
 T58	premise 6076 6167	Perhaps my family (and quite a few other families) are just not equipped to play this game.
-A58	Type 58 pathos
+A58	Type3 T58 pathos
 T59	premise 6168 6200	It is probably akin to Diplomacy
-A59	Type 59 logos
+A59	Type3 T59 logos
 T60	premise 6203 6293	The family dynamic + the individual personalities of each player changes how the game goes
-A60	Type 60 logos
+A60	Type3 T60 logos
 R1	support Arg1:T2 Arg2:T3
 R2	support Arg1:T12 Arg2:T8
 R3	support Arg1:T13 Arg2:T8

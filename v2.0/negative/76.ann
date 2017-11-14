@@ -1,83 +1,83 @@
 T1	main_claim 0 108	CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	claim 110 136	The options are as follows
-A2	Type 2 evaluation_rational
+A2	Type2 T2 evaluation_rational
 T3	claim 140 204	1. You don't agree with what is going on and stop supporting it.
-A3	Type 3 evaluation_rational
+A3	Type2 T3 evaluation_rational
 T4	claim 206 309	2. You don't care about animals, so you're content with paying for them to be abused for your pleasure.
-A4	Type 4 evaluation_emotional
+A4	Type2 T4 evaluation_emotional
 T5	claim 311 423	3. You don't agree with what is going on, but try to put it to the back of your mind and continue to support it.
-A5	Type 5 interpretation
+A5	Type2 T5 interpretation
 T6	premise 436 562	I used to follow 'option number 3', but recently started 'option number 1' in an attempt to line my actions up with my values.
-A6	Type 6 logos_pathos
+A6	Type3 T6 logos_pathos
 T7	claim 563 635	I suspect this way of looking at it is still somewhat simplistic however
-A7	Type 7 evaluation_emotional
+A7	Type2 T7 evaluation_emotional
 T8	claim 672 694	There is a 4th choice.
-A8	Type 8 disagreement
+A8	Type2 T8 disagreement
 T9	claim 748 782	despite how much you love your dog
-A9	Type 9 evaluation_rational
+A9	Type2 T9 evaluation_rational
 T10	claim 836 929	your farmed tilapia doesn't have the cognition to question whether it's life is worth living.
-A10	Type 10 evaluation_rational
+A10	Type2 T10 evaluation_rational
 T11	claim 931 971	I want the animals to be raised humanely
-A11	Type 11 evaluation_rational
+A11	Type2 T11 evaluation_rational
 T12	claim 984 1017	I want them to be killed humanely
-A12	Type 12 evaluation_rational
+A12	Type2 T12 evaluation_rational
 T13	premise 1024 1163	it's not like a wild turkey sits on it's deathbed and thinks fondly of those days gone by, when it roamed free and raised its baby turkeys.
-A13	Type 13 logos_pathos
+A13	Type3 T13 logos_pathos
 T14	claim 1164 1202	No, it thinks more "food? sex? food?".
-A14	Type 14 evaluation_rational
+A14	Type2 T14 evaluation_rational
 T15	premise 1204 1345	Yes, they feel pain, but so does an earthworm, if you mean "experience messages that say 'bad things are happening - endeavor to stop them'".
-A15	Type 15 logos_pathos
+A15	Type3 T15 logos_pathos
 T16	premise 1346 1430	They don't look back and say, "Man, remember when I bumped into that electric fence?
-A16	Type 16 logos_pathos
+A16	Type3 T16 logos_pathos
 T17	premise 1431 1452	That hurt like hell."
-A17	Type 17 logos
+A17	Type3 T17 logos
 T18	claim 1453 1494	The best they can manage is "Fence. Bad."
-A18	Type 18 interpretation
+A18	Type2 T18 interpretation
 T19	premise 1496 1596	There is no "meaningful" or "meaningless" life for an animal - they don't philosophize beyond needs.
-A19	Type 19 logos
+A19	Type3 T19 logos
 T20	premise 1597 1708	Most farm animals spend less time hungry, scratched by brambles, running from predators, etc than wild animals.
-A20	Type 20 logos_pathos
+A20	Type3 T20 logos_pathos
 T21	claim 1709 1772	It doesn't make it a better of worse life - it's just existing.
-A21	Type 21 interpretation
+A21	Type2 T21 interpretation
 T22	claim 1773 1843	That's the other choice - accepting that animals are less than humans.
-A22	Type 22 interpretation
+A22	Type2 T22 interpretation
 T23	claim 1879 1970	A chicken feels pain and suffering and does not want to feel those things as much as we do.
-A23	Type 23 evaluation_rational
+A23	Type2 T23 evaluation_rational
 T24	claim 2160 2298	My sister is severely mentally disabled and most likely doesn't have the capacity to think fondly of days gone by on her death bed either.
-A24	Type 24 evaluation_rational
+A24	Type2 T24 evaluation_rational
 T25	premise 2299 2428	Does intelligence really make much of a difference when it comes to the ethics of whether we can kill them without moral concern?
-A25	Type 25 logos_pathos
+A25	Type3 T25 logos_pathos
 T26	claim 2430 2535	I still don't see any good argument for how animals are 'less' than humans (beyond our own obvious bias).
-A26	Type 26 evaluation_rational
+A26	Type2 T26 evaluation_rational
 T27	premise 2556 2591	How does a chicken "want" anything?
-A27	Type 27 pathos
+A27	Type3 T27 pathos
 T28	claim 2592 2706	It is completely incapable of developing a though like, "Today would REALLY suck if that damn fox bites me again".
-A28	Type 28 agreement
+A28	Type2 T28 agreement
 T29	claim 2708 2734	Yes, intelligence matters.
-A29	Type 29 evaluation_rational
+A29	Type2 T29 evaluation_rational
 T30	premise 2735 2795	If not, we wouldn't allow brain-dead people to be unplugged.
-A30	Type 30 logos_pathos
+A30	Type3 T30 logos_pathos
 T31	claim 2796 2858	Self-awareness puts one in a separate category than an animal.
-A31	Type 31 evaluation_rational
+A31	Type2 T31 evaluation_rational
 T32	claim 2876 2932	I'm not trying to convince you not to care about animals
-A32	Type 32 evaluation_rational
+A32	Type2 T32 evaluation_rational
 T33	claim 2944 3056	a rational person could come to the decision that those without higher cognition or self-awareness aren't equal.
-A33	Type 33 evaluation_rational
+A33	Type2 T33 evaluation_rational
 T34	claim 3059 3103	Self awareness isn't a human-exclusive trait
-A34	Type 34 disagreement
+A34	Type2 T34 disagreement
 T35	premise 3106 3165	dolphins, apes and elephants have been proven to possess it
-A35	Type 35 logos
+A35	Type3 T35 logos
 T36	premise 3168 3196	Regardless of self-awareness
-A36	Type 36 logos
+A36	Type3 T36 logos
 T37	claim 3199 3279	the ability to suffer is what I regard as being more important to an individual.
-A37	Type 37 evaluation_emotional
+A37	Type2 T37 evaluation_emotional
 T38	claim 3282 3348	That may be what YOU consider, but that's not what others consider
-A38	Type 38 interpretation
+A38	Type2 T38 interpretation
 T39	claim 3364 3409	they can validly reach different conclusions.
-A39	Type 39 interpretation
+A39	Type2 T39 interpretation
 T40	claim 3411 3495	And "suffer" needs more definition to discuss whether it's something animals can do.
-A40	Type 40 evaluation_emotional
+A40	Type2 T40 evaluation_emotional
 R1	partial_attack Arg1:T12 Arg2:T3
 R2	support Arg1:T13 Arg2:T14
 R3	undercutter Arg1:T14 Arg2:T4

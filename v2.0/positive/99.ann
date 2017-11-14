@@ -1,63 +1,63 @@
 T1	main_claim 0 95	CMV: If a child struggles to achieve in grade school it is virtually always the parents' fault.
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	premise 97 195	For the sake of this thread, we'll exclude children with medically diagnosed learning disabilities
-A2	Type 2 logos
+A2	Type3 T2 logos
 T3	claim 198 343	IMO the knowledge and resource base for teaching said children is probably proportionate to the percentage they make up of the overall population
-A3	Type 3 evaluation_rational
+A3	Type2 T3 evaluation_rational
 T4	premise 347 461	With a healthy child, income, neighborhood, peers and teachers should be filtered through a responsible parent(s).
-A4	Type 4 logos
+A4	Type3 T4 logos
 T5	claim 462 559	A child who struggles in earnest or intentionally slacks off is a direct reflection of parenting.
-A5	Type 5 interpretation
+A5	Type2 T5 interpretation
 T6	claim 560 671	I am curious regarding potential for more public accountability held to parents who fail to direct their child.
-A6	Type 6 evaluation_rational
+A6	Type2 T6 evaluation_rational
 T7	premise 674 825	maybe a monetary incentive derived from public tax coffers paid to parents of children who maintain a passing grade, to be withheld if child dips below
-A7	Type 7 logos_pathos
+A7	Type3 T7 logos_pathos
 T8	claim 830 925	I think parents are virtually 100% responsible for producing scholastically successful children
-A8	Type 8 interpretation
+A8	Type2 T8 interpretation
 T9	claim 935 1006	One of the largest predictors for success appears to be not being poor.
-A9	Type 9 evaluation_rational
+A9	Type2 T9 evaluation_rational
 T10	claim 1040 1128	It seems like fining poor people has some potential negative effects... on the children.
-A10	Type 10 evaluation_rational
+A10	Type2 T10 evaluation_rational
 T11	claim 1131 1152	It wouldn't be a fine
-A11	Type 11 evaluation_rational
+A11	Type2 T11 evaluation_rational
 T12	premise 1155 1213	since it would only be a suspension of "assistance" anyway
-A12	Type 12 logos
+A12	Type3 T12 logos
 T13	premise 1216 1317	And poverty is a formidable obstacle but many, many people come from poverty to be wildly successful.
-A13	Type 13 logos
+A13	Type3 T13 logos
 T14	claim 1318 1380	That cannot be a blanket excuse for poor academic performance.
-A14	Type 14 disagreement
+A14	Type2 T14 disagreement
 T15	claim 1381 1529	I believe the fulcrum of a child's development has always been, and will always be the parent(a living, mentally capable set of or just one parent).
-A15	Type 15 interpretation
+A15	Type2 T15 interpretation
 T16	claim 1532 1536	Yeah
-A16	Type 16 agreement
+A16	Type2 T16 agreement
 T17	claim 1543 1733	my point is that giving money to people that have successful children is going, ultimately, to lead to giving money to people that already have money, and withholding it from ones that don't
-A17	Type 17 interpretation
+A17	Type2 T17 interpretation
 T18	claim 1737 1839	Unless you make the reward high enough to overcome the *reasons* that poor parents are less involved (
-A18	Type 18 evaluation_rational
+A18	Type2 T18 evaluation_rational
 T19	claim 1844 1877	that's going to be very expensive
-A19	Type 19 evaluation_rational
+A19	Type2 T19 evaluation_rational
 T20	claim 1894 1984	there's a more fundamental *reason* that poor parents are poorer at helping their children
-A20	Type 20 evaluation_emotional
+A20	Type2 T20 evaluation_emotional
 T21	premise 1989 2036	they're statistically dumber than richer people
-A21	Type 21 pathos
+A21	Type3 T21 pathos
 T22	premise 2039 2127	Ignorance might be the cause, of course, rather than just lack of intrinsic intelligence
-A22	Type 22 pathos
+A22	Type3 T22 pathos
 T23	claim 2131 2324	It would seem that a better approach would be to pay parents to attend training on how to be better parents, rather than rewarding the ones that have just happened to figure it out on their own
-A23	Type 23 interpretation
+A23	Type2 T23 interpretation
 T24	claim 2342 2431	I think you're just being naive about actual statistical variation in native intelligence
-A24	Type 24 interpretation
+A24	Type2 T24 interpretation
 T25	premise 2434 2544	There's really no reason to believe that every person has exactly the same potential to succeed well in school
-A25	Type 25 logos
+A25	Type3 T25 logos
 T26	premise 2547 2675	A simpler explanation is that native intelligence is probably normally distributed, like almost every other trait people possess
-A26	Type 26 logos
+A26	Type3 T26 logos
 T27	claim 2726 2763	Native intelligence is the challenge.
-A27	Type 27 evaluation_rational
+A27	Type2 T27 evaluation_rational
 T28	claim 2859 2918	a moneyless society would over time revert to fiat currency
-A28	Type 28 evaluation_rational
+A28	Type2 T28 evaluation_rational
 T29	premise 2921 2971	Some people can do some thing's better than others
-A29	Type 29 logos
+A29	Type3 T29 logos
 T30	claim 2983 2996	Nice exercise
-A30	Type 30 evaluation_emotional
+A30	Type2 T30 evaluation_emotional
 R1	support Arg1:T2 Arg2:T1
 R2	support Arg1:T12 Arg2:T11
 R3	support Arg1:T13 Arg2:T14

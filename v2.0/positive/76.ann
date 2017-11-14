@@ -1,79 +1,79 @@
 T1	main_claim 0 88	CMV: Surplus Value Theorem is definitive proof that capitalism is an inefficient system.
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	premise 90 214	As I understand it, and crudely explained, SVT says that in an economic system that lets people hire other people for labour
-A2	Type 2 logos
+A2	Type3 T2 logos
 T3	claim 217 277	waste has to be produced in order for the system to function
-A3	Type 3 evaluation_rational
+A3	Type2 T3 evaluation_rational
 T4	premise 290 347	Consider a society of 101 people: 100 workers and 1 boss.
-A4	Type 4 pathos
+A4	Type3 T4 pathos
 T5	premise 348 396	The boss owns the factory where the workers work
-A5	Type 5 logos
+A5	Type3 T5 logos
 T6	premise 403 458	they produce, say, MLP dolls that everyone wants to buy
-A6	Type 6 logos
+A6	Type3 T6 logos
 T7	premise 461 573	The boss pays each of her workers £5 for each doll that the worker produces, and a worker produces 1 doll a day
-A7	Type 7 logos
+A7	Type3 T7 logos
 T8	premise 576 658	At the end of the day, the boss has 100 dolls, worth £1000 and has paid out £500
-A8	Type 8 logos_pathos
+A8	Type3 T8 logos_pathos
 T9	premise 661 744	Wanting to make a profit on the dolls, the boss then sells the dolls for £10 each.
-A9	Type 9 logos
+A9	Type3 T9 logos
 T10	premise 745 792	She is now trying to sell £1000 worth of dolls
-A10	Type 10 ethos_logos_pathos
+A10	Type3 T10 ethos_logos_pathos
 T11	premise 799 880	the only people available to sell to are the workers, who's total funds are £500
-A11	Type 11 ethos_logos_pathos
+A11	Type3 T11 ethos_logos_pathos
 T12	premise 883 997	No matter how they rearrange the money between them, they will be unable to buy more than £500 worth of the dolls
-A12	Type 12 logos
+A12	Type3 T12 logos
 T13	premise 1007 1104	the rest are waste inherent to the system and a direct result of the boss wanting to make profit.
-A13	Type 13 logos
+A13	Type3 T13 logos
 T14	premise 1106 1239	This example then scales up to the whole world when you throw in multiple bosses and lots more workers but the basic idea is the same
-A14	Type 14 logos
+A14	Type3 T14 logos
 T15	premise 1245 1347	each worker is being paid less than the price of the things they produce so that their boss can profit
-A15	Type 15 logos
+A15	Type3 T15 logos
 T16	claim 1355 1420	items that cannot be sold must still be produced and thrown away.
-A16	Type 16 evaluation_rational
+A16	Type2 T16 evaluation_rational
 T17	premise 1505 1542	Most people aren't paid on commission
-A17	Type 17 logos
+A17	Type3 T17 logos
 T18	claim 1548 1580	this isn't really a good example
-A18	Type 18 evaluation_emotional
+A18	Type2 T18 evaluation_emotional
 T19	claim 1587 1628	I think I get where you're going with it.
-A19	Type 19 evaluation_emotional
+A19	Type2 T19 evaluation_emotional
 T20	claim 1711 1748	But the money doesn't just disappear.
-A20	Type 20 evaluation_emotional
+A20	Type2 T20 evaluation_emotional
 T21	premise 1764 1901	you're neglecting the janitor who is necessary to keep the factory functioning (and presumably gets paid) but doesn't "produce" anything.
-A21	Type 21 logos_pathos
+A21	Type3 T21 logos_pathos
 T22	premise 1930 2000	when this system scales up you need to include the boss buying things.
-A22	Type 22 logos_pathos
+A22	Type3 T22 logos_pathos
 T23	premise 2008 2084	whatever profit the boss makes goes back into the system as they spend money
-A23	Type 23 logos
+A23	Type3 T23 logos
 T24	claim 2087 2181	there should be at all times enough money in the system to cover the value of what it produced
-A24	Type 24 evaluation_emotional
+A24	Type2 T24 evaluation_emotional
 T25	premise 2184 2243	This value may not be the price being charged for the thing
-A25	Type 25 logos_pathos
+A25	Type3 T25 logos_pathos
 T26	claim 2250 2293	that's where supply and demand are involved
-A26	Type 26 evaluation_emotional
+A26	Type2 T26 evaluation_emotional
 T27	premise 2324 2420	sometimes (or a lot of the time) the boss just hoards their extra money and doesn't re-inject it
-A27	Type 27 logos_pathos
+A27	Type3 T27 logos_pathos
 T28	claim 2427 2485	that's more a failure of the system than the system itself
-A28	Type 28 evaluation_rational
+A28	Type2 T28 evaluation_rational
 T29	claim 2488 2553	The same goes for when something is priced above its market value
-A29	Type 29 agreement
+A29	Type2 T29 agreement
 T30	premise 2556 2587	it won't sell and will be waste
-A30	Type 30 logos_pathos
+A30	Type3 T30 logos_pathos
 T31	premise 2609 2633	the seller overpriced it
-A31	Type 31 logos_pathos
+A31	Type3 T31 logos_pathos
 T32	premise 2636 2697	not because it was doomed to be waste as soon as it was made.
-A32	Type 32 logos_pathos
+A32	Type3 T32 logos_pathos
 T33	claim 2699 2748	No ideal system is really going to be inefficient
-A33	Type 33 disagreement
+A33	Type2 T33 disagreement
 T34	claim 2751 2788	its the real ones that have problems.
-A34	Type 34 interpretation
+A34	Type2 T34 interpretation
 T35	premise 2793 2849	you mean to say that real-life capitalism is inefficient
-A35	Type 35 logos
+A35	Type3 T35 logos
 T36	claim 2857 2887	no one is going to dispute you
-A36	Type 36 agreement
+A36	Type2 T36 agreement
 T37	claim 2916 2959	it's the most efficient real system we have
-A37	Type 37 interpretation
+A37	Type2 T37 interpretation
 T38	claim 3028 3130	it would be a wasteless system if there were multiple factories and the boss spent all of their money!
-A38	Type 38 evaluation_rational
+A38	Type2 T38 evaluation_rational
 R1	support Arg1:T2 Arg2:T3
 R2	support Arg1:T10 Arg2:T3
 R3	support Arg1:T11 Arg2:T3

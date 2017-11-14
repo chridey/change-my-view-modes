@@ -1,99 +1,99 @@
 T1	main_claim 0 31	CMV: America is not a democracy
-A1	Type 1 evaluation_rational
+A1	Type1 T1 evaluation_rational
 T2	premise 48 123	There is an unchecked organization that spies on them 24/7 without consent.
-A2	Type 2 pathos
+A2	Type3 T2 pathos
 T3	premise 124 201	The US has given itself license to detain and torture citizens with no trial.
-A3	Type 3 pathos
+A3	Type3 T3 pathos
 T4	premise 202 321	The energy laws in that country allow corporations to drill where they please and, as a result, poison who they please.
-A4	Type 4 pathos
+A4	Type3 T4 pathos
 T5	claim 614 663	It's not a free, democratic society by any means.
-A5	Type 5 evaluation_rational
+A5	Type2 T5 evaluation_rational
 T6	claim 664 689	It's clearly an oligarchy
-A6	Type 6 interpretation
+A6	Type2 T6 interpretation
 T7	claim 692 796	A democracy is not necessarily a functional, benevolent government, nor is a democracy necessarily free.
-A7	Type 7 interpretation
+A7	Type2 T7 interpretation
 T8	premise 797 890	The USA was intended to be a federal republic, a republic being a form of indirect democracy.
-A8	Type 8 logos
+A8	Type3 T8 logos
 T9	claim 1002 1057	Is political power in the US held by elected officials?
-A9	Type 9 interpretation
+A9	Type2 T9 interpretation
 T10	claim 1059 1125	Are those officials elected in free and fair democratic elections?
-A10	Type 10 interpretation
+A10	Type2 T10 interpretation
 T11	claim 1127 1188	The answer to both of those questions is unambiguously "yes."
-A11	Type 11 evaluation_rational
+A11	Type2 T11 evaluation_rational
 T12	premise 1189 1521	The domestic spying, the secret courts, the torture, the corporate favoritism, the environmental destruction, the lies, the unjustified wars, the unregulated financial system... all of those are things instituted or approved by our democratically elected officials, fully within the scope of power ceded to them by the constitution.
-A12	Type 12 logos
+A12	Type3 T12 logos
 T13	premise 1526 1645	we continue to vote those who do these things into office in free and fair elections, time and time again, without fail
-A13	Type 13 pathos
+A13	Type3 T13 pathos
 T14	claim 1649 1725	You can argue, perhaps successfully, that the US is a fascist, un-free state
-A14	Type 14 evaluation_rational
+A14	Type2 T14 evaluation_rational
 T15	claim 1732 1773	it remains by definition a democratic one
-A15	Type 15 interpretation
+A15	Type2 T15 interpretation
 T16	claim 1778 1795	Fair enough haha.
-A16	Type 16 agreement
+A16	Type2 T16 agreement
 T17	claim 1796 1836	This is the best argument I've seen here
-A17	Type 17 evaluation_rational
+A17	Type2 T17 evaluation_rational
 T18	claim 2003 2070	Well in my brain a fair election is when anyone can run for office.
-A18	Type 18 interpretation
+A18	Type2 T18 interpretation
 T19	premise 2071 2136	The fact that you need millions of dollars to do so seems unfair.
-A19	Type 19 pathos
+A19	Type3 T19 pathos
 T20	premise 2137 2222	It instantly results in a situation where only the rich can run for and hold offices.
-A20	Type 20 logos
+A20	Type3 T20 logos
 T21	claim 2223 2319	On the municipal level I don't think superpacs are a problem, but definitely on a federal level.
-A21	Type 21 evaluation_rational
+A21	Type2 T21 evaluation_rational
 T22	claim 2322 2350	Anyone *can* run for office.
-A22	Type 22 interpretation
+A22	Type2 T22 interpretation
 T23	premise 2351 2377	You might not get very far
-A23	Type 23 logos
+A23	Type3 T23 logos
 T24	claim 2401 2435	you don't need millions of dollars
-A24	Type 24 evaluation_rational
+A24	Type2 T24 evaluation_rational
 T25	premise 2438 2488	you need to be *able to raise* millions of dollars
-A25	Type 25 logos
+A25	Type3 T25 logos
 T26	claim 2502 2533	I don't see a problem with that
-A26	Type 26 evaluation_rational
+A26	Type2 T26 evaluation_rational
 T27	premise 2536 2674	Raising large amounts of money requires leadership, diplomacy, organization, charisma… all traits I like to see in my elected officials.
-A27	Type 27 logos
+A27	Type3 T27 logos
 T28	premise 2675 2805	The corruption and lack of transparency created by PACs and SuperPACs and Citizens United in general is definitely a major problem
-A28	Type 28 logos
+A28	Type3 T28 logos
 T29	premise 2812 2871	like some other things that have come up in this discussion
-A29	Type 29 logos
+A29	Type3 T29 logos
 T30	claim 2874 2933	it's not an issue that makes the USA an un-democratic state
-A30	Type 30 evaluation_rational
+A30	Type2 T30 evaluation_rational
 T31	premise 2936 3019	There's no rule saying that the person who raises the most money wins the election.
-A31	Type 31 logos
+A31	Type3 T31 logos
 T32	premise 3020 3248	The fact that most people vote for the most visible candidate on their side rather than the one that most closely represents their interests is a problem with the electorate and also a result of our winner-take-all voting system
-A32	Type 32 logos
+A32	Type3 T32 logos
 T33	claim 3255 3332	neither of those are in conflict with the USA being a democracy by definition
-A33	Type 33 evaluation_rational
+A33	Type2 T33 evaluation_rational
 T34	claim 3337 3394	Okay, I think you have officially Changed My View haha...
-A34	Type 34 agreement
+A34	Type2 T34 agreement
 T35	claim 3395 3480	it seems like the problem is more caused by the populace not being responsible voters
-A35	Type 35 interpretation
+A35	Type2 T35 interpretation
 T36	claim 3483 3511	I see that and agree with it
-A36	Type 36 agreement
+A36	Type2 T36 agreement
 T37	claim 3514 3586	Ideally I would like it if no money was involved in the poltical process
-A37	Type 37 evaluation_rational
+A37	Type2 T37 evaluation_rational
 T38	claim 3593 3606	that is naive
-A38	Type 38 evaluation_rational
+A38	Type2 T38 evaluation_rational
 T39	claim 3853 3951	The reason I think this is important is because I'm pissed off about the way things are in America
-A39	Type 39 evaluation_emotional
+A39	Type2 T39 evaluation_emotional
 T40	claim 3979 4060	I always think that the best way to address a problem is to see it for what it is
-A40	Type 40 evaluation_emotional
+A40	Type2 T40 evaluation_emotional
 T41	claim 4063 4112	America's problem isn't that it isn't a democracy
-A41	Type 41 interpretation
+A41	Type2 T41 interpretation
 T42	claim 4123 4293	I think that America's problem is that it has fetishized democracy to the point where anything resulting from that system is accepted, even if it's corrupt and tyrannical
-A42	Type 42 interpretation
+A42	Type2 T42 interpretation
 T43	claim 4300 4337	that's exactly what it's turning into
-A43	Type 43 interpretation
+A43	Type2 T43 interpretation
 T44	premise 4340 4408	No, we're probably never going to get money out of politics entirely
-A44	Type 44 logos_pathos
+A44	Type3 T44 logos_pathos
 T45	premise 4415 4567	corporations being able to anonymously fund entire campaigns is a major threat to healthy government, even if it isn't, strictly speaking, un-democratic
-A45	Type 45 logos_pathos
+A45	Type3 T45 logos_pathos
 T46	claim 4691 4771	I think you and I more or less agree that their is something fetid in the system
-A46	Type 46 agreement
+A46	Type2 T46 agreement
 T47	premise 4774 4838	I get tired of seeing people worship at the altar of the US flag
-A47	Type 47 pathos
+A47	Type3 T47 pathos
 T48	premise 4841 4898	they seem blind to what the US government is really about
-A48	Type 48 pathos
+A48	Type3 T48 pathos
 R1	support Arg1:T2 Arg2:T1
 R2	support Arg1:T3 Arg2:T1
 R3	support Arg1:T12 Arg2:T11

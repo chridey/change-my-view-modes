@@ -1,41 +1,41 @@
 T1	main_claim 0 64	CMV: Humans are going to die out because of an economic collapse
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	claim 66 140	Bill Gade presents the argument better than I do so I will just quote him.
-A2	Type 2 evaluation_rational
+A2	Type2 T2 evaluation_rational
 T3	premise 1074 1128	There is also a Youtube video to go with this opinion.
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	premise 1129 1172	https://www.youtube.com/watch?v=rlQrYCacrKo
-A4	Type 4 logos_pathos
+A4	Type3 T4 logos_pathos
 T5	claim 1174 1319	I do realize that this is a very unhealthy idea to have whether or not that the idea is true or not, I just have not been able to beat it myself.
-A5	Type 5 evaluation_emotional
+A5	Type2 T5 evaluation_emotional
 T6	claim 1321 1358	I do disagree with Gade a little bit.
-A6	Type 6 disagreement
+A6	Type2 T6 disagreement
 T7	claim 1359 1397	I don't think it would kill everybody,
-A7	Type 7 interpretation
+A7	Type2 T7 interpretation
 T8	premise 1402 1602	the some few people that still know how to hunt and gather would probably survive as well people who were rich enough to have access to a lot of resources to start out with before the economy crashes.
-A8	Type 8 logos_pathos
+A8	Type3 T8 logos_pathos
 T9	claim 1603 1667	I probably believe this because I listen to Alex Jones too much.
-A9	Type 9 interpretation
+A9	Type2 T9 interpretation
 T10	claim 1682 1888	The reason that the end of our current economic paradigm won't be followed by a new one is because there is nothing for us to do after the machines are doing all of the service jobs we are currently losing.
-A10	Type 10 interpretation
+A10	Type2 T10 interpretation
 T11	premise 1889 1967	Machines don't have money either so they won't bother buying services from us.
-A11	Type 11 logos_pathos
+A11	Type3 T11 logos_pathos
 T12	premise 1968 2065	Cryptocurrency may help a little because it would allow servers to be able to buy and sell things
-A12	Type 12 logos
+A12	Type3 T12 logos
 T13	premise 2072 2143	once they can administrate their own systems what is the use of humans.
-A13	Type 13 logos
+A13	Type3 T13 logos
 T14	claim 2144 2234	What would be stopping them is the people already in the commutes they would try to go to.
-A14	Type 14 evaluation_emotional
+A14	Type2 T14 evaluation_emotional
 T15	claim 2235 2336	If the urban folk get rid of the rural folk the urban folk will just die due to their lack of skills.
-A15	Type 15 evaluation_rational
+A15	Type2 T15 evaluation_rational
 T16	claim 2337 2372	They couldn't just survive together
-A16	Type 16 interpretation
+A16	Type2 T16 interpretation
 T17	premise 2381 2443	the ecosystem will not be able to sustain the amount of people
-A17	Type 17 logos_pathos
+A17	Type3 T17 logos_pathos
 T18	claim 2446 2495	The rural folk can survive without the urban folk
-A18	Type 18 evaluation_rational
+A18	Type2 T18 evaluation_rational
 T19	claim 2500 2568	their standard of living will plummet due to lack of infrastructure.
-A19	Type 19 evaluation_rational
+A19	Type2 T19 evaluation_rational
 R1	support Arg1:T3 Arg2:T2
 R2	support Arg1:T16 Arg2:T8
 R3	support Arg1:T17 Arg2:T16

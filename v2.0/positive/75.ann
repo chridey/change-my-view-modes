@@ -1,41 +1,41 @@
 T1	main_claim 0 99	CMV: I feel skill is largely determined by experience. Compliments on skill are almost meaningless.
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	claim 117 204	I thought I was "good at math" as I'm the son of a math teacher and electrical engineer
-A2	Type 2 evaluation_rational
+A2	Type2 T2 evaluation_rational
 T3	claim 234 385	math was not something you're "good at" but something you have to put hard work into and is almost the sole determiner in the level of skill you obtain
-A3	Type 3 evaluation_rational
+A3	Type2 T3 evaluation_rational
 T4	claim 389 447	So then isn't almost any compliment almost to be expected?
-A4	Type 4 interpretation
+A4	Type2 T4 interpretation
 T5	premise 448 494	I've spent a lot of time with similar problems
-A5	Type 5 ethos_logos
+A5	Type3 T5 ethos_logos
 T6	premise 498 571	how could I not know all the details and little tricks of these problems?
-A6	Type 6 ethos_logos
+A6	Type3 T6 ethos_logos
 T7	claim 573 619	I feel a compliment recognizes something given
-A7	Type 7 evaluation_emotional
+A7	Type2 T7 evaluation_emotional
 T8	claim 622 667	I feel everyone is passionate about something
-A8	Type 8 evaluation_emotional
+A8	Type2 T8 evaluation_emotional
 T9	premise 670 714	whether it be math or psychology or medicine
-A9	Type 9 logos
+A9	Type3 T9 logos
 T10	premise 717 757	I don't hear "you're so good at biology"
-A10	Type 10 logos
+A10	Type3 T10 logos
 T11	claim 762 778	I think I should
-A11	Type 11 evaluation_emotional
+A11	Type2 T11 evaluation_emotional
 T12	premise 784 927	Then wouldn't a complement be just an acknowledgement of the time and effort you put into something that most people see as hard or worthwhile?
-A12	Type 12 pathos
+A12	Type3 T12 pathos
 T13	claim 928 970	This implies the complement is meaningful.
-A13	Type 13 evaluation_rational
+A13	Type2 T13 evaluation_rational
 T14	claim 974 999	Most people don't do this
-A14	Type 14 evaluation_rational
+A14	Type2 T14 evaluation_rational
 T15	premise 1009 1087	they don't put the time and effort into something generally hard or worthwhile
-A15	Type 15 logos
+A15	Type3 T15 logos
 T16	premise 1091 1135	the time and effort isn't hard or worthwhile
-A16	Type 16 logos
+A16	Type3 T16 logos
 T17	claim 1141 1214	When I receive a compliment I should publicly recognize that then, right?
-A17	Type 17 evaluation_emotional
+A17	Type2 T17 evaluation_emotional
 T18	premise 1215 1254	No only am I accepting their compliment
-A18	Type 18 logos
+A18	Type3 T18 logos
 T19	premise 1257 1298	I'm showing some of what I truly believe.
-A19	Type 19 logos
+A19	Type3 T19 logos
 R1	support Arg1:T12 Arg2:T13
 R2	undercutter Arg1:T13 Arg2:T4
 R3	undercutter Arg1:T14 Arg2:T4

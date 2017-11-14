@@ -1,51 +1,51 @@
 T1	main_claim 0 83	CMV: Veganism and vegetarianism are not the best way to improve farm animal welfare
-A1	Type 1 evaluation_rational
+A1	Type1 T1 evaluation_rational
 T2	claim 202 283	The chances of the entire world adopting a vegan/vegetarian diet are slim to none
-A2	Type 2 evaluation_rational
+A2	Type2 T2 evaluation_rational
 T3	premise 289 364	Therefore, there will always be a market for meat and other animal products
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	claim 369 461	The food market, like all other markets, operates on general principles of supply and demand
-A4	Type 4 evaluation_rational
+A4	Type2 T4 evaluation_rational
 T5	claim 466 596	Meat farmers can use techniques exhibiting a range of costs or benefits, both in terms of environmental impact and animal welfare.
-A5	Type 5 evaluation_rational
+A5	Type2 T5 evaluation_rational
 T6	claim 601 769	A vegan or vegetarian diet denies demand, and thus potential revenue, to all meat-producing farms, regardless of how humane or environmentally sound their practice are.
-A6	Type 6 evaluation_rational
+A6	Type2 T6 evaluation_rational
 T7	premise 775 826	Since the majority of farms are large factory farms
-A7	Type 7 logos_pathos
+A7	Type3 T7 logos_pathos
 T8	claim 829 885	I concede that this is probably good for animal welfare.
-A8	Type 8 evaluation_rational
+A8	Type2 T8 evaluation_rational
 T9	claim 904 1022	Purchasing meat from farms known to produce their meat in an ethical way not only denies demand to large factory farms
-A9	Type 9 evaluation_rational
+A9	Type2 T9 evaluation_rational
 T10	claim 1027 1081	helps improve the market share of ethical meat-growing
-A10	Type 10 evaluation_rational
+A10	Type2 T10 evaluation_rational
 T11	claim 1084 1149	which seems as though it would be even better for animal welfare.
-A11	Type 11 evaluation_rational
+A11	Type2 T11 evaluation_rational
 T12	claim 1151 1241	My general view is that people should probably as a rule eat less meat from better growers
-A12	Type 12 evaluation_emotional
+A12	Type2 T12 evaluation_emotional
 T13	claim 1248 1361	that will make for a bigger shift in growing practices than simply people dropping out of eating meat altogether.
-A13	Type 13 evaluation_emotional
+A13	Type2 T13 evaluation_emotional
 T14	premise 1372 1455	this practice would be much easier to "evangelize" than a vegetarian or vegan diet.
-A14	Type 14 pathos
+A14	Type3 T14 pathos
 T15	premise 1456 1584	Face it, meat is tasty (and non-factory meat is often tastier than factory-farmed meat, at least in my own anecdotal experience)
-A15	Type 15 logos
+A15	Type3 T15 logos
 T16	claim 1587 1678	A lot (dunno %) vegetarians/vegans see killing animals for food is fundamentally unethical.
-A16	Type 16 evaluation_rational
+A16	Type2 T16 evaluation_rational
 T17	claim 1682 1747	they are not doing it for better state of animal welfare in farms
-A17	Type 17 evaluation_rational
+A17	Type2 T17 evaluation_rational
 T18	premise 1750 1819	I personally don't have a problem with animals being killed humanely,
-A18	Type 18 logos_pathos
+A18	Type3 T18 logos_pathos
 T19	premise 1823 1871	if I become vegetarian it would be about welfare
-A19	Type 19 logos_pathos
+A19	Type3 T19 logos_pathos
 T20	claim 1893 1980	I agree with you that becoming vegetarian just for that is not very helpful for welfare
-A20	Type 20 agreement
+A20	Type2 T20 agreement
 T21	claim 2016 2020	sure
-A21	Type 21 agreement
+A21	Type2 T21 agreement
 T22	claim 2023 2109	but as i've mentioned several times, that's not the point of this particular CMV post.
-A22	Type 22 evaluation_rational
+A22	Type2 T22 evaluation_rational
 T23	claim 2110 2199	The point is that responsible carnivory is better for general livestock welfare than veg*
-A23	Type 23 evaluation_rational
+A23	Type2 T23 evaluation_rational
 T24	claim 2202 2285	Another strong pro-veg point is that meat production is really bad for environment.
-A24	Type 24 evaluation_rational
+A24	Type2 T24 evaluation_rational
 R1	agreement Arg1:T2 Arg2:T1
 R2	support Arg1:T3 Arg2:T2
 R3	agreement Arg1:T12 Arg2:T1

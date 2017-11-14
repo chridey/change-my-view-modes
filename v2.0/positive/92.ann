@@ -1,59 +1,59 @@
 T1	main_claim 0 37	CMV: Nativity scenes are antisemitic.
-A1	Type 1 evaluation_emotional
+A1	Type1 T1 evaluation_emotional
 T2	claim 39 126	This has nothing to do with the celebration of Christmas excluding religious minorities
-A2	Type 2 evaluation_emotional
+A2	Type2 T2 evaluation_emotional
 T3	claim 142 211	traditional nativity scenes reinforce negative stereotypes about Jews
-A3	Type 3 evaluation_emotional
+A3	Type2 T3 evaluation_emotional
 T4	premise 215 387	As the story goes, when Jesus was about to be born his parents were travelling to Bethlehem, but when they got there the inn was full, so Mary had to give birth in the barn
-A4	Type 4 logos
+A4	Type3 T4 logos
 T5	premise 390 549	The problem is, if nativity scenes are any indication, baby Jesus was still in the manger when the three wise men came to visit and give him Christmas presents
-A5	Type 5 logos
+A5	Type3 T5 logos
 T6	premise 552 684	Most people know Jesus was born on Christmas, but less realize that the wise men didn't show up until the Epiphany twelve days later
-A6	Type 6 logos
+A6	Type3 T6 logos
 T7	claim 688 784	Are we honestly expected to believe that no vacancies opened up at the inn for almost two weeks?
-A7	Type 7 interpretation
+A7	Type2 T7 interpretation
 T8	premise 785 869	Because that would be the most unbelievable aspect of the entire story if you ask me
-A8	Type 8 logos
+A8	Type3 T8 logos
 T9	premise 876 920	it seriously strains credulity to begin with
-A9	Type 9 logos
+A9	Type3 T9 logos
 T10	premise 924 999	Even miracles make more sense in the context of the birth of the Son of God
-A10	Type 10 logos
+A10	Type3 T10 logos
 T11	premise 1002 1109	Maybe a virgin really could give birth to a deity, or a new star could magically appear over the birthplace
-A11	Type 11 logos_pathos
+A11	Type3 T11 logos_pathos
 T12	premise 1116 1206	there's no reason for the inn to miraculously have no rooms come open for nearly two weeks
-A12	Type 12 logos
+A12	Type3 T12 logos
 T13	premise 1209 1430	Plus Mary and Joseph would be the first to know when something came available since they were basically squatting in the garage and would surely notice when patrons came to get their ox or camel or whatever before leaving
-A13	Type 13 logos_pathos
+A13	Type3 T13 logos_pathos
 T14	claim 1434 1638	The obvious implication is that Jesus' chintzy Jewish stepdad was such a tightwad that he was willing to let his pubescent wife and her newborn baby sleep in donkey slop if it would save him a few shekels
-A14	Type 14 interpretation
+A14	Type2 T14 interpretation
 T15	premise 1641 1815	Joseph probably would have made that barn the family's permanent rent-free residence if the wise men hadn't showed up bearing enough cash and prizes to go live it up in Egypt
-A15	Type 15 logos_pathos
+A15	Type3 T15 logos_pathos
 T16	premise 1829 1862	why did they stay so long anyway?
-A16	Type 16 logos
+A16	Type3 T16 logos
 T17	premise 1863 1911	It's not like Mary needed the time to recuperate
-A17	Type 17 logos
+A17	Type3 T17 logos
 T18	premise 1914 2070	Thanks to baby Jesus' healing powers even her hymen immediately regenerated, kind of like the redhead vampire from True Blood or the cheerleader from Heroes
-A18	Type 18 logos_pathos
+A18	Type3 T18 logos_pathos
 T19	premise 2075 2175	Not the real life Hayden Panettiere though, you know those gigantic Klitschkos split that wide open.
-A19	Type 19 pathos
+A19	Type3 T19 pathos
 T20	claim 2197 2272	Traditionally, in medieval Christian art, there is no consideration of time
-A20	Type 20 evaluation_rational
+A20	Type2 T20 evaluation_rational
 T21	premise 2291 2452	events that happen at different points in the narrative are depicted as occuring side-by-side without consideration for *when* and *where* they actually happened
-A21	Type 21 logos
+A21	Type3 T21 logos
 T22	premise 2469 2539	Jesus might be depicted as both a child and an adult in the same image
-A22	Type 22 logos
+A22	Type3 T22 logos
 T23	claim 2543 2697	One of the reasons the Italian Renaissance was, well, a *renaissance* was because its painters and artists began presenting things in a more realistic way
-A23	Type 23 evaluation_rational
+A23	Type2 T23 evaluation_rational
 T24	premise 2700 2785	like how we might now think of as like a photograph: a specific moment frozen in time
-A24	Type 24 logos
+A24	Type3 T24 logos
 T25	claim 2802 2923	there is precedent for depicting stories from the Jesus narrative with no consideration for the actual timeline of events
-A25	Type 25 interpretation
+A25	Type2 T25 interpretation
 T26	premise 2926 3013	merely throwing together elements because they are related thematically or tangentially
-A26	Type 26 logos
+A26	Type3 T26 logos
 T27	claim 3016 3132	You're interpretting this as if it is meant to show something "as it happened" when art doesn't always work that way
-A27	Type 27 evaluation_rational
+A27	Type2 T27 evaluation_rational
 T28	claim 3193 3262	this seems to me more or less the same argument from artistic license
-A28	Type 28 evaluation_rational
+A28	Type2 T28 evaluation_rational
 R1	agreement Arg1:T2 Arg2:T1
 R2	agreement Arg1:T3 Arg2:T1
 R3	support Arg1:T12 Arg2:T7

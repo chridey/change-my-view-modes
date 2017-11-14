@@ -1,105 +1,105 @@
 T1	main_claim 0 109	CMV: Progress in automation will eventually lead to a full fledge genocide on the majority of the population.
-A1	Type 1 interpretation
+A1	Type1 T1 interpretation
 T2	premise 111 269	[47% of all jobs are at risk of being automated](http://motherboard.vice.com/blog/the-rich-and-their-robots-are-about-to-make-half-the-worlds-jobs-disappear).
-A2	Type 2 logos
+A2	Type3 T2 logos
 T3	premise 270 356	This number will grow grow until the vast majority of people become obsolete for jobs.
-A3	Type 3 logos_pathos
+A3	Type3 T3 logos_pathos
 T4	premise 357 496	Since some of this automation will inevitably come to weapons, the wealthy will have the perfect opportunity to commit genocide on the 99%.
-A4	Type 4 logos_pathos
+A4	Type3 T4 logos_pathos
 T5	premise 497 756	By fortifying themselves in their gated communities with rows upon rows of automated defences, all unburdened by humans with consciences and families, they can simply wait for everyone to starve or get killed while they bask in their machine generated wealth.
-A5	Type 5 logos_pathos
+A5	Type3 T5 logos_pathos
 T6	premise 757 818	Once everyone is dead, they can simply be wiped from history.
-A6	Type 6 logos_pathos
+A6	Type3 T6 logos_pathos
 T7	premise 819 861	You, me, everyone will have never existed.
-A7	Type 7 logos_pathos
+A7	Type3 T7 logos_pathos
 T8	premise 862 888	A crime completely erased.
-A8	Type 8 logos
+A8	Type3 T8 logos
 T9	premise 1410 1500	Throughout history, people tend to use their wealth to show off how much wealth they have.
-A9	Type 9 pathos
+A9	Type3 T9 pathos
 T10	premise 1501 1582	The status symbols change over time, but the existence of status symbols doesn't.
-A10	Type 10 logos_pathos
+A10	Type3 T10 logos_pathos
 T11	premise 1584 1679	There was a time, say in the 18th century, where the elite would wear quite elaborate clothing.
-A11	Type 11 logos_pathos
+A11	Type3 T11 logos_pathos
 T12	premise 1680 1811	Check out this picture of [Louis XIV](http://www.paradoxplace.com/Photo%20Pages/France/France_History/Images/Louis-XIV-BAR800.jpg).
-A12	Type 12 pathos
+A12	Type3 T12 pathos
 T13	premise 1812 1912	He's dressing in elaborate, fantastical clothing to tell everyone, "look how rich and powerful I am.
-A13	Type 13 logos_pathos
+A13	Type3 T13 logos_pathos
 T14	premise 1913 1985	I can afford to waste resources on immense amounts of expensive fabric."
-A14	Type 14 logos_pathos
+A14	Type3 T14 logos_pathos
 T15	premise 1987 2053	Nowadays, you would never see a wealthy leader dressing like this.
-A15	Type 15 pathos
+A15	Type3 T15 pathos
 T16	premise 2054 2131	Clothes have become cheap, thus they are no longer useful as a status symbol.
-A16	Type 16 logos_pathos
+A16	Type3 T16 logos_pathos
 T17	premise 2132 2285	Certain elite brands are used to show off wealth, but the suit the president wears is little different in form than the suit you can buy down at Walmart.
-A17	Type 17 pathos
+A17	Type3 T17 pathos
 T18	premise 2286 2336	His suit is just higher quality and better fitted.
-A18	Type 18 logos_pathos
+A18	Type3 T18 logos_pathos
 T19	premise 2338 2367	Or consider beauty standards.
-A19	Type 19 pathos
+A19	Type3 T19 pathos
 T20	premise 2368 2470	Back during the Victorian Era, it was very fashionable for women of class to have extremely pale skin.
-A20	Type 20 logos
+A20	Type3 T20 logos
 T21	premise 2471 2577	When most of the populace lived on farms or walked to work in a factory, most people got tan quite easily.
-A21	Type 21 logos_pathos
+A21	Type3 T21 logos_pathos
 T22	premise 2578 2616	Only the rich could afford to be pale.
-A22	Type 22 ethos_logos_pathos
+A22	Type3 T22 ethos_logos_pathos
 T23	premise 2617 2807	Nowadays, where most people work office jobs, retail jobs, food service, etc, tanning is a luxury good, a sign you have enough spare time to sit in the sun or money to go to a tanning salon.
-A23	Type 23 logos
+A23	Type3 T23 logos
 T24	premise 2809 2872	So, what would the luxury goods be for a post-scarcity society?
-A24	Type 24 pathos
+A24	Type3 T24 pathos
 T25	premise 2873 2944	In such a society, the cost of most physical goods would approach zero.
-A25	Type 25 logos_pathos
+A25	Type3 T25 logos_pathos
 T26	premise 2945 2988	Raw materials would be extracted by robots.
-A26	Type 26 logos
+A26	Type3 T26 logos
 T27	premise 2989 3045	Energy would come from cheap robot-produced solar farms.
-A27	Type 27 logos_pathos
+A27	Type3 T27 logos_pathos
 T28	premise 3046 3092	Robots would assemble and repair other robots.
-A28	Type 28 logos
+A28	Type3 T28 logos
 T29	premise 3093 3172	The cost of most physical goods, in a true post-scarcity society, is near zero.
-A29	Type 29 logos_pathos
+A29	Type3 T29 logos_pathos
 T30	premise 3173 3262	Sure, a common laborer could buy a thousand copies of a 2015 Lexus, but what's the point?
-A30	Type 30 logos_pathos
+A30	Type3 T30 logos_pathos
 T31	premise 3263 3379	Even someone working at Burger King could afford to put together a copy of Louis XIV's outfit, but no one ever does.
-A31	Type 31 logos_pathos
+A31	Type3 T31 logos_pathos
 T32	premise 3380 3459	It's just seen as silly and ridiculous, possibly even a sign of mental illness.
-A32	Type 32 logos_pathos
+A32	Type3 T32 logos_pathos
 T33	premise 3461 3509	So, what would rich people spend their money on?
-A33	Type 33 logos
+A33	Type3 T33 logos
 T34	premise 3510 3561	What are the status goods of post-scarcity society?
-A34	Type 34 logos
+A34	Type3 T34 logos
 T35	premise 3562 3603	Well, real estate could certainly be one.
-A35	Type 35 logos_pathos
+A35	Type3 T35 logos_pathos
 T36	premise 3604 3668	The cost to build a house may be zero, but land certainly isn't.
-A36	Type 36 logos
+A36	Type3 T36 logos
 T37	premise 3669 3714	Still, this can be ameliorated by high-rises.
-A37	Type 37 logos_pathos
+A37	Type3 T37 logos_pathos
 T38	premise 3715 3835	Lots of people can afford to live in a ritzy downtown area if a high-quality high rise can be built to next for nothing.
-A38	Type 38 logos
+A38	Type3 T38 logos
 T39	premise 3836 3944	Owning a single-family home in a high-quality area would be a status symbol, but just living their wouldn't.
-A39	Type 39 ethos_logos_pathos
+A39	Type3 T39 ethos_logos_pathos
 T40	premise 3946 3980	So, without that, what do we have?
-A40	Type 40 logos_pathos
+A40	Type3 T40 logos_pathos
 T41	premise 3981 4072	About the only thing you can buy with your money at that point is human-intensive services.
-A41	Type 41 ethos_logos_pathos
+A41	Type3 T41 ethos_logos_pathos
 T42	premise 4073 4169	Sure, you *could* use a robot to clean your house, but do you want people to think you are poor?
-A42	Type 42 logos_pathos
+A42	Type3 T42 logos_pathos
 T43	premise 4170 4218	Show off your wealth by hiring a butler instead.
-A43	Type 43 logos
+A43	Type3 T43 logos
 T44	premise 4219 4310	You *could* put your kid through a MOOC to teach them algebra, but you're better than that.
-A44	Type 44 logos
+A44	Type3 T44 logos
 T45	premise 4311 4351	Hire an expensive private tutor instead.
-A45	Type 45 pathos
+A45	Type3 T45 pathos
 T46	premise 4352 4411	You *could* have a robot do your hair or nails, but really?
-A46	Type 46 logos
+A46	Type3 T46 logos
 T47	premise 4412 4443	What are you, a common peasant?
-A47	Type 47 logos
+A47	Type3 T47 logos
 T48	premise 4444 4510	Pay for the fancy salon instead and show off your fabulous wealth.
-A48	Type 48 logos_pathos
+A48	Type3 T48 logos_pathos
 T49	premise 4511 4609	You *could* use a driverless car, but having someone drive you around is just so much more classy.
-A49	Type 49 logos_pathos
+A49	Type3 T49 logos_pathos
 T50	claim 4611 4764	In short, in a world where the cost of physical goods is near zero, the only way to show off your wealth is to hire a bunch of people as a status symbol.
-A50	Type 50 interpretation
+A50	Type2 T50 interpretation
 T51	claim 4797 4851	So instead of genocide we simply go back to feudalism.
-A51	Type 51 interpretation
+A51	Type2 T51 interpretation
 R1	support Arg1:T2 Arg2:T1
 R2	support Arg1:T3 Arg2:T1
 R3	support Arg1:T12 Arg2:T11

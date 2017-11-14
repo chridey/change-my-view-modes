@@ -1,85 +1,85 @@
 T1	main_claim 0 74	CMV: America is a better place because of the 55 million abortions its had
-A1	Type 1 evaluation_emotional
+A1	Type1 T1 evaluation_emotional
 T2	premise 76 133	There have been 55 million abortions in the US since 1973
-A2	Type 2 logos
+A2	Type3 T2 logos
 T3	premise 137 225	Something in the ballpark of 45% of women who have abortions have more than one abortion
-A3	Type 3 logos
+A3	Type3 T3 logos
 T4	claim 229 387	These people would have been raised by their incompetent parents to drain down society, increase crime rates, suck up resources, and generally screw things up
-A4	Type 4 evaluation_emotional
+A4	Type2 T4 evaluation_emotional
 T5	claim 391 541	Various ways to lower a resource negative population would have to be explored, if not because of this 55 million, then because of the next 55 million
-A5	Type 5 evaluation_emotional
+A5	Type2 T5 evaluation_emotional
 T6	claim 545 675	One possibility is that there would be wars waged to try to kill them all, perhaps even with other countries with similar problems
-A6	Type 6 interpretation
+A6	Type2 T6 interpretation
 T7	premise 678 859	Waging war to purposefully lower population, even with a country facing similar issues, would cost not only resources, but it would also cause political, cultural, and global issues
-A7	Type 7 logos
+A7	Type3 T7 logos
 T8	premise 863 921	America's innovation and education rankings would be lower
-A8	Type 8 logos
+A8	Type3 T8 logos
 T9	premise 924 1040	Every middle-class child in the country would receive a lower quality education if there were 55 million more around
-A9	Type 9 logos_pathos
+A9	Type3 T9 logos_pathos
 T10	claim 1388 1411	Its a complicated issue
-A10	Type 10 interpretation
+A10	Type2 T10 interpretation
 T11	premise 1414 1651	Without the extra population from abortions, has there been proportionately more immigration to fill labor needs, or are the millions of illegals from Mexico as likely to be so numerous even if there was a higher none-abortion population
-A11	Type 11 logos
+A11	Type3 T11 logos
 T12	premise 1654 1793	Doesn't immigration of a working class citizen on such a massive scale cause dissonance in a country more so than it does cultural exchange
-A12	Type 12 logos
+A12	Type3 T12 logos
 T13	claim 1809 1866	it would have been preferable to have our abortions alive
-A13	Type 13 evaluation_emotional
+A13	Type2 T13 evaluation_emotional
 T14	premise 1869 2055	Or are we talking about a population so huge that race and national identity are insignificant, that there is always going to be a huge amount of hostility between different demographics
-A14	Type 14 logos_pathos
+A14	Type3 T14 logos_pathos
 T15	claim 2162 2330	Perhaps the immigration of illegals is lowering the value of blue collar work and makes it harder for the borderline impoverished citizens to provide for their children
-A15	Type 15 interpretation
+A15	Type2 T15 interpretation
 T16	claim 2333 2407	Its debatable how many women are having abortions due to financial reasons
-A16	Type 16 interpretation
+A16	Type2 T16 interpretation
 T17	premise 2414 2445	surely its a significant number
-A17	Type 17 logos_pathos
+A17	Type3 T17 logos_pathos
 T18	premise 2451 2585	how many of these women wouldn't be having financial troubles if there wasn't competition from cheap illegal labor to keep wages lower
-A18	Type 18 logos_pathos
+A18	Type3 T18 logos_pathos
 T19	claim 2588 2673	This holds true even if illegal immigration is an overall plus to the countries value
-A19	Type 19 interpretation
+A19	Type2 T19 interpretation
 T20	claim 2688 2791	Mexicans are the supreme race, native Americans will go extinct through abortion and then out-breeding.
-A20	Type 20 evaluation_rational
+A20	Type2 T20 evaluation_rational
 T21	claim 2845 2959	this discussion is abstract enough to go into some weird places and that it is necessary to have a stopping point*
-A21	Type 21 evaluation_rational
+A21	Type2 T21 evaluation_rational
 T22	claim 2996 3144	Is a more highly populated and economically productive America today going to result in an America tomorrow that can handle over population problems
-A22	Type 22 interpretation
+A22	Type2 T22 interpretation
 T23	claim 3150 3254	would having a higher population from none-abortion just add on to the problems of a world going to shit
-A23	Type 23 interpretation
+A23	Type2 T23 interpretation
 T24	premise 3266 3373	An aborted fetus is likely to have been a less productive person than a never-considered-for-abortion fetus
-A24	Type 24 logos_pathos
+A24	Type3 T24 logos_pathos
 T25	claim 3380 3477	in an industrial society, its likely that these abortions would still be more productive than not
-A25	Type 25 evaluation_emotional
+A25	Type2 T25 evaluation_emotional
 T26	claim 3481 3616	Then there was the debate as to whether or not a larger population with less resources per person is more innovative than a smaller one
-A26	Type 26 interpretation
+A26	Type2 T26 interpretation
 T27	claim 3619 3771	This is to be considered if one is convinced that having a higher population coming from none-abortions results in a strain for resources in the country
-A27	Type 27 interpretation
+A27	Type2 T27 interpretation
 T28	claim 3774 3828	Modern technology like the internet must be considered
-A28	Type 28 evaluation_emotional
+A28	Type2 T28 evaluation_emotional
 T29	claim 4656 4750	Do you really think abortions are only had by incompetent people who couldn't be good parents?
-A29	Type 29 evaluation_rational
+A29	Type2 T29 evaluation_rational
 T30	claim 4751 4839	This appears to be a belief that has led you to conclude that America must be better off
-A30	Type 30 interpretation
+A30	Type2 T30 interpretation
 T31	claim 4844 4916	you are really misinformed about the type of women who obtain abortions.
-A31	Type 31 interpretation
+A31	Type2 T31 interpretation
 T32	claim 4919 4936	That may be true.
-A32	Type 32 evaluation_rational
+A32	Type2 T32 evaluation_rational
 T33	claim 4937 5101	My thinking was that abortions were mainly required by unfortunate people, who in turn from their difficult circumstances, would've raised the child to be the same.
-A33	Type 33 evaluation_emotional
+A33	Type2 T33 evaluation_emotional
 T34	premise 5102 5123	Can you counter that?
-A34	Type 34 logos_pathos
+A34	Type3 T34 logos_pathos
 T35	premise 5124 5327	I have a [source](http://www.guttmacher.org/media/nr/2010/05/04/index.html) that shows that abortions are typically (and in some years, mostly) had by people without enough wealth to care for there kids.
-A35	Type 35 logos_pathos
+A35	Type3 T35 logos_pathos
 T36	premise 5564 5690	Some stats for example include "31% of women obtaining abortions are in school; 68% of women who have abortions are employed."
-A36	Type 36 logos_pathos
+A36	Type3 T36 logos_pathos
 T37	premise 5691 5854	"33% of women who obtain abortions have family incomes under $11,000 annually, 11% of abortions are obtained by women whose household incomes are $50,000 or more."
-A37	Type 37 ethos_logos
+A37	Type3 T37 ethos_logos
 T38	premise 5858 5989	that means the majority of those having abortions have income between $11,000 and $55,000, which is above the Federal Poverty line.
-A38	Type 38 logos
+A38	Type3 T38 logos
 T39	claim 5990 6125	I can't confirm but I do recall reading once that a common reason for women to abort is becoming pregnant too soon after having a child
-A39	Type 39 interpretation
+A39	Type2 T39 interpretation
 T40	premise 6128 6214	It could be about finances but could just be too soon for a woman to go through again.
-A40	Type 40 logos_pathos
+A40	Type3 T40 logos_pathos
 T41	premise 6215 6307	Pregnancy is hard on the body and far riskier than an abortion performed within a few weeks.
-A41	Type 41 pathos
+A41	Type3 T41 pathos
 R1	support Arg1:T12 Arg2:T10
 R2	support Arg1:T13 Arg2:T10
 R3	support Arg1:T14 Arg2:T10
