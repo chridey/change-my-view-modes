@@ -1,0 +1,22 @@
+T1	main_claim 0 69	CMV: The Call of Duty franchise is extremely overrated and overhyped.
+A1	Type1 T1 evaluation_emotional
+T2	claim 71 156	I'd like to start off by saying that the CoD games are good games in their own right,
+A2	Type2 T2 evaluation_rational
+T3	claim 164 192	they are extremely overhyped
+A3	Type2 T3 evaluation_rational
+T4	premise 195 305	One reason I take this stance is because the newly released games are ectremely similar to their predecessors.
+A4	Type3 T4 logos_pathos
+T5	premise 306 411	There are few if any changes in gameplay, and the basic level design for the most part, remains the same.
+A5	Type3 T5 logos_pathos
+T6	premise 412 547	Even Advanced Warfare, which seemed to promise the most novel changes, was criticized for changing too little from its preceding games.
+A6	Type3 T6 logos_pathos
+T7	premise 549 678	Another reason for my opinion is that CoD doesn't really have anything astoundingly different from other games of the same genre.
+A7	Type3 T7 logos_pathos
+T8	premise 679 835	There are a few unique features here and there, but overall, it's just another FPS with nothing spectacular that sets it above the other games in its genre.
+A8	Type3 T8 logos
+R1	partial_attack Arg1:T3 Arg2:T2
+R2	support Arg1:T4 Arg2:T3
+R3	support Arg1:T5 Arg2:T4
+R4	support Arg1:T6 Arg2:T4
+R5	support Arg1:T7 Arg2:T3
+R6	support Arg1:T8 Arg2:T7

@@ -1,0 +1,89 @@
+T1	main_claim 0 83	CMV: Veganism and vegetarianism are not the best way to improve farm animal welfare
+A1	Type1 T1 evaluation_rational
+T2	claim 202 283	The chances of the entire world adopting a vegan/vegetarian diet are slim to none
+A2	Type2 T2 evaluation_rational
+T3	premise 289 364	Therefore, there will always be a market for meat and other animal products
+A3	Type3 T3 logos_pathos
+T4	claim 369 461	The food market, like all other markets, operates on general principles of supply and demand
+A4	Type2 T4 evaluation_rational
+T5	claim 466 596	Meat farmers can use techniques exhibiting a range of costs or benefits, both in terms of environmental impact and animal welfare.
+A5	Type2 T5 evaluation_rational
+T6	claim 601 769	A vegan or vegetarian diet denies demand, and thus potential revenue, to all meat-producing farms, regardless of how humane or environmentally sound their practice are.
+A6	Type2 T6 evaluation_rational
+T7	premise 775 826	Since the majority of farms are large factory farms
+A7	Type3 T7 logos_pathos
+T8	claim 829 885	I concede that this is probably good for animal welfare.
+A8	Type2 T8 evaluation_rational
+T9	claim 904 1022	Purchasing meat from farms known to produce their meat in an ethical way not only denies demand to large factory farms
+A9	Type2 T9 evaluation_rational
+T10	claim 1027 1081	helps improve the market share of ethical meat-growing
+A10	Type2 T10 evaluation_rational
+T11	claim 1084 1149	which seems as though it would be even better for animal welfare.
+A11	Type2 T11 evaluation_rational
+T12	claim 1151 1241	My general view is that people should probably as a rule eat less meat from better growers
+A12	Type2 T12 evaluation_emotional
+T13	claim 1248 1361	that will make for a bigger shift in growing practices than simply people dropping out of eating meat altogether.
+A13	Type2 T13 evaluation_emotional
+T14	premise 1372 1455	this practice would be much easier to "evangelize" than a vegetarian or vegan diet.
+A14	Type3 T14 pathos
+T15	premise 1456 1584	Face it, meat is tasty (and non-factory meat is often tastier than factory-farmed meat, at least in my own anecdotal experience)
+A15	Type3 T15 logos
+T16	premise 1587 1656	Making a political statement is not the same as organizing a boycott.
+A16	Type3 T16 logos
+T17	premise 1657 1750	Vegans live the way they do because they feel a certain way about the way we exploit animals.
+A17	Type3 T17 logos
+T18	claim 1760 1884	I strongly, strongly doubt they believe that in doing so, they are making great strides in improving conditions for animals.
+A18	Type2 T18 evaluation_emotional
+T19	premise 1885 1931	I think you are misinterpreting their motives.
+A19	Type3 T19 logos
+T20	premise 1933 2138	I don't believe in donating to the Salvation Army, for example, because there have been incidents in the past where their organization has denied aid to homosexuals and publicly expressed homophobic views.
+A20	Type3 T20 logos_pathos
+T21	premise 2148 2265	I do NOT believe that my actions will bring about the demise of the Salvation Army, or really have any effect at all.
+A21	Type3 T21 pathos
+T22	premise 2266 2288	That is not my motive.
+A22	Type3 T22 logos
+T23	claim 2320 2467	I think the vast majority of vegans and vegetarians are not delusional and feel similarly about the meat industry as I do about the Salvation Army.
+A23	Type2 T23 evaluation_emotional
+T24	claim 2470 2486	I totally agree,
+A24	Type2 T24 agreement
+T25	claim 2766 2776	There are.
+A25	Type2 T25 disagreement
+T26	premise 2777 2894	I know several of them (I understand that anecdotal evidence is not the best kind of evidence but there you have it).
+A26	Type3 T26 ethos
+T27	claim 2919 2981	if you've met people like that, they're wrong, simple as that.
+A27	Type2 T27 evaluation_emotional
+T28	claim 3049 3184	But I strongly doubt there are people who actually think, "not eating meat is *definitely* the BEST THING I can do for animal welfare!"
+A28	Type2 T28 evaluation_emotional
+T29	premise 3185 3207	That makes zero sense.
+A29	Type3 T29 logos_pathos
+T30	premise 3208 3344	Even if they think that being vegan is a way to directly improve conditions for animals, I don't think they believe it's the *best* way.
+A30	Type3 T30 logos
+T31	claim 3629 3846	That plus the fact that a large portion of the vegan advocacy I've seen revolves around the horrors of factory farming which, I believe, would be far more effectively reduced by responsible carnivory than by veganism.
+A31	Type2 T31 evaluation_rational
+R1	agreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T2
+R3	agreement Arg1:T12 Arg2:T1
+R4	agreement Arg1:T13 Arg2:T1
+R5	support Arg1:T14 Arg2:T12
+R6	support Arg1:T15 Arg2:T13
+R7	support Arg1:T16 Arg2:T18
+R8	support Arg1:T17 Arg2:T18
+R9	undercutter Arg1:T18 Arg2:T1
+R10	support Arg1:T19 Arg2:T18
+R11	support Arg1:T20 Arg2:T23
+R12	support Arg1:T21 Arg2:T23
+R13	agreement Arg1:T4 Arg2:T1
+R14	support Arg1:T22 Arg2:T23
+R15	undercutter Arg1:T23 Arg2:T1
+R16	agreement Arg1:T24 Arg2:T18
+R17	partial_attack Arg1:T25 Arg2:T23
+R18	support Arg1:T26 Arg2:T25
+R19	undercutter Arg1:T27 Arg2:T25
+R20	rebuttal_attack Arg1:T28 Arg2:T25
+R21	support Arg1:T29 Arg2:T28
+R22	support Arg1:T30 Arg2:T28
+R23	partial_attack Arg1:T31 Arg2:T28
+R24	agreement Arg1:T5 Arg2:T1
+R25	support Arg1:T6 Arg2:T1
+R26	support Arg1:T7 Arg2:T8
+R27	agreement Arg1:T9 Arg2:T1

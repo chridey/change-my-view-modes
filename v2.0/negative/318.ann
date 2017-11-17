@@ -1,0 +1,91 @@
+T1	main_claim 0 147	CMV: Most democracies are far too tolerant of extremism, especially the likes of neo-fascism, neo-nazism, radical Islamism and violent intolerance.
+A1	Type1 T1 interpretation
+T2	main_claim 147 247	 The world has been to soft on these ideologies and they need to be eliminated whenever they appear.
+A2	Type1 T2 evaluation_rational
+T3	claim 249 338	I think some of the biggest threats to global stability comes from the political fringes.
+A3	Type2 T3 evaluation_rational
+T4	premise 339 390	It's either the extreme left, or the extreme right.
+A4	Type3 T4 logos
+T5	premise 391 489	Radicalism almost always leads to violence, and is a plague on democratic society and governments.
+A5	Type3 T5 pathos
+T6	premise 490 555	Since communism has been relegated to just a handful of countries
+A6	Type3 T6 logos
+T7	claim 558 608	the far-left has for the most part been dealt with
+A7	Type2 T7 evaluation_rational
+T8	claim 611 658	However the far-right continues to be a menace.
+A8	Type2 T8 evaluation_emotional
+T9	claim 660 804	I believe fascist neo-nazi groups, the KKK, the golden dawn or any religious extremist group like radical Islamism all fall under the far-right.
+A9	Type2 T9 evaluation_emotional
+T10	claim 805 844	These groups are always extreme fringes
+A10	Type2 T10 evaluation_emotional
+T11	claim 851 906	a handful of people make the world a much nastier place
+A11	Type2 T11 evaluation_emotional
+T12	premise 910 1030	Often it is the leaders of such movements that prey on the weak-willed, using them as pawns in their ambitions of power.
+A12	Type3 T12 pathos
+T13	premise 1032 1110	Unfortunately with the world's obsession with free speech and personal liberty
+A13	Type3 T13 logos_pathos
+T14	claim 1113 1147	such leaders are given a free hand
+A14	Type2 T14 evaluation_rational
+T15	premise 1225 1300	Wouldn't restricting "free speech" put brakes on this sort of recruitment ?
+A15	Type3 T15 logos
+T16	premise 1302 1376	Political parties in democracies often try to keep these groups on a leash
+A16	Type3 T16 logos
+T17	premise 1383 1485	do not wish to eliminate them since they serve definite political goals like polarizing the electorate
+A17	Type3 T17 logos
+T18	claim 1488 1528	I see this as a major flaw in democracy.
+A18	Type2 T18 interpretation
+T19	premise 1529 1622	Fear of losing votes from radical sympathizers leads to political groups appeasing extremism.
+A19	Type3 T19 logos_pathos
+T20	claim 1633 1725	I think governments should do much more and try to completely stamp out any signs of fascism
+A20	Type2 T20 evaluation_emotional
+T21	premise 1728 1760	After the horrors of World War 2
+A21	Type3 T21 pathos
+T22	claim 1761 1831	I find it completely absurd that we still put up with their ideologies
+A22	Type2 T22 evaluation_emotional
+T23	claim 1835 1924	Bringing socio-economic growth to communities that feel disenfranchised just isn't enough
+A23	Type2 T23 evaluation_emotional
+T24	premise 1931 1968	their will always be a few bad apples
+A24	Type3 T24 logos_pathos
+T25	claim 1971 2009	These bad apples need to be weeded out
+A25	Type2 T25 evaluation_emotional
+T26	premise 2012 2075	Instead, we allow them to spread their rot, and infect society.
+A26	Type3 T26 pathos
+T27	claim 2077 2162	Nearly every "progressive" ideal was, at one point, considered an extremist ideology.
+A27	Type2 T27 evaluation_rational
+T28	claim 2163 2166	Yes
+A28	Type2 T28 agreement
+T29	claim 2171 2260	I think at this point in human history we have figured out what is an extremist ideology.
+A29	Type2 T29 interpretation
+T30	premise 2261 2320	We thought the same thing 20, 50, and 200 years ago as well
+A30	Type3 T30 logos
+T31	claim 2325 2373	we're no more inherently correct than they were.
+A31	Type2 T31 interpretation
+R1	agreement Arg1:T3 Arg2:T2
+R2	support Arg1:T4 Arg2:T3
+R3	support Arg1:T13 Arg2:T14
+R4	agreement Arg1:T14 Arg2:T2
+R5	support Arg1:T15 Arg2:T14
+R6	support Arg1:T16 Arg2:T14
+R7	support Arg1:T17 Arg2:T14
+R8	agreement Arg1:T18 Arg2:T2
+R9	support Arg1:T19 Arg2:T18
+R10	agreement Arg1:T20 Arg2:T2
+R11	support Arg1:T21 Arg2:T22
+R12	agreement Arg1:T22 Arg2:T2
+R13	support Arg1:T5 Arg2:T3
+R14	agreement Arg1:T23 Arg2:T2
+R15	support Arg1:T24 Arg2:T23
+R16	agreement Arg1:T25 Arg2:T2
+R17	support Arg1:T26 Arg2:T25
+R18	undercutter Arg1:T27 Arg2:T2
+R19	partial_agreement Arg1:T28 Arg2:T27
+R20	partial_attack Arg1:T29 Arg2:T27
+R21	support Arg1:T30 Arg2:T31
+R22	rebuttal_attack Arg1:T31 Arg2:T29
+R23	support Arg1:T6 Arg2:T7
+R24	agreement Arg1:T7 Arg2:T2
+R25	agreement Arg1:T8 Arg2:T2
+R26	agreement Arg1:T9 Arg2:T2
+R27	agreement Arg1:T10 Arg2:T2
+R28	agreement Arg1:T11 Arg2:T2
+R29	support Arg1:T12 Arg2:T9

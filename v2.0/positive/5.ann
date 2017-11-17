@@ -1,0 +1,98 @@
+T1	main_claim 0 104	CMV: I think the Paris shooting makes a good case for culture of responsible gun ownership any carrying.
+A1	Type1 T1 interpretation
+T2	claim 260 318	I think France is in a tough spot in how to react to this.
+A2	Type2 T2 interpretation
+T3	premise 319 402	There would be even stronger calls for an anti-islam and anti-immigration policies.
+A3	Type3 T3 logos_pathos
+T4	premise 403 482	These event reminds people that they cannot depend on protection by government.
+A4	Type3 T4 logos_pathos
+T5	claim 483 659	I think it would be a shame to allow the many, who are afraid more then anything, to be swayed by xenophobic nationalists (which might have been the goal of the attack anyway).
+A5	Type2 T5 interpretation
+T6	claim 661 836	I think this, regardless of whether the weapons used by the attackers were owned legally, makes a good case for promoting a culture of a reasonable gun ownership and carrying.
+A6	Type2 T6 evaluation_rational
+T7	premise 837 969	Say if 1 out of 5 people carried a gun with them, was well trained in its use and tested in his responsibility to prevent its misuse
+A7	Type3 T7 logos_pathos
+T8	premise 976 1161	society upheld the value of these people as protectors, it would benefit the society more the the current state of legislature and culture of gun ownership in most of European countries
+A8	Type3 T8 logos_pathos
+T9	claim 1164 1245	I also think this would be much better then increase in police numbers and rights
+A9	Type2 T9 evaluation_rational
+T10	premise 1246 1416	as policemen are a very homogeneous group trained to stick together and the danger of even deepening the "not one of us" (pack) mentality and escalation of "police state"
+A10	Type3 T10 logos_pathos
+T11	premise 1805 1940	there have absolutely been times when gun ownership, or carrying weapons on ones person in general was more prevalent than it is today.
+A11	Type3 T11 logos
+T12	claim 1941 2010	Those time periods/places did not enjoy lower rates of violent death.
+A12	Type2 T12 interpretation
+T13	premise 2208 2271	the murder rate was "extraordinarily high by today's standard."
+A13	Type3 T13 logos
+T14	claim 2308 2367	I think I see what might be a flaw in our collective logic.
+A14	Type2 T14 evaluation_rational
+T15	premise 2368 2534	The incidents that stand out most in our heads are events like Paris or Aurora or Columbine- premeditated shootings with the intent of inflicting a lot of casualties.
+A15	Type3 T15 logos_pathos
+T16	premise 2535 2660	If the staff at Charlie Hebdo or Columbine High had guns, they certainly might have been able to end these incidents earlier.
+A16	Type3 T16 logos_pathos
+T17	premise 2661 2727	They also might have inflicted more casualties with stray bullets.
+A17	Type3 T17 logos
+T18	premise 2728 2806	These types of hypothetical calculations aren't really helpful, in my opinion.
+A18	Type3 T18 ethos_logos
+T19	claim 2947 2969	I don't think it would
+A19	Type2 T19 disagreement
+T20	premise 2987 3034	premeditated murders could well be less likely,
+A20	Type3 T20 logos
+T21	premise 3035 3108	accidental deaths, unplanned homicides, and suicides would like increase.
+A21	Type3 T21 logos
+T22	premise 3110 3202	This study found that owning a gun makes one more likely to die from suicide *and* homicide.
+A22	Type3 T22 logos
+T23	premise 3363 3440	it certainly suggests that owning a gun doesn't automatically make you safer.
+A23	Type3 T23 logos
+T24	claim 3650 3739	a greater proliferation of weapons would be more dangerous for a number of other reasons.
+A24	Type2 T24 evaluation_rational
+T25	claim 3747 3850	I was considering this and was already doubtful of the benefits would outweigh the potential negatives.
+A25	Type2 T25 evaluation_rational
+T26	premise 3851 3891	I'm sure with the right culture it would
+A26	Type3 T26 logos
+T27	premise 3898 3928	maintaining a culture is hard.
+A27	Type3 T27 logos_pathos
+T28	premise 3941 4018	the role of these people would be to defend themselves and those around them.
+A28	Type3 T28 logos
+T29	premise 4019 4177	It wouldn't help deterring suicide attacks, and would most probably cause few more deaths from mistakes and irresponsibility, with a danger of this worsening.
+A29	Type3 T29 logos
+T30	claim 4178 4363	In cases of mass shootings like you outlined, which are the situations I am thinking of, it would perhaps be best that these people wouldn't be armed with a gun but a paralyzer (taser),
+A30	Type2 T30 evaluation_rational
+T31	premise 4367 4512	when they find a safe hiding place or cover they have a chance getting themselves in a position where they can use the paralyzer on the attacker.
+A31	Type3 T31 logos
+T32	premise 4513 4682	This would have most of the benefits as with what I imagined with guns except it might be less probable to work against well prepared attackers (against heavy clothing),
+A32	Type3 T32 logos
+T33	premise 4705 4877	it could also deter from suicide attacks as they usually count on not being caught alive and of course it always is best for the attacker to be brought to justice in court.
+A33	Type3 T33 logos_pathos
+R1	agreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T2
+R3	rebuttal_attack Arg1:T12 Arg2:T9
+R4	support Arg1:T13 Arg2:T12
+R5	undercutter Arg1:T14 Arg2:T1
+R6	support Arg1:T15 Arg2:T14
+R7	support Arg1:T16 Arg2:T14
+R8	support Arg1:T17 Arg2:T14
+R9	support Arg1:T18 Arg2:T14
+R10	undercutter Arg1:T19 Arg2:T6
+R11	support Arg1:T20 Arg2:T19
+R12	support Arg1:T21 Arg2:T19
+R13	support Arg1:T4 Arg2:T2
+R14	support Arg1:T22 Arg2:T19
+R15	support Arg1:T23 Arg2:T19
+R16	rebuttal_attack Arg1:T24 Arg2:T1
+R17	agreement Arg1:T25 Arg2:T24
+R18	support Arg1:T26 Arg2:T25
+R19	support Arg1:T27 Arg2:T25
+R20	support Arg1:T28 Arg2:T25
+R21	support Arg1:T29 Arg2:T25
+R22	partial_agreement Arg1:T30 Arg2:T19
+R23	support Arg1:T31 Arg2:T30
+R24	agreement Arg1:T5 Arg2:T1
+R25	support Arg1:T32 Arg2:T30
+R26	support Arg1:T33 Arg2:T30
+R27	agreement Arg1:T6 Arg2:T1
+R28	support Arg1:T7 Arg2:T6
+R29	support Arg1:T8 Arg2:T6
+R30	agreement Arg1:T9 Arg2:T1
+R31	support Arg1:T10 Arg2:T9
+R32	support Arg1:T11 Arg2:T12

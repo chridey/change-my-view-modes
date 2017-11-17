@@ -1,0 +1,65 @@
+T1	main_claim 0 196	CMV: Networking for jobs behaves as a discriminatory mechanism to keep money and good jobs inside a particular social circle, and should be discouraged or eliminated as a criterion for employment.
+A1	Type1 T1 evaluation_rational
+T2	claim 202 231	Networking is discriminatory.
+A2	Type2 T2 evaluation_rational
+T3	premise 239 428	A "standard" hiring method would ensure that every applicant would be evaluated on the same criteria - the satisfaction of requirements of the position and merits relevant to that position.
+A3	Type3 T3 ethos_logos_pathos
+T4	premise 436 671	Who an applicant knows is occasionally useful for those jobs which require maintaining relationships with certain people in key positions (e.g. sales), but for the vast majority of jobs, who your friends are is functionally irrelevant.
+A4	Type3 T4 ethos_logos_pathos
+T5	premise 679 946	Allowing someone to circumvent the standard application process ("jumping the line") or to use some important person's recommendation as additional clout for their application ("came very highly recommended by Bob") is preferential treatment for irrelevant qualities.
+A5	Type3 T5 logos
+T6	claim 956 1092	I recognize and appreciate that it is difficult in most employment processes to find individuals who are trustworthy, socially apt, etc.
+A6	Type2 T6 evaluation_rational
+T7	premise 1093 1220	This is a failing of the existing job application paradigm, not an excuse to circumvent it in order to make the process easier.
+A7	Type3 T7 logos
+T8	claim 1226 1363	Networking, as a practice, favors individuals who come from already socially favorable situations, moreso than other evaluation criteria.
+A8	Type2 T8 evaluation_rational
+T9	premise 1371 1605	Beyond straight nepotism, it is self-evident that individuals who come from families and backgrounds which allow for more interaction with individuals in power will be able to call on more of those individuals for networking purposes.
+A9	Type3 T9 logos_pathos
+T10	premise 1613 1810	Individuals who are extraordinarily qualified for a position but come from a region/social background without those connections enter a networking-friendly employment opportunity at a disadvantage.
+A10	Type3 T10 logos_pathos
+T11	claim 1838 1928	there are other unfair advantages an applicant might have (being tall, white, male, etc.).
+A11	Type2 T11 evaluation_rational
+T12	premise 1929 2088	Allowing networking to influence a hiring decision is not dependent on cultural bias and may be safely exorcised from the hiring process to render it more fair
+A12	Type3 T12 pathos
+T13	claim 2126 2234	Businesses and societies would be better off disallowing networking from influencing their hiring decisions.
+A13	Type2 T13 evaluation_emotional
+T14	claim 2242 2399	If a hiring process takes networking into account, it is necessarily showing preference to individuals who already come from advantaged background, as per 2.
+A14	Type2 T14 interpretation
+T15	premise 2400 2504	This decreases social/economic mobility, which has been demonstrated to be bad for societies in general.
+A15	Type3 T15 logos
+T16	premise 2512 2789	If the egalitarian hiring process in-place is so ineffective at determining qualifications/character that it must depend on recommendations from trusted sources to establish merit, the productivity of any positions where such a trusted source does not come forward will suffer.
+A16	Type3 T16 ethos_logos
+T17	premise 2797 2829	"Fix the process, not the game."
+A17	Type3 T17 logos_pathos
+T18	claim 2844 2956	"this is how the world works," and many feel at ease participating in networking events without any moral qualms
+A18	Type2 T18 interpretation
+T19	claim 3372 3413	How would you even get rid of networking.
+A19	Type2 T19 interpretation
+T20	premise 3421 3433	people talk.
+A20	Type3 T20 logos
+T21	premise 3434 3451	People socialize.
+A21	Type3 T21 logos
+T22	premise 3459 3519	lots of people know of jobs because of contact from friends.
+A22	Type3 T22 logos
+T23	claim 3521 3543	Your view sounds great
+A23	Type2 T23 agreement
+R1	support Arg1:T3 Arg2:T2
+R2	support Arg1:T12 Arg2:T2
+R3	support Arg1:T13 Arg2:T2
+R4	support Arg1:T14 Arg2:T2
+R5	support Arg1:T15 Arg2:T14
+R6	support Arg1:T16 Arg2:T2
+R7	support Arg1:T17 Arg2:T2
+R8	partial_attack Arg1:T18 Arg2:T2
+R9	undercutter Arg1:T19 Arg2:T1
+R10	support Arg1:T20 Arg2:T19
+R11	support Arg1:T21 Arg2:T19
+R12	support Arg1:T4 Arg2:T2
+R13	support Arg1:T22 Arg2:T19
+R14	partial_attack Arg1:T23 Arg2:T1
+R15	support Arg1:T5 Arg2:T2
+R16	support Arg1:T7 Arg2:T6
+R17	support Arg1:T8 Arg2:T2
+R18	support Arg1:T9 Arg2:T2
+R19	support Arg1:T10 Arg2:T2

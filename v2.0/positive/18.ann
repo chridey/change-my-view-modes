@@ -1,0 +1,124 @@
+T1	main_claim 0 102	CMV: Assuming there is no afterlife, then life is ultimately meaningless and pointless because we die.
+A1	Type1 T1 evaluation_emotional
+T2	premise 380 401	there is no afterlife
+A2	Type3 T2 logos_pathos
+T3	claim 404 448	life is ultimately meaningless and pointless
+A3	Type2 T3 evaluation_emotional
+T4	premise 457 463	we die
+A4	Type3 T4 logos_pathos
+T5	claim 466 491	Death is the great eraser
+A5	Type2 T5 interpretation
+T6	premise 494 601	Living life is as irrational as reading a book that, after finished, is immediately erased from your memory
+A6	Type3 T6 logos
+T7	premise 604 633	It is comparable to that, too
+A7	Type3 T7 logos
+T8	claim 637 719	It makes no difference if I, a 23 year old, die now or live until I am 100 and die
+A8	Type2 T8 interpretation
+T9	premise 722 788	Either way, after my brief spark of existence I become nothingness
+A9	Type3 T9 logos_pathos
+T10	premise 791 835	Not only do I remember nothing; I AM nothing
+A10	Type3 T10 logos_pathos
+T11	premise 838 883	To me, it is as if my life had never happened
+A11	Type3 T11 logos_pathos
+T12	premise 912 949	Imagine the time before you were born
+A12	Type3 T12 logos
+T13	premise 980 993	Of course not
+A13	Type3 T13 logos
+T14	premise 996 1012	You didn't exist
+A14	Type3 T14 pathos
+T15	premise 1015 1131	This is the state that we return to after death--a state of nothingness similar to the state we were in before birth
+A15	Type3 T15 logos_pathos
+T16	premise 1134 1206	When I die, I return to this state after a brief period of consciousness
+A16	Type3 T16 logos_pathos
+T17	premise 1213 1239	I return to it permanently
+A17	Type3 T17 logos_pathos
+T18	premise 1242 1274	I might as well have never lived
+A18	Type3 T18 logos_pathos
+T19	claim 1314 1343	Helping others doesn't matter
+A19	Type2 T19 interpretation
+T20	premise 1346 1363	They will die too
+A20	Type3 T20 logos
+T21	premise 1366 1419	And then their descendants will die, on and on and on
+A21	Type3 T21 logos
+T22	premise 1428 1516	eventually the universe is destroyed or our galaxy collapses in an inevitable heat-death
+A22	Type3 T22 logos
+T23	premise 1519 1561	Even if 1,000,000 people were helped by me
+A23	Type3 T23 logos
+T24	premise 1564 1585	assuming they all die
+A24	Type3 T24 logos
+T25	claim 1588 1635	then my life is still pointless and meaningless
+A25	Type2 T25 disagreement
+T26	premise 1638 1682	For I will be dead and won't know what I did
+A26	Type3 T26 logos_pathos
+T27	premise 1689 1726	once they die, they won't know either
+A27	Type3 T27 logos_pathos
+T28	claim 1730 1801	(2) Attaining fame doesn't matter and doesn't truly make me "immortal."
+A28	Type2 T28 interpretation
+T29	premise 1802 1847	I'll be dead, and again, death is nothingness
+A29	Type3 T29 pathos
+T30	premise 1850 1890	Thus, I won't be around to enjoy my fame
+A30	Type3 T30 logos_pathos
+T31	claim 1898 1929	Enjoying the moment is possible
+A31	Type2 T31 evaluation_emotional
+T32	claim 1936 1966	doesn't make life have a point
+A32	Type2 T32 evaluation_emotional
+T33	premise 1973 2019	once I die, all memories and all point is gone
+A33	Type3 T33 logos_pathos
+T34	premise 2212 2282	If existence (from your perspective) lies solely on your consciousness
+A34	Type3 T34 logos
+T35	claim 2288 2333	after you die it doesn't matter what you left
+A35	Type2 T35 interpretation
+T36	premise 2342 2393	it no longer exists since you cannot experience it.
+A36	Type3 T36 logos
+T37	premise 2394 2466	In a metaphysical sense you could argue that we essentially never exist.
+A37	Type3 T37 logos
+T38	premise 2499 2535	death is an elimination of existence
+A38	Type3 T38 logos
+T39	claim 2578 2633	It is a bit depressing but can also be quite liberating
+A39	Type2 T39 evaluation_emotional
+T40	premise 2637 2713	you can free yourself from society's many irrational norms and expectations.
+A40	Type3 T40 logos_pathos
+T41	claim 2766 2798	you can create your own meaning.
+A41	Type2 T41 interpretation
+T42	premise 2799 2850	May as well enjoy life while you temporarily exist.
+A42	Type3 T42 logos_pathos
+T43	claim 2987 3042	Never being born is essentially the same as being dead,
+A43	Type2 T43 interpretation
+T44	premise 3043 3125	you just never have the conscious mind to experience the fear of contemplating it.
+A44	Type3 T44 logos
+T45	claim 3126 3227	I guess it comes down to what you think is worse. Never experiencing life or living in fear of death.
+A45	Type2 T45 interpretation
+R1	support Arg1:T2 Arg2:T3
+R2	support Arg1:T12 Arg2:T8
+R3	support Arg1:T13 Arg2:T8
+R4	support Arg1:T14 Arg2:T8
+R5	support Arg1:T15 Arg2:T8
+R6	support Arg1:T16 Arg2:T8
+R7	support Arg1:T17 Arg2:T8
+R8	support Arg1:T20 Arg2:T19
+R9	support Arg1:T21 Arg2:T19
+R10	support Arg1:T4 Arg2:T3
+R11	support Arg1:T23 Arg2:T19
+R12	support Arg1:T24 Arg2:T19
+R13	support Arg1:T26 Arg2:T25
+R14	support Arg1:T27 Arg2:T25
+R15	support Arg1:T29 Arg2:T28
+R16	support Arg1:T30 Arg2:T28
+R17	support Arg1:T33 Arg2:T32
+R18	support Arg1:T34 Arg2:T35
+R19	partial_agreement Arg1:T35 Arg2:T1
+R20	support Arg1:T36 Arg2:T35
+R21	support Arg1:T37 Arg2:T35
+R22	support Arg1:T38 Arg2:T35
+R23	partial_attack Arg1:T39 Arg2:T1
+R24	support Arg1:T40 Arg2:T39
+R25	support Arg1:T6 Arg2:T5
+R26	undercutter Arg1:T41 Arg2:T1
+R27	support Arg1:T42 Arg2:T41
+R28	partial_agreement Arg1:T43 Arg2:T1
+R29	support Arg1:T44 Arg2:T43
+R30	undercutter Arg1:T45 Arg2:T1
+R31	support Arg1:T7 Arg2:T5
+R32	support Arg1:T9 Arg2:T8
+R33	support Arg1:T10 Arg2:T8
+R34	support Arg1:T11 Arg2:T8

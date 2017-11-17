@@ -34,30 +34,18 @@ T17	claim 1943 2017	This is much more important than it's faithfulness to the so
 A17	Type2 T17 evaluation_emotional
 T18	claim 2018 2076	I believe this is true for all adaptations, not just LOTR.
 A18	Type2 T18 evaluation_emotional
-T19	claim 2130 2213	I want to point out that I absolutely **could not** stand to read the LotR trilogy.
-A19	Type2 T19 evaluation_emotional
-T20	premise 2214 2226	And I tried.
-A20	Type3 T20 ethos
-T21	premise 2227 2270	I loved The Hobbit, even though it got slow
-A21	Type3 T21 pathos
-T22	premise 2277 2400	I found Tolkien's prose to be far too slow-paced and filled with inane babbling about things too far removed from the plot.
-A22	Type3 T22 pathos
-T23	claim 2402 2430	I loved the extended edition
-A23	Type2 T23 evaluation_emotional
-T24	premise 2439 2523	I get more engaged in an audio-visual medium than I do into books, as a general rule
-A24	Type3 T24 logos_pathos
-T25	premise 2643 2729	the extended trilogy let me really grasp the world of Middle Earth for the first time.
-A25	Type3 T25 logos_pathos
-T26	premise 2735 2879	I'm the sort of person who, despite not really liking to read, will read summaries about the world surrounding my favorite movies or video games
-A26	Type3 T26 ethos_pathos
-T27	premise 2890 2985	these are things I *want to know* but typically aren't in the film/game, so I endure the chore.
-A27	Type3 T27 pathos
-T28	claim 2986 3068	I *love* that the extended edition helped with this, especially in this situation,
-A28	Type2 T28 evaluation_emotional
-T29	premise 3077 3242	most of the answers to that on the internet before were "If you want to know more you should just read the damn books, scrub!" because nerds are like that sometimes.
-A29	Type3 T29 logos_pathos
-T30	claim 3476 3543	As a book reader, I'll still be sticking to theatrical cuts though.
-A30	Type2 T30 evaluation_rational
+T19	claim 2128 2222	How could such a subjective view as the superiority of a cut of three films be argued against?
+A19	Type2 T19 evaluation_rational
+T20	premise 2223 2352	I prefer the pacing in the shorter cut and the director agrees with me is hardly something that can be rigorously argued against.
+A20	Type3 T20 ethos_logos
+T21	claim 2354 2407	I would argue that the better one depends on context.
+A21	Type2 T21 evaluation_rational
+T22	premise 2408 2585	I enjoyed the theatrical cut when I first watched it but the extended was probably better when I had a lot of free time and wanted to watch a favourite movie in a different way.
+A22	Type3 T22 ethos
+T23	premise 2587 2694	This sub is currently engaged in a 46 comment thread about whether or not [men should sit down to urinate.]
+A23	Type3 T23 logos
+T24	claim 2802 2853	I'm sure we can find a way to argue about movies ;)
+A24	Type2 T24 interpretation
 R1	support Arg1:T2 Arg2:T3
 R2	agreement Arg1:T3 Arg2:T1
 R3	agreement Arg1:T12 Arg2:T1
@@ -66,23 +54,17 @@ R5	support Arg1:T14 Arg2:T12
 R6	agreement Arg1:T15 Arg2:T1
 R7	agreement Arg1:T17 Arg2:T1
 R8	agreement Arg1:T18 Arg2:T1
-R9	rebuttal Arg1:T19 Arg2:T1
+R9	undercutter Arg1:T19 Arg2:T1
 R10	support Arg1:T20 Arg2:T19
 R11	agreement Arg1:T4 Arg2:T1
-R12	support Arg1:T21 Arg2:T19
-R13	support Arg1:T22 Arg2:T19
-R14	rebuttal Arg1:T23 Arg2:T1
-R15	support Arg1:T24 Arg2:T23
-R16	support Arg1:T25 Arg2:T23
-R17	support Arg1:T26 Arg2:T25
-R18	support Arg1:T27 Arg2:T25
-R19	rebuttal Arg1:T28 Arg2:T1
-R20	support Arg1:T29 Arg2:T28
-R21	rebuttal Arg1:T30 Arg2:T19
-R22	agreement Arg1:T5 Arg2:T1
-R23	support Arg1:T6 Arg2:T5
-R24	support Arg1:T7 Arg2:T5
-R25	support Arg1:T8 Arg2:T5
-R26	support Arg1:T9 Arg2:T5
-R27	support Arg1:T10 Arg2:T5
-R28	agreement Arg1:T11 Arg2:T1
+R12	rebuttal_attack Arg1:T21 Arg2:T1
+R13	support Arg1:T22 Arg2:T21
+R14	support Arg1:T23 Arg2:T24
+R15	rebuttal_attack Arg1:T24 Arg2:T19
+R16	agreement Arg1:T5 Arg2:T1
+R17	support Arg1:T6 Arg2:T5
+R18	support Arg1:T7 Arg2:T5
+R19	support Arg1:T8 Arg2:T5
+R20	support Arg1:T9 Arg2:T5
+R21	support Arg1:T10 Arg2:T5
+R22	agreement Arg1:T11 Arg2:T1

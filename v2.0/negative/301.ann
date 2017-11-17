@@ -1,0 +1,38 @@
+T1	main_claim 0 109	CMV: Progress in automation will eventually lead to a full fledge genocide on the majority of the population.
+A1	Type1 T1 interpretation
+T2	premise 111 269	[47% of all jobs are at risk of being automated](http://motherboard.vice.com/blog/the-rich-and-their-robots-are-about-to-make-half-the-worlds-jobs-disappear).
+A2	Type3 T2 logos
+T3	premise 270 356	This number will grow grow until the vast majority of people become obsolete for jobs.
+A3	Type3 T3 logos_pathos
+T4	premise 357 496	Since some of this automation will inevitably come to weapons, the wealthy will have the perfect opportunity to commit genocide on the 99%.
+A4	Type3 T4 logos_pathos
+T5	premise 497 756	By fortifying themselves in their gated communities with rows upon rows of automated defences, all unburdened by humans with consciences and families, they can simply wait for everyone to starve or get killed while they bask in their machine generated wealth.
+A5	Type3 T5 logos_pathos
+T6	premise 757 818	Once everyone is dead, they can simply be wiped from history.
+A6	Type3 T6 logos_pathos
+T7	premise 819 861	You, me, everyone will have never existed.
+A7	Type3 T7 logos_pathos
+T8	premise 862 888	A crime completely erased.
+A8	Type3 T8 logos
+T9	premise 1260 1383	Bill Gates is one of the wealthiest people in the world and he devotes a substantial portion of his wealth to philanthropy.
+A9	Type3 T9 ethos_logos
+T10	premise 1384 1408	He is not alone in this.
+A10	Type3 T10 logos
+T11	claim 1409 1504	While there are rich assholes, many wealthy people use their money to try to improve the world.
+A11	Type2 T11 evaluation_emotional
+T12	premise 1625 1770	If there are more non-asshole rich, why isn't there a global push for better worker protection, and investment, instead of the complete opposite?
+A12	Type3 T12 logos_pathos
+T13	claim 1771 1906	The rich are all hoarding money on the Cayman Islands and don't care about anything that keeping it for themselves and their dynasties.
+A13	Type2 T13 evaluation_emotional
+R1	support Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T1
+R3	support Arg1:T12 Arg2:T13
+R4	rebuttal_attack Arg1:T13 Arg2:T11
+R5	support Arg1:T4 Arg2:T1
+R6	support Arg1:T5 Arg2:T1
+R7	support Arg1:T6 Arg2:T1
+R8	support Arg1:T7 Arg2:T1
+R9	support Arg1:T8 Arg2:T1
+R10	support Arg1:T9 Arg2:T11
+R11	support Arg1:T10 Arg2:T11
+R12	undercutter Arg1:T11 Arg2:T1

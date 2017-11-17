@@ -1,0 +1,75 @@
+T1	main_claim 0 73	CMV: I believe the Brave Little Toaster is an incredibly underrated movie
+A1	Type1 T1 evaluation_emotional
+T2	claim 75 185	Ive seen a lot of animated movies in my life but in my opinion they dont stand up to the Brave Little Toaster.
+A2	Type2 T2 evaluation_rational
+T3	premise 186 324	The animation is very solid for being made in the 1980`s and I absolutely love the inanimate objects journey to try and find their master.
+A3	Type3 T3 logos
+T4	premise 325 412	One very tense scene for me was when the vacuum cleaner was trying to cross the canyon.
+A4	Type3 T4 logos
+T5	claim 508 620	I feel like this masterpiece is largely unappreciated by a majority of people in favor of other animated movies.
+A5	Type2 T5 evaluation_rational
+T6	claim 622 707	Reddit I think the Brave Little Toaster needs some more attention and some more love.
+A6	Type2 T6 interpretation
+T7	claim 713 928	The fact that it's underrated largely stems from the fact that by today's measure it's far from a children's movie, which unfortunately in western countries is generally the target demographic for animated features.
+A7	Type2 T7 evaluation_rational
+T8	premise 1048 1061	It's too dark
+A8	Type3 T8 pathos
+T9	premise 1068 1082	almost violent
+A9	Type3 T9 pathos
+T10	premise 1086 1169	Some examples would be, when the Flower observes it's own reflection in the toaster
+A10	Type3 T10 logos_pathos
+T11	premise 1176 1220	dies from loneliness when the toaster leaves
+A11	Type3 T11 pathos
+T12	premise 1224 1330	The appliances that have their parts ripped out, are effectively a commentary on black market organ sales.
+A12	Type3 T12 logos
+T13	premise 1333 1369	The cars singing "You're worthless."
+A13	Type3 T13 logos_pathos
+T14	premise 1374 1416	the Toaster killing himself for the master
+A14	Type3 T14 logos
+T15	claim 1421 1472	I grew up watching the movie, and it doesn't bug me
+A15	Type2 T15 evaluation_emotional
+T16	claim 1510 1658	when the alternative is Adventure Time or My Little Pony, I'm likely to think that Brave Little Toaster isn't good viewing material for kids in 2014
+A16	Type2 T16 evaluation_emotional
+T17	premise 1661 1751	Concepts like death or dying in children's features are incredibly out of favor right now.
+A17	Type3 T17 logos
+T18	claim 1752 1803	You can make arguments for something like Toy Story
+A18	Type2 T18 evaluation_emotional
+T19	premise 1810 1934	those franchises have been out for over 15 years, and so they get a pass from the now adults who enjoyed the movies as kids.
+A19	Type3 T19 logos
+T20	claim 1936 2035	There have been a great many "dark" animated movies and shows that grew to become extremely famous.
+A20	Type2 T20 interpretation
+T21	premise 2036 2206	If we`re using a level of "dark" of the level of Brave Little Toaster then why did things like The Iron Giant and Land Before Time get a ton of love associated with them.
+A21	Type3 T21 logos
+T22	premise 2223 2259	one contains a death of someones mom
+A22	Type3 T22 pathos
+T23	premise 2264 2353	the other almost had an entire town nuked as well as a giant death machine moving through
+A23	Type3 T23 pathos
+T24	claim 2356 2458	Land before Time has about 15 other movies in the franchise which make it popular, much like toy story
+A24	Type2 T24 interpretation
+T25	claim 2465 2543	Iron Giant doesn't really deal with much that's terribly dark or controversial
+A25	Type2 T25 interpretation
+T26	claim 2666 2748	I personally believe Iron Giant to be the darker film because of the war undertone
+A26	Type2 T26 evaluation_emotional
+R1	support Arg1:T3 Arg2:T2
+R2	support Arg1:T12 Arg2:T7
+R3	support Arg1:T13 Arg2:T7
+R4	support Arg1:T14 Arg2:T7
+R5	partial_agreement Arg1:T15 Arg2:T2
+R6	partial_attack Arg1:T16 Arg2:T2
+R7	support Arg1:T17 Arg2:T16
+R8	partial_agreement Arg1:T18 Arg2:T2
+R9	support Arg1:T19 Arg2:T18
+R10	undercutter Arg1:T20 Arg2:T7
+R11	support Arg1:T21 Arg2:T20
+R12	support Arg1:T4 Arg2:T2
+R13	support Arg1:T22 Arg2:T20
+R14	support Arg1:T23 Arg2:T20
+R15	rebuttal_attack Arg1:T24 Arg2:T20
+R16	rebuttal_attack Arg1:T25 Arg2:T20
+R17	rebuttal_attack Arg1:T26 Arg2:T25
+R18	support Arg1:T5 Arg2:T6
+R19	undercutter Arg1:T7 Arg2:T2
+R20	support Arg1:T8 Arg2:T7
+R21	support Arg1:T9 Arg2:T7
+R22	support Arg1:T10 Arg2:T7
+R23	support Arg1:T11 Arg2:T7

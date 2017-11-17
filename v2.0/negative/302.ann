@@ -1,0 +1,35 @@
+T1	main_claim 0 85	CMV: The global dominance of the abrahamic faiths is largely an accident of geography
+A1	Type1 T1 interpretation
+T2	premise 133 159	I'm Unitarian Universalist
+A2	Type3 T2 ethos
+T3	premise 313 613	Had a group of religions identical in all respects to Judaism, Christianity, and Islam developed in pretty much any area other than the middle east, they would be no more successful than any of the other relatively minor faiths out there today, depending on what the location in question actually was
+A3	Type3 T3 logos
+T4	premise 618 722	Whatever other religion had ended up developing in the middle east would likely now be globally dominant
+A4	Type3 T4 logos
+T5	claim 758 942	it seems that the core of the success of the Abrahamic religions is dependent largely on the middle east's nature as both a major trade hub between Africa, Europe, and the rest of Asia
+A5	Type2 T5 interpretation
+T6	claim 945 1023	and on the fertile crescent's comparatively ancient status as a settled region
+A6	Type2 T6 interpretation
+T7	premise 1054 1203	a large part of this view came from something a history teacher told me 6 years ago: "Geography Determines Destiny", and that quote has stuck with me
+A7	Type3 T7 ethos
+T8	premise 1329 1526	Listing of relgion by number of followers http://en.wikipedia.org/wiki/Major_religious_groups#Religious_demographics 1. Christianity 2. Islam 3. Hinduism 4. Buddhism 5. Shinto 6. Sikhism 7. Judaism
+A8	Type3 T8 logos
+T9	claim 1528 1635	If your assertion was correct, Judiasim would be way higher than the four non Abrahamic religions above it.
+A9	Type2 T9 disagreement
+T10	claim 1637 1778	I don't agree that in order for my assertion to be correct, Judaism must be comparable in terms of being widespread to Islam or Christianity.
+A10	Type2 T10 disagreement
+T11	premise 2046 2138	Judiasm was developed in the Middle East and is not globally dominant by number of followers
+A11	Type3 T11 logos
+T12	claim 2144 2191	Judiasm is a counter-example to your statement.
+A12	Type2 T12 disagreement
+R1	agreement Arg1:T2 Arg2:T5
+R2	support Arg1:T3 Arg2:T5
+R3	rebuttal_attack Arg1:T12 Arg2:T10
+R4	support Arg1:T4 Arg2:T6
+R5	agreement Arg1:T5 Arg2:T6
+R6	agreement Arg1:T6 Arg2:T1
+R7	support Arg1:T7 Arg2:T6
+R8	support Arg1:T8 Arg2:T9
+R9	rebuttal_attack Arg1:T9 Arg2:T1
+R10	disagreement Arg1:T10 Arg2:T9
+R11	support Arg1:T11 Arg2:T12

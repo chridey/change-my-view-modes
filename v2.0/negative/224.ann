@@ -1,0 +1,71 @@
+T1	main_claim 0 76	CMV: There is only one "right" way to play the Mass Effect series (spoilers)
+A1	Type1 T1 evaluation_emotional
+T2	claim 796 811	a.) incompetent
+A2	Type2 T2 evaluation_emotional
+T3	premise 1042 1100	It's really not that difficult with a little common sense!
+A3	Type3 T3 logos_pathos
+T4	premise 1167 1188	It's worth it dammit!
+A4	Type3 T4 logos_pathos
+T5	claim 1194 1236	rushing/missing the damn point of the game
+A5	Type2 T5 evaluation_emotional
+T6	premise 1282 1300	you bought an RPG!
+A6	Type3 T6 pathos
+T7	premise 1301 1355	You're already taking a good bit time to play the game
+A7	Type3 T7 logos_pathos
+T8	premise 1462 1542	You get so much more out of the experience if you just take the time to explore.
+A8	Type3 T8 pathos
+T9	claim 1548 1584	unfit to fairly criticize the series
+A9	Type2 T9 evaluation_emotional
+T10	premise 1614 1721	I do agree with most of the criticisms of the plot and that it could have been much better than what it was
+A10	Type3 T10 logos_pathos
+T11	claim 1826 1935	the real heart of the Mass Effect franchise lies not with the story or the narrative, but with its characters
+A11	Type2 T11 interpretation
+T12	premise 1938 2096	With only a couple exceptions, the vast majority of Shepard's crew are interesting, fleshed-out characters, each with their own flaws and redeeming qualities.
+A12	Type3 T12 ethos_pathos
+T13	premise 2126 2318	seeing Wrex grow from a mere gun-for-hire in ME1 to the responsible, yet still badass leader of the Genophage-free Krogan in ME3 was one of the most gratifying experiences of my gaming career.
+A13	Type3 T13 logos_pathos
+T14	premise 2330 2556	the leap of faith Shepard takes when trusting Legion on Rannoch, thus ending hundreds of years of conflict and bringing the Quarians and Geth together was immensely satisfying and could easily qualify for /r/frission material.
+A14	Type3 T14 logos_pathos
+T15	premise 2558 2631	Without these experiences, yeah, Mass Effect 3 didn't live up to the hype
+A15	Type3 T15 logos
+T16	premise 2648 2747	It's such a hollow victory watching Wreav royally screw things up, or watching Tali commit suicide.
+A16	Type3 T16 ethos_pathos
+T17	claim 2763 2830	it's a complete waste of the player's time going about it that way.
+A17	Type2 T17 evaluation_rational
+T18	claim 2886 2968	there is one right way to play Mass Effect: a completionist run where NO ONE dies.
+A18	Type2 T18 evaluation_rational
+T19	claim 3980 4002	I completely disagree.
+A19	Type2 T19 disagreement
+T20	claim 4003 4053	Savescumming for optimal results breaks most games
+A20	Type2 T20 evaluation_emotional
+T21	claim 4054 4119	and is intrinsically at odds with any mechanic involving the RNG.
+A21	Type2 T21 evaluation_rational
+T22	claim 4284 4373	I don't personally view it as cheating at all, rather using the tools the game gives you.
+A22	Type2 T22 interpretation
+T23	premise 4374 4451	How often do we get to go back and correct our mistakes in real life, anyway?
+A23	Type3 T23 logos_pathos
+T24	premise 4452 4529	Why should a videogame be subject to the same limitations we have in reality?
+A24	Type3 T24 logos
+R1	agreement Arg1:T2 Arg2:T1
+R2	agreement Arg1:T11 Arg2:T1
+R3	support Arg1:T12 Arg2:T11
+R4	support Arg1:T13 Arg2:T9
+R5	support Arg1:T14 Arg2:T11
+R6	support Arg1:T15 Arg2:T9
+R7	support Arg1:T16 Arg2:T9
+R8	agreement Arg1:T17 Arg2:T1
+R9	agreement Arg1:T18 Arg2:T1
+R10	rebuttal_attack Arg1:T19 Arg2:T2
+R11	rebuttal_attack Arg1:T20 Arg2:T2
+R12	support Arg1:T3 Arg2:T2
+R13	rebuttal_attack Arg1:T21 Arg2:T2
+R14	rebuttal_attack Arg1:T22 Arg2:T20
+R15	support Arg1:T23 Arg2:T22
+R16	support Arg1:T24 Arg2:T22
+R17	support Arg1:T4 Arg2:T2
+R18	agreement Arg1:T5 Arg2:T1
+R19	support Arg1:T6 Arg2:T5
+R20	support Arg1:T7 Arg2:T6
+R21	support Arg1:T8 Arg2:T6
+R22	agreement Arg1:T9 Arg2:T1
+R23	support Arg1:T10 Arg2:T9

@@ -1,0 +1,28 @@
+CMV: I think the board game "Monopoly" is poorly designed
+
+Like many American kids, I was often forced throughout my childhood to participate in "Monopoly" games with my family.
+From what I can tell, there is very little skill involved in playing the game , it just seems to be a giant crapshoot the whole way through .
+
+"Monopoly" was made with the intent to explain why localised monopolies are bad for the economy and to explain the Single Tax theory of Henry George.^1 Though it does this job well, I believe it is this intent that causes it to be thoroughly not fun.
+Once ~50% of the board has been claimed, even if the landholdings of all the players are about equal, it is immediately obvious which player will lose based on who falls in another's territory first and has to pay the incredulous tax.
+After that, it is just a long fall into bankruptcy as eventually the player has to sell their property to others, decreasing the chance that they can earn revenue while simultaneously increasing the chance that the others can profit from them.
+
+While this system would work in a **quick** game between 2 to 3 people, monopoly is usually drawn out and played with 4+ players.
+One after another, a player pays out the net-worth to the other players until there is a long, long drawn-out stand-off between the remaining few.
+At this point, it comes to down to complete and utter chance.
+Whomever gets the worst successive dice rolls loses.
+When that happens, barring any statistically unlikely dice rolls, it is evident who will lose.
+But the game keeps going and going, because it would be "unfair" to keep going despite the likely outcome.
+
+If Monopoly was redesigned to rely less on chance (
+As of right now, after the first few passes around the board, it is easier to calculate the theoretical outcome with the help of a computer then to finish the game to its completion.
+
+Please change my view, for the sake of family game night.
+
+&gt;^1 Orbanes, Philip E. (2006). Monopoly: The World's Most Famous Game &amp; How it Got that Way. Da Capo Press. p. 22. ISBN 0-306-81489-7.
+
+I've always been under the impression monopoly was designed as a way to show the flaws in capitalism.
+Where someone can get obscenely rich with not much anyone can do about it due to the luck of landing on key properties/avoiding others.
+Perhaps laissez faire capitalism (or of the chain-gang bullshit going on in the gilded age), but I doubt it is a criticism of capitalism in general.
+In fact, Adam Smith (origin of laissez faire) did not like landowners, saying that they did very little to improve the economy/society and just sit on their land charging whatever damn price they want.
+It could be a criticism that despite that piece of advice we have fallen into that trap, though at that point I think that is a little too deep for a board game :P

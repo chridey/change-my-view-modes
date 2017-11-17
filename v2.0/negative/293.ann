@@ -1,0 +1,36 @@
+T1	main_claim 0 137	CMV: If you're able, European and subscribe even loosely to European values, you should be on the Ukrainian border, driving back Russians
+A1	Type1 T1 evaluation_rational
+T2	claim 246 306	Feels to me as if Putin senses weakness in the Western world
+A2	Type2 T2 interpretation
+T3	premise 309 393	with the US and Europe driven farther apart by issues like privacy and human rights,
+A3	Type3 T3 logos_pathos
+T4	premise 394 448	the US withdrawing as a dominant force in geopolitics,
+A4	Type3 T4 logos_pathos
+T5	premise 449 531	because people in and outside of the US are fed up with the US policing the world.
+A5	Type3 T5 logos_pathos
+T6	claim 532 662	His territorial pissings seems to be meant to elbow some room for himself on the geopolitical stage, in other words gaining power.
+A6	Type2 T6 interpretation
+T7	claim 663 772	Putin is a totalitarian, oppressive, ruthless man, and allowing him to gain more power will affect all of us.
+A7	Type2 T7 evaluation_emotional
+T8	premise 774 906	What if you are more useful as a negotiator working towards a peaceful resolution to the conflict than you are as a freedom fighter.
+A8	Type3 T8 logos
+T9	claim 907 974	Being able doesn't imply you are going to be helpful on that front.
+A9	Type2 T9 interpretation
+T10	claim 983 1058	I count that towards 'being on the Ukrainian border, driving back Russians'
+A10	Type2 T10 interpretation
+T11	premise 1061 1113	Whatever way you think you can make yourself useful.
+A11	Type3 T11 logos
+T12	premise 1114 1167	It can be fighting, negotiating, cooking, doctoring..
+A12	Type3 T12 logos
+T13	claim 1193 1252	Your original post had a very different tone to it however.
+A13	Type2 T13 evaluation_rational
+R1	support Arg1:T3 Arg2:T2
+R2	support Arg1:T12 Arg2:T10
+R3	undercutter Arg1:T13 Arg2:T10
+R4	support Arg1:T4 Arg2:T2
+R5	support Arg1:T5 Arg2:T2
+R6	support Arg1:T6 Arg2:T7
+R7	support Arg1:T8 Arg2:T9
+R8	undercutter Arg1:T9 Arg2:T1
+R9	undercutter Arg1:T10 Arg2:T9
+R10	support Arg1:T11 Arg2:T10

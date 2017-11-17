@@ -1,0 +1,50 @@
+T1	main_claim 0 42	CMV: Swimming is the best form of exercise
+A1	Type1 T1 evaluation_rational
+T2	claim 50 132	obviously a balanced exercise regimen is the best choice for health and well-being
+A2	Type2 T2 evaluation_rational
+T3	premise 138 197	someone were forced to stick to a single exercise technique
+A3	Type3 T3 logos
+T4	claim 200 289	there is no reason other than lack of availability to choose anything other than swimming
+A4	Type2 T4 evaluation_rational
+T5	premise 309 438	cardio, able to be done at a variety of speeds over a variety of distances, making it suitable for a wide range of fitness levels
+A5	Type3 T5 logos_pathos
+T6	premise 443 570	resistance in many muscle groups, especially when strokes in question are varied and tools such as fins or kickboards are added
+A6	Type3 T6 logos
+T7	premise 575 693	low-impact, making it suitable for older people, people with recent injuries, or those with longer-term joint problems
+A7	Type3 T7 logos_pathos
+T8	premise 698 739	whole-body (or at least most-of-the-body)
+A8	Type3 T8 logos_pathos
+T9	claim 968 1015	"best form of exercise" is actually meaningless
+A9	Type2 T9 agreement
+T10	premise 1020 1048	For one thing, I can't swim.
+A10	Type3 T10 ethos_logos
+T11	premise 1049 1200	I can (for the most part) bob in place well enough to keep myself from drowning, but when I add any type of movement I end up with lungs full of water.
+A11	Type3 T11 ethos_logos
+T12	premise 1202 1238	It's not from lack of trying either.
+A12	Type3 T12 ethos_logos
+T13	premise 1239 1300	I've had lots of swimming lessons, and I just can't catch on.
+A13	Type3 T13 ethos
+T14	claim 1308 1376	you are dismissing "lack of availability" as a reason pretty easily.
+A14	Type2 T14 evaluation_rational
+T15	claim 1377 1421	That is probably one of the biggest reasons.
+A15	Type2 T15 interpretation
+T16	claim 1424 1435	fair enough
+A16	Type2 T16 agreement
+T17	claim 1445 1523	I still feel that for those who are able swimming is the best form of exercise
+A17	Type2 T17 evaluation_rational
+R1	partial_disagreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T4
+R3	undercutter Arg1:T12 Arg2:T4
+R4	undercutter Arg1:T13 Arg2:T4
+R5	undercutter Arg1:T14 Arg2:T4
+R6	support Arg1:T15 Arg2:T14
+R7	partial_agreement Arg1:T16 Arg2:T15
+R8	partial_attack Arg1:T17 Arg2:T15
+R9	agreement Arg1:T4 Arg2:T1
+R10	support Arg1:T5 Arg2:T4
+R11	support Arg1:T6 Arg2:T4
+R12	support Arg1:T7 Arg2:T4
+R13	support Arg1:T8 Arg2:T4
+R14	disagreement Arg1:T9 Arg2:T1
+R15	undercutter Arg1:T10 Arg2:T4
+R16	undercutter Arg1:T11 Arg2:T4

@@ -1,0 +1,59 @@
+T1	main_claim 0 130	CMV - Mobile websites are a relic of the early mobile internet era and are inferior to actual websites when using your smartphone.
+A1	Type1 T1 evaluation_rational
+T2	claim 202 283	There isn't a single instance where a mobile website is preferable to a full site
+A2	Type2 T2 evaluation_rational
+T3	premise 286 328	The information is gutted and moved around
+A3	Type3 T3 pathos
+T4	premise 329 404	making the site difficult to browse if it's something you are familiar with
+A4	Type3 T4 pathos
+T5	premise 409 482	less useful because the information is presented in a mobile-friendly way
+A5	Type3 T5 pathos
+T6	premise 495 575	smart phones are prevalent enough among phone users who want to use the Internet
+A6	Type3 T6 logos_pathos
+T7	claim 581 643	it outweighs the "some people don't have smartphones" argument
+A7	Type2 T7 evaluation_rational
+T8	claim 721 841	"Websites should not default force mobile and have the option to go default and instead start default and allow mobile."
+A8	Type2 T8 interpretation
+T9	claim 969 1054	It's very off putting and doesn't encourage me, as op, to continue discussing my view
+A9	Type2 T9 interpretation
+T10	premise 1522 1560	Not all smartphones are created equal.
+A10	Type3 T10 logos
+T11	premise 1567 1672	you may have an iPhone, and most of the ads you see are for buying the flagship Android or Apple product,
+A11	Type3 T11 logos
+T12	claim 1673 1799	there are plenty of cheaper smartphones with less memory and a lesser processor which may chug a little bit on these websites.
+A12	Type2 T12 interpretation
+T13	claim 1825 1920	these versions of the websites are often much more barebones and designed with a phone in mind.
+A13	Type2 T13 evaluation_rational
+T14	premise 1921 2070	They use less data (e.g. images, animations, etc...) to make it easier to load on people with a poor 3G connection or a low data limit on their plan,
+A14	Type3 T14 logos
+T15	premise 2075 2209	they often have much bigger buttons, text, and menus to work better for someone on a touch screen as opposed to someone on a computer.
+A15	Type3 T15 logos
+T16	claim 2435 2484	the only issue with that is it's very subjective.
+A16	Type2 T16 disagreement
+T17	premise 2485 2524	Some users may like it, others may not.
+A17	Type3 T17 logos
+T18	premise 2525 2620	Most websites will let you scroll to the bottom and hit a button for mobile or desktop viewing.
+A18	Type3 T18 logos
+T19	claim 2621 2944	At least if it defaults to mobile, that 3G issue I mentioned means the website will load very quickly if you've got a good connection and let you scroll down and hit desktop right away, and then if you're on a poor connection you're not stuck waiting for the full website to load before being able to switch back to mobile.
+A19	Type2 T19 evaluation_rational
+T20	premise 2945 3166	There's also some issues with flash animations and CS styles that not all mobile devices can handle, but that usually doesn't make a phone crash, it just might make a website fail to load some bits or look a little jenky.
+A20	Type3 T20 logos
+R1	support Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T1
+R3	undercutter Arg1:T12 Arg2:T7
+R4	undercutter Arg1:T13 Arg2:T7
+R5	support Arg1:T14 Arg2:T13
+R6	support Arg1:T15 Arg2:T13
+R7	undercutter Arg1:T16 Arg2:T8
+R8	support Arg1:T17 Arg2:T16
+R9	support Arg1:T18 Arg2:T16
+R10	rebuttal_attack Arg1:T19 Arg2:T8
+R11	support Arg1:T20 Arg2:T19
+R12	support Arg1:T4 Arg2:T1
+R13	support Arg1:T5 Arg2:T1
+R14	support Arg1:T6 Arg2:T7
+R15	support Arg1:T7 Arg2:T1
+R16	support Arg1:T8 Arg2:T1
+R17	support Arg1:T9 Arg2:T1
+R18	support Arg1:T10 Arg2:T12
+R19	support Arg1:T11 Arg2:T12

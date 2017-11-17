@@ -1,0 +1,69 @@
+T1	main_claim 0 88	CMV: Surplus Value Theorem is definitive proof that capitalism is an inefficient system.
+A1	Type1 T1 interpretation
+T2	premise 90 214	As I understand it, and crudely explained, SVT says that in an economic system that lets people hire other people for labour
+A2	Type3 T2 logos
+T3	claim 217 277	waste has to be produced in order for the system to function
+A3	Type2 T3 evaluation_rational
+T4	premise 290 347	Consider a society of 101 people: 100 workers and 1 boss.
+A4	Type3 T4 pathos
+T5	premise 348 396	The boss owns the factory where the workers work
+A5	Type3 T5 logos
+T6	premise 403 458	they produce, say, MLP dolls that everyone wants to buy
+A6	Type3 T6 logos
+T7	premise 461 573	The boss pays each of her workers £5 for each doll that the worker produces, and a worker produces 1 doll a day
+A7	Type3 T7 logos
+T8	premise 576 658	At the end of the day, the boss has 100 dolls, worth £1000 and has paid out £500
+A8	Type3 T8 logos_pathos
+T9	premise 661 744	Wanting to make a profit on the dolls, the boss then sells the dolls for £10 each.
+A9	Type3 T9 logos
+T10	premise 745 792	She is now trying to sell £1000 worth of dolls
+A10	Type3 T10 ethos_logos_pathos
+T11	premise 799 880	the only people available to sell to are the workers, who's total funds are £500
+A11	Type3 T11 ethos_logos_pathos
+T12	premise 883 997	No matter how they rearrange the money between them, they will be unable to buy more than £500 worth of the dolls
+A12	Type3 T12 logos
+T13	premise 1007 1104	the rest are waste inherent to the system and a direct result of the boss wanting to make profit.
+A13	Type3 T13 logos
+T14	premise 1106 1239	This example then scales up to the whole world when you throw in multiple bosses and lots more workers but the basic idea is the same
+A14	Type3 T14 logos
+T15	premise 1245 1347	each worker is being paid less than the price of the things they produce so that their boss can profit
+A15	Type3 T15 logos
+T16	claim 1355 1420	items that cannot be sold must still be produced and thrown away.
+A16	Type2 T16 evaluation_rational
+T17	claim 1423 1447	*No* theorem is "proof"!
+A17	Type2 T17 interpretation
+T18	premise 1449 1485	Theorems are explanations *of* facts
+A18	Type3 T18 logos
+T19	claim 1492 1537	it's *facts* that prove or disprove theorems.
+A19	Type2 T19 interpretation
+T20	premise 1539 1708	Darwinian Theory doesn't prove evolution to be true - the facts in the real world (such as examples of fossils and stratigraphy and DNA etc) prove the Theory to be true.
+A20	Type3 T20 logos
+T21	claim 1710 1876	Ultimately the proof/disproof of the efficiency/inefficiency of Capitalism/Communism must come from the comparison and evaluation of historical before and after facts
+A21	Type2 T21 interpretation
+T22	premise 1882 1974	East and West Germany, North and South Korea, Iron Rice Bowl China versus Free Market China.
+A22	Type3 T22 logos
+T23	claim 1975 2011	The facts definitively disprove SVT!
+A23	Type2 T23 interpretation
+T24	premise 2014 2102	I can't get wikibot to do it's stuff, but here: http://www.thefreedictionary.com/theorem
+A24	Type3 T24 logos
+R1	support Arg1:T2 Arg2:T3
+R2	support Arg1:T10 Arg2:T3
+R3	support Arg1:T11 Arg2:T3
+R4	support Arg1:T12 Arg2:T3
+R5	support Arg1:T13 Arg2:T3
+R6	support Arg1:T14 Arg2:T16
+R7	support Arg1:T15 Arg2:T16
+R8	rebuttal_attack Arg1:T17 Arg2:T1
+R9	support Arg1:T18 Arg2:T17
+R10	rebuttal_attack Arg1:T19 Arg2:T1
+R11	support Arg1:T20 Arg2:T19
+R12	rebuttal_attack Arg1:T21 Arg2:T1
+R13	support Arg1:T22 Arg2:T21
+R14	rebuttal_attack Arg1:T23 Arg2:T1
+R15	support Arg1:T24 Arg2:T1
+R16	support Arg1:T4 Arg2:T3
+R17	support Arg1:T5 Arg2:T3
+R18	support Arg1:T6 Arg2:T3
+R19	support Arg1:T7 Arg2:T3
+R20	support Arg1:T8 Arg2:T3
+R21	support Arg1:T9 Arg2:T3

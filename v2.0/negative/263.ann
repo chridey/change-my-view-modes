@@ -1,0 +1,115 @@
+T1	main_claim 0 80	CMV: The highest form of relationship between men and women doomed to be romance
+A1	Type1 T1 interpretation
+T2	claim 82 172	Maybe it has to do with being an adolescent and being new to dealing with the opposite sex
+A2	Type2 T2 evaluation_rational
+T3	claim 179 309	I'm beginning to fall under the assumption that the only purpose for guys to get to know girls is to eventually engage in romance.
+A3	Type2 T3 evaluation_rational
+T4	premise 311 368	"Why else do men engage women in conversation in public?"
+A4	Type3 T4 pathos
+T5	claim 380 457	my perception might just be distorted after reading Neil Strauss's *The Game*
+A5	Type2 T5 interpretation
+T6	premise 463 611	Why do I feel like chasing after girls and getting to know them when I have so many great guy friends already who I know care about me so much more?
+A6	Type3 T6 logos_pathos
+T7	premise 612 736	Why can't I be friends with girls (even pretty ones) and not feel insecure when I don't try to advance some romantic agenda?
+A7	Type3 T7 logos_pathos
+T8	premise 737 796	Why do I find myself inevitably becoming attracted to them?
+A8	Type3 T8 pathos
+T9	claim 1034 1117	the above questions are more like fragments of a bigger picture of misunderstanding
+A9	Type2 T9 interpretation
+T10	premise 1120 1179	because I want to know what older, more mature people think
+A10	Type3 T10 logos
+T11	claim 1182 1275	It also must distort my view to have gone to an all-boy's school for the majority of my life.
+A11	Type2 T11 evaluation_rational
+T12	claim 1287 1382	I feel like the interplay between men and women is always (at least always initially) a bs game
+A12	Type2 T12 evaluation_rational
+T13	premise 1389 1572	the man tries to show the woman how non-threatening and valuable he is from a non-romantic standpoint before she is comfortable with allowing herself to think of him as a safe partner
+A13	Type3 T13 logos_pathos
+T14	premise 1575 1640	Something about that seems so sinister, cynical, and hollow to me
+A14	Type3 T14 logos
+T15	claim 1646 1662	I can't stand it
+A15	Type2 T15 evaluation_emotional
+T16	premise 1692 1717	I'm a middle aged female.
+A16	Type3 T16 ethos
+T17	claim 1719 1756	Quit putting the pussy on a pedestal.
+A17	Type2 T17 evaluation_emotional
+T18	premise 1757 1829	If you think that the only reason to get to know a female is to bone her
+A18	Type3 T18 pathos
+T19	claim 1830 1852	you are doing 2 things
+A19	Type2 T19 interpretation
+T20	claim 1856 1975	dehumanizing females a placing them in a category separate from yourself- almost like a separate class or subspecies...
+A20	Type2 T20 interpretation
+T21	premise 2007 2128	look at some Arab cultures where women have few rights and can't even show 1 square inch of forearm lest a man be tempted
+A21	Type3 T21 logos_pathos
+T22	claim 2134 2212	elevating a woman's  sexuality to a higher plane than where it deserves to be.
+A22	Type2 T22 interpretation
+T23	premise 2256 2295	Women aren't putting your dick up there
+A23	Type3 T23 pathos
+T24	claim 2298 2326	don't put the pussy up there
+A24	Type2 T24 evaluation_emotional
+T25	claim 2329 2434	It just makes a guy look a little desperate when he treats a woman and her vagina like a magical unicorn.
+A25	Type2 T25 evaluation_emotional
+T26	premise 2435 2484	Nobody worth dating really wants that in my book.
+A26	Type3 T26 ethos_logos_pathos
+T27	claim 2485 2524	You may think you aren't guilty of this
+A27	Type2 T27 interpretation
+T28	premise 2529 2618	by virtue of the fact that you think the sole goal of befriending a female is to fuck her
+A28	Type3 T28 logos_pathos
+T29	claim 2630 2669	You are making the pussy very valuable.
+A29	Type2 T29 interpretation
+T30	claim 2670 2772	Making friends with a lot of women actually devalues the shit out of it even if you aren't hitting it.
+A30	Type2 T30 evaluation_emotional
+T31	claim 2773 2813	Which long term is a really great thing.
+A31	Type2 T31 evaluation_rational
+T32	claim 2815 3072	Continuing to think of women as magical pussy creatures who aren't worth befriending or even talking to unless you can eventually stick your cock into them is not a good way to form a healthy relationship if you manage to form one at all with those beliefs.
+A32	Type2 T32 evaluation_emotional
+T33	premise 3074 3111	I've always had lots of male friends.
+A33	Type3 T33 ethos_logos
+T34	premise 3112 3146	I just don't get along with women.
+A34	Type3 T34 ethos_logos_pathos
+T35	premise 3147 3160	I'm straight.
+A35	Type3 T35 ethos_logos_pathos
+T36	claim 3161 3264	I don't want to have relations with any of my male friends and afaik they don't expect any sex from me.
+A36	Type2 T36 interpretation
+T37	premise 3265 3323	They all know I've been married for 12 years and am loyal.
+A37	Type3 T37 pathos
+T38	premise 3324 3396	All we do is hang out and play video games or board games and drink beer
+A38	Type3 T38 ethos_logos
+T39	premise 3464 3521	My husband is 100% OK with this and trusts me completely.
+A39	Type3 T39 ethos_logos_pathos
+T40	claim 3524 3552	That is a really good point.
+A40	Type2 T40 agreement
+T41	claim 3561 3724	I've been indoctrinated into thinking the way you described: that being friends with girls is something wholly separate from being friends with guys when it's not.
+A41	Type2 T41 interpretation
+R1	support Arg1:T10 Arg2:T9
+R2	support Arg1:T13 Arg2:T12
+R3	support Arg1:T14 Arg2:T15
+R4	support Arg1:T16 Arg2:T17
+R5	rebuttal_attack Arg1:T17 Arg2:T1
+R6	support Arg1:T18 Arg2:T19
+R7	rebuttal_attack Arg1:T19 Arg2:T3
+R8	support Arg1:T4 Arg2:T5
+R9	undercutter Arg1:T20 Arg2:T3
+R10	support Arg1:T21 Arg2:T20
+R11	undercutter Arg1:T22 Arg2:T3
+R12	support Arg1:T23 Arg2:T24
+R13	rebuttal_attack Arg1:T24 Arg2:T3
+R14	undercutter Arg1:T25 Arg2:T3
+R15	support Arg1:T26 Arg2:T25
+R16	undercutter Arg1:T27 Arg2:T3
+R17	support Arg1:T28 Arg2:T27
+R18	undercutter Arg1:T29 Arg2:T3
+R19	rebuttal_attack Arg1:T30 Arg2:T3
+R20	rebuttal_attack Arg1:T31 Arg2:T3
+R21	undercutter Arg1:T32 Arg2:T3
+R22	support Arg1:T33 Arg2:T36
+R23	support Arg1:T34 Arg2:T36
+R24	support Arg1:T35 Arg2:T36
+R25	rebuttal_attack Arg1:T36 Arg2:T3
+R26	support Arg1:T37 Arg2:T36
+R27	support Arg1:T38 Arg2:T36
+R28	support Arg1:T39 Arg2:T36
+R29	support Arg1:T6 Arg2:T3
+R30	agreement Arg1:T40 Arg2:T17
+R31	agreement Arg1:T41 Arg2:T17
+R32	support Arg1:T7 Arg2:T3
+R33	support Arg1:T8 Arg2:T3

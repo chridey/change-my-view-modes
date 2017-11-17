@@ -1,0 +1,69 @@
+T1	main_claim 0 57	CMV: I think the board game "Monopoly" is poorly designed
+A1	Type1 T1 evaluation_emotional
+T2	premise 59 177	Like many American kids, I was often forced throughout my childhood to participate in "Monopoly" games with my family.
+A2	Type3 T2 ethos
+T3	claim 200 255	there is very little skill involved in playing the game
+A3	Type2 T3 evaluation_emotional
+T4	premise 258 317	it just seems to be a giant crapshoot the whole way through
+A4	Type3 T4 logos
+T5	claim 473 571	Though it does this job well, I believe it is this intent that causes it to be thoroughly not fun.
+A5	Type2 T5 interpretation
+T6	premise 572 806	Once ~50% of the board has been claimed, even if the landholdings of all the players are about equal, it is immediately obvious which player will lose based on who falls in another's territory first and has to pay the incredulous tax.
+A6	Type3 T6 logos
+T7	premise 807 1050	After that, it is just a long fall into bankruptcy as eventually the player has to sell their property to others, decreasing the chance that they can earn revenue while simultaneously increasing the chance that the others can profit from them.
+A7	Type3 T7 logos
+T8	claim 1052 1181	While this system would work in a **quick** game between 2 to 3 people, monopoly is usually drawn out and played with 4+ players.
+A8	Type2 T8 evaluation_rational
+T9	premise 1182 1328	One after another, a player pays out the net-worth to the other players until there is a long, long drawn-out stand-off between the remaining few.
+A9	Type3 T9 logos
+T10	premise 1329 1390	At this point, it comes to down to complete and utter chance.
+A10	Type3 T10 logos
+T11	premise 1391 1443	Whomever gets the worst successive dice rolls loses.
+A11	Type3 T11 logos
+T12	premise 1444 1538	When that happens, barring any statistically unlikely dice rolls, it is evident who will lose.
+A12	Type3 T12 logos
+T13	premise 1539 1645	But the game keeps going and going, because it would be "unfair" to keep going despite the likely outcome.
+A13	Type3 T13 logos_pathos
+T14	claim 1647 1698	If Monopoly was redesigned to rely less on chance (
+A14	Type2 T14 evaluation_rational
+T15	premise 1699 1881	As of right now, after the first few passes around the board, it is easier to calculate the theoretical outcome with the help of a computer then to finish the game to its completion.
+A15	Type3 T15 logos
+T16	claim 2085 2186	I've always been under the impression monopoly was designed as a way to show the flaws in capitalism.
+A16	Type2 T16 evaluation_rational
+T17	premise 2187 2322	Where someone can get obscenely rich with not much anyone can do about it due to the luck of landing on key properties/avoiding others.
+A17	Type3 T17 logos_pathos
+T18	premise 2323 2415	Perhaps laissez faire capitalism (or of the chain-gang bullshit going on in the gilded age),
+A18	Type3 T18 logos
+T19	claim 2420 2471	I doubt it is a criticism of capitalism in general.
+A19	Type2 T19 evaluation_rational
+T20	premise 2472 2542	In fact, Adam Smith (origin of laissez faire) did not like landowners,
+A20	Type3 T20 ethos_logos
+T21	premise 2543 2606	saying that they did very little to improve the economy/society
+A21	Type3 T21 ethos_logos
+T22	premise 2611 2673	just sit on their land charging whatever damn price they want.
+A22	Type3 T22 pathos
+T23	claim 2674 2762	It could be a criticism that despite that piece of advice we have fallen into that trap,
+A23	Type2 T23 interpretation
+T24	premise 2770 2837	at that point I think that is a little too deep for a board game :P
+A24	Type3 T24 logos
+R1	support Arg1:T2 Arg2:T3
+R2	support Arg1:T12 Arg2:T8
+R3	support Arg1:T13 Arg2:T8
+R4	support Arg1:T15 Arg2:T14
+R5	disagreement Arg1:T16 Arg2:T5
+R6	support Arg1:T17 Arg2:T16
+R7	support Arg1:T18 Arg2:T19
+R8	partial_attack Arg1:T19 Arg2:T16
+R9	support Arg1:T20 Arg2:T19
+R10	support Arg1:T21 Arg2:T19
+R11	support Arg1:T4 Arg2:T3
+R12	support Arg1:T22 Arg2:T19
+R13	partial_agreement Arg1:T23 Arg2:T16
+R14	support Arg1:T24 Arg2:T23
+R15 support Arg1:T6 Arg2:T1
+R16 support Arg1:T6 Arg2:T5
+R17 support Arg1:T7 Arg2:T1
+R18 support Arg1:T7 Arg2:T5
+R19	support Arg1:T9 Arg2:T8
+R20	support Arg1:T10 Arg2:T8
+R21	support Arg1:T11 Arg2:T8

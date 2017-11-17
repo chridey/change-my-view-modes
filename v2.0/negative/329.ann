@@ -1,0 +1,38 @@
+T1	main_claim 0 31	CMV: America is not a democracy
+A1	Type1 T1 evaluation_rational
+T2	premise 48 123	There is an unchecked organization that spies on them 24/7 without consent.
+A2	Type3 T2 pathos
+T3	premise 124 201	The US has given itself license to detain and torture citizens with no trial.
+A3	Type3 T3 pathos
+T4	premise 202 321	The energy laws in that country allow corporations to drill where they please and, as a result, poison who they please.
+A4	Type3 T4 pathos
+T5	claim 614 663	It's not a free, democratic society by any means.
+A5	Type2 T5 evaluation_rational
+T6	claim 664 689	It's clearly an oligarchy
+A6	Type2 T6 interpretation
+T7	claim 691 782	Most of what you said is either patently false or simplification to the point of absurdity,
+A7	Type2 T7 evaluation_rational
+T8	claim 787 865	more importantly has nothing to do with whether or not America is a democracy.
+A8	Type2 T8 evaluation_rational
+T9	premise 866 1039	Democracies can be oppressive illiberal regimes, totalitarian systems, command-and-control socialist systems, social democracies, liberal capitalist states, oligarchies etc.
+A9	Type3 T9 logos
+T10	premise 1040 1176	You have yet to give evidence that there is widespread tampering with free and fair elections which define the US as a democratic state.
+A10	Type3 T10 logos
+T11	premise 1178 1300	For example: according to you a democracy is defined as "a state which has strict financial regulations, outlaws fracking,
+A11	Type3 T11 logos
+T12	premise 1305 1333	doesn't have a spy network".
+A12	Type3 T12 logos
+T13	claim 1381 1403	I probably would yeah.
+A13	Type2 T13 agreement
+R1	support Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T1
+R3	support Arg1:T12 Arg2:T8
+R4	agreement Arg1:T13 Arg2:T8
+R5	support Arg1:T4 Arg2:T1
+R6	agreement Arg1:T5 Arg2:T1
+R7	agreement Arg1:T6 Arg2:T5
+R8	undercutter Arg1:T7 Arg2:T1
+R9	undercutter Arg1:T8 Arg2:T1
+R10	support Arg1:T9 Arg2:T8
+R11	support Arg1:T10 Arg2:T8
+R12	support Arg1:T11 Arg2:T8

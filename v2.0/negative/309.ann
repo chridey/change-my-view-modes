@@ -1,0 +1,80 @@
+T1	main_claim 0 37	CMV: Nativity scenes are antisemitic.
+A1	Type1 T1 evaluation_emotional
+T2	claim 39 126	This has nothing to do with the celebration of Christmas excluding religious minorities
+A2	Type2 T2 evaluation_emotional
+T3	claim 142 211	traditional nativity scenes reinforce negative stereotypes about Jews
+A3	Type2 T3 evaluation_emotional
+T4	premise 215 387	As the story goes, when Jesus was about to be born his parents were travelling to Bethlehem, but when they got there the inn was full, so Mary had to give birth in the barn
+A4	Type3 T4 logos
+T5	premise 390 549	The problem is, if nativity scenes are any indication, baby Jesus was still in the manger when the three wise men came to visit and give him Christmas presents
+A5	Type3 T5 logos
+T6	premise 552 684	Most people know Jesus was born on Christmas, but less realize that the wise men didn't show up until the Epiphany twelve days later
+A6	Type3 T6 logos
+T7	claim 688 784	Are we honestly expected to believe that no vacancies opened up at the inn for almost two weeks?
+A7	Type2 T7 interpretation
+T8	premise 785 869	Because that would be the most unbelievable aspect of the entire story if you ask me
+A8	Type3 T8 logos
+T9	premise 876 920	it seriously strains credulity to begin with
+A9	Type3 T9 logos
+T10	premise 924 999	Even miracles make more sense in the context of the birth of the Son of God
+A10	Type3 T10 logos
+T11	premise 1002 1109	Maybe a virgin really could give birth to a deity, or a new star could magically appear over the birthplace
+A11	Type3 T11 logos_pathos
+T12	premise 1116 1206	there's no reason for the inn to miraculously have no rooms come open for nearly two weeks
+A12	Type3 T12 logos
+T13	premise 1209 1430	Plus Mary and Joseph would be the first to know when something came available since they were basically squatting in the garage and would surely notice when patrons came to get their ox or camel or whatever before leaving
+A13	Type3 T13 logos_pathos
+T14	claim 1434 1638	The obvious implication is that Jesus' chintzy Jewish stepdad was such a tightwad that he was willing to let his pubescent wife and her newborn baby sleep in donkey slop if it would save him a few shekels
+A14	Type2 T14 interpretation
+T15	premise 1641 1815	Joseph probably would have made that barn the family's permanent rent-free residence if the wise men hadn't showed up bearing enough cash and prizes to go live it up in Egypt
+A15	Type3 T15 logos_pathos
+T16	premise 1829 1862	why did they stay so long anyway?
+A16	Type3 T16 logos
+T17	premise 1863 1911	It's not like Mary needed the time to recuperate
+A17	Type3 T17 logos
+T18	premise 1914 2070	Thanks to baby Jesus' healing powers even her hymen immediately regenerated, kind of like the redhead vampire from True Blood or the cheerleader from Heroes
+A18	Type3 T18 logos_pathos
+T19	premise 2075 2175	Not the real life Hayden Panettiere though, you know those gigantic Klitschkos split that wide open.
+A19	Type3 T19 pathos
+T20	claim 2197 2301	Aren't Mary and Joseph, two holy people, especially perfect virgin Mary, both Jews? Wasn't Jesus a Jew??
+A20	Type2 T20 interpretation
+T21	claim 2303 2306	Yes
+A21	Type2 T21 agreement
+T22	claim 2313 2394	Joseph was just a regular Jew without the same kind of holiness as the other two.
+A22	Type2 T22 interpretation
+T23	claim 2396 2400	Okay
+A23	Type2 T23 agreement
+T24	premise 2442 2486	the son of god and his holy mother were Jews
+A24	Type3 T24 logos
+T25	claim 2492 2589	I wouldn't call a story about them antisemitic even if the villains in the story are also Jewish.
+A25	Type2 T25 disagreement
+T26	claim 2590 2668	Isn't the characterization of Jews as "Christ-killers" rooted in antisemitism?
+A26	Type2 T26 evaluation_rational
+T27	premise 2669 2779	Because that's a part of the Easter story even though it was technically a Jew being crucified on Good Friday.
+A27	Type3 T27 logos
+R1	agreement Arg1:T2 Arg2:T1
+R2	agreement Arg1:T3 Arg2:T1
+R3	support Arg1:T12 Arg2:T7
+R4	support Arg1:T13 Arg2:T7
+R5	agreement Arg1:T14 Arg2:T1
+R6	support Arg1:T15 Arg2:T14
+R7	support Arg1:T16 Arg2:T14
+R8	support Arg1:T17 Arg2:T14
+R9	support Arg1:T18 Arg2:T14
+R10	support Arg1:T19 Arg2:T14
+R11	attack Arg1:T20 Arg2:T1
+R12	partial_agreement Arg1:T21 Arg2:T20
+R13	partial_attack Arg1:T22 Arg2:T20
+R14	support Arg1:T4 Arg2:T3
+R15	partial_agreement Arg1:T23 Arg2:T21
+R16	support Arg1:T24 Arg2:T25
+R17	undercutter Arg1:T25 Arg2:T1
+R18	undercutter Arg1:T26 Arg2:T25
+R19	support Arg1:T27 Arg2:T26
+R20	support Arg1:T5 Arg2:T3
+R21	support Arg1:T6 Arg2:T3
+R22	agreement Arg1:T7 Arg2:T1
+R23	support Arg1:T8 Arg2:T7
+R24	support Arg1:T9 Arg2:T7
+R25	support Arg1:T10 Arg2:T7
+R26	support Arg1:T11 Arg2:T7

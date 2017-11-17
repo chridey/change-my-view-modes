@@ -1,0 +1,110 @@
+T1	main_claim 0 87	CMV Me joining the army is not a waste of time nor does it conflict with my personality
+A1	Type1 T1 evaluation_emotional
+T2	claim 89 169	I've always had a respect for the men in uniform and I've always wanted to join.
+A2	Type2 T2 evaluation_emotional
+T3	claim 170 233	Recently I've disagreed with the practices of the U.S. military
+A3	Type2 T3 evaluation_rational
+T4	premise 282 321	just the people that force them into it
+A4	Type3 T4 logos_pathos
+T5	premise 324 411	I'm an immigrant and a Muslim neither of which is or should be a deterrent from joining
+A5	Type3 T5 ethos
+T6	premise 414 499	I want to be a doctor, not because of familial pressure but of a genuine need to help
+A6	Type3 T6 ethos
+T7	claim 1029 1100	The only reservation that I had was that it would be a waste of my time
+A7	Type2 T7 evaluation_rational
+T8	premise 1101 1180	because I want to be a neurosurgeon and that's a looooooooong and rigorous path
+A8	Type3 T8 pathos
+T9	premise 1190 1245	I might be losing precious time by joining the military
+A9	Type3 T9 pathos
+T10	claim 1331 1400	I love the idea of a brotherhood but I don't agree with the ideology,
+A10	Type2 T10 evaluation_rational
+T11	claim 1401 1473	the military putting me through Med school will help me jump start life,
+A11	Type2 T11 evaluation_rational
+T12	claim 1474 1561	I'm very inexperienced and haven't seen much of the world and this I think will help me
+A12	Type2 T12 evaluation_rational
+T13	claim 1715 1798	Different branches have different options and very different lifestyles and culture
+A13	Type2 T13 interpretation
+T14	premise 1801 1869	For example, you mentioned that you wanted to see more of the world.
+A14	Type3 T14 logos
+T15	claim 1870 1913	The best branch for that would be the Navy.
+A15	Type2 T15 evaluation_rational
+T16	premise 1914 1932	I get seasick lol.
+A16	Type3 T16 ethos
+T17	claim 1933 1980	The Marines aren't knows for their... Genius...
+A17	Type2 T17 evaluation_emotional
+T18	claim 1981 2013	The air force isn't right for me
+A18	Type2 T18 evaluation_rational
+T19	premise 2022 2036	I couldn't fly
+A19	Type3 T19 logos
+T20	premise 2041 2069	don't want to be an engineer
+A20	Type3 T20 logos
+T21	claim 2089 2184	I think you need to get a bit better informed if you're going with those particular stereotypes
+A21	Type2 T21 disagreement
+T22	premise 2187 2271	Did you know the Army's minimum ASVAB score is lower than the Marines, for instance?
+A22	Type3 T22 logos
+T23	claim 2272 2345	As for getting seasick, it's not as much of an issue on such large ships.
+A23	Type2 T23 interpretation
+T24	claim 2404 2466	there is actually a decent chance to never set foot on a ship.
+A24	Type2 T24 interpretation
+T25	premise 2484 2533	the Marines don't have their own medical services
+A25	Type3 T25 logos
+T26	claim 2999 3054	a lot of people looking to join tend to forget that bit
+A26	Type2 T26 evaluation_emotional
+T27	claim 3062 3097	it's really the most important part
+A27	Type2 T27 evaluation_rational
+T28	premise 3100 3155	All when the clostest they've been to military life are
+A28	Type3 T28 logos
+T29	claim 3156 3270	movies which are either terrible representations or great representations of *very specific parts* of the military
+A29	Type2 T29 evaluation_emotional
+T30	claim 3386 3487	Out of all the branches, it has the most in common with the civilian world in regards to its culture.
+A30	Type2 T30 interpretation
+T31	premise 3488 3520	It's only 60 something years old
+A31	Type3 T31 logos
+T32	claim 3569 3607	I think I still have a lot to research
+A32	Type2 T32 interpretation
+T33	claim 3612 3682	my main reason against the marines was that they are very homogeneous.
+A33	Type2 T33 interpretation
+T34	premise 3683 3799	From all the marines that I've met they all think and act the same way to the point where it freaks me out a little.
+A34	Type3 T34 logos_pathos
+T35	premise 3800 3856	They subscribe to the same pages on facebook and whatnot
+A35	Type3 T35 logos_pathos
+T36	claim 3859 3882	it's a little creep tbh
+A36	Type2 T36 evaluation_emotional
+T37	claim 3987 4017	The Army is a military service
+A37	Type2 T37 interpretation
+T38	claim 4020 4047	the Air Force is a business
+A38	Type2 T38 interpretation
+T39	claim 4050 4087	the Navy is a "denim and leather" bar
+A39	Type2 T39 interpretation
+T40	claim 4094 4116	the Marines are a cult
+A40	Type2 T40 interpretation
+R1	support Arg1:T14 Arg2:T13
+R2	partial_attack Arg1:T15 Arg2:T12
+R3	undercutter Arg1:T17 Arg2:T13
+R4	undercutter Arg1:T18 Arg2:T13
+R5	support Arg1:T19 Arg2:T18
+R6	support Arg1:T20 Arg2:T18
+R7	undercutter Arg1:T21 Arg2:T17
+R8	support Arg1:T22 Arg2:T21
+R9	undercutter Arg1:T23 Arg2:T16
+R10	support Arg1:T5 Arg2:T2
+R11	support Arg1:T6 Arg2:T2
+R12	undercutter Arg1:T24 Arg2:T16
+R13	support Arg1:T25 Arg2:T24
+R14	undercutter Arg1:T26 Arg2:T2
+R15	undercutter Arg1:T27 Arg2:T2
+R16	support Arg1:T28 Arg2:T26
+R17	undercutter Arg1:T29 Arg2:T2
+R18	rebuttal_attack Arg1:T30 Arg2:T18
+R19	partial_agreement Arg1:T32 Arg2:T21
+R20	partial_attack Arg1:T33 Arg2:T21
+R21	support Arg1:T34 Arg2:T33
+R22	support Arg1:T35 Arg2:T33
+R23	partial_attack Arg1:T36 Arg2:T21
+R24	partial_agreement Arg1:T37 Arg2:T32
+R25	partial_agreement Arg1:T38 Arg2:T32
+R26	partial_agreement Arg1:T39 Arg2:T32
+R27	partial_agreement Arg1:T40 Arg2:T32
+R28	support Arg1:T8 Arg2:T7
+R29	support Arg1:T9 Arg2:T7
+R30	undercutter Arg1:T13 Arg2:T12

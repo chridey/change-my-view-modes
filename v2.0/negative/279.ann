@@ -1,0 +1,35 @@
+T1	main_claim 0 86	CMV: Posting nude pictures online is caused by a need for attention and not empowering
+A1	Type1 T1 interpretation
+T2	claim 130 195	I am not saying that people are not allowed to do what they like.
+A2	Type2 T2 evaluation_rational
+T3	premise 196 303	I don't care if people post nudes, I'm just saying that this is how I feel when I see people posting nudes.
+A3	Type3 T3 logos
+T4	claim 304 382	Also, I don't mean to suggest that there is anything wrong with posting nudes.
+A4	Type2 T4 evaluation_emotional
+T5	claim 383 540	Lastly, I have nothing wrong with nudity and am in fact a fan of nudity, I just don't understand exposing yourself to the entirety of the internet on a whim.
+A5	Type2 T5 evaluation_rational
+T6	claim 542 681	Whenever I see anyone, male or female, posting nude pictures on the internet, I immediately assume that they are somehow seeking attention.
+A6	Type2 T6 interpretation
+T7	claim 682 849	Of course, that's the point, but I think that it must stem from some underlying need to get attention that they must either be lacking in some other part of their life
+A7	Type2 T7 interpretation
+T8	premise 855 936	simply need because that's their personality and that they feed off of attention.
+A8	Type3 T8 logos_pathos
+T9	premise 1319 1538	I don't understand how posting images of yourself naked, often with the understanding that others will masturbate to you (/r/gonewild for example) is not empowering but instead a form of whoring yourself out in a sense.
+A9	Type3 T9 logos_pathos
+T10	claim 2827 3066	it just means (to me) that that person is seeking attention that they areas not receiving in their interpersonal relationships that they already have and instead seeking that attention through a morally questionable practice with strangers
+A10	Type2 T10 evaluation_emotional
+T11	claim 3069 3138	To me anyway, this seems like that person has an underlying weakness.
+A11	Type2 T11 evaluation_emotional
+T12	claim 3382 3478	I suppose some people might be satisfied with constructing fantasy scenarios with their partner.
+A12	Type2 T12 interpretation
+T13	claim 3718 3790	To me, that would seem more of a preference than a strength or weakness.
+A13	Type2 T13 interpretation
+R1	support Arg1:T3 Arg2:T2
+R2	partial_agreement Arg1:T12 Arg2:T10
+R3	partial_attack Arg1:T13 Arg2:T10
+R4	support Arg1:T4 Arg2:T2
+R5	partial_agreement Arg1:T5 Arg2:T2
+R6	agreement Arg1:T7 Arg2:T6
+R7	support Arg1:T8 Arg2:T7
+R8	agreement Arg1:T10 Arg2:T1
+R9	agreement Arg1:T11 Arg2:T1

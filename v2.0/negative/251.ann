@@ -1,0 +1,44 @@
+T1	main_claim 0 58	CMV: Otherkin are delusional and should be treated as such
+A1	Type1 T1 evaluation_emotional
+T2	premise 60 91	The DSM-IV defines delusion as:
+A2	Type3 T2 logos
+T3	premise 92 319	A false belief based on incorrect inference about external reality that is firmly sustained despite what almost everyone else believes and despite what constitutes incontrovertible and obvious proof or evidence to the contrary.
+A3	Type3 T3 logos_pathos
+T4	claim 321 427	Otherkin, or animalkin, the belief that their soul is an animal or something nonhuman, fit this definition
+A4	Type2 T4 interpretation
+T5	claim 432 528	should be urged to seek psychiatric evaluation rather than joining communities of similar "kin."
+A5	Type2 T5 evaluation_emotional
+T6	premise 530 614	If someone walks around genuinely convinced they are Jesus, the person is delusional
+A6	Type3 T6 pathos
+T7	premise 619 743	others would want to see that person medicated or receiving some form of psychiatric treatment for that persons own benefit.
+A7	Type3 T7 pathos
+T8	premise 744 910	But out of fear of offending and looking like an insensitive bigot, no one would respond to an otherkin in the same way they would someone claiming ultimate divinity.
+A8	Type3 T8 logos_pathos
+T9	claim 912 1031	We should not encourage and accept otherkin behavior, but rather encourage seeking treatment for a delusional disorder.
+A9	Type2 T9 interpretation
+T10	premise 1038 1326	What about people who think an invisible man in the sky inpregnated a virgin 2,000 years ago with himself and can see and hear every person on earth, including their thoughts and judges whether or not you will burn for eternity even though he knows what you are going to do before you do?
+A10	Type3 T10 logos
+T11	claim 1328 1375	Don't they need locking up in padded cells too?
+A11	Type2 T11 evaluation_emotional
+T12	claim 1376 1545	The difference is that Christians believing a man came down and impregnated a woman does not have a significant affect on their day-to-day lives and social interactions.
+A12	Type2 T12 interpretation
+T13	premise 1546 1588	They don't live entirely in this delusion.
+A13	Type3 T13 logos
+T14	claim 1589 1600	Yes it does
+A14	Type2 T14 disagreement
+T15	claim 1603 1615	Yes they do!
+A15	Type2 T15 disagreement
+R1	support Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T1
+R3	rebuttal_attack Arg1:T12 Arg2:T11
+R4	support Arg1:T13 Arg2:T12
+R5	rebuttal_attack Arg1:T14 Arg2:T12
+R6	rebuttal_attack Arg1:T15 Arg2:T12
+R7	agreement Arg1:T4 Arg2:T1
+R8	disagreement Arg1:T5 Arg2:T1
+R9	support Arg1:T6 Arg2:T4
+R10	support Arg1:T7 Arg2:T5
+R11	support Arg1:T8 Arg2:T9
+R12	agreement Arg1:T9 Arg2:T1
+R13	support Arg1:T10 Arg2:T10
+R14	undercutter Arg1:T11 Arg2:T9

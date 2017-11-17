@@ -1,0 +1,44 @@
+T1	main_claim 0 136	CMV: Any given aspect of the legal system should be short and simple enough that an average high school graduate could fully memorize it
+A1	Type1 T1 evaluation_rational
+T2	claim 295 416	simple enough that almost anyone could, if they were struck by the impulse to make that unusually large commitment, do so
+A2	Type2 T2 evaluation_emotional
+T3	premise 419 476	Like, most people don't memorize all of Romeo and Juliet.
+A3	Type3 T3 logos_pathos
+T4	premise 477 539	But most people, I think, if they really wanted to, **could.**
+A4	Type3 T4 logos_pathos
+T5	premise 765 912	I'm 100% on board with trashing the US constitution and starting from scratch with new documents, so appealing to the constitution is not on topic.
+A5	Type3 T5 logos_pathos
+T6	premise 959 1030	I think the American legal system has gotten out of hand in complexity.
+A6	Type3 T6 pathos
+T7	claim 1031 1169	I think the law should be simple enough that close to anybody could reasonably know the mechanics of all the laws likely to apply to them.
+A7	Type2 T7 interpretation
+T8	claim 1171 1387	Ideally, it should be a relatively simple feat of memorization to learn the names of all the categories of law; the number of laws in each category; and the basic mechanics of the enforcement of that category's laws.
+A8	Type2 T8 evaluation_rational
+T9	premise 1389 1538	By categories, I mean things like: criminal law; the tax code; any given category of regulation by profession (medical, construction, IT, and so on).
+A9	Type3 T9 pathos
+T10	claim 1632 1763	it should be well within the average citizen's capacity to know all the laws likely to apply to them, word-for-word or close to it.
+A10	Type2 T10 evaluation_rational
+T11	premise 2678 2725	Many high school graduates are complete morons.
+A11	Type3 T11 pathos
+T12	claim 2726 2785	I legal system that they could understand would be archaic.
+A12	Type2 T12 evaluation_rational
+T13	premise 2788 2797	MEMORIZE.
+A13	Type3 T13 logos
+T14	premise 2798 2813	Not UNDERSTAND.
+A14	Type3 T14 logos
+T15	claim 2814 2899	The point is to limit the LENGTH OF THE DOCUMENT and the VAGUENESS OF ITS BOUNDARIES.
+A15	Type2 T15 evaluation_rational
+R1	agreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T2
+R3	support Arg1:T11 Arg2:T12
+R4	rebuttal_attack Arg1:T12 Arg2:T10
+R5	support Arg1:T13 Arg2:T15
+R6	support Arg1:T14 Arg2:T15
+R7	rebuttal_attack Arg1:T15 Arg2:T12
+R8	support Arg1:T4 Arg2:T2
+R9	support Arg1:T5 Arg2:T1
+R10	support Arg1:T6 Arg2:T1
+R11	agreement Arg1:T7 Arg2:T1
+R12	agreement Arg1:T8 Arg2:T1
+R13	support Arg1:T9 Arg2:T8
+R14	agreement Arg1:T10 Arg2:T1

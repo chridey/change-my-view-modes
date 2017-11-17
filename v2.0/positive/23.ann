@@ -1,0 +1,124 @@
+T1	main_claim 0 74	CMV: America is a better place because of the 55 million abortions its had
+A1	Type1 T1 evaluation_emotional
+T2	premise 76 133	There have been 55 million abortions in the US since 1973
+A2	Type3 T2 logos
+T3	premise 137 225	Something in the ballpark of 45% of women who have abortions have more than one abortion
+A3	Type3 T3 logos
+T4	claim 229 387	These people would have been raised by their incompetent parents to drain down society, increase crime rates, suck up resources, and generally screw things up
+A4	Type2 T4 evaluation_emotional
+T5	claim 391 541	Various ways to lower a resource negative population would have to be explored, if not because of this 55 million, then because of the next 55 million
+A5	Type2 T5 evaluation_emotional
+T6	claim 545 675	One possibility is that there would be wars waged to try to kill them all, perhaps even with other countries with similar problems
+A6	Type2 T6 interpretation
+T7	premise 678 859	Waging war to purposefully lower population, even with a country facing similar issues, would cost not only resources, but it would also cause political, cultural, and global issues
+A7	Type3 T7 logos
+T8	premise 863 921	America's innovation and education rankings would be lower
+A8	Type3 T8 logos
+T9	premise 924 1040	Every middle-class child in the country would receive a lower quality education if there were 55 million more around
+A9	Type3 T9 logos_pathos
+T10	claim 1388 1411	Its a complicated issue
+A10	Type2 T10 interpretation
+T11	premise 1414 1651	Without the extra population from abortions, has there been proportionately more immigration to fill labor needs, or are the millions of illegals from Mexico as likely to be so numerous even if there was a higher none-abortion population
+A11	Type3 T11 logos
+T12	premise 1654 1793	Doesn't immigration of a working class citizen on such a massive scale cause dissonance in a country more so than it does cultural exchange
+A12	Type3 T12 logos
+T13	claim 1809 1866	it would have been preferable to have our abortions alive
+A13	Type2 T13 evaluation_emotional
+T14	premise 1869 2055	Or are we talking about a population so huge that race and national identity are insignificant, that there is always going to be a huge amount of hostility between different demographics
+A14	Type3 T14 logos_pathos
+T15	claim 2162 2330	Perhaps the immigration of illegals is lowering the value of blue collar work and makes it harder for the borderline impoverished citizens to provide for their children
+A15	Type2 T15 interpretation
+T16	claim 2333 2407	Its debatable how many women are having abortions due to financial reasons
+A16	Type2 T16 interpretation
+T17	premise 2414 2445	surely its a significant number
+A17	Type3 T17 logos_pathos
+T18	premise 2451 2585	how many of these women wouldn't be having financial troubles if there wasn't competition from cheap illegal labor to keep wages lower
+A18	Type3 T18 logos_pathos
+T19	claim 2588 2673	This holds true even if illegal immigration is an overall plus to the countries value
+A19	Type2 T19 interpretation
+T20	claim 2688 2791	Mexicans are the supreme race, native Americans will go extinct through abortion and then out-breeding.
+A20	Type2 T20 evaluation_rational
+T21	claim 2845 2959	this discussion is abstract enough to go into some weird places and that it is necessary to have a stopping point*
+A21	Type2 T21 evaluation_rational
+T22	claim 2996 3144	Is a more highly populated and economically productive America today going to result in an America tomorrow that can handle over population problems
+A22	Type2 T22 interpretation
+T23	claim 3150 3254	would having a higher population from none-abortion just add on to the problems of a world going to shit
+A23	Type2 T23 interpretation
+T24	premise 3266 3373	An aborted fetus is likely to have been a less productive person than a never-considered-for-abortion fetus
+A24	Type3 T24 logos_pathos
+T25	claim 3380 3477	in an industrial society, its likely that these abortions would still be more productive than not
+A25	Type2 T25 evaluation_emotional
+T26	claim 3481 3616	Then there was the debate as to whether or not a larger population with less resources per person is more innovative than a smaller one
+A26	Type2 T26 interpretation
+T27	claim 3619 3771	This is to be considered if one is convinced that having a higher population coming from none-abortions results in a strain for resources in the country
+A27	Type2 T27 interpretation
+T28	claim 3774 3828	Modern technology like the internet must be considered
+A28	Type2 T28 evaluation_emotional
+T29	claim 4372 4579	The only way your argument holds is if an extremely high percentage of these potential kids would have been unproductive members of society (if they were criminals, sucked up resources, drained society, etc)
+A29	Type2 T29 interpretation
+T30	claim 4582 4702	Let's say an unproductive member of society is one who spends a large portion of their life in prison and/or unemployed.
+A30	Type2 T30 interpretation
+T31	claim 4703 4799	It might be true that 42% of the aborted babies would have been [below the federal poverty line]
+A31	Type2 T31 evaluation_rational
+T32	premise 4802 4858	http://www.guttmacher.org/media/nr/2010/05/04/index.html
+A32	Type3 T32 logos
+T33	premise 4871 4912	most poor children don't become prisoners
+A33	Type3 T33 logos
+T34	premise 4919 4992	most poor children don't become unemployed for the majority of their life
+A34	Type3 T34 logos
+T35	premise 5003 5093	most prisoners only spend a fraction of their lives in prison - most of their life is free
+A35	Type3 T35 logos
+T36	claim 5096 5257	This implies that the vast majority of time spent by the aborted babies would have been spent *not* in an unproductive manner (i.e. not imprisoned or unemployed)
+A36	Type2 T36 evaluation_rational
+T37	claim 5271 5337	the aborted babies would have contributed more than they sucked up
+A37	Type2 T37 interpretation
+T38	claim 5354 5472	your argument assumes that if those abortions never happened then we would have 55 million more people in the country.
+A38	Type2 T38 interpretation
+T39	claim 5473 5490	I think is flawed
+A39	Type2 T39 evaluation_rational
+T40	premise 5519 5594	many mothers who had abortions decided to have children later in their life
+A40	Type3 T40 logos
+T41	premise 5601 5703	if they had not aborted their earlier pregnancies, then many of them would not have made that decision
+A41	Type3 T41 logos_pathos
+T42	premise 5716 5814	had those abortions never occurred, then America's immigration policies would not have been so lax
+A42	Type3 T42 logos_pathos
+T43	premise 5818 6005	there would be less need for unskilled labor, leading to less unskilled immigrants in exchange for more unskilled natives (all of whom would be tax-paying citizens, unlike all immigrants)
+A43	Type3 T43 logos
+T44	premise 6020 6143	if abortions were not permitted, then people would be less likely to have unprotected sex out of fear of forced pregnancies
+A44	Type3 T44 logos_pathos
+T45	claim 6157 6236	if abortions never happened, we would have more people, but not 55 million more
+A45	Type2 T45 interpretation
+T46	claim 6253 6416	While there are many questions raised by this comment that may or may not make it valid, it is enough to make me doubt my views more strongly than before I read it
+A46	Type2 T46 evaluation_rational
+R1	support Arg1:T12 Arg2:T10
+R2	support Arg1:T13 Arg2:T10
+R3	support Arg1:T14 Arg2:T10
+R4	support Arg1:T15 Arg2:T10
+R5	support Arg1:T16 Arg2:T10
+R6	support Arg1:T19 Arg2:T10
+R7	support Arg1:T20 Arg2:T10
+R8	support Arg1:T4 Arg2:T1
+R9	undercutter Arg1:T29 Arg2:T4
+R10	undercutter Arg1:T30 Arg2:T4
+R11	undercutter Arg1:T31 Arg2:T4
+R12	support Arg1:T5 Arg2:T1
+R13	support Arg1:T32 Arg2:T31
+R14	support Arg1:T33 Arg2:T31
+R15	support Arg1:T34 Arg2:T31
+R16	support Arg1:T35 Arg2:T31
+R17	undercutter Arg1:T36 Arg2:T4
+R18	rebuttal_attack Arg1:T37 Arg2:T4
+R19	undercutter Arg1:T38 Arg2:T1
+R20	undercutter Arg1:T39 Arg2:T1
+R21	support Arg1:T40 Arg2:T39
+R22	support Arg1:T41 Arg2:T39
+R23	support Arg1:T6 Arg2:T1
+R24	support Arg1:T42 Arg2:T39
+R25	support Arg1:T43 Arg2:T39
+R26	support Arg1:T44 Arg2:T39
+R27	undercutter Arg1:T45 Arg2:T1
+R28	partial_agreement Arg1:T46 Arg2:T37
+R29	support Arg1:T7 Arg2:T1
+R30	support Arg1:T8 Arg2:T1
+R31	support Arg1:T9 Arg2:T1
+R32	support Arg1:T11 Arg2:T10

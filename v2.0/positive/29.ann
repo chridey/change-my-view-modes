@@ -1,0 +1,106 @@
+T1	main_claim 0 84	CMV:Patriotism is the belief that being born on one side of a line makes you better.
+A1	Type1 T1 interpretation
+T2	claim 86 149	American patriots have a general mentality against immigration.
+A2	Type2 T2 interpretation
+T3	premise 150 261	Saying these people shouldn’t be allowed to become part of the country, is the same as saying they are worse,
+A3	Type3 T3 logos_pathos
+T4	premise 262 314	because they were born on a different side of a line
+A4	Type3 T4 logos_pathos
+T5	premise 321 390	americans are better because of the side of the line they are born on
+A5	Type3 T5 logos_pathos
+T6	premise 393 501	This is prominent in many ads and political champagnes, namely the slogan “Creating jobs for americans”.
+A6	Type3 T6 logos
+T7	claim 502 543	I understand why politics use this slogan
+A7	Type2 T7 evaluation_rational
+T8	premise 546 603	because they are trying to get americans to vote for them
+A8	Type3 T8 logos
+T9	premise 610 675	this slogan is also prominent in ads made by private corporations
+A9	Type3 T9 logos
+T10	premise 678 779	As if creating jobs for americans is morally superior to creating jobs for people of other countries.
+A10	Type3 T10 logos_pathos
+T11	premise 780 898	The companies launching these ads may be trying to win in the american market, so they can sell more of their product,
+A11	Type3 T11 logos
+T12	premise 903 1015	the fact that this can increase sales shows that many americans hold the being born on one side of a line belief
+A12	Type3 T12 logos
+T13	claim 1018 1100	I am not blaming the politicians or corporations running ads running these slogans
+A13	Type2 T13 interpretation
+T14	premise 1103 1172	they are merely trying to win votes or make money from this mentality
+A14	Type3 T14 logos
+T15	claim 1179 1313	really it is the citizens that have the belief that they are better, because of the side of a line they are born on, that are at fault
+A15	Type2 T15 interpretation
+T16	claim 1316 1354	Patriotism is really just this belief.
+A16	Type2 T16 interpretation
+T17	claim 1356 1442	in this post you are confusing patriotism with its meaner, uglier cousin, nationalism.
+A17	Type2 T17 interpretation
+T18	premise 1443 1513	According to George Orwell, Nationalism is the "worst enemy of peace".
+A18	Type3 T18 ethos_logos_pathos
+T19	premise 1514 1630	According to him, nationalism is the thought of superiority of one's nation in direct comparison to foreign nations,
+A19	Type3 T19 ethos_logos
+T20	premise 1639 1737	patriotism is simply the love and admiration of one's own country, independent of other countries.
+A20	Type3 T20 logos
+T21	premise 1738 1887	Nationalism is the one that says "America is the best, most perfect country in the world, unlike those other horrible, dirty, evil foreign countries.
+A21	Type3 T21 logos_pathos
+T22	premise 1888 2023	Americans are the shining example of civil people in the world and everyone else is filthy and brutish and doesn't deserve entry here".
+A22	Type3 T22 pathos
+T23	premise 2024 2180	Patriotism simply says "America is a good country. its not the best, and it might be better or worse than other countries, but i still love and respect it".
+A23	Type3 T23 logos_pathos
+T24	claim 2249 2296	they do not have a belief that they are better.
+A24	Type2 T24 interpretation
+T25	premise 2297 2340	they have the belief that they are American
+A25	Type3 T25 logos
+T26	premise 2347 2422	would prefer their country over other countries, regardless of who's better
+A26	Type3 T26 logos
+T27	claim 2531 2574	not morally superior, but makes more sense.
+A27	Type2 T27 evaluation_rational
+T28	premise 2575 2641	even if countries are peaceful and cooperative towards each other,
+A28	Type3 T28 logos
+T29	premise 2642 2732	they are still in competition and no matter what, they are still separate and independent.
+A29	Type3 T29 logos
+T30	premise 2737 2795	in a competition, you don't provide for the opposite side.
+A30	Type3 T30 logos
+T31	premise 2796 2875	It is simply not our place or responsibility to carry other countries' burdens.
+A31	Type3 T31 logos_pathos
+T32	premise 2876 3000	And these slogans don't even denote any sense of superiority over a foreign country, just a preference for your own country.
+A32	Type3 T32 logos
+T33	premise 3001 3095	if an advertisement was "creating jobs for Americans and not for those dirty foreign leeches",
+A33	Type3 T33 pathos
+T34	premise 3096 3147	THAT would be claiming superiority over foreigners.
+A34	Type3 T34 logos
+T35	claim 3148 3218	And ultimately, patriotism means different things to different people.
+A35	Type2 T35 interpretation
+T36	premise 3219 3354	i’m sure for a great many people, it is patriotic to welcome and accept immigrants as equals under our ideals of equality and freedom
+A36	Type3 T36 logos_pathos
+R1	agreement Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T2
+R3	support Arg1:T11 Arg2:T7
+R4	support Arg1:T12 Arg2:T7
+R5	agreement Arg1:T13 Arg2:T7
+R6	support Arg1:T14 Arg2:T13
+R7	agreement Arg1:T15 Arg2:T13
+R8	agreement Arg1:T16 Arg2:T15
+R9	undercutter Arg1:T17 Arg2:T1
+R10	support Arg1:T18 Arg2:T17
+R11	support Arg1:T19 Arg2:T17
+R12	support Arg1:T20 Arg2:T17
+R13	support Arg1:T4 Arg2:T2
+R14	support Arg1:T21 Arg2:T17
+R15	support Arg1:T22 Arg2:T17
+R16	support Arg1:T23 Arg2:T17
+R17	rebuttal_attack Arg1:T24 Arg2:T15
+R18	support Arg1:T25 Arg2:T24
+R19	support Arg1:T26 Arg2:T24
+R20	undercutter Arg1:T27 Arg2:T10
+R21	support Arg1:T28 Arg2:T27
+R22	support Arg1:T29 Arg2:T27
+R23	support Arg1:T5 Arg2:T2
+R24	support Arg1:T31 Arg2:T27
+R25	support Arg1:T32 Arg2:T27
+R26	support Arg1:T33 Arg2:T27
+R27	support Arg1:T34 Arg2:T27
+R28	undercutter Arg1:T35 Arg2:T1
+R29	support Arg1:T36 Arg2:T35
+R30	support Arg1:T6 Arg2:T2
+R31	agreement Arg1:T7 Arg2:T1
+R32	support Arg1:T8 Arg2:T7
+R33	support Arg1:T9 Arg2:T7
+R34	support Arg1:T10 Arg2:T7

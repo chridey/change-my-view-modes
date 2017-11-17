@@ -1,0 +1,57 @@
+T1	main_claim 0 83	CMV: EMTs, SAR, firefighters, police, etc. should receive “military discounts”.
+A1	Type1 T1 evaluation_rational
+T2	premise 84 270	For those of you who don’t know, it’s common (at least in the US) for businesses, transit agencies, etc. to give small discounts to military veterans to thank them for their service.
+A2	Type3 T2 logos
+T3	claim 272 404	It seems that medical responders (even hospital staff, actually) and other emergency services do more good for society than soldiers
+A3	Type2 T3 evaluation_rational
+T4	claim 414 453	such discounts should be given to them.
+A4	Type2 T4 evaluation_rational
+T5	premise 455 621	As for the “They’re not risking their lives for our country.” argument, police officers do that too, and for citizens rather than the country and its interests.
+A5	Type3 T5 logos_pathos
+T6	premise 622 693	Some might argue that soldiers do the US a disservice rather than help,
+A6	Type3 T6 logos_pathos
+T7	premise 694 785	but that’s [usually] the fault of their leaders and therefore not relevant to the debate.
+A7	Type3 T7 logos_pathos
+T8	premise 883 971	[It looks like there’s even less reason behind it than I initially thought, actually.]
+A8	Type3 T8 logos
+T9	claim 1172 1304	EMS people are just as deserving of these discounts (and that many more people contribute enough to be placed in the same category),
+A9	Type2 T9 evaluation_rational
+T10	claim 1352 1399	these discounts shouldn’t be offered at all.]
+A10	Type2 T10 evaluation_rational
+T11	premise 1521 1541	What about teachers?
+A11	Type3 T11 logos
+T12	premise 1542 1553	Scientists?
+A12	Type3 T12 logos
+T13	premise 1554 1562	Doctors?
+A13	Type3 T13 logos
+T14	premise 1563 1571	Farmers?
+A14	Type3 T14 logos
+T15	claim 1572 1636	There are plenty of professions that do great things for society
+A15	Type2 T15 evaluation_rational
+T16	premise 1643 1699	people aren't going around thanking them with discounts.
+A16	Type3 T16 logos_pathos
+T17	premise 1702 1760	In that case, what makes soldiers more worthy than others?
+A17	Type3 T17 logos
+T18	claim 1763 1808	I don't believe I ever argued that they were.
+A18	Type2 T18 disagreement
+T19	claim 1809 1876	Your premise is that these professions "do more good" than soldiers
+A19	Type2 T19 evaluation_rational
+T20	premise 1883 1977	I'm asking why you don't want to extend the benefits to other critical pillars of our society.
+A20	Type3 T20 logos_pathos
+R1	support Arg1:T2 Arg2:T3
+R2	support Arg1:T12 Arg2:T15
+R3	support Arg1:T13 Arg2:T15
+R4	support Arg1:T14 Arg2:T15
+R5	undercutter Arg1:T15 Arg2:T4
+R6	support Arg1:T16 Arg2:T15
+R7	support Arg1:T17 Arg2:T4
+R8	rebuttal_attack Arg1:T18 Arg2:T17
+R9	rebuttal_attack Arg1:T19 Arg2:T17
+R10	support Arg1:T20 Arg2:T19
+R11	support Arg1:T5 Arg2:T3
+R12	support Arg1:T6 Arg2:T3
+R13	support Arg1:T7 Arg2:T3
+R14	support Arg1:T8 Arg2:T3
+R15	partial_agreement Arg1:T9 Arg2:T3
+R16	partial_attack Arg1:T10 Arg2:T3
+R17	support Arg1:T11 Arg2:T15

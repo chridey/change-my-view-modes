@@ -1,0 +1,83 @@
+T1	main_claim 0 81	CMV: People who cheat on their spouses can and should, in some cases, be forgiven
+A1	Type1 T1 evaluation_emotional
+T2	premise 83 220	There seems to be a commonly held belief that people who cheat on their SO/partner should be dropped immediately with no further contact.
+A2	Type3 T2 pathos
+T3	claim 221 307	I understand that physical/sexual conduct with another person can seem like a betrayal
+A3	Type2 T3 evaluation_rational
+T4	premise 314 438	in some cases, there are many worse things that can happen in a relationship, which couples seem to be able to work through.
+A4	Type3 T4 pathos
+T5	claim 440 568	There are a few assumptions underlying the belief that "sex with another person = relationship over" that I don't think hold up.
+A5	Type2 T5 evaluation_emotional
+T6	premise 572 706	**Sex is the most important part of a relationship,** and therefore, betraying it and that agreement mean the relationship should end.
+A6	Type3 T6 logos_pathos
+T7	claim 707 800	My belief: sex is a very important part of a relationship, but not *the* most important part.
+A7	Type2 T7 evaluation_rational
+T8	premise 889 966	**Nobody makes mistakes ever,** so when they do, the relationship should end.
+A8	Type3 T8 logos_pathos
+T9	claim 967 1103	My belief: obviously this isn't true, and a cornerstone of strong relationships is the ability to work through mistakes/issues together.
+A9	Type2 T9 evaluation_rational
+T10	premise 1107 1169	**Cheaters will always cheat again,** so better to end it now.
+A10	Type3 T10 logos_pathos
+T11	claim 1170 1209	my view: That may be true in some cases
+A11	Type2 T11 interpretation
+T12	premise 1216 1293	other than anecdotal evidence, I haven't seen anything to support this claim.
+A12	Type3 T12 logos_pathos
+T13	premise 1384 1454	**Cheaters cheat because of underlying issues with the relationship.**
+A13	Type3 T13 logos_pathos
+T14	claim 1455 1566	My belief: if that's true, there are a lot of possibilities - not just breaking up - that could fix the problem
+A14	Type2 T14 evaluation_rational
+T15	premise 1569 1607	such as ... talking about the problem.
+A15	Type3 T15 logos_pathos
+T16	premise 1608 1669	Maybe fixing that issue will resolve the motivation to cheat.
+A16	Type3 T16 logos_pathos
+T17	claim 1671 1891	Caveat: sometimes, cheating happens because there are parts of the relationship that are fundamentally broken and/or the relationship is too far gone/unsalvageable and/or this is the straw the broke the camel's back etc.
+A17	Type2 T17 evaluation_rational
+T18	claim 1893 1962	Cheating shouldn't always signify an immediate end to a relationship.
+A18	Type2 T18 evaluation_emotional
+T19	claim 1963 2026	In some cases, couples can and should choose to work through it
+A19	Type2 T19 interpretation
+T20	premise 2251 2295	Cheating isn't just a single mistake though.
+A20	Type3 T20 logos_pathos
+T21	premise 2296 2322	It is a series of mistakes
+A21	Type3 T21 logos
+T22	claim 2329 2512	each time the cheater made the "mistake," he or she was making *a conscious knowing decision to betray his or her spouse* several times in a row by the time physical cheating happens.
+A22	Type2 T22 evaluation_rational
+T23	claim 2514 2628	A "mistake" would be flirting back with the man or woman who flirts with you at a party while your spouse is away.
+A23	Type2 T23 evaluation_emotional
+T24	premise 2629 2813	But to reach cheating, you have to not just flirt back, but also start touching, start kissing, start hugging, get to a private location, start undressing, and *then* start having sex.
+A24	Type3 T24 logos
+T25	premise 2814 2920	That's no less than seven decisions one would have had to make before that person reaches sexual adultery.
+A25	Type3 T25 logos
+T26	premise 3099 3208	If a partner failed to start the dishwasher before going to bed 8 times, that doesn't mean automatic breakup.
+A26	Type3 T26 logos
+T27	claim 3210 3273	Yeah, these mistakes are more severe than a dishwasher starting
+A27	Type2 T27 evaluation_emotional
+T28	claim 3280 3336	the number of them isn't the question - the severity is.
+A28	Type2 T28 interpretation
+R1	support Arg1:T2 Arg2:T3
+R2	partial_disagreement Arg1:T3 Arg2:T1
+R3	support Arg1:T12 Arg2:T11
+R4	support Arg1:T13 Arg2:T5
+R5	agreement Arg1:T14 Arg2:T1
+R6	support Arg1:T15 Arg2:T14
+R7	support Arg1:T16 Arg2:T14
+R8	partial_disagreement Arg1:T17 Arg2:T14
+R9	agreement Arg1:T18 Arg2:T1
+R10	agreement Arg1:T19 Arg2:T1
+R11	support Arg1:T20 Arg2:T22
+R12	support Arg1:T21 Arg2:T22
+R13	support Arg1:T4 Arg2:T3
+R14	rebuttal_attack Arg1:T22 Arg2:T9
+R15	undercutter Arg1:T23 Arg2:T9
+R16	support Arg1:T24 Arg2:T23
+R17	support Arg1:T25 Arg2:T23
+R18	support Arg1:T26 Arg2:T28
+R19	partial_agreement Arg1:T27 Arg2:T22
+R20	partial_attack Arg1:T28 Arg2:T22
+R21	agreement Arg1:T5 Arg2:T1
+R22	support Arg1:T6 Arg2:T5
+R23	agreement Arg1:T7 Arg2:T1
+R24	support Arg1:T8 Arg2:T5
+R25	agreement Arg1:T9 Arg2:T1
+R26	support Arg1:T10 Arg2:T5
+R27	partial_disagreement Arg1:T11 Arg2:T1

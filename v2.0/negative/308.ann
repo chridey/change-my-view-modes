@@ -1,0 +1,95 @@
+T1	main_claim 0 90	CMV: People over the retirement age (62) should not be allowed to participate in politics.
+A1	Type1 T1 evaluation_rational
+T2	claim 158 205	I have always thought that that was a bad thing
+A2	Type2 T2 evaluation_rational
+T3	premise 237 416	if you are already old, then the long-term consequences of your decisions probably won't happen until after you are gone, but will be horrible for all of us that are still around,
+A3	Type3 T3 logos
+T4	premise 421 574	if you are already retired, then you wouldn't know what it is like for a working person today, especially someone struggling to live paycheck-to-paycheck
+A4	Type3 T4 logos
+T5	claim 585 620	old people shouldn't be in politics
+A5	Type2 T5 evaluation_rational
+T6	premise 629 682	the consequences of their decisions won't affect them
+A6	Type3 T6 logos
+T7	premise 689 746	they don't understand what the circumstances of today are
+A7	Type3 T7 logos
+T8	claim 750 809	Should young adults with trust funds not be allowed to vote
+A8	Type2 T8 evaluation_rational
+T9	premise 818 881	they don't know what it is like to live pay check to pay check?
+A9	Type3 T9 logos
+T10	claim 882 915	What about terminally ill adults?
+A10	Type2 T10 interpretation
+T11	premise 916 960	They wont experience long term consequences.
+A11	Type3 T11 logos_pathos
+T12	claim 961 987	What about the unemployed?
+A12	Type2 T12 interpretation
+T13	premise 988 1038	They don't pay income tax so they don't contribute
+A13	Type3 T13 logos
+T14	claim 1177 1296	I assume this is what you are really getting at, "can the old people just die so we can have some progress already!?!?"
+A14	Type2 T14 evaluation_emotional
+T15	claim 1373 1555	You are making the argument that because they aren't living through what younger generations are living through then they can't make informed voting decisions regarding those people.
+A15	Type2 T15 evaluation_rational
+T16	claim 2449 2479	This actually is a good point.
+A16	Type2 T16 agreement
+T17	claim 2480 2561	I would be inclined to say that terminally ill people shouldn't be elected either
+A17	Type2 T17 evaluation_rational
+T18	premise 2572 2627	they wouldn't have to deal with the consequences either
+A18	Type3 T18 logos
+T19	claim 2630 2697	In my view, I'd say that homeless people would be ideal for leaders
+A19	Type2 T19 evaluation_rational
+T20	premise 2706 2745	they know exactly what the problems are
+A20	Type3 T20 logos
+T21	claim 2892 2925	I still believe it is a good idea
+A21	Type2 T21 evaluation_rational
+T22	claim 3007 3106	I really don't think that the over 62 demographic has any concerns that effect (affect?) just them.
+A22	Type2 T22 evaluation_rational
+T23	claim 3241 3302	As you mentioned, it will directly impact them in the future.
+A23	Type2 T23 agreement
+T24	claim 3746 3880	I think you are putting too much stock in the idea that you can only empathize and understand a situation if you have lived through it
+A24	Type2 T24 evaluation_rational
+T25	claim 3883 3927	I grant you that there is merit to that idea
+A25	Type2 T25 agreement
+T26	premise 3948 4083	if someone is doesn't have their life together to the point where they are out on the streets, how can we expect them to lead anything?
+A26	Type3 T26 logos
+T27	premise 4084 4212	This is why politicians have advisors on staff, so that they can get "expert" opinions when they are under educated on an issue.
+A27	Type3 T27 logos
+T28	premise 4213 4352	America (and every other country in the world for that matter) has a vast array of problems ranging from social to economic to geopolitical
+A28	Type3 T28 logos
+T29	claim 4371 4432	its better to have someone who is an effective problem solver
+A29	Type2 T29 evaluation_rational
+T30	premise 4435 4725	While a homeless person might have some very valuable insight on dealing with life on the streets, that doesn't mean they would have strong ideas on how to actually go about solving that problem, not to mention on how to deal with America's complicated relationship with China (for example)
+A30	Type3 T30 logos
+T31	claim 4728 4780	This is why you see so many older people in politics
+A31	Type2 T31 interpretation
+T32	premise 4783 4936	it takes time to build the experience (and contacts/wealth/name recognition) to be able to handle the massive amount of varying problems politicians face
+A32	Type3 T32 logos
+R1	agreement Arg1:T2 Arg2:T1
+R2	undercutter Arg1:T12 Arg2:T1
+R3	support Arg1:T13 Arg2:T12
+R4	undercutter Arg1:T14 Arg2:T1
+R5	undercutter Arg1:T15 Arg2:T1
+R6	partial_agreement Arg1:T16 Arg2:T8
+R7	rebuttal_attack Arg1:T17 Arg2:T10
+R8	support Arg1:T18 Arg2:T17
+R9	partial_attack Arg1:T19 Arg2:T14
+R10	support Arg1:T20 Arg2:T19
+R11	agreement Arg1:T21 Arg2:T1
+R12	support Arg1:T3 Arg2:T2
+R13	undercutter Arg1:T22 Arg2:T15
+R14	undercutter Arg1:T23 Arg2:T15
+R15	undercutter Arg1:T24 Arg2:T19
+R16	undercutter Arg1:T25 Arg2:T19
+R17	support Arg1:T26 Arg2:T25
+R18	support Arg1:T27 Arg2:T29
+R19	support Arg1:T28 Arg2:T29
+R20	undercutter Arg1:T29 Arg2:T19
+R21	support Arg1:T30 Arg2:T29
+R22	undercutter Arg1:T31 Arg2:T1
+R23	support Arg1:T4 Arg2:T2
+R24	support Arg1:T32 Arg2:T31
+R25	agreement Arg1:T5 Arg2:T1
+R26	support Arg1:T6 Arg2:T5
+R27	support Arg1:T7 Arg2:T5
+R28	undercutter Arg1:T8 Arg2:T1
+R29	undercutter Arg1:T10 Arg2:T1
+R30	support Arg1:T9 Arg2:T8
+R31	support Arg1:T11 Arg2:T10

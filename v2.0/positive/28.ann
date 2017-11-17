@@ -1,0 +1,60 @@
+T1	main_claim 0 42	CMV The EGG came first before the chicken.
+A1	Type1 T1 interpretation
+T2	premise 44 134	According to the theory of evolution it makes more sense that the egg preceded the chicken
+A2	Type3 T2 logos
+T3	premise 137 199	Before the chicken there was a similar but different creature.
+A3	Type3 T3 logos
+T4	premise 200 216	Let's call it X.
+A4	Type3 T4 logos_pathos
+T5	premise 217 286	Its completely arbitrary when the X officially evolved into a chicken
+A5	Type3 T5 logos_pathos
+T6	premise 293 314	at some point it does
+A6	Type3 T6 logos_pathos
+T7	premise 317 364	An X, not a chicken lays the first chicken egg.
+A7	Type3 T7 logos
+T8	claim 365 434	The chicken egg comes before any creature considered a chicken exist.
+A8	Type2 T8 interpretation
+T9	claim 515 564	In terms of evolution, the question is erroneous.
+A9	Type2 T9 interpretation
+T10	claim 565 655	The ancestral organism from which the chicken is derived never gave bith to a chicken egg.
+A10	Type2 T10 interpretation
+T11	premise 656 733	There is no sharp line representing a single generation that became chickens.
+A11	Type3 T11 logos
+T12	premise 734 924	The newly defined chicken species (a species is hard enough to define as it is) is not recognized as a new species of chickens until you already have an independently reproducing population.
+A12	Type3 T12 logos
+T13	premise 932 980	there were ancestral species that produced eggs,
+A13	Type3 T13 logos
+T14	claim 981 1136	due to the gradual process that produces what we call new species and how we define them, there was never a single egg that gave rise to the first chicken.
+A14	Type2 T14 interpretation
+T15	premise 1144 1196	the dividing line between species is quite arbitrary
+A15	Type3 T15 logos
+T16	claim 1199 1261	if scientists had enough evidence a distinction would be made.
+A16	Type2 T16 interpretation
+T17	premise 1262 1328	Species are labeled by humans, but really we are all similar life.
+A17	Type3 T17 logos
+T18	claim 1329 1404	Where ever the distinction would be made, wouldn't that make the egg first?
+A18	Type2 T18 interpretation
+T19	claim 1406 1513	And if you define a species as an independently reproducing population I think both comes at the same time.
+A19	Type2 T19 interpretation
+T20	premise 1514 1643	An independently reproductive community of animals should only be defined as such once their chicken babies are layed or hatched.
+A20	Type3 T20 logos
+T21	claim 1644 1720	When that happens the egg becomes a chicken egg and the X becomes a chicken.
+A21	Type2 T21 interpretation
+R1	support Arg1:T2 Arg2:T8
+R2	support Arg1:T3 Arg2:T8
+R3	support Arg1:T12 Arg2:T10
+R4	support Arg1:T13 Arg2:T10
+R5	undercutter Arg1:T14 Arg2:T8
+R6	support Arg1:T15 Arg2:T16
+R7	rebuttal_attack Arg1:T16 Arg2:T14
+R8	support Arg1:T17 Arg2:T18
+R9	undercutter Arg1:T18 Arg2:T14
+R10	undercutter Arg1:T19 Arg2:T14
+R11	support Arg1:T20 Arg2:T19
+R12	support Arg1:T21 Arg2:T14
+R13	support Arg1:T4 Arg2:T8
+R14	support Arg1:T7 Arg2:T8
+R15	agreement Arg1:T8 Arg2:T1
+R16	undercutter Arg1:T9 Arg2:T1
+R17	undercutter Arg1:T10 Arg2:T8
+R18	support Arg1:T11 Arg2:T10

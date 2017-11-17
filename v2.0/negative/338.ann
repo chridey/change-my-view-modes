@@ -1,0 +1,79 @@
+T1	main_claim 0 95	CMV: If a child struggles to achieve in grade school it is virtually always the parents' fault.
+A1	Type1 T1 interpretation
+T2	premise 97 195	For the sake of this thread, we'll exclude children with medically diagnosed learning disabilities
+A2	Type3 T2 logos
+T3	claim 198 343	IMO the knowledge and resource base for teaching said children is probably proportionate to the percentage they make up of the overall population
+A3	Type2 T3 evaluation_rational
+T4	premise 347 461	With a healthy child, income, neighborhood, peers and teachers should be filtered through a responsible parent(s).
+A4	Type3 T4 logos
+T5	claim 462 559	A child who struggles in earnest or intentionally slacks off is a direct reflection of parenting.
+A5	Type2 T5 interpretation
+T6	claim 560 671	I am curious regarding potential for more public accountability held to parents who fail to direct their child.
+A6	Type2 T6 evaluation_rational
+T7	premise 674 825	maybe a monetary incentive derived from public tax coffers paid to parents of children who maintain a passing grade, to be withheld if child dips below
+A7	Type3 T7 logos_pathos
+T8	claim 830 925	I think parents are virtually 100% responsible for producing scholastically successful children
+A8	Type2 T8 interpretation
+T9	claim 934 976	I don't know man, raising a child is hard.
+A9	Type2 T9 evaluation_emotional
+T10	claim 977 1013	You are leaving out so many factors.
+A10	Type2 T10 disagreement
+T11	premise 1015 1050	-What about a one parent household?
+A11	Type3 T11 logos
+T12	premise 1052 1085	-What is the state of the school?
+A12	Type3 T12 logos
+T13	premise 1086 1139	Is this an unfunded, understaffed, inner city school?
+A13	Type3 T13 logos
+T14	premise 1141 1214	-What if the child is being bullied/abused without the parents knowledge?
+A14	Type3 T14 pathos
+T15	premise 1216 1294	-Does this child have other, non LD problems(i.e. emotional, gender-identity)?
+A15	Type3 T15 logos
+T16	claim 1297 1384	On top of all of that what about the child that does well despite a parents shittiness?
+A16	Type2 T16 evaluation_emotional
+T17	premise 1385 1443	Do those parents receive your proposed monetary incentive?
+A17	Type3 T17 logos
+T18	claim 1445 1522	I think the correlation is there, but to say 100% is too much of an absolute.
+A18	Type2 T18 evaluation_rational
+T19	premise 1564 1627	So what? Again, many children come from handicapped households.
+A19	Type3 T19 logos_pathos
+T20	claim 1628 1693	Why do some individuals call them excuses and others, motivation?
+A20	Type2 T20 interpretation
+T21	claim 1695 1757	Really most of your problems you presented can be counteracted
+A21	Type2 T21 interpretation
+T22	claim 1762 1830	even turned for benefit with a proper level of parental involvement.
+A22	Type2 T22 evaluation_rational
+T23	premise 1831 1905	I subscribe to the idea that there is no such thing as too much parenting.
+A23	Type3 T23 logos_pathos
+T24	premise 1906 2033	Of course, with more involvement comes more responsibility to surgically manage involvement, emotions, rewards and punishments.
+A24	Type3 T24 logos
+T25	claim 2035 2117	The last point about a shitty parent with a good student is, at first, a quandary.
+A25	Type2 T25 interpretation
+T26	premise 2118 2204	After building in requirements for parents to attend a weekly P/T meeting and/or more,
+A26	Type3 T26 logos
+T27	premise 2205 2273	I think we could minimize the amount of shitty parents getting paid,
+A27	Type3 T27 pathos
+T28	premise 2278 2356	instead deposit that money into a trust for the student, paid upon graduation.
+A28	Type3 T28 logos
+R1	support Arg1:T2 Arg2:T1
+R2	support Arg1:T12 Arg2:T10
+R3	support Arg1:T13 Arg2:T10
+R4	support Arg1:T14 Arg2:T10
+R5	support Arg1:T15 Arg2:T10
+R6	undercutter Arg1:T16 Arg2:T8
+R7	support Arg1:T17 Arg2:T16
+R8	undercutter Arg1:T18 Arg2:T8
+R9	support Arg1:T19 Arg2:T20
+R10	rebuttal_attack Arg1:T20 Arg2:T10
+R11	rebuttal_attack Arg1:T21 Arg2:T10
+R12	support Arg1:T4 Arg2:T1
+R13	rebuttal_attack Arg1:T22 Arg2:T10
+R14	support Arg1:T23 Arg2:T22
+R15	support Arg1:T24 Arg2:T22
+R16	partial_agreement Arg1:T25 Arg2:T16
+R17	support Arg1:T26 Arg2:T25
+R18	support Arg1:T27 Arg2:T25
+R19	support Arg1:T28 Arg2:T25
+R20	support Arg1:T7 Arg2:T6
+R21	undercutter Arg1:T9 Arg2:T1
+R22	undercutter Arg1:T10 Arg2:T1
+R23	support Arg1:T11 Arg2:T10

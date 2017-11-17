@@ -1,0 +1,60 @@
+T1	main_claim 0 64	CMV: Humans are going to die out because of an economic collapse
+A1	Type1 T1 interpretation
+T2	claim 66 140	Bill Gade presents the argument better than I do so I will just quote him.
+A2	Type2 T2 evaluation_rational
+T3	premise 1074 1128	There is also a Youtube video to go with this opinion.
+A3	Type3 T3 logos_pathos
+T4	premise 1129 1172	https://www.youtube.com/watch?v=rlQrYCacrKo
+A4	Type3 T4 logos_pathos
+T5	claim 1174 1319	I do realize that this is a very unhealthy idea to have whether or not that the idea is true or not, I just have not been able to beat it myself.
+A5	Type2 T5 evaluation_emotional
+T6	claim 1321 1358	I do disagree with Gade a little bit.
+A6	Type2 T6 disagreement
+T7	claim 1359 1397	I don't think it would kill everybody,
+A7	Type2 T7 interpretation
+T8	premise 1402 1602	the some few people that still know how to hunt and gather would probably survive as well people who were rich enough to have access to a lot of resources to start out with before the economy crashes.
+A8	Type3 T8 logos_pathos
+T9	claim 1603 1667	I probably believe this because I listen to Alex Jones too much.
+A9	Type2 T9 interpretation
+T10	claim 1763 1885	Almost everything regarding large scale financial collapses are /r/badeconomics territory (and routinely do show up there)
+A10	Type2 T10 evaluation_rational
+T11	claim 1981 2021	This is almost just a semantic argument.
+A11	Type2 T11 evaluation_rational
+T12	premise 2090 2179	Agriculture, manufacturing, and services have been getting better literally for milennia.
+A12	Type3 T12 logos
+T13	claim 2180 2276	There's no reason in particular for it to be *crossing the line* soon, especially within months.
+A13	Type2 T13 interpretation
+T14	claim 2370 2452	This is just an assertion, not even a theoretical argument provided to back it up.
+A14	Type2 T14 interpretation
+T15	claim 2754 2786	Unemployment's relatively low...
+A15	Type2 T15 interpretation
+T16	premise 2929 3001	people have predicted economic collapses literally since economies began
+A16	Type3 T16 logos
+T17	claim 3004 3065	There is no reason in particular to believe one is impending.
+A17	Type2 T17 interpretation
+T18	claim 3066 3124	All of this is /r/conspiratard mixed with /r/badeconomics.
+A18	Type2 T18 evaluation_emotional
+T19	claim 3127 3156	You make a really good point.
+A19	Type2 T19 agreement
+T20	claim 3157 3236	It doesn't make sense for people to just agree to walk away and starve to death
+A20	Type2 T20 evaluation_emotional
+T21	premise 3239 3313	At that point it would just make more sense to be professional privateers.
+A21	Type3 T21 logos
+R1	support Arg1:T3 Arg2:T2
+R2	support Arg1:T16 Arg2:T17
+R3	disagreement Arg1:T17 Arg2:T1
+R4	undercutter Arg1:T18 Arg2:T1
+R5	agreement Arg1:T19 Arg2:T17
+R6	agreement Arg1:T20 Arg2:T13
+R7	support Arg1:T21 Arg2:T20
+R8	support Arg1:T4 Arg2:T2
+R9	support Arg1:T9 Arg2:T8
+R10	partial_attack Arg1:T6 Arg2:T2
+R11	rebuttal_attack Arg1:T7 Arg2:T2
+R12	rebuttal_attack Arg1:T8 Arg2:T2
+R13	undercutter Arg1:T10 Arg2:T1
+R14	undercutter Arg1:T11 Arg2:T2
+R15	support Arg1:T12 Arg2:T13
+R16	rebuttal_attack Arg1:T13 Arg2:T2
+R17	undercutter Arg1:T14 Arg2:T2
+R18	rebuttal_attack Arg1:T15 Arg2:T2

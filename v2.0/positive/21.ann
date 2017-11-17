@@ -1,0 +1,117 @@
+T1	main_claim 0 108	CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...
+A1	Type1 T1 interpretation
+T2	claim 110 136	The options are as follows
+A2	Type2 T2 evaluation_rational
+T3	claim 140 204	1. You don't agree with what is going on and stop supporting it.
+A3	Type2 T3 evaluation_rational
+T4	claim 206 309	2. You don't care about animals, so you're content with paying for them to be abused for your pleasure.
+A4	Type2 T4 evaluation_emotional
+T5	claim 311 423	3. You don't agree with what is going on, but try to put it to the back of your mind and continue to support it.
+A5	Type2 T5 interpretation
+T6	premise 436 562	I used to follow 'option number 3', but recently started 'option number 1' in an attempt to line my actions up with my values.
+A6	Type3 T6 logos_pathos
+T7	claim 563 635	I suspect this way of looking at it is still somewhat simplistic however
+A7	Type2 T7 evaluation_emotional
+T8	claim 671 799	I think restricting this concept to the meat industry limits us to a "vegetarian/vegan lifestyle vs. carnivore lifestyle" debate
+A8	Type2 T8 interpretation
+T9	claim 807 844	it's actually a lot deeper than that.
+A9	Type2 T9 evaluation_rational
+T10	premise 846 974	I know, for instance, that components in my smartphone and laptop are made of minerals that were mined by slave labor in Africa.
+A10	Type3 T10 logos_pathos
+T11	premise 975 1114	I know that the chocolates I love to eat contain, in all likelihood, cacao that was farmed by people living in truly deplorable conditions.
+A11	Type3 T11 logos_pathos
+T12	premise 1115 1224	I know that the medication I take was almost certainly tested on research animals who lived short, sad lives.
+A12	Type3 T12 logos_pathos
+T13	premise 1225 1365	I know that there's a good chance that the shirt I'm wearing was produced by underpaid, overworked labors who might have even been children.
+A13	Type3 T13 logos_pathos
+T14	premise 1366 1535	I know that the salad I'm planning to eat for lunch contains ingredients that were probably farmed in environmentally destructive ways that contribute to climate change.
+A14	Type3 T14 logos_pathos
+T15	premise 1536 1667	I know that my leftover Christmas cookies, made by my vegetarian mother, still contain eggs that probably came from a battery farm.
+A15	Type3 T15 logos_pathos
+T16	premise 1668 1800	I know that by purchasing my knockoff Keurig coffee from Wal-Mart, I'm supporting a corporation that exploits everything it touches.
+A16	Type3 T16 logos_pathos
+T17	claim 2058 2160	A completely ethical lifestyle is probably not possible without completely rejecting the modern world.
+A17	Type2 T17 interpretation
+T18	claim 2233 2313	I have to accept that I will *never* be able to fully live within my own values.
+A18	Type2 T18 interpretation
+T19	claim 2314 2343	I see what you're getting at.
+A19	Type2 T19 agreement
+T20	premise 2344 2448	It's easier to forget and ignore because there's too much injustice in the world if you tally it all up.
+A20	Type3 T20 pathos
+T21	claim 2449 2532	I'd still consider what you described as being the third option on my original post
+A21	Type2 T21 agreement
+T22	claim 2539 2596	it's a very detailed version of it that explains it well.
+A22	Type2 T22 agreement
+T23	premise 2752 2870	This would also be my reasoning if I were vegan but still wouldn't take a flight out to help build a school in Africa.
+A23	Type3 T23 logos_pathos
+T24	premise 2871 2951	It would also make sense if I was building a school in African but wasn't vegan.
+A24	Type3 T24 ethos_logos
+T25	claim 2952 3065	If I was doing absolutely nothing to aid any of the values I believe in, then it wouldn't make any sense however.
+A25	Type2 T25 interpretation
+T26	claim 3068 3072	Yeah
+A26	Type2 T26 agreement
+T27	claim 3075 3174	I think there's just a limited number of things that people are capable of caring about at one time
+A27	Type2 T27 interpretation
+T28	claim 3181 3257	issues that are of personal relevance are always going to carry more weight.
+A28	Type2 T28 evaluation_rational
+T29	premise 3258 3457	So while someone might take Option 1 on a personally significant issue that has a lot of meaning to them, the limitations of the human mind force them to take Option 3 on a whole lot of other issues.
+A29	Type3 T29 logos
+T30	claim 3458 3566	So somebody who takes Option 3 on a particular issue may not be making a true choice to *ignore* that issue.
+A30	Type2 T30 evaluation_rational
+T31	claim 3567 3616	They're just prioritizing their mental resources.
+A31	Type2 T31 interpretation
+T32	premise 3617 3694	Without prioritizing those resources, there's a risk of "compassion fatigue,"
+A32	Type3 T32 logos
+T33	premise 3695 3923	which you see frequently among people in empathy-intensive occupations (especially medicine, education, and other fields where issues outside the individual's control tend to produce strong feelings of frustration and futility).
+A33	Type3 T33 logos_pathos
+T34	premise 3925 3968	I do care about the welfare of food animals
+A34	Type3 T34 pathos
+T35	premise 3975 4082	I do think that there are ways to produce meat in ways that are at least more humane if not more "ethical."
+A35	Type3 T35 logos_pathos
+T36	premise 4083 4130	I support these efforts when they're available.
+A36	Type3 T36 logos_pathos
+T37	premise 4131 4390	But I also think that the welfare of food animals is part of a much larger constellation of interrelated "food production issues" that involve everything from environmental impacts to worker safety to the corporatization of agriculture to government subsidies
+A37	Type3 T37 logos
+T38	premise 4402 4540	without some major changes to those other "food production issues" then there probably won't be significant improvement in animal welfare.
+A38	Type3 T38 logos
+T39	claim 4557 4657	it's good that people have different Option 1 priorities to attack the problems from multiple sides.
+A39	Type2 T39 evaluation_rational
+T40	claim 4671 4707	whilst my original view still stands
+A40	Type2 T40 interpretation
+T41	claim 4710 4838	you've altered it in such a way that I now feel a little able to understand others better and in a less scornful light at least!
+A41	Type2 T41 evaluation_rational
+R1	support Arg1:T12 Arg2:T9
+R2	support Arg1:T13 Arg2:T9
+R3	support Arg1:T14 Arg2:T9
+R4	support Arg1:T15 Arg2:T9
+R5	support Arg1:T16 Arg2:T9
+R6	undercutter Arg1:T17 Arg2:T1
+R7	undercutter Arg1:T18 Arg2:T3
+R8	partial_agreement Arg1:T19 Arg2:T17
+R9	support Arg1:T20 Arg2:T19
+R10	support Arg1:T21 Arg2:T19
+R11	partial_attack Arg1:T22 Arg2:T17
+R12	support Arg1:T23 Arg2:T25
+R13	support Arg1:T24 Arg2:T25
+R14	undercutter Arg1:T25 Arg2:T18
+R15	agreement Arg1:T26 Arg2:T25
+R16	agreement Arg1:T27 Arg2:T25
+R17	agreement Arg1:T28 Arg2:T25
+R18	support Arg1:T29 Arg2:T28
+R19	undercutter Arg1:T30 Arg2:T5
+R20	undercutter Arg1:T31 Arg2:T5
+R21	support Arg1:T32 Arg2:T31
+R22	support Arg1:T33 Arg2:T31
+R23	support Arg1:T34 Arg2:T39
+R24	support Arg1:T35 Arg2:T39
+R25	support Arg1:T36 Arg2:T39
+R26	support Arg1:T37 Arg2:T39
+R27	support Arg1:T38 Arg2:T39
+R28	undercutter Arg1:T39 Arg2:T5
+R29	agreement Arg1:T40 Arg2:T1
+R30	partial_agreement Arg1:T41 Arg2:T30
+R31	support Arg1:T6 Arg2:T2
+R32	undercutter Arg1:T8 Arg2:T1
+R33	undercutter Arg1:T9 Arg2:T1
+R34	support Arg1:T10 Arg2:T9
+R35	support Arg1:T11 Arg2:T9

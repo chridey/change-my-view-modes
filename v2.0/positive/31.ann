@@ -1,0 +1,203 @@
+T1	main_claim 0 78	CMV: I believe that regularly browsing 4chan will make you into a worse person
+A1	Type1 T1 evaluation_emotional
+T2	premise 80 221	Because of the anonymity on 4chan people are more prone to not think through, care about what they post and are quicker to throw out insults.
+A2	Type3 T2 logos_pathos
+T3	premise 222 269	They will care about how people respond to them
+A3	Type3 T3 logos_pathos
+T4	premise 276 417	since it's largely negative they will stoop down to the same level rather than go to any high ground since they are not linked to an identity
+A4	Type3 T4 logos_pathos
+T5	premise 421 494	Surrounding the entire site there's a general pessimistic group mentality
+A5	Type3 T5 logos_pathos
+T6	premise 501 607	people are subconsciously encouraged to take part of it in order to feel like they are a part of the group
+A6	Type3 T6 logos_pathos
+T7	premise 610 723	Some boards will have specific groups of people who they are encouraged to hate, women, SJWs, casual gamers, Jews
+A7	Type3 T7 pathos
+T8	premise 730 857	any reasonable argument against a poster can be made redundant by saying or thinking they are a part of these agendas or groups
+A8	Type3 T8 pathos
+T9	premise 861 955	On boards you will find echo chambers where people are more prone to believe rumors than proof
+A9	Type3 T9 logos_pathos
+T10	premise 958 1005	Things about e-celebrities will start as rumors
+A10	Type3 T10 pathos
+T11	premise 1008 1123	ideas about them or things will get taken out of context and it will be posted continually until it's taken as fact
+A11	Type3 T11 pathos
+T12	premise 1126 1298	It will reach conspiracy theory levels of "proof" where people will simply believe it because they feel as if they are a part of a group-effort that's uncovering something.
+A12	Type3 T12 logos
+T13	claim 1300 1421	Surrounding yourself with this will in general make you into a more pessimistic, negative and possibly depressive person.
+A13	Type2 T13 evaluation_emotional
+T14	claim 1423 1498	I'm not saying that every person who browses 4chan is depressed or negative
+A14	Type2 T14 interpretation
+T15	claim 1505 1575	that the majority of them are affected negatively by browsing the site
+A15	Type2 T15 interpretation
+T16	claim 1579 1720	Thinking that you are unaffected by this doesn't necessarily mean you are, but instead means that you are unaware of how much it affects you.
+A16	Type2 T16 evaluation_rational
+T17	claim 2306 2345	To be fair that's not specific to 4chan
+A17	Type2 T17 evaluation_rational
+T18	premise 2350 2389	that phenomenon has been around forever
+A18	Type3 T18 logos
+T19	premise 2390 2448	(Tumblr's community is heavily guilty of this same thing).
+A19	Type3 T19 logos
+T20	claim 2449 2493	It's also a product of individual stupidity,
+A20	Type2 T20 interpretation
+T21	premise 2494 2618	if your believing something random people are telling you without it being backed by proof and your own individual research,
+A21	Type3 T21 logos
+T22	premise 2619 2652	well that's your own gullibility.
+A22	Type3 T22 pathos
+T23	claim 2655 2727	As for 4chan making people into a worse person, I would strong disagree.
+A23	Type2 T23 disagreement
+T24	premise 2728 2793	I'd say more it just lets people be free, free to test the waters
+A24	Type3 T24 pathos
+T25	premise 2798 2868	do whatever without your idea's, jokes, concepts tied to any identity.
+A25	Type3 T25 logos
+T26	premise 2869 2919	Every thought stands of its own individual merits.
+A26	Type3 T26 logos
+T27	claim 2960 3025	the only way I would ever describe it would be *chaotic neutral*.
+A27	Type2 T27 evaluation_rational
+T28	premise 3026 3097	One day groups from or within it might organize some raid for the lolz,
+A28	Type3 T28 logos
+T29	premise 3098 3205	[another day they're saving a kitten,](http://www.inquisitr.com/18170/4chan-b-goes-after-cat-abusers-wins/)
+A29	Type3 T29 logos_pathos
+T30	premise 3206 3361	[finding the girl who threw a puppy in a river,](http://www.techhive.com/article/204615/Video_of_Puppies_Thrown_into_River_Spark_Outcry_and_Sleuthing.html)
+A30	Type3 T30 logos_pathos
+T31	premise 3362 3472	[saving a girl from bullying and suicide,](http://www.dailydot.com/news/anonymous-kylie-suicide-trolls-bully/)
+A31	Type3 T31 logos_pathos
+T32	premise 3473 3533	[paying some poor dudes rent,](http://i.imgur.com/kdYBh.jpg)
+A32	Type3 T32 logos_pathos
+T33	premise 3534 3636	[organizing against the harmful practices of a cult,](https://en.wikipedia.org/wiki/Project_Chanology)
+A33	Type3 T33 logos_pathos
+T34	premise 3637 3755	[bringing more exposure to a rape victim,](http://www.dailydot.com/news/steubenville-rape-confession-video-anonymous/)
+A34	Type3 T34 logos_pathos
+T35	premise 3756 3882	[give some random vet the best birthday ever,](https://gigaom.com/2010/09/02/4chan-decides-to-do-something-nice-for-a-change/)
+A35	Type3 T35 logos_pathos
+T36	premise 3883 3954	[helping some guy buy food for his dogs,](http://i.imgur.com/tKwU3.jpg)
+A36	Type3 T36 logos_pathos
+T37	premise 3955 4025	[raising 5grand for a womens charity,](http://i.imgur.com/yGwmwN4.png)
+A37	Type3 T37 logos_pathos
+T38	premise 4026 4120	[raising 5grand for suicide prevention](https://www.crowdrise.com/nshgamers/fundraiser/loping)
+A38	Type3 T38 logos_pathos
+T39	premise 4122 4228	I've honestly seen more positive activism stem from the anonymity culture than I have from any other site.
+A39	Type3 T39 ethos
+T40	claim 4230 4314	The problem is a lot of people only understand the surface of chan boards like 4chan
+A40	Type2 T40 evaluation_rational
+T41	premise 4319 4412	equate the anonymity as some cheap way for them to be hateful under the guise of free speech,
+A41	Type3 T41 logos_pathos
+T42	premise 4417 4464	that couldn't really be further from the truth.
+A42	Type3 T42 logos
+T43	claim 4467 4547	To understand why the board encourages to *hate* is to understand who goes there
+A43	Type2 T43 interpretation
+T44	claim 4552 4587	it's obviously the social outcasts.
+A44	Type2 T44 evaluation_emotional
+T45	premise 4588 4702	So why would a bunch of social outcasts who get made fun of encourage hate and let such raw emotion reign supreme?
+A45	Type3 T45 logos_pathos
+T46	claim 4703 4732	Quite honestly it dilutes it.
+A46	Type2 T46 evaluation_rational
+T47	premise 4733 4836	Getting called a *faggot* on 4chan constantly helps you to brush it off when you hear it on the street,
+A47	Type3 T47 logos_pathos
+T48	premise 4841 4984	the nice thing about the anonymity of the 4chan board is essentially you have a new identity with each post letting you brush it off even more.
+A48	Type3 T48 logos
+T49	premise 4985 5161	That last post you made someone made fun of you, well cool no one knows that the person who just made the post people are laughing at was the same post they were making fun of.
+A49	Type3 T49 pathos
+T50	premise 5162 5263	You're no longer the *faggot* you're the *comedian* until you make a new post and you're the *troll*.
+A50	Type3 T50 pathos
+T51	claim 5265 5361	4chan style sites don't create pessimistic, negative, and depressed people it just attracts them
+A51	Type2 T51 evaluation_emotional
+T52	premise 5366 5472	quite honestly it's nice to be able to show raw emotion and not have it permanently tied to your identity.
+A52	Type3 T52 pathos
+T53	premise 5473 5576	You never have to worry about people being like "oh that dude, that dude always has problems -ignored-"
+A53	Type3 T53 logos_pathos
+T54	premise 5578 5676	I've used 4chan a bunch of times to let out my problems about being depressed, suicidal and raped.
+A54	Type3 T54 ethos_logos_pathos
+T55	claim 5677 5720	It's wonderful because I can let it all out
+A55	Type2 T55 evaluation_emotional
+T56	premise 5725 5842	continue to be a member of that community without the community permanently tying what happened to me to my identity.
+A56	Type3 T56 ethos_pathos
+T57	claim 5843 5909	If I fully discussed my rape irl i was always going to feel broken
+A57	Type2 T57 evaluation_emotional
+T58	premise 5918 6027	everyone I talked to would then associate it with my identity and it would be something I would never escape.
+A58	Type3 T58 ethos_pathos
+T59	premise 6028 6155	Even on reddit i was originally hesitant to be open about it because of the username system would tie it to my reddit identity.
+A59	Type3 T59 ethos_logos_pathos
+T60	premise 6156 6239	But on 4chan I could discuss it all i wanted and it was a massive emotional relief.
+A60	Type3 T60 ethos_logos_pathos
+T61	premise 6240 6365	In real life you don't know if your emotional troubles are going to annoy or be a burden to whoever is kind enough to listen,
+A61	Type3 T61 logos_pathos
+T62	premise 6434 6647	on 4chan style board, if no one cares they're not going to respond and if they feel your problems are stupid they grant you the right to start over immediately and don't force anyone to carry their past with them.
+A62	Type3 T62 pathos
+T63	claim 6649 6831	It's the mindset i got from 4chan that helps me and others move on from our problems, that we shouldn't drag them around to each *new thing* we do but instead move on and start over.
+A63	Type2 T63 interpretation
+T64	claim 6833 6888	It's this aspect that attracts the people you describe,
+A64	Type2 T64 interpretation
+T65	premise 6889 7038	the site however doesn't create these people it merely attracts them and for many like myself, helps them get out of that mindset in their real life.
+A65	Type3 T65 logos
+T66	premise 7040 7082	I've been browsing that site for 10 years,
+A66	Type3 T66 ethos_logos
+T67	premise 7087 7176	arguably i'm more optimistic and positive because i've been exposed to that raw humanity.
+A67	Type3 T67 ethos_logos_pathos
+T68	claim 7436 7559	As it seems you hold the belief that even if people like myself don't feel they are being effected by this site negatively,
+A68	Type2 T68 evaluation_emotional
+T69	claim 7560 7647	you are insisting they are and are just ignorant to their own emotions and experiences.
+A69	Type2 T69 evaluation_emotional
+R1	support Arg1:T2 Arg2:T1
+R2	support Arg1:T3 Arg2:T1
+R3	support Arg1:T12 Arg2:T1
+R4	agreement Arg1:T13 Arg2:T1
+R5	agreement Arg1:T14 Arg2:T1
+R6	agreement Arg1:T15 Arg2:T1
+R7	agreement Arg1:T16 Arg2:T1
+R8	undercutter Arg1:T17 Arg2:T9
+R9	support Arg1:T18 Arg2:T17
+R10	support Arg1:T19 Arg2:T17
+R11	undercutter Arg1:T20 Arg2:T9
+R12	support Arg1:T21 Arg2:T20
+R13	support Arg1:T22 Arg2:T20
+R14	disagreement Arg1:T23 Arg2:T1
+R15	support Arg1:T24 Arg2:T23
+R16	support Arg1:T25 Arg2:T23
+R17	support Arg1:T26 Arg2:T23
+R18	disagreement Arg1:T27 Arg2:T1
+R19	support Arg1:T28 Arg2:T27
+R20	support Arg1:T30 Arg2:T27
+R21	support Arg1:T31 Arg2:T27
+R22	support Arg1:T5 Arg2:T1
+R23	support Arg1:T32 Arg2:T27
+R24	support Arg1:T33 Arg2:T27
+R25	support Arg1:T34 Arg2:T27
+R26	support Arg1:T35 Arg2:T27
+R27	support Arg1:T36 Arg2:T27
+R28	support Arg1:T37 Arg2:T27
+R29	support Arg1:T38 Arg2:T27
+R30	support Arg1:T39 Arg2:T27
+R31	partial_agreement Arg1:T40 Arg2:T1
+R32	support Arg1:T41 Arg2:T40
+R33	support Arg1:T6 Arg2:T1
+R34	support Arg1:T42 Arg2:T40
+R35	undercutter Arg1:T43 Arg2:T13
+R36	support Arg1:T45 Arg2:T43
+R37	undercutter Arg1:T46 Arg2:T13
+R38	support Arg1:T47 Arg2:T46
+R39	support Arg1:T48 Arg2:T46
+R40	support Arg1:T49 Arg2:T46
+R41	support Arg1:T50 Arg2:T46
+R42	disagreement Arg1:T51 Arg2:T13
+R43	support Arg1:T7 Arg2:T1
+R44	support Arg1:T52 Arg2:T51
+R45	support Arg1:T53 Arg2:T51
+R46	support Arg1:T54 Arg2:T55
+R47	undercutter Arg1:T55 Arg2:T13
+R48	support Arg1:T56 Arg2:T55
+R49	undercutter Arg1:T57 Arg2:T13
+R50	support Arg1:T58 Arg2:T57
+R51	support Arg1:T59 Arg2:T57
+R52	support Arg1:T60 Arg2:T57
+R53	support Arg1:T61 Arg2:T57
+R54	support Arg1:T8 Arg2:T1
+R55	support Arg1:T62 Arg2:T57
+R56	undercutter Arg1:T63 Arg2:T13
+R57	disagreement Arg1:T64 Arg2:T13
+R58	support Arg1:T65 Arg2:T64
+R59	support Arg1:T66 Arg2:T64
+R60	support Arg1:T67 Arg2:T64
+R61	undercutter Arg1:T68 Arg2:T16
+R62	undercutter Arg1:T69 Arg2:T16
+R63	support Arg1:T9 Arg2:T1
+R64	support Arg1:T10 Arg2:T1
+R65	support Arg1:T11 Arg2:T1
