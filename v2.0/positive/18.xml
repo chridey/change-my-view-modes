@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<thread ID="2rgs7o">
+<title><claim type="evaluation_emotional">CMV: Assuming there is no afterlife, then life is ultimately meaningless and pointless because we die.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2rgs7o/cmv_assuming_there_is_no_afterlife_then_life_is/</source>
+<OP author="mybromarcusaurelius">
+
+*Note: Please assume that there is no afterlife when responding to my post.
+I am not religious.
+Thank you.
+ALSO: By "meaningless," I mean "meaningless" to the person who is doing the dying.
+To the person who is alive and who will then die, life is meaningless.
+
+CMV.
+Assuming <premise type="logos_pathos" id="0" rel="support" ref="1">there is no afterlife</premise>, <claim type="evaluation_emotional" id="1">life is ultimately meaningless and pointless</claim> because <premise type="logos_pathos" id="2" rel="support" ref="1">we die</premise>.
+<claim type="interpretation" id="3">Death is the great eraser</claim>.
+<premise type="logos" id="4" rel="support" ref="3">Living life is as irrational as reading a book that, after finished, is immediately erased from your memory</premise>.
+<premise type="logos" id="5" rel="support" ref="3">It is comparable to that, too</premise>.
+
+<claim type="interpretation" id="6">It makes no difference if I, a 23 year old, die now or live until I am 100 and die</claim>.
+<premise type="logos_pathos" id="7" rel="support" ref="6">Either way, after my brief spark of existence I become nothingness</premise>.
+<premise type="logos_pathos" id="8" rel="support" ref="6">Not only do I remember nothing; I AM nothing</premise>.
+<premise type="logos_pathos" id="9" rel="support" ref="6">To me, it is as if my life had never happened</premise>.
+
+I'll put it another way.
+<premise type="logos" id="10" rel="support" ref="6">Imagine the time before you were born</premise>.
+Have you remembered it yet?
+<premise type="logos" id="11" rel="support" ref="6">Of course not</premise>.
+<premise type="pathos" id="12" rel="support" ref="6">You didn't exist</premise>.
+<premise type="logos_pathos" id="13" rel="support" ref="6">This is the state that we return to after death--a state of nothingness similar to the state we were in before birth</premise>.
+<premise type="logos_pathos" id="14" rel="support" ref="6">When I die, I return to this state after a brief period of consciousness</premise>, and <premise type="logos_pathos" id="15" rel="support" ref="6">I return to it permanently</premise>. <premise type="logos_pathos" id="16">I might as well have never lived</premise>.
+
+To anticipate a few responses:
+
+(1) <claim type="interpretation" id="17">Helping others doesn't matter</claim>.
+<premise type="logos" id="18" rel="support" ref="17">They will die too</premise>.
+<premise type="logos" id="19" rel="support" ref="17">And then their descendants will die, on and on and on</premise>, until <premise type="logos" id="20">eventually the universe is destroyed or our galaxy collapses in an inevitable heat-death</premise>.
+<premise type="logos" id="21" rel="support" ref="17">Even if 1,000,000 people were helped by me</premise>, <premise type="logos" id="22" rel="support" ref="17">assuming they all die</premise>, <claim type="disagreement" id="23">then my life is still pointless and meaningless</claim>.
+<premise type="logos_pathos" id="24" rel="support" ref="23">For I will be dead and won't know what I did</premise>, and <premise type="logos_pathos" id="25" rel="support" ref="23">once they die, they won't know either</premise>.
+
+<claim type="interpretation" id="26">(2) Attaining fame doesn't matter and doesn't truly make me "immortal."</claim> 
+<premise type="pathos" id="27" rel="support" ref="26">I'll be dead, and again, death is nothingness</premise>.
+<premise type="logos_pathos" id="28" rel="support" ref="26">Thus, I won't be around to enjoy my fame</premise>.
+
+(3) <claim type="evaluation_emotional" id="29">Enjoying the moment is possible</claim>, but <claim type="evaluation_emotional" id="30">doesn't make life have a point</claim>.
+For <premise type="logos_pathos" id="31" rel="support" ref="30">once I die, all memories and all point is gone</premise>.
+
+Please change my view from this depressing sentiment.
+
+</OP>
+
+<reply id="cngkdic" author="lejuez88">
+
+I have contemplated this since I was a young teen and often made me wonder why so many people are concerned with leaving a "legacy". 
+<premise type="logos" id="33" rel="support" ref="34">If existence (from your perspective) lies solely on your consciousness</premise> then <claim type="interpretation" id="34" rel="partial_agreement" ref="title">after you die it doesn't matter what you left</claim> because <premise type="logos" id="35" rel="support" ref="34">it no longer exists since you cannot experience it.</premise> 
+<premise type="logos" id="36" rel="support" ref="34">In a metaphysical sense you could argue that we essentially never exist.</premise> 
+This of course is assuming that <premise type="logos" id="37" rel="support" ref="34">death is an elimination of existence</premise> which is beyond what anybody truly knows. 
+<claim type="evaluation_emotional" id="38" rel="partial_attack" ref="title">It is a bit depressing but can also be quite liberating</claim> as <premise type="logos_pathos" id="39" rel="support" ref="38">you can free yourself from society's many irrational norms and expectations.</premise>
+
+As for things having meaning, from this standpoint <claim type="interpretation" id="40" rel="undercutter" ref="title">you can create your own meaning.</claim> 
+<premise type="logos_pathos" id="41" rel="support" ref="40">May as well enjoy life while you temporarily exist.</premise>
+
+Your bleak view reminds me of the Queen line from Bohemian Rhapsody, "I don't wanna die. I sometimes wish I'd never been born at all." 
+<claim type="interpretation" id="42" rel="partial_agreement" ref="title">Never being born is essentially the same as being dead,</claim> <premise type="logos" id="43" rel="support" ref="42">you just never have the conscious mind to experience the fear of contemplating it.</premise> 
+<claim type="interpretation" id="44" rel="undercutter" ref="title">I guess it comes down to what you think is worse. Never experiencing life or living in fear of death.</claim>
+
+</reply>
+
+<reply id="cngl69m" author="mybromarcusaurelius">
+
+I want to give you a ∆, so here you go. 
+You've been most successful because you changed the "depressed" part of my view, albeit only a bit. 
+Enjoying life EVEN THOUGH I temporarily exist will be my new mindset. 
+I don't know if I'll be able to get there, but we'll see. 
+
+</reply>
+</thread>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<thread ID="2qnzap">
+<title><claim type="interpretation">CMV: Surplus Value Theorem is definitive proof that capitalism is an inefficient system.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qnzap/cmv_surplus_value_theorem_is_definitive_proof/</source>
+<OP author="SouthernGlenfidditch">
+
+<premise type="logos" id="0" rel="support" ref="3">As I understand it, and crudely explained, SVT says that in an economic system that lets people hire other people for labour</premise>, <claim type="evaluation_rational" id="3">waste has to be produced in order for the system to function</claim>.
+
+Example: <premise type="pathos" id="4" rel="support" ref="3">Consider a society of 101 people: 100 workers and 1 boss.</premise>
+<premise type="logos" id="5" rel="support" ref="3">The boss owns the factory where the workers work</premise>, and <premise type="logos" id="6" rel="support" ref="3">they produce, say, MLP dolls that everyone wants to buy</premise>.
+<premise type="logos" id="7" rel="support" ref="3">The boss pays each of her workers &#163;5 for each doll that the worker produces, and a worker produces 1 doll a day</premise>.
+<premise type="logos_pathos" id="8" rel="support" ref="3">At the end of the day, the boss has 100 dolls, worth &#163;1000 and has paid out &#163;500</premise>.
+<premise type="logos" id="9" rel="support" ref="3">Wanting to make a profit on the dolls, the boss then sells the dolls for &#163;10 each.</premise>
+<premise type="ethos_logos_pathos" id="10" rel="support" ref="3">She is now trying to sell &#163;1000 worth of dolls</premise>, but <premise type="ethos_logos_pathos" id="11" rel="support" ref="3">the only people available to sell to are the workers, who's total funds are &#163;500</premise>.
+<premise type="logos" id="12" rel="support" ref="3">No matter how they rearrange the money between them, they will be unable to buy more than &#163;500 worth of the dolls</premise>, and so <premise type="logos" id="13" rel="support" ref="3">the rest are waste inherent to the system and a direct result of the boss wanting to make profit.</premise>
+
+<premise type="logos" id="14" rel="support" ref="16">This example then scales up to the whole world when you throw in multiple bosses and lots more workers but the basic idea is the same</premise>: if <premise type="logos" id="15" rel="support" ref="16">each worker is being paid less than the price of the things they produce so that their boss can profit</premise>, then <claim type="evaluation_rational" id="16">items that cannot be sold must still be produced and thrown away.</claim>
+
+</OP>
+
+<reply id="cn89yan" author="swearrengen">
+
+<claim type="interpretation" id="17" rel="rebuttal_attack" ref="title">*No* theorem is "proof"!</claim>
+
+<premise type="logos" id="18" rel="support" ref="17">Theorems are explanations *of* facts</premise> - and <claim type="interpretation" id="19" rel="rebuttal_attack" ref="title">it's *facts* that prove or disprove theorems.</claim>
+
+<premise type="logos" id="20" rel="support" ref="19">Darwinian Theory doesn't prove evolution to be true - the facts in the real world (such as examples of fossils and stratigraphy and DNA etc) prove the Theory to be true.</premise>
+
+<claim type="interpretation" id="21" rel="rebuttal_attack" ref="title">Ultimately the proof/disproof of the efficiency/inefficiency of Capitalism/Communism must come from the comparison and evaluation of historical before and after facts</claim> e.g. <premise type="logos" id="22" rel="support" ref="21">East and West Germany, North and South Korea, Iron Rice Bowl China versus Free Market China.</premise> 
+<claim type="interpretation" id="23" rel="rebuttal_attack" ref="title">The facts definitively disprove SVT!</claim>
+
+</reply>
+
+<reply id="cn8b5ls" author="SouthernGlenfidditch">
+
+<premise type="logos" id="24" rel="support" ref="title">I can't get wikibot to do it's stuff, but here: http://www.thefreedictionary.com/theorem</premise>
+
+</reply>
+</thread>

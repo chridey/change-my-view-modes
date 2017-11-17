@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<thread ID="2qaf6l">
+<title> <claim type="interpretation">CMV: If a child struggles to achieve in grade school it is virtually always the parents' fault.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qaf6l/cmv_if_a_child_struggles_to_achieve_in_grade/</source>
+<OP author="unidangit">
+
+<premise type="logos" id="0" rel="support" ref="title">For the sake of this thread, we'll exclude children with medically diagnosed learning disabilities</premise>; <claim type="evaluation_rational" id="1">IMO the knowledge and resource base for teaching said children is probably proportionate to the percentage they make up of the overall population</claim>.
+
+<premise type="logos" id="2" rel="support" ref="title">With a healthy child, income, neighborhood, peers and teachers should be filtered through a responsible parent(s).</premise>
+<claim type="interpretation" id="3">A child who struggles in earnest or intentionally slacks off is a direct reflection of parenting.</claim>
+<claim type="evaluation_rational" id="4">I am curious regarding potential for more public accountability held to parents who fail to direct their child.</claim>(<premise type="logos_pathos" id="5" rel="support" ref="4">maybe a monetary incentive derived from public tax coffers paid to parents of children who maintain a passing grade, to be withheld if child dips below</premise>.)
+
+<claim type="interpretation" id="6">I think parents are virtually 100% responsible for producing scholastically successful children</claim>.
+CMV.
+
+</OP>
+<reply id="cn4b6gs" author="soshibemuchwow">
+<claim type="evaluation_emotional" id="7" rel="undercutter" ref="title"> I don't know man, raising a child is hard. </claim> <claim type="disagreement" id="8" rel="undercutter" ref="title"> You are leaving out so many factors. </claim>
+
+<premise type="logos" id="9" rel="support" ref="8"> -What about a one parent household? </premise>
+
+<premise type="logos" id="10" rel="support" ref="8"> -What is the state of the school? </premise> 
+<premise type="logos" id="11" rel="support" ref="8"> Is this an unfunded, understaffed, inner city school? </premise>
+
+<premise type="pathos" id="12" rel="support" ref="8"> -What if the child is being bullied/abused without the parents knowledge? </premise>
+
+<premise type="logos" id="13" rel="support" ref="8"> -Does this child have other, non LD problems(i.e. emotional, gender-identity)? </premise>
+
+
+<claim type="evaluation_emotional" id="14" rel="undercutter" ref="6"> On top of all of that what about the child that does well despite a parents shittiness? </claim> 
+<premise type="logos" id="15" rel="support" ref="14"> Do those parents receive your proposed monetary incentive? </premise>
+
+<claim type="evaluation_rational" id="16" rel="undercutter" ref="6"> I think the correlation is there, but to say 100% is too much of an absolute. </claim>
+
+</reply>
+<reply id="cn4d5mf" author="unidangit">
+&gt;What about a one parent household?
+
+<premise type="logos_pathos" id="17" rel="support" ref="18"> So what? Again, many children come from handicapped households.</premise> 
+<claim type="interpretation" id="18" rel="rebuttal_attack" ref="8"> Why do some individuals call them excuses and others, motivation? </claim>
+
+<claim type="interpretation" id="19" rel="rebuttal_attack" ref="8"> Really most of your problems you presented can be counteracted </claim> and <claim type="evaluation_rational" id="20" rel="rebuttal_attack" ref="8"> even turned for benefit with a proper level of parental involvement. </claim> 
+<premise type="logos_pathos" id="21" rel="support" ref="20"> I subscribe to the idea that there is no such thing as too much parenting. </premise> 
+<premise type="logos" id="22" rel="support" ref="20"> Of course, with more involvement comes more responsibility to surgically manage involvement, emotions, rewards and punishments. </premise>
+
+<claim type="interpretation" id="23" rel="partial_agreement" ref="14"> The last point about a shitty parent with a good student is, at first, a quandary. </claim> 
+<premise type="logos" id="24" rel="support" ref="23"> After building in requirements for parents to attend a weekly P/T meeting and/or more, </premise> <premise type="pathos" id="25" rel="support" ref="23"> I think we could minimize the amount of shitty parents getting paid, </premise> and <premise type="logos" id="26" rel="support" ref="23"> instead deposit that money into a trust for the student, paid upon graduation. </premise>
+
+
+</reply>
+</thread>

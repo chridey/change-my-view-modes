@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<thread ID="2rcpqy">
+<title> <claim type="interpretation">CMV The EGG came first before the chicken.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2rcpqy/cmv_the_egg_came_first_before_the_chicken/</source>
+<OP author="PM_ME_CUTE_PUPPYS">
+
+<premise type="logos" id="0" rel="support" rid="0" ref="6">According to the theory of evolution it makes more sense that the egg preceded the chicken</premise>.
+<premise type="logos" id="1" rel="support" rid="0" ref="6">Before the chicken there was a similar but different creature.</premise>
+<premise type="logos_pathos" id="2" rel="support" rid="0" ref="6">Let's call it X.</premise> 
+<premise type="logos_pathos" id="3">Its completely arbitrary when the X officially evolved into a chicken</premise>, but <premise type="logos_pathos" id="4">at some point it does</premise>.
+<premise type="logos" id="5" rel="support" rid="0" ref="6">An X, not a chicken lays the first chicken egg.</premise>
+<claim type="interpretation" id="6" rel="agreement" ref="title">The chicken egg comes before any creature considered a chicken exist.</claim>
+Am I wrong?
+
+PS I'm playing laser tag soon so I will respond in 20ish minutes.
+
+</OP>
+
+<reply id="cnen833" author="Teh_doctor42">
+<claim type="interpretation" id="7" rel="undercutter" ref="title"> In terms of evolution, the question is erroneous. </claim> 
+<claim type="interpretation" id="8" rel="undercutter" ref="6"> The ancestral organism from which the chicken is derived never gave bith to a chicken egg. </claim> 
+<premise type="logos" id="9" rel="support" ref="8"> There is no sharp line representing a single generation that became chickens. </premise> 
+<premise type="logos" id="10" rel="support" ref="8"> The newly defined chicken species (a species is hard enough to define as it is) is not recognized as a new species of chickens until you already have an independently reproducing population. </premise> 
+Though <premise type="logos" id="11" rel="support" ref="8"> there were ancestral species that produced eggs, </premise> <claim type="interpretation" id="12" rel="undercutter" ref="6"> due to the gradual process that produces what we call new species and how we define them, there was never a single egg that gave rise to the first chicken. </claim>
+
+</reply>
+<reply id="cneo9a6" author="PM_ME_CUTE_PUPPYS">
+While <premise type="logos" id="13" rel="support" ref="14"> the dividing line between species is quite arbitrary </premise>, <claim type="interpretation"  id="14" rel="rebuttal_attack" ref="12"> if scientists had enough evidence a distinction would be made. </claim> 
+<premise type="logos" id="15" rel="support" ref="16"> Species are labeled by humans, but really we are all similar life. </premise> 
+<claim type="interpretation" id="16" rel="undercutter" ref="12"> Where ever the distinction would be made, wouldn't that make the egg first? </claim>
+
+<claim type="interpretation" id="17" rel="undercutter" ref="12"> And if you define a species as an independently reproducing population I think both comes at the same time. </claim> 
+<premise type="logos" id="18" rel="support" ref="17"> An independently reproductive community of animals should only be defined as such once their chicken babies are layed or hatched. </premise> 
+<claim type="interpretation" id="19" rel="support" ref="12"> When that happens the egg becomes a chicken egg and the X becomes a chicken. </claim>
+
+You sort of C'd my V.
+
+I'll give you a delta once I go learn how.
+
+∆
+
+
+</reply>
+</thread>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thread ID="2qncj3">
+<title><claim type="evaluation_emotional">CMV Me joining the army is not a waste of time nor does it conflict with my personality</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qncj3/cmv_me_joining_the_army_is_not_a_waste_of_time/</source>
+<OP author="Hamza78ch11">
+
+<claim type="evaluation_emotional" id="0">I've always had a respect for the men in uniform and I've always wanted to join.</claim>
+<claim type="evaluation_rational" id="1">Recently I've disagreed with the practices of the U.S. military</claim> but that doesn't mean that I hate the Warriors, <premise type="logos_pathos" id="2">just the people that force them into it</premise>.
+<premise type="ethos" id="1a" rel="support" ref="0">I'm an immigrant and a Muslim neither of which is or should be a deterrent from joining</premise>.
+<premise type="ethos" id="1b" rel="support" ref="0">I want to be a doctor, not because of familial pressure but of a genuine need to help</premise>.
+So here's where I am now: currently in first year of college studying biology, enough AP credits to be a tiny bit ahead of my classmates, an itching to explore this giant world God gave me, I'm also poor and medical school in the military (from what I understand) pays for smart kids.
+Also, please forgive me if this is wrong or arrogant or whatever, I want the respect that people give men and women in the military.
+
+My plan was to graduate College and join the USHS (the military medical school) and become and Army doctor.
+<claim type="evaluation_rational" id="3">The only reservation that I had was that it would be a waste of my time</claim> <premise type="pathos" id="4" rel="support" ref="3">because I want to be a neurosurgeon and that's a looooooooong and rigorous path</premise> and that <premise type="pathos" id="5" rel="support" ref="3">I might be losing precious time by joining the military</premise>.
+My mom doesn't want me to join for that reason.
+Other things that I've considered: <claim type="evaluation_rational" id="6">I love the idea of a brotherhood but I don't agree with the ideology,</claim> <claim type="evaluation_rational" id="7">the military putting me through Med school will help me jump start life,</claim> <claim type="evaluation_rational" id="8">I'm very inexperienced and haven't seen much of the world and this I think will help me</claim>.
+
+I look forward to having my views challenged!
+Thanks!
+
+</OP>
+
+<reply id="cn913il" author="Hawkeye1226">
+I want to go a slightly different route here and ask why you would join the Army specifically? 
+<claim type="interpretation" id="9" rel="undercutter" ref="8">Different branches have different options and very different lifestyles and culture</claim>. 
+<premise type="logos" id="10" rel="support" ref="9">For example, you mentioned that you wanted to see more of the world.</premise>
+<claim type="evaluation_rational" id="11" rel="partial_attack" ref="8">The best branch for that would be the Navy.</claim>
+</reply>
+
+<reply id="cn916m8" author="Hamza78ch11">
+<premise type="ethos" id="12">I get seasick lol.</premise> 
+<claim type="evaluation_emotional" id="13" rel="undercutter" ref="9">The Marines aren't knows for their... Genius...</claim> 
+<claim type="evaluation_rational" id="14" rel="undercutter" ref="9">The air force isn't right for me</claim> because <premise type="logos" id="15" rel="support" ref="14">I couldn't fly</premise> and <premise type="logos" id="16" rel="support" ref="14">don't want to be an engineer</premise>. 
+Army it is then. 
+</reply>
+
+<reply id="cn91iiz" author="Hawkeye1226">
+<claim type="disagreement" id="17" rel="undercutter" ref="13">I think you need to get a bit better informed if you're going with those particular stereotypes</claim>. 
+<premise type="logos" id="18" rel="support" ref="17">Did you know the Army's minimum ASVAB score is lower than the Marines, for instance?</premise> 
+<claim type="interpretation" id="19" rel="undercutter" ref="12">As for getting seasick, it's not as much of an issue on such large ships.</claim> 
+Don't go for the Coast Guard though, that's for sure. 
+And <claim type="interpretation" id="20" rel="undercutter" ref="12">there is actually a decent chance to never set foot on a ship.</claim> 
+Especially since <premise type="logos" id="21" rel="support" ref="20">the Marines don't have their own medical services</premise>. 
+The Navy provides them.
+
+In the end, I'd probably recommend the Airforce for you. 
+When you join the military, you sign a contract that gives you a specific(or not so specific if you join the Marines) job. 
+If there is a slot open for a doctor in the Airforce, they'll put in in your contract. 
+If there isn't, you can either wait or go to another branch.
+
+Can I ask how much you actually know about actually *being in the military?* 
+I don't want to offend you, but <claim type="evaluation_emotional" id="22" rel="undercutter" ref="0">a lot of people looking to join tend to forget that bit</claim>, when <claim type="evaluation_rational" id="23" rel="undercutter" ref="0">it's really the most important part</claim>. 
+<premise type="logos" id="24" rel="support" ref="22">All when the clostest they've been to military life are </premise><claim type="evaluation_emotional" id="25" rel="undercutter" ref="0">movies which are either terrible representations or great representations of *very specific parts* of the military</claim>.
+
+You won't be a *doctor in the military*, you will be a *military doctor.* 
+That's why I recommend the Air Force. 
+<claim type="interpretation" id="26" rel="rebuttal_attack" ref="14">Out of all the branches, it has the most in common with the civilian world in regards to its culture.</claim> 
+<premise type="logos" id="27">It's only 60 something years old</premise>, after all.
+</reply>
+
+<reply id="cn97omx" author="Hamza78ch11">
+Okay, thanks so much for the info! 
+<claim type="interpretation" id="28" rel="partial_agreement" ref="17">I think I still have a lot to research</claim> but <claim type="interpretation" id="29" rel="partial_attack" ref="17">my main reason against the marines was that they are very homogeneous.</claim> 
+<premise type="logos_pathos" id="30" rel="support" ref="29">From all the marines that I've met they all think and act the same way to the point where it freaks me out a little.</premise> 
+<premise type="logos_pathos" id="31" rel="support" ref="29">They subscribe to the same pages on facebook and whatnot</premise>, <claim type="evaluation_emotional" id="32" rel="partial_attack" ref="17">it's a little creep tbh</claim>. 
+I'm definitely going to look at the airforce, thanks to what you've suggested!
+ 
+</reply>
+
+<reply id="cn99bzi" author="Hawkeye1226">
+Look at it like this. 
+<claim type="interpretation" id="33" rel="partial_agreement" ref="28">The Army is a military service</claim>, <claim type="interpretation" id="34" rel="partial_agreement" ref="28">the Air Force is a business</claim>, <claim type="interpretation" id="35" rel="partial_agreement" ref="28">the Navy is a "denim and leather" bar</claim>, and <claim type="interpretation" id="36" rel="partial_agreement" ref="28">the Marines are a cult</claim>.
+</reply>
+</thread>

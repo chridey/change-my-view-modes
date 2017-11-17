@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<thread ID="2rnr30">
+<title><claim type="interpretation">CMV: I think the Paris shooting makes a good case for culture of responsible gun ownership any carrying.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2rnr30/cmv_i_think_the_paris_shooting_makes_a_good_case/</source>
+<OP author="rrockethr">
+
+Thinking about today's news: [BBC](http://www.bbc.com/news/live/world-europe-30710777), [Wikipedia](http://en.wikipedia.org/wiki/Charlie_Hebdo_shooting)
+
+<claim type="interpretation" id="0" rel="agreement" ref="title">I think France is in a tough spot in how to react to this.</claim>
+<premise type="logos_pathos" id="1" rel="support" ref="0">There would be even stronger calls for an anti-islam and anti-immigration policies.</premise>
+<premise type="logos_pathos" id="2" rel="support" ref="0">These event reminds people that they cannot depend on protection by government.</premise>
+<claim type="interpretation" id="3" rel="agreement" ref="title">I think it would be a shame to allow the many, who are afraid more then anything, to be swayed by xenophobic nationalists (which might have been the goal of the attack anyway).</claim>
+
+<claim type="evaluation_rational" id="4" rel="agreement" ref="title">I think this, regardless of whether the weapons used by the attackers were owned legally, makes a good case for promoting a culture of a reasonable gun ownership and carrying.</claim>
+<premise type="logos_pathos" id="5" rel="support" rid="a" ref="4">Say if 1 out of 5 people carried a gun with them, was well trained in its use and tested in his responsibility to prevent its misuse</premise>, and <premise type="logos_pathos" id="6" rel="support" rid="a" ref="4">society upheld the value of these people as protectors, it would benefit the society more the the current state of legislature and culture of gun ownership in most of European countries</premise>.
+<claim type="evaluation_rational" id="7" rel="agreement" ref="title">I also think this would be much better then increase in police numbers and rights</claim> <premise type="logos_pathos" id="8" rel="support" ref="7">as policemen are a very homogeneous group trained to stick together and the danger of even deepening the "not one of us" (pack) mentality and escalation of "police state"</premise>.
+Change my view.
+
+PS: I am not here to talk about USA and its gun problems.
+
+EDIT: Awarded a delta to a comment which didn't refute this idea but led me to change my view that it would be best realized with paralyzing weapons rather then guns: http://www.reddit.com/r/changemyview/comments/2rnr30/cmv_i_think_the_paris_shooting_makes_a_good_case/cni3o83
+
+</OP>
+
+<reply id="cni3o83" author="jeffertiti">
+
+I guess I look at it this way- <premise type="logos" id="9" rel="support" ref="10">there have absolutely been times when gun ownership, or carrying weapons on ones person in general was more prevalent than it is today.</premise>
+<claim type="interpretation" id="10" rel="rebuttal_attack" ref="7">Those time periods/places did not enjoy lower rates of violent death. </claim>
+
+Consider the "wild west." 
+Obviously it wasn't nearly as full of gun battles as the movies make it seem, but according [this study] (http://cjrc.osu.edu/homicide-rates-american-west-randolph-roth) 
+<premise type="logos" id="11" rel="support" ref="10">the murder rate was "extraordinarily high by today's standard." </premise>
+
+Looking at the rest of the thread, <claim type="evaluation_rational" id="12" rel="undercutter" ref="title">I think I see what might be a flaw in our collective logic.</claim> 
+<premise type="logos_pathos" id="13" rel="support" ref="12">The incidents that stand out most in our heads are events like Paris or Aurora or Columbine- premeditated shootings with the intent of inflicting a lot of casualties.</premise> 
+<premise type="logos_pathos" id="14" rel="support" ref="12">If the staff at Charlie Hebdo or Columbine High had guns, they certainly might have been able to end these incidents earlier.</premise> 
+<premise type="logos" id="15" rel="support" ref="12">They also might have inflicted more casualties with stray bullets.</premise> 
+<premise type="ethos_logos" id="16" rel="support" ref="12">These types of hypothetical calculations aren't really helpful, in my opinion.</premise>
+
+But lets assume that more guns makes mass shootings less likely. 
+Would this actually make a more heavily armed society a more polite one?
+
+<claim type="disagreement" id="17" rel="undercutter" ref="4">I don't think it would</claim>, because though <premise type="logos" id="18" rel="support" ref="17">premeditated murders could well be less likely,</premise> <premise type="logos" id="19" rel="support" ref="17">accidental deaths, unplanned homicides, and suicides would like increase. </premise>
+
+<premise type="logos" id="20" rel="support" ref="17">This study found that owning a gun makes one more likely to die from suicide *and* homicide.</premise> 
+Of course, that's correlation, so there might be some third factor at play that makes gun owners more likely to b targets of crime or clinically depressed, but <premise type="logos" id="21" rel="support" ref="17">it certainly suggests that owning a gun doesn't automatically make you safer.</premise>
+http://aje.oxfordjournals.org/content/160/10/929.full
+ 
+Whether or not more guns would prevent events like today's isn't the issue (though I am inclined to say they wouldn't necessarily do that), it seems like <claim type="evaluation_rational" id="22" rel="rebuttal_attack" ref="title">a greater proliferation of weapons would be more dangerous for a number of other reasons.</claim>
+
+</reply>
+
+<reply id="cni86cu" author="rrockethr">
+
+Yeah <claim type="evaluation_rational" id="23" rel="agreement" ref="22">I was considering this and was already doubtful of the benefits would outweigh the potential negatives.</claim> 
+<premise type="logos" id="24" rel="support" ref="23">I'm sure with the right culture it would</premise>, but <premise type="logos_pathos" id="25" rel="support" ref="23">maintaining a culture is hard.</premise> 
+Like I said <premise type="logos" id="26" rel="support" ref="23">the role of these people would be to defend themselves and those around them.</premise> 
+<premise type="logos" id="27" rel="support" ref="23">It wouldn't help deterring suicide attacks, and would most probably cause few more deaths from mistakes and irresponsibility, with a danger of this worsening.</premise> 
+<claim type="evaluation_rational" id="28" rel="partial_agreement" ref="17">In cases of mass shootings like you outlined, which are the situations I am thinking of, it would perhaps be best that these people wouldn't be armed with a gun but a paralyzer (taser),</claim> so <premise type="logos" id="29" rel="support" ref="28">when they find a safe hiding place or cover they have a chance getting themselves in a position where they can use the paralyzer on the attacker.</premise> 
+<premise type="logos" id="30" rel="support" ref="28">This would have most of the benefits as with what I imagined with guns except it might be less probable to work against well prepared attackers (against heavy clothing),</premise> but on the other hand <premise type="logos_pathos" id="31" rel="support" ref="28">it could also deter from suicide attacks as they usually count on not being caught alive and of course it always is best for the attacker to be brought to justice in court.</premise>
+
+Although you haven't suggested this, your post lead my thoughts to it, so have a delta for that:
+
+&amp;#8710;
+
+PS: Re the study, well of course it doesn't suggest that. 
+These studies seem to fuel only the flawed arguments based on correlation.
+
+</reply>
+</thread>

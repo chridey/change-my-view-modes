@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<thread ID="2qd3li">
+<title> <claim type="evaluation_emotional">CMV: Nativity scenes are antisemitic.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qd3li/cmv_nativity_scenes_are_antisemitic/</source>
+<OP author="skunkardump">
+
+<claim type="evaluation_emotional" id="0" rel="agreement" ref="title">This has nothing to do with the celebration of Christmas excluding religious minorities</claim>, it's because <claim type="evaluation_emotional" id="1" rel="agreement" ref="title">traditional nativity scenes reinforce negative stereotypes about Jews</claim>.
+
+<premise type="logos" id="2" rid="2" rel="support" ref="1">As the story goes, when Jesus was about to be born his parents were travelling to Bethlehem, but when they got there the inn was full, so Mary had to give birth in the barn</premise>.
+<premise type="logos" id="3" rid="2" rel="support" ref="1">The problem is, if nativity scenes are any indication, baby Jesus was still in the manger when the three wise men came to visit and give him Christmas presents</premise>.
+<premise type="logos" id="4" rid="2" rel="support" ref="1">Most people know Jesus was born on Christmas, but less realize that the wise men didn't show up until the Epiphany twelve days later</premise>.
+
+<claim type="interpretation" id="5" rel="agreement" ref="title">Are we honestly expected to believe that no vacancies opened up at the inn for almost two weeks?</claim> <premise type="logos" id="6" rel="support" ref="5">Because that would be the most unbelievable aspect of the entire story if you ask me</premise>, and <premise type="logos" id="7" rel="support" ref="5">it seriously strains credulity to begin with</premise>.
+
+<premise type="logos" id="8" rel="support" ref="5">Even miracles make more sense in the context of the birth of the Son of God</premise>.
+<premise type="logos_pathos" id="9" rel="support" ref="5">Maybe a virgin really could give birth to a deity, or a new star could magically appear over the birthplace</premise>, but <premise type="logos" id="10" rel="support" ref="5">there's no reason for the inn to miraculously have no rooms come open for nearly two weeks</premise>.
+<premise type="logos_pathos" id="11" rel="support" ref="5">Plus Mary and Joseph would be the first to know when something came available since they were basically squatting in the garage and would surely notice when patrons came to get their ox or camel or whatever before leaving</premise>.
+
+<claim type="interpretation" id="12" rel="agreement" ref="title">The obvious implication is that Jesus' chintzy Jewish stepdad was such a tightwad that he was willing to let his pubescent wife and her newborn baby sleep in donkey slop if it would save him a few shekels</claim>.
+<premise type="logos_pathos" id="13" rel="support" ref="12">Joseph probably would have made that barn the family's permanent rent-free residence if the wise men hadn't showed up bearing enough cash and prizes to go live it up in Egypt</premise>.
+After all, <premise type="logos" id="14" rel="support" rid="3" ref="12">why did they stay so long anyway?</premise>
+<premise type="logos" id="15" rel="support" rid="3" ref="12">It's not like Mary needed the time to recuperate</premise>.
+<premise type="logos_pathos" id="16" rel="support" rid="3" ref="12">Thanks to baby Jesus' healing powers even her hymen immediately regenerated, kind of like the redhead vampire from True Blood or the cheerleader from Heroes</premise>.
+(<premise type="pathos" id="17" rel="support" rid="3" ref="12">Not the real life Hayden Panettiere though, you know those gigantic Klitschkos split that wide open.</premise>)
+
+MERRY CHRISTMAS!
+
+</OP>
+
+<reply id="cn50zo4" author="MizzKittay">
+<claim type="interpretation" id="17a" rel="attack" ref="title">Aren't Mary and Joseph, two holy people, especially perfect virgin Mary, both Jews? Wasn't Jesus a Jew??</claim>
+</reply>
+
+<reply id="cn51ilm" author="skunkardump">
+
+<claim type="agreement" id="18" rel="partial_agreement" ref="17a">Yes</claim>, but <claim type="interpretation" id="19" rel="partial_attack" ref="17a">Joseph was just a regular Jew without the same kind of holiness as the other two.</claim>
+ 
+</reply>
+
+<reply id="cn51uui" author="MizzKittay">
+<claim type="agreement" id="20" rel="partial_agreement" ref="18">Okay</claim>, nix Joseph, but the point remains that <premise type="logos" id="21" rel="support" ref="22">the son of god and his holy mother were Jews</premise>, so <claim type="disagreement" id="22" rel="undercutter" ref="title">I wouldn't call a story about them antisemitic even if the villains in the story are also Jewish.</claim>
+</reply>
+
+<reply id="cn527s6" author="skunkardump">
+<claim type="evaluation_rational" id="23" rel="undercutter" ref="22">Isn't the characterization of Jews as "Christ-killers" rooted in antisemitism?</claim>  
+<premise type="logos" id="24" rel="support" ref="23">Because that's a part of the Easter story even though it was technically a Jew being crucified on Good Friday.</premise>
+</reply>
+</thread>

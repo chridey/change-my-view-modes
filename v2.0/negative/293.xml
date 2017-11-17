@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<thread ID="2qh719">
+<title><claim type="evaluation_rational">CMV: If you're able, European and subscribe even loosely to European values, you should be on the Ukrainian border, driving back Russians</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qh719/cmv_if_youre_able_european_and_subscribe_even/</source>
+<OP author="TheCyanKnight">
+
+Obviously I'm not there right now, but I'm curious if anyone can put my mind at ease that I shouldn't be.
+
+<claim type="interpretation" id="0">Feels to me as if Putin senses weakness in the Western world</claim>, <premise type="logos_pathos" id="1" rel="support" ref="0"> with the US and Europe driven farther apart by issues like privacy and human rights,</premise> <premise type="logos_pathos" id="2" rel="support" ref="0">the US withdrawing as a dominant force in geopolitics,</premise> <premise type="logos_pathos" id="3" rel="support" ref="0">because people in and outside of the US are fed up with the US policing the world.</premise>
+<claim type="interpretation" id="4" rel="support" ref="5">His territorial pissings seems to be meant to elbow some room for himself on the geopolitical stage, in other words gaining power.</claim>
+<claim type="evaluation_emotional" id="5">Putin is a totalitarian, oppressive, ruthless man, and allowing him to gain more power will affect all of us.</claim>
+
+</OP>
+
+<reply id="cn659h3" author="ds9anderon">
+<premise type="logos" id="6" rel="support" ref="7">What if you are more useful as a negotiator working towards a peaceful resolution to the conflict than you are as a freedom fighter.</premise> 
+<claim type="interpretation" id="7" rel="undercutter" ref="title">Being able doesn't imply you are going to be helpful on that front.</claim>
+</reply>
+
+<reply id="cn65cqa" author="TheCyanKnight">
+I guess <claim type="interpretation" id="8" rel="undercutter" ref="7">I count that towards 'being on the Ukrainian border, driving back Russians'</claim>. 
+<premise type="logos" id="9" rel="support" ref="8">Whatever way you think you can make yourself useful.</premise> 
+<premise type="logos" id="10" rel="support" ref="8">It can be fighting, negotiating, cooking, doctoring..</premise>
+</reply>
+
+<reply id="cn65gg5" author="ds9anderon">
+Then I have no argument. 
+<claim type="evaluation_rational" id="11" rel="undercutter" ref="8">Your original post had a very different tone to it however.</claim> 
+Might want to change it from "you should be on the Ukranian border, driving back Russians".
+</reply>
+</thread>

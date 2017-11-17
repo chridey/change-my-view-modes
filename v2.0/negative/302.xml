@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<thread ID="2qe6up">
+<title><claim type="interpretation">CMV: The global dominance of the abrahamic faiths is largely an accident of geography</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qe6up/cmv_the_global_dominance_of_the_abrahamic_faiths/</source>
+<OP author="Helicase21">
+
+I was at a christmas eve service last night (<premise type="ethos" id="0" rel="agreement" ref="3">I'm Unitarian Universalist</premise>) and one of the hymns the choir did there, describing the birth of Jesus had it occurred in a Huron (Native American) community got me to thinking:
+
+A) <premise type="logos" id="1" rel="support" ref="3">Had a group of religions identical in all respects to Judaism, Christianity, and Islam developed in pretty much any area other than the middle east, they would be no more successful than any of the other relatively minor faiths out there today, depending on what the location in question actually was</premise>
+
+B) <premise type="logos" id="2" rel="support" ref="4">Whatever other religion had ended up developing in the middle east would likely now be globally dominant</premise>
+
+I am not a trained historian, but <claim type="interpretation" id="3" rel="agreement" ref="4">it seems that the core of the success of the Abrahamic religions is dependent largely on the middle east's nature as both a major trade hub between Africa, Europe, and the rest of Asia</claim>, <claim type="interpretation" id="4" rel="agreement" ref="title">and on the fertile crescent's comparatively ancient status as a settled region</claim>.
+
+Edit: I'd like to add that <premise type="ethos" id="5" rel="support" ref="4">a large part of this view came from something a history teacher told me 6 years ago: "Geography Determines Destiny", and that quote has stuck with me</premise>.
+
+Edit the second: though I won't say my view has been reversed or anything, it has definitely been broadened.
+Thanks all!
+
+</OP>
+
+<reply id="cn5arey" author="caw81">
+<premise type="logos" id="6" rel="support" ref="7">Listing of relgion by number of followers http://en.wikipedia.org/wiki/Major_religious_groups#Religious_demographics 1. Christianity 2. Islam 3. Hinduism 4. Buddhism 5. Shinto 6. Sikhism 7. Judaism</premise>
+
+<claim type="disagreement" id="7" rel="rebuttal_attack" ref="title">If your assertion was correct, Judiasim would be way higher than the four non Abrahamic religions above it.</claim>
+
+</reply>
+
+<reply id="cn5baaw" author="Helicase21">
+<claim type="disagreement" id="8" rel="disagreement" ref="7">I don't agree that in order for my assertion to be correct, Judaism must be comparable in terms of being widespread to Islam or Christianity.</claim> 
+Can you clarify why you think that necessarily follows?
+</reply>
+
+<reply id="cn5bhgf" author="caw81">
+&gt; Judaism must be comparable in terms of being widespread to Islam or Christianity
+
+From your quote "Whatever other religion had ended up developing in the middle east would likely now be globally dominant".  
+<premise type="logos" id="9" rel="support" ref="10">Judiasm was developed in the Middle East and is not globally dominant by number of followers</premise>, so <claim type="disagreement" id="10" rel="rebuttal_attack" ref="8">Judiasm is a counter-example to your statement.</claim>
+
+</reply>
+</thread>

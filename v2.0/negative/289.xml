@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<thread ID="2qia6o">
+<title><claim type="evaluation_rational">CMV: Networking for jobs behaves as a discriminatory mechanism to keep money & good jobs inside a particular social circle, & should be discouraged or eliminated as a criterion for employment.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qia6o/cmv_networking_for_jobs_behaves_as_a/</source>
+<OP author="ArchitectofAges">
+
+'1.
+<claim type="evaluation_rational" id="0">Networking is discriminatory.</claim>
+
+'1.1.
+<premise type="ethos_logos_pathos" id="1" rel="support" ref="0">A "standard" hiring method would ensure that every applicant would be evaluated on the same criteria - the satisfaction of requirements of the position & merits relevant to that position.</premise>
+
+'1.2.
+<premise type="ethos_logos_pathos" id="2" rel="support" ref="0">Who an applicant knows is occasionally useful for those jobs which require maintaining relationships with certain people in key positions (e.g. sales), but for the vast majority of jobs, who your friends are is functionally irrelevant.</premise>
+
+'1.3.
+<premise type="logos" id="3" rel="support" ref="0">Allowing someone to circumvent the standard application process ("jumping the line") or to use some important person's recommendation as additional clout for their application ("came very highly recommended by Bob") is preferential treatment for irrelevant qualities.</premise>
+
+'1.3.1. <claim type="evaluation_rational" id="4" >I recognize & appreciate that it is difficult in most employment processes to find individuals who are trustworthy, socially apt, etc.</claim>
+<premise type="logos" id="5" rel="support" ref="4">This is a failing of the existing job application paradigm, not an excuse to circumvent it in order to make the process easier.</premise>
+
+'2.
+<claim type="evaluation_rational" id="6" rel="support" ref="0">Networking, as a practice, favors individuals who come from already socially favorable situations, moreso than other evaluation criteria.</claim>
+
+'2.1.
+<premise type="logos_pathos" id="7" rel="support" ref="0">Beyond straight nepotism, it is self-evident that individuals who come from families & backgrounds which allow for more interaction with individuals in power will be able to call on more of those individuals for networking purposes.</premise>
+
+'2.2.
+<premise type="logos_pathos" id="8" rel="support" ref="0">Individuals who are extraordinarily qualified for a position but come from a region/social background without those connections enter a networking-friendly employment opportunity at a disadvantage.</premise>
+
+'2.2.1. I understand that <claim type="evaluation_rational" id="9">there are other unfair advantages an applicant might have (being tall, white, male, etc.).</claim>
+<premise type="pathos" id="10" rel="support" ref="0">Allowing networking to influence a hiring decision is not dependent on cultural bias & may be safely exorcised from the hiring process to render it more fair</premise> - that is what I am suggesting.
+
+'3.
+<claim type="evaluation_emotional" id="11" rel="support" ref="0">Businesses & societies would be better off disallowing networking from influencing their hiring decisions.</claim>
+
+'3.1.
+<claim type="interpretation" id="12" rel="support" ref="0">If a hiring process takes networking into account, it is necessarily showing preference to individuals who already come from advantaged background, as per 2.</claim>
+<premise type="logos" id="13" rel="support" ref="12">This decreases social/economic mobility, which has been demonstrated to be bad for societies in general.</premise>
+
+'3.2.
+<premise type="ethos_logos" id="14" rel="support" ref="0">If the egalitarian hiring process in-place is so ineffective at determining qualifications/character that it must depend on recommendations from trusted sources to establish merit, the productivity of any positions where such a trusted source does not come forward will suffer.</premise>
+
+'3.3. <premise type="logos_pathos" id="15" rel="support" ref="0">"Fix the process, not the game."</premise>
+
+I understand <claim type="interpretation" id="16" rel="partial_attack" ref="0">"this is how the world works," and many feel at ease participating in networking events without any moral qualms</claim>.
+I would love to have this explained in a way that takes the above points into account & would allow a person to network without the valuation that it is a necessary evil.
+
+EDIT: I'd like to reiterate something, because it keeps cropping up in the comments: *yes, networking is a useful crutch in hiring because most hiring processes are fundamentally broken, but that does not make it fair, just, or desirable.*
+
+</OP>
+
+<reply id="cn6h5x6" author="Raintee97">
+<claim type="interpretation" id="17" rel="undercutter" ref="title">How would you even get rid of networking.</claim> 
+I mean <premise type="logos" id="18" rel="support" ref="17">people talk.</premise> 
+<premise type="logos" id="19" rel="support" ref="17">People socialize.</premise> 
+I mean <premise type="logos" id="20" rel="support" ref="17">lots of people know of jobs because of contact from friends.</premise> 
+
+<claim type="agreement" id="21" rel="partial_attack" ref="title">Your view sounds great</claim>, but do you have any idea how you would implement it? 
+</reply>
+
+<reply id="cn6jhk1" author="ArchitectofAges">
+The same way ethical business and hiring practices are enforced - make a rule, punish those who violate it. 
+
+If a company wants to hire based solely on merit, have some oversight to make sure networking is not affecting that process. 
+If a society does, make laws regarding such.  
+</reply>
+
+<reply id="cn6zrcs" author="Raintee97">
+Punish people for simply talking about their work?  
+Because I would imagine if one friend tells another friend that there is a job opening that would be against the law per your view. 
+</reply>
+</thread>

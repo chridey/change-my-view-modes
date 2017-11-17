@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<thread ID="2rawgb">
+<title><claim type="evaluation_emotional">CMV: I believe that regularly browsing 4chan will make you into a worse person</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2rawgb/cmv_i_believe_that_regularly_browsing_4chan_will/</source>
+<OP author="InsaneTeaparty">
+
+<premise type="logos_pathos" id="0" rel="support" ref="title">Because of the anonymity on 4chan people are more prone to not think through, care about what they post and are quicker to throw out insults.</premise>
+<premise type="logos_pathos" id="1" rel="support" ref="title" >They will care about how people respond to them</premise>, but <premise type="logos_pathos" id="2">since it's largely negative they will stoop down to the same level rather than go to any high ground since they are not linked to an identity</premise>.
+
+<premise type="logos_pathos" id="3" rel="support" ref="title">Surrounding the entire site there's a general pessimistic group mentality</premise>, and <premise type="logos_pathos" id="4" rel="support" ref="title">people are subconsciously encouraged to take part of it in order to feel like they are a part of the group</premise>.
+<premise type="pathos" id="5" rel="support" ref="title">Some boards will have specific groups of people who they are encouraged to hate, women, SJWs, casual gamers, Jews</premise>, and <premise type="pathos" id="6" rel="support" ref="title">any reasonable argument against a poster can be made redundant by saying or thinking they are a part of these agendas or groups</premise>.
+
+<premise type="logos_pathos" id="7" rel="support" ref="title">On boards you will find echo chambers where people are more prone to believe rumors than proof</premise>.
+<premise type="pathos" id="8" rel="support" ref="title">Things about e-celebrities will start as rumors</premise>, <premise type="pathos" id="9" rel="support" ref="title">ideas about them or things will get taken out of context and it will be posted continually until it's taken as fact</premise>.
+<premise type="logos" id="10" rel="support" ref="title">It will reach conspiracy theory levels of "proof" where people will simply believe it because they feel as if they are a part of a group-effort that's uncovering something.</premise>
+
+<claim type="evaluation_emotional" id="11" rel="agreement" ref="title">Surrounding yourself with this will in general make you into a more pessimistic, negative and possibly depressive person.</claim>
+
+<claim type="interpretation" id="12" rel="agreement" ref="title">I'm not saying that every person who browses 4chan is depressed or negative</claim>, but <claim type="interpretation" id="13" rel="agreement" ref="title">that the majority of them are affected negatively by browsing the site</claim>.
+
+<claim type="evaluation_rational" id="14" rel="agreement" ref="title">Thinking that you are unaffected by this doesn't necessarily mean you are, but instead means that you are unaware of how much it affects you.</claim>
+
+EDIT: [Awarded Delta](http://www.reddit.com/r/changemyview/comments/2rawgb/cmv_i_believe_that_regularly_browsing_4chan_will/cneyhn7?context=3)
+
+</OP>
+<reply id="cneyhn7" author="FoxRaptix">
+&gt;On boards you will find echo chambers where people are more prone to believe rumors than proof. Things about e-celebrities will start as rumors, ideas about them or things will get taken out of context and it will be posted continually until it's taken as fact. It will reach conspiracy theory levels of "proof" where people will simply believe it because they feel as if they are a part of a group-effort that's uncovering something.
+
+<claim type="evaluation_rational" id="15" rel="undercutter" ref="7"> To be fair that's not specific to 4chan </claim> and <premise type="logos" id="16" rel="support" ref="15"> that phenomenon has been around forever </premise> <premise type="logos" id="17" rel="support" ref="15"> (Tumblr's community is heavily guilty of this same thing). </premise>
+<claim type="interpretation" id="18" rel="undercutter" ref="7"> It's also a product of individual stupidity, </claim> <premise type="logos" id="19" rel="support" ref="18"> if your believing something random people are telling you without it being backed by proof and your own individual research,</premise> <premise type="pathos" id="20" rel="support" ref="18"> well that's your own gullibility. </premise>
+
+
+<claim type="disagreement" id="21" rel="disagreement" ref="title"> As for 4chan making people into a worse person, I would strong disagree. </claim> 
+<premise type="pathos" id="22" rel="support" ref="21"> I'd say more it just lets people be free, free to test the waters </premise> and <premise type="logos" id="23" rel="support" ref="21"> do whatever without your idea's, jokes, concepts tied to any identity. </premise> 
+<premise type="logos" id="24" rel="support" ref="21"> Every thought stands of its own individual merits. </premise>
+
+
+I've been around 4chan since 2004 and <claim type="evaluation_rational" id="25" rel="disagreement" ref="title"> the only way I would ever describe it would be *chaotic neutral*. </claim> 
+<premise type="logos" id="26" rel="support" ref="25"> One day groups from or within it might organize some raid for the lolz, </premise> <premise type="logos_pathos" id="27"> [another day they're saving a kitten,](http://www.inquisitr.com/18170/4chan-b-goes-after-cat-abusers-wins/) </premise> 
+<premise type="logos_pathos" id="28" rel="support" ref="25">[finding the girl who threw a puppy in a river,](http://www.techhive.com/article/204615/Video_of_Puppies_Thrown_into_River_Spark_Outcry_and_Sleuthing.html) </premise>
+<premise type="logos_pathos" id="29" rel="support" ref="25">[saving a girl from bullying and suicide,](http://www.dailydot.com/news/anonymous-kylie-suicide-trolls-bully/) </premise> 
+<premise type="logos_pathos" id="30" rel="support" ref="25">[paying some poor dudes rent,](http://i.imgur.com/kdYBh.jpg) </premise>
+<premise type="logos_pathos" id="31" rel="support" ref="25">[organizing against the harmful practices of a cult,](https://en.wikipedia.org/wiki/Project_Chanology) </premise>
+<premise type="logos_pathos" id="32" rel="support" ref="25">[bringing more exposure to a rape victim,](http://www.dailydot.com/news/steubenville-rape-confession-video-anonymous/) </premise>
+<premise type="logos_pathos" id="33" rel="support" ref="25">[give some random vet the best birthday ever,](https://gigaom.com/2010/09/02/4chan-decides-to-do-something-nice-for-a-change/) </premise>
+<premise type="logos_pathos" id="34" rel="support" ref="25">[helping some guy buy food for his dogs,](http://i.imgur.com/tKwU3.jpg) </premise>
+<premise type="logos_pathos" id="35" rel="support" ref="25">[raising 5grand for a womens charity,](http://i.imgur.com/yGwmwN4.png)  </premise>
+<premise type="logos_pathos" id="36" rel="support" ref="25">[raising 5grand for suicide prevention](https://www.crowdrise.com/nshgamers/fundraiser/loping) </premise>
+
+<premise type="ethos" id="37" rel="support" ref="25"> I've honestly seen more positive activism stem from the anonymity culture than I have from any other site. </premise>
+
+<claim type="evaluation_rational" id="38" rel="partial_agreement" ref="title"> The problem is a lot of people only understand the surface of chan boards like 4chan </claim> and <premise type="logos_pathos" id="39" rel="support" ref="38"> equate the anonymity as some cheap way for them to be hateful under the guise of free speech, </premise> but <premise type="logos" id="40" rel="support" ref="38"> that couldn't really be further from the truth. </premise>
+
+
+<claim type="interpretation" id="41" rel="undercutter" ref="11"> To understand why the board encourages to *hate* is to understand who goes there </claim> and <claim type="evaluation_emotional" id="42"> it's obviously the social outcasts. </claim> 
+<premise type="logos_pathos" id="43" rel="support" ref="41"> So why would a bunch of social outcasts who get made fun of encourage hate and let such raw emotion reign supreme? </premise> 
+<claim type="evaluation_rational" id="44" rel="undercutter" ref="11"> Quite honestly it dilutes it. </claim> 
+<premise type="logos_pathos" id="45" rel="support" ref="44"> Getting called a *faggot* on 4chan constantly helps you to brush it off when you hear it on the street, </premise> and <premise type="logos" id="46" rel="support" ref="44"> the nice thing about the anonymity of the 4chan board is essentially you have a new identity with each post letting you brush it off even more. </premise> 
+<premise type="pathos" id="47" rel="support" ref="44"> That last post you made someone made fun of you, well cool no one knows that the person who just made the post people are laughing at was the same post they were making fun of. </premise>  
+<premise type="pathos" id="48" rel="support" ref="44"> You're no longer the *faggot* you're the *comedian* until you make a new post and you're the *troll*. </premise>
+
+<claim type="evaluation_emotional" id="49" rel="disagreement" ref="11"> 4chan style sites don't create pessimistic, negative, and depressed people it just attracts them </claim> and <premise type="pathos" id="50" rel="support" ref="49"> quite honestly it's nice to be able to show raw emotion and not have it permanently tied to your identity. </premise> 
+<premise type="logos_pathos" id="51" rel="support" ref="49"> You never have to worry about people being like "oh that dude, that dude always has problems -ignored-" </premise>
+
+<premise type="ethos_logos_pathos" id="52" rel="support" ref="53"> I've used 4chan a bunch of times to let out my problems about being depressed, suicidal and raped. </premise> 
+<claim type="evaluation_emotional" id="53" rel="undercutter" ref="11"> It's wonderful because I can let it all out </claim> and <premise type="ethos_pathos" id="54" rel="support" ref="53"> continue to be a member of that community without the community permanently tying what happened to me to my identity. </premise>
+<claim type="evaluation_emotional" id="55" rel="undercutter" ref="11"> If I fully discussed my rape irl i was always going to feel broken </claim> because <premise type="ethos_pathos" id="56" rel="support" ref="55"> everyone I talked to would then associate it with my identity and it would be something I would never escape. </premise> 
+<premise type="ethos_logos_pathos" id="57" rel="support" ref="55"> Even on reddit i was originally hesitant to be open about it because of the username system would tie it to my reddit identity. </premise> 
+<premise type="ethos_logos_pathos" id="58" rel="support" ref="55"> But on 4chan I could discuss it all i wanted and it was a massive emotional relief. </premise> 
+<premise type="logos_pathos" id="59" rel="support" ref="55"> In real life you don't know if your emotional troubles are going to annoy or be a burden to whoever is kind enough to listen, </premise> you don't know if they're just being kind and don't truly care, but <premise type="pathos" id="60" rel="support" ref="55"> on 4chan style board, if no one cares they're not going to respond and if they feel your problems are stupid they grant you the right to start over immediately and don't force anyone to carry their past with them. </premise>
+
+<claim type="interpretation" id="61" rel="undercutter" ref="11"> It's the mindset i got from 4chan that helps me and others move on from our problems, that we shouldn't drag them around to each *new thing* we do but instead move on and start over. </claim>
+
+<claim type="interpretation" id="62" rel="disagreement" ref="11"> It's this aspect that attracts the people you describe, </claim> <premise type="logos" id="63" rel="support" ref="62"> the site however doesn't create these people it merely attracts them and for many like myself, helps them get out of that mindset in their real life. </premise>
+
+<premise type="ethos_logos" id="64" rel="support" ref="62"> I've been browsing that site for 10 years, </premise> and <premise type="ethos_logos_pathos" id="65" rel="support" ref="62"> arguably i'm more optimistic and positive because i've been exposed to that raw humanity. </premise>
+
+
+I wrote all of this in all honesty not thinking anything would change your view based on your last sentence.
+
+&gt;Thinking that you are unaffected by this doesn't necessarily mean you are, but instead means that you are unaware of how much it affects you.
+
+<claim type="evaluation_emotional" id="66" rel="undercutter" ref="14"> As it seems you hold the belief that even if people like myself don't feel they are being effected by this site negatively, </claim> <claim type="evaluation_emotional" id="67" rel="undercutter" ref="14"> you are insisting they are and are just ignorant to their own emotions and experiences. </claim>
+
+**edit**: my terrible grammar
+
+</reply>
+<reply id="cneywno" author="InsaneTeaparty">
+∆ A lot of good arguments have been made but I think you brought up some other valid points that others didn't.
+
+I think another thing is that over the years the sense of humor has just been lost to me. 
+I don't feel like calling someone a fag is all that funny anymore and I don't want to be in on the joke, so I end up taking things seriously instead.
+</reply>
+</thread>

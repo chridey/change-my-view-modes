@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<thread ID="2qoml3">
+<title><claim type="interpretation">CMV: I feel skill is largely determined by experience. Compliments on skill are almost meaningless.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qoml3/cmv_i_feel_skill_is_largely_determined_by/</source>
+<OP author="skier_scott">
+
+In high school, <claim type="evaluation_rational" id="0">I thought I was "good at math" as I'm the son of a math teacher and electrical engineer</claim>.
+In college, I learned that <claim type="evaluation_rational" id="1">math was not something you're "good at" but something you have to put hard work into and is almost the sole determiner in the level of skill you obtain</claim>.
+
+<claim type="interpretation" id="2">So then isn't almost any compliment almost to be expected?</claim> <premise type="ethos_logos" id="3" rel="support" ref="2">I've spent a lot of time with similar problems</premise> -- <premise type="ethos_logos" id="4" rel="support" ref="2">how could I not know all the details and little tricks of these problems?</premise>
+
+<claim type="evaluation_emotional" id="5">I feel a compliment recognizes something given</claim>: <claim type="evaluation_emotional" id="6">I feel everyone is passionate about something</claim>, <premise type="logos" id="7" rel="support" ref="6">whether it be math or psychology or medicine</premise> (<premise type="logos" id="8" rel="support" ref="9">I don't hear "you're so good at biology"</premise> but <claim type="evaluation_emotional" id="9">I think I should</claim>).
+
+</OP>
+
+<reply id="cn823z7" author="vettewiz">
+<claim type="disagreement" id="9a" rel="disagreement" ref="1">I completely disagree.</claim>  <premise type="logos"  id="10" rel="support" ref="9a">If you're really good at something, especially in college,</premise> you'll find <claim type="interpretation"  id="11" rel="rebuttal_attack" ref="1">you don't put in much effort</claim>.
+
+<premise type="logos"  id="12" rel="support" ref="13">Look around at classes.</premise> <claim type="evaluation_emotional" id="13" rel="rebuttal_attack" ref="1">You'll see a group of people who study all day to get those good grades, and those that get them without cracking open the book.</claim>
+
+
+</reply>
+
+<reply id="cn82ezg" author="skier_scott">
+
+<claim type="interpretation" id="14" rel="undercutter" ref="11">In college, I tend to find students who enjoy the subject.</claim> 
+<premise type="ethos" id="15" rel="support" ref="14">I recently took a class I enjoy, DSP. I had done previous DSP work for a couple semesters and had much more experience than almost everyone in class but I still put serious work in.</premise>
+
+<premise type="ethos_logos" id="16" rel="support" ref="14">I put in serious work for this class, more work than any other class. </premise>
+<premise type="pathos" id="17" rel="support" ref="14">I enjoyed it</premise>; <claim type="evaluation_emotional" id="17a">how could I not?</claim> 
+<claim type="evaluation_rational" id="18" rel="undercutter" ref="13">I feel I learned much more from this work and my grade was a result of this work.</claim> 
+<claim type="evaluation_rational" id="19" rel="agreement" ref="18">I have some more backing behind that</claim>; <premise type="ethos_logos" id="20" rel="support" ref="19">I took other classes I enjoyed but did not put in serious hours and didn't learn what I should</premise> (<premise type="ethos_logos" id="21" rel="support" ref="19">correspondingly I received a *good* but not *great* grade</premise>).
+
+</reply>
+
+<reply id="cn82kdb" author="vettewiz">
+
+So in the first case, <claim type="interpretation" id="22" rel="undercutter" ref="18">it's hard to say whether you were truly good at the topic and just put in the time because you liked it, or if you needed the time.  </claim>
+
+<premise type="ethos" id="23" rel="support" ref="22">I never put in extra time on classes.</premise>  
+<claim type="interpretation" id="24" rel="agreement" ref="13">The example of my theory was best evident in my CS classes</claim>:
+
+<premise type="logos"  id="25" rel="support" ref="24">A good portion of the class did well on assignments an tests.</premise>
+<premise type="ethos_logos" id="26" rel="support" ref="24">Me and my friend did very well also.</premise>
+
+The difference was, <claim type="interpretation" id="27" rel="agreement" ref="13">the majority of the class put in lots of time for assignments, prep, reading, and studying.</claim>
+The two of us?  
+<premise type="ethos" id="28" rel="support" ref="27">We didn't even buy the books, much less read them.</premise>
+
+</reply>
+</thread>

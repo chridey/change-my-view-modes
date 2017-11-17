@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<thread ID="2qe6j4">
+<title><claim type="evaluation_rational">CMV: People over the retirement age (62) should not be allowed to participate in politics.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qe6j4/cmv_people_over_the_retirement_age_62_should_not/</source>
+<OP author="deathvevo">
+
+I've noticed that nearly everyone in Washington is extremely old. 
+<claim type="evaluation_rational" id="1" rel="agreement" ref="title">I have always thought that that was a bad thing</claim>, because of a few reasons: 1. <premise type="logos" id="2" rel="support" ref="1"> if you are already old, then the long-term consequences of your decisions probably won't happen until after you are gone, but will be horrible for all of us that are still around,</premise> 
+
+2.
+<premise type="logos" id="3" rel="support" ref="1">if you are already retired, then you wouldn't know what it is like for a working person today, especially someone struggling to live paycheck-to-paycheck</premise>.
+
+TL;DR: <claim type="evaluation_rational" id="4" rel="agreement" ref="title">old people shouldn't be in politics</claim> because <premise type="logos" id="5" rel="support" ref="4">the consequences of their decisions won't affect them</premise>, and <premise type="logos" id="6" rel="support" ref="4">they don't understand what the circumstances of today are</premise>.
+
+</OP>
+
+<reply id="cn5acgl" author="Gygsqt">
+<claim type="evaluation_rational" id="7" rel="undercutter" ref="title">Should young adults with trust funds not be allowed to vote</claim> because <premise type="logos" id="8a" rel="support" ref="7">they don't know what it is like to live pay check to pay check?</premise> 
+<claim type="interpretation" id="8" rel="undercutter" ref="title">What about terminally ill adults?</claim> 
+<premise type="logos_pathos" id="9" rel="support" ref="8">They wont experience long term consequences.</premise> 
+<claim type="interpretation" id="10" rel="undercutter" ref="title">What about the unemployed?</claim> 
+<premise type="logos" id="11" rel="support" ref="10">They don't pay income tax so they don't contribute</premise> (for the sake of argument). 
+Can we just start taking away the voting rights of everyone who has a different political ideology than you (<claim type="evaluation_emotional" id="12" rel="undercutter" ref="title">I assume this is what you are really getting at, "can the old people just die so we can have some progress already!?!?"</claim>)?
+
+Also, if old people can't vote than who will represent their interests? 
+<claim type="evaluation_rational" id="13" rel="undercutter" ref="title">You are making the argument that because they aren't living through what younger generations are living through then they can't make informed voting decisions regarding those people.</claim> 
+Well how can you expect young people who haven't experienced being old to make informed voting decisions regarding retirement? You could say that young people will vote in interests of creating the best retirements because they will some day retire but do you really expect people to prioritizes decades in the future over the short term?
+</reply>
+
+<reply id="cn5bymx" author="deathvevo">
+&gt; Should young adults with trust funds not be allowed to vote because they don't know what it is like to live pay check to pay check? What about terminally ill adults? They wont experience long term consequences. What about the unemployed? They don't pay income tax so they don't contribute (for the sake of argument). Can we just start taking away the voting rights of everyone who has a different political ideology than you (I assume this is what you are really getting at, "can the old people just die so we can have some progress already!?!?")?
+
+<claim type="agreement" id="14" rel="partial_agreement" ref="7">This actually is a good point.</claim>  
+<claim type="evaluation_rational" id="15" rel="rebuttal_attack" ref="8">I would be inclined to say that terminally ill people shouldn't be elected either</claim>, because <premise type="logos" id="16" rel="support" ref="15">they wouldn't have to deal with the consequences either</premise>.  
+<claim type="evaluation_rational" id="17" rel="partial_attack" ref="12">In my view, I'd say that homeless people would be ideal for leaders</claim>, since <premise type="logos" id="18" rel="support" ref="17">they know exactly what the problems are</premise>, although they don't contribute financially.  
+Still, this (especially the trust fund part) is making me realize it isn't a perfect idea, although <claim type="evaluation_rational" id="19" rel="agreement" ref="title">I still believe it is a good idea</claim>.  
+
+&gt; Also, if old people can't vote than who will represent their interests?
+
+<claim type="evaluation_rational" id="20" rel="undercutter" ref="13">I really don't think that the over 62 demographic has any concerns that effect (affect?) just them.</claim>
+
+&gt; Well how can you expect young people who haven't experienced being old to make informed voting decisions regarding retirement?
+
+<claim type="agreement" id="21" rel="undercutter" ref="13">As you mentioned, it will directly impact them in the future.</claim>
+
+&gt; do you really expect people to prioritizes decades in the future over the short term?
+
+I realize that they won't always prioritize long-term interests, but at least they have a reason to, unlike old people.
+
+Hope I covered everything.
+</reply>
+
+<reply id="cn5cuak" author="Gygsqt">
+&gt; In my view, I'd say that homeless people would be ideal for leaders, since they know exactly what the problems are, although they don't contribute financially. 
+
+I get where you are coming from but <claim type="evaluation_rational" id="22" rel="undercutter" ref="17">I think you are putting too much stock in the idea that you can only empathize and understand a situation if you have lived through it</claim>. 
+<claim type="agreement" id="23" rel="undercutter" ref="17">I grant you that there is merit to that idea</claim> but, lets be frank, <premise type="logos" id="24" rel="support" ref="23">if someone is doesn't have their life together to the point where they are out on the streets, how can we expect them to lead anything?</premise> 
+<premise type="logos" id="25" rel="support" ref="27">This is why politicians have advisors on staff, so that they can get "expert" opinions when they are under educated on an issue.</premise>  
+<premise type="logos" id="26" rel="support" ref="27">America (and every other country in the world for that matter) has a vast array of problems ranging from social to economic to geopolitical</premise>, for this reason <claim type="evaluation_rational" id="27" rel="undercutter" ref="17">its better to have someone who is an effective problem solver</claim>.
+<premise type="logos" id="28" rel="support" ref="27">While a homeless person might have some very valuable insight on dealing with life on the streets, that doesn't mean they would have strong ideas on how to actually go about solving that problem, not to mention on how to deal with America's complicated relationship with China (for example)</premise>. 
+<claim type="interpretation" id="29" rel="undercutter" ref="title">This is why you see so many older people in politics</claim>, <premise type="logos" id="30" rel="support" ref="29">it takes time to build the experience (and contacts/wealth/name recognition) to be able to handle the massive amount of varying problems politicians face</premise>.
+</reply>
+</thread>

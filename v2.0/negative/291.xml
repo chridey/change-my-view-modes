@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<thread ID="2qhw5w">
+<title><claim type="evaluation_emotional">CMV: I believe the Brave Little Toaster is an incredibly underrated movie</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qhw5w/cmv_i_believe_the_brave_little_toaster_is_an/</source>
+<OP author="MasterofRoflness">
+
+<claim type="evaluation_rational" id="0">Ive seen a lot of animated movies in my life but in my opinion they dont stand up to the Brave Little Toaster.</claim>
+<premise type="logos" id="1" rel="support" ref="0">The animation is very solid for being made in the 1980`s and I absolutely love the inanimate objects journey to try and find their master.</premise>
+<premise type="logos" id="2" rel="support" ref="0">One very tense scene for me was when the vacuum cleaner was trying to cross the canyon.</premise>
+However whenever people bring up animated movies they never bring up the Brave Little Toaster.
+<claim type="evaluation_rational" id="3" rel="support" ref="4">I feel like this masterpiece is largely unappreciated by a majority of people in favor of other animated movies.</claim>
+
+<claim type="interpretation" id="4">Reddit I think the Brave Little Toaster needs some more attention and some more love.</claim>
+CMV
+
+</OP>
+
+<reply id="cn6ay3o" author="championofobscurity">
+<claim type="evaluation_rational" id="5" rel="undercutter" ref="0">The fact that it's underrated largely stems from the fact that by today's measure it's far from a children's movie, which unfortunately in western countries is generally the target demographic for animated features.</claim> 
+
+The same could be said for a lot of Animated movies from the 80s, Like Transformers, or Starchaser or Rock and Rule. 
+
+<premise type="pathos" id="6" rel="support" ref="5">It's too dark</premise>, and <premise type="pathos" id="7" rel="support" ref="5">almost violent</premise>. 
+
+<premise type="logos_pathos" id="8" rel="support" ref="5">Some examples would be, when the Flower observes it's own reflection in the toaster</premise>, and <premise type="pathos" id="9" rel="support" ref="5">dies from loneliness when the toaster leaves</premise>.
+
+<premise type="logos" id="10" rel="support" ref="5">The appliances that have their parts ripped out, are effectively a commentary on black market organ sales.</premise>
+
+
+<premise type="logos_pathos" id="11" rel="support" ref="5">The cars singing "You're worthless."</premise> and <premise type="logos" id="12" rel="support" ref="5">the Toaster killing himself for the master</premise>.
+
+
+<claim type="evaluation_emotional" id="13" rel="partial_agreement" ref="0">I grew up watching the movie, and it doesn't bug me</claim> but so did a lot of moms my age, and <claim type="evaluation_emotional" id="14" rel="partial_attack" ref="0">when the alternative is Adventure Time or My Little Pony, I'm likely to think that Brave Little Toaster isn't good viewing material for kids in 2014</claim>. 
+<premise type="logos" id="15" rel="support" ref="14">Concepts like death or dying in children's features are incredibly out of favor right now.</premise> 
+<claim type="evaluation_emotional" id="16" rel="partial_agreement" ref="0">You can make arguments for something like Toy Story</claim>, but <premise type="logos" id="17" rel="support" ref="16">those franchises have been out for over 15 years, and so they get a pass from the now adults who enjoyed the movies as kids.</premise>
+
+</reply>
+
+<reply id="cn6bhrf" author="MasterofRoflness">
+<claim type="interpretation" id="18" rel="undercutter" ref="5">There have been a great many "dark" animated movies and shows that grew to become extremely famous.</claim> 
+<premise type="logos" id="19" rel="support" ref="18">If we`re using a level of "dark" of the level of Brave Little Toaster then why did things like The Iron Giant and Land Before Time get a ton of love associated with them.</premise> 
+Especially when <premise type="pathos" id="20" rel="support" ref="18">one contains a death of someones mom</premise> and <premise type="pathos" id="21" rel="support" ref="18">the other almost had an entire town nuked as well as a giant death machine moving through</premise>.
+</reply>
+
+<reply id="cn6csq7" author="championofobscurity">
+<claim type="interpretation" id="22" rel="rebuttal_attack" ref="18">Land before Time has about 15 other movies in the franchise which make it popular, much like toy story</claim>, and <claim type="interpretation" id="23" rel="rebuttal_attack" ref="18">Iron Giant doesn't really deal with much that's terribly dark or controversial</claim>.
+</reply>
+
+<reply id="cn6d6dh" author="MasterofRoflness">
+One thing that I would say was insanely dark for the Brave Little Toaster would be the death of the Air Conditioner but <claim type="evaluation_emotional" id="24" rel="rebuttal_attack" ref="23">I personally believe Iron Giant to be the darker film because of the war undertone</claim>.
+</reply>
+</thread>

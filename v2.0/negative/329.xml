@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<thread ID="2qbry8">
+<title><claim type="evaluation_rational">CMV: America is not a democracy</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qbry8/cmv_america_is_not_a_democracy/</source>
+<OP author="Smelly_Bob">
+
+Really though.
+<premise type="pathos" id="0" rel="support" ref="title">There is an unchecked organization that spies on them 24/7 without consent.</premise>
+<premise type="pathos" id="1" rel="support" ref="title">The US has given itself license to detain and torture citizens with no trial.</premise>
+<premise type="pathos" id="2" rel="support" ref="title">The energy laws in that country allow corporations to drill where they please and, as a result, poison who they please.</premise>
+American citizens have clearly been lied to in many situations.
+These lies have led to events like the second gulf war.
+Not to mention the completely unregulated financial system.
+
+Honestly, none of these things have been democratically voted for, so why are Americans so deluded about this?
+<claim type="evaluation_rational" id="3" rel="agreement" ref="title">It's not a free, democratic society by any means.</claim>
+<claim type="interpretation" id="4" rel="agreement" ref="3">It's clearly an oligarchy</claim>
+
+</OP>
+<reply id="cn4qcur" author="HilariousEconomist">
+<claim type="evaluation_rational" id="5" rel="undercutter" ref="title"> Most of what you said is either patently false or simplification to the point of absurdity, </claim> but <claim type="evaluation_rational" id="6" rel="undercutter" ref="title"> more importantly has nothing to do with whether or not America is a democracy. </claim> 
+<premise type="logos" id="7" rel="support" ref="6"> Democracies can be oppressive illiberal regimes, totalitarian systems, command-and-control socialist systems, social democracies, liberal capitalist states, oligarchies etc. </premise> 
+<premise type="logos" id="8" rel="support" ref="6"> You have yet to give evidence that there is widespread tampering with free and fair elections which define the US as a democratic state. </premise>
+
+<premise type="logos" id="9" rel="support" ref="6"> For example: according to you a democracy is defined as "a state which has strict financial regulations, outlaws fracking, </premise> and <premise type="logos" id="10" rel="support" ref="6"> doesn't have a spy network". </premise> 
+You'd get an F in government class I suppose.
+
+</reply>
+<reply id="cn57xwp" author="Smelly_Bob">
+<claim type="agreement" id="11" rel="agreement" ref="6">I probably would yeah.</claim>
+</reply>
+</thread>

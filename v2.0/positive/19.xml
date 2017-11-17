@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<thread ID="2rexe3">
+<title><claim type="evaluation_rational">CMV: EMTs, SAR, firefighters, police, etc. should receive &#8220;military discounts&#8221;.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2rexe3/cmv_emts_sar_firefighters_police_etc_should/</source>
+
+<OP author="ke7ofi">
+<premise type="logos" id="0" rel="support" ref="1">For those of you who don&#8217;t know, it&#8217;s common (at least in the US) for businesses, transit agencies, etc. to give small discounts to military veterans to thank them for their service.</premise>
+
+<claim type="evaluation_rational" id="1">It seems that medical responders (even hospital staff, actually) and other emergency services do more good for society than soldiers</claim> and that <claim type="evaluation_rational" id="2">such discounts should be given to them.</claim>
+
+<premise type="logos_pathos" id="3" rel="support" ref="1">As for the &#8220;They&#8217;re not risking their lives for our country.&#8221; argument, police officers do that too, and for citizens rather than the country and its interests.</premise>
+<premise type="logos_pathos" id="4" rel="support" ref="1">Some might argue that soldiers do the US a disservice rather than help,</premise> <premise type="logos_pathos" id="5" rel="support" ref="1">but that&#8217;s [usually] the fault of their leaders and therefore not relevant to the debate.</premise>
+
+I&#8217;m really hoping there&#8217;s a good reason behind the status quo, but we&#8217;ll see.
+<premise type="logos" id="6" rel="support" ref="1">[It looks like there&#8217;s even less reason behind it than I initially thought, actually.]</premise>
+
+[edits in brackets]
+
+[[My view&#8217;s been changed.](http://www.reddit.com/r/changemyview/comments/2rexe3/cmv_emts_sar_firefighters_police_etc_should/cnfj9cu?context=10000) In summary, I think that <claim type="evaluation_rational" id="7" rel="partial_agreement" ref="1">EMS people are just as deserving of these discounts (and that many more people contribute enough to be placed in the same category),</claim> but I now believe - for the same reason - that <claim type="evaluation_rational" id="8" rel="partial_attack" ref="1">these discounts shouldn&#8217;t be offered at all.]</claim>
+
+</OP>
+<reply id="cnfcsma" author="dyslexda">
+
+&gt; other emergency services do more good for society than soldiers and that such discounts should be given to them.
+
+<premise type="logos" id="9" rel="support" ref="13"> What about teachers? </premise> 
+<premise type="logos" id="10" rel="support" ref="13"> Scientists? </premise> 
+<premise type="logos" id="11" rel="support" ref="13"> Doctors? </premise> 
+<premise type="logos" id="12" rel="support" ref="13"> Farmers? </premise> 
+<claim type="evaluation_rational" id="13" rel="undercutter" ref="2"> There are plenty of professions that do great things for society </claim>, but <premise type="logos_pathos" id="14" rel="support" ref="13"> people aren't going around thanking them with discounts. </premise>
+
+</reply>
+<reply id="cnfj4wm" author="ke7ofi">
+
+<premise type="logos" id="15" rel="support" ref="2"> In that case, what makes soldiers more worthy than others? </premise>
+
+</reply>
+<reply id="cnfjto2" author="dyslexda">
+
+<claim type="disagreement" id="16" rel="rebuttal_attack" ref="15"> I don't believe I ever argued that they were. </claim> <claim type="evaluation_rational" id="17" rel="rebuttal_attack" ref="15"> Your premise is that these professions "do more good" than soldiers </claim>, and <premise type="logos_pathos" id="18" rel="support" ref="17"> I'm asking why you don't want to extend the benefits to other critical pillars of our society. </premise>
+
+</reply>
+<reply id="cnfk0ph" author="ke7ofi">
+
+I’ve since changed my view. Since you made the same argument that changed it, have a delta: Δ. I’ve edited my post to show my new view more accurately.
+
+</reply>
+</thread>

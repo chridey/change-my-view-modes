@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<thread ID="2qqa7z">
+<title><claim type="evaluation_rational">CMV: Swimming is the best form of exercise</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qqa7z/cmv_swimming_is_the_best_form_of_exercise/</source>
+<OP author="Helicase21">
+
+While <claim type="evaluation_rational" id="0" rel="partial_disagreement" ref="title">obviously a balanced exercise regimen is the best choice for health and well-being</claim>, if <premise type="logos" id="1" rel="support" ref="2">someone were forced to stick to a single exercise technique</premise>, <claim type="evaluation_rational" id="2" rel="agreement" ref="title">there is no reason other than lack of availability to choose anything other than swimming</claim>.
+Swimming is:
+
+A) <premise type="logos_pathos" id="3" rel="support" ref="2">cardio, able to be done at a variety of speeds over a variety of distances, making it suitable for a wide range of fitness levels</premise>
+
+B) <premise type="logos" id="4" rel="support" ref="2">resistance in many muscle groups, especially when strokes in question are varied and tools such as fins or kickboards are added</premise>
+
+C) <premise type="logos_pathos" id="5" rel="support" ref="2">low-impact, making it suitable for older people, people with recent injuries, or those with longer-term joint problems</premise>
+
+D) <premise type="logos_pathos" id="6" rel="support" ref="2">whole-body (or at least most-of-the-body)</premise>
+
+With all that said and considered, is there any reason to choose another **single** form of exercise over swimming, other than lack of accessible facilities (EDIT: or physical inability to swim)?
+
+Edit 2: view changed, because <claim type="agreement" id="7" rel="disagreement" ref="title">"best form of exercise" is actually meaningless</claim>.
+
+</OP>
+
+<reply id="cn8h8tk" author="Snedeker">
+
+<premise type="ethos_logos" id="8" rel="undercutter" ref="2">For one thing, I can't swim.</premise> 
+<premise type="ethos_logos" id="9" rel="undercutter" ref="2">I can (for the most part) bob in place well enough to keep myself from drowning, but when I add any type of movement I end up with lungs full of water. </premise>
+
+<premise type="ethos_logos" id="10" rel="undercutter" ref="2">It's not from lack of trying either.</premise> 
+<premise type="ethos" id="11" rel="undercutter" ref="2">I've had lots of swimming lessons, and I just can't catch on. </premise>
+
+Also, <claim type="evaluation_rational" id="12" rel="undercutter" ref="2">you are dismissing "lack of availability" as a reason pretty easily.</claim> 
+<claim type="interpretation" id="13" rel="support" ref="12">That is probably one of the biggest reasons.</claim>
+
+</reply>
+
+<reply id="cn8hakw" author="Helicase21">
+
+<claim type="agreement" id="14" rel="partial_agreement" ref="13">fair enough</claim>, though <claim type="evaluation_rational" id="15" rel="partial_attack" ref="13">I still feel that for those who are able swimming is the best form of exercise</claim>. 
+i'll add physical inability to do so to the OP
+
+</reply>
+</thread>

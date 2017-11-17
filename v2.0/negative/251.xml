@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<thread ID="2qqxoy">
+<title><claim type="evaluation_emotional">CMV: Otherkin are delusional and should be treated as such</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qqxoy/cmv_otherkin_are_delusional_and_should_be_treated/</source>
+<OP author="EwokHugz">
+
+<premise type="logos" id="0" rel="support" rid="a" ref="title">The DSM-IV defines delusion as:</premise>
+<premise type="logos_pathos" id="1" rel="support" rid="a" ref="title">A false belief based on incorrect inference about external reality that is firmly sustained despite what almost everyone else believes and despite what constitutes incontrovertible and obvious proof or evidence to the contrary.</premise>
+
+<claim type="interpretation" id="2" rel="agreement" ref="title">Otherkin, or animalkin, the belief that their soul is an animal or something nonhuman, fit this definition</claim> and <claim rel="disagreement" id="3" type="evaluation_emotional" ref="title">should be urged to seek psychiatric evaluation rather than joining communities of similar "kin."</claim>
+
+<premise type="pathos" id="4" rel="support" ref="2">If someone walks around genuinely convinced they are Jesus, the person is delusional</premise> and <premise type="pathos" id="5" rel="support" ref="3">others would want to see that person medicated or receiving some form of psychiatric treatment for that persons own benefit.</premise>
+<premise type="logos_pathos" id="6" rel="support" ref="7">But out of fear of offending and looking like an insensitive bigot, no one would respond to an otherkin in the same way they would someone claiming ultimate divinity.</premise>
+
+<claim type="interpretation" id="7" rel="agreement" ref="title">We should not encourage and accept otherkin behavior, but rather encourage seeking treatment for a delusional disorder.</claim> 
+CMV.
+
+</OP>
+
+<reply id="cn8p8q3" author="tedcase">
+<premise type="logos" id="8" rel="support" ref="8"> What about people who think an invisible man in the sky inpregnated a virgin 2,000 years ago with himself and can see and hear every person on earth, including their thoughts and judges whether or not you will burn for eternity even though he knows what you are going to do before you do? </premise>
+
+<claim type="evaluation_emotional" id="9" rel="undercutter" ref="7"> Don't they need locking up in padded cells too? </claim>
+</reply>
+
+<reply id="cn8qhho" author="EwokHugz">
+<claim type="interpretation" id="10" rel="rebuttal_attack" ref="9"> The difference is that Christians believing a man came down and impregnated a woman does not have a significant affect on their day-to-day lives and social interactions. </claim> 
+<premise type="logos" id="11" rel="support" ref="10"> They don't live entirely in this delusion. </premise>
+</reply>
+
+<reply id="cn8sx99" author="tedcase">
+<claim type="disagreement" id="12" rel="rebuttal_attack" ref="10"> Yes it does </claim>, <claim type="disagreement" id="13" rel="rebuttal_attack" ref="10"> Yes they do! </claim>
+
+</reply>
+</thread>

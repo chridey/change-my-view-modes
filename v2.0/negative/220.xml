@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<thread ID="2qtklt">
+<title><claim type="evaluation_rational">CMV - Mobile websites are a relic of the early mobile internet era and are inferior to actual websites when using your smartphone.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qtklt/cmv_mobile_websites_are_a_relic_of_the_early/</source>
+<OP author="dubalubdub">
+
+Full disclosure I use an iPhone but any smart phone can handle this.
+
+<claim type="evaluation_rational" id="0" rel="support" ref="title">There isn't a single instance where a mobile website is preferable to a full site</claim>.
+<premise type="pathos" id="1" rel="support" ref="title">The information is gutted and moved around</premise> <premise type="pathos" id="2" rel="support" ref="title">making the site difficult to browse if it's something you are familiar with</premise> and <premise type="pathos" id="3" rel="support" ref="title">less useful because the information is presented in a mobile-friendly way</premise>.
+I believe <premise type="logos_pathos" id="4" rel="support" ref="5">smart phones are prevalent enough among phone users who want to use the Internet</premise> that <claim type="evaluation_rational" id="5" rel="support" ref="title">it outweighs the "some people don't have smartphones" argument</claim>.
+Change my view.
+
+Edit 1: I would like to change my position a little to be <claim type="interpretation" id="6" rel="support" ref="title">"Websites should not default force mobile and have the option to go default and instead start default and allow mobile."</claim>
+
+Edit 2: Is it typical of change my view to downvote the ops responses across the thread because you disagree with their view?
+<claim type="interpretation" id="7" rel="support" ref="title">It's very off putting and doesn't encourage me, as op, to continue discussing my view</claim>.
+
+</OP>
+
+<reply id="cn9d1zi" author="IIIBlackhartIII">
+
+&gt; There isn't a single instance where a mobile website is preferable to a full site. The information is gutted and moved around making the site difficult to browse if it's something you are familiar with and less useful because the information is presented in a mobile-friendly way. I believe smart phones are prevalent enough among phone users who want to use the Internet that it outweighs the "some people don't have smartphones" argument. Change my view.
+
+<premise type="logos" id="8" rel="support" ref="10">Not all smartphones are created equal.</premise> 
+While <premise type="logos" id="9" rel="support" ref="10">you may have an iPhone, and most of the ads you see are for buying the flagship Android or Apple product,</premise> <claim type="interpretation" id="10" rel="undercutter" ref="5">there are plenty of cheaper smartphones with less memory and a lesser processor which may chug a little bit on these websites.</claim> 
+More importantly though, <claim type="evaluation_rational" id="11" rel="undercutter" ref="5">these versions of the websites are often much more barebones and designed with a phone in mind.</claim> 
+<premise type="logos" id="12" rel="support" ref="11">They use less data (e.g. images, animations, etc...) to make it easier to load on people with a poor 3G connection or a low data limit on their plan,</premise> and <premise type="logos" id="13" rel="support" ref="11">they often have much bigger buttons, text, and menus to work better for someone on a touch screen as opposed to someone on a computer.</premise>
+
+</reply>
+
+<reply id="cn9d79x" author="dubalubdub">
+
+Perhaps changing my position to "websites should not default force a user to a mobile site and instead allow a user to easily choose mobile over regular." 
+Would better handle the situations you have described. 
+
+</reply>
+
+<reply id="cn9dcng" author="IIIBlackhartIII">
+
+I suppose, <claim type="disagreement" id="14" rel="undercutter" ref="6">the only issue with that is it's very subjective.</claim> 
+<premise type="logos" id="15" rel="support" ref="14">Some users may like it, others may not.</premise> 
+<premise type="logos" id="16" rel="support" ref="14">Most websites will let you scroll to the bottom and hit a button for mobile or desktop viewing.</premise> 
+<claim type="evaluation_rational" id="17" rel="rebuttal_attack" ref="6">At least if it defaults to mobile, that 3G issue I mentioned means the website will load very quickly if you've got a good connection and let you scroll down and hit desktop right away, and then if you're on a poor connection you're not stuck waiting for the full website to load before being able to switch back to mobile.</claim> 
+<premise type="logos" id="18" rel="support" ref="17">There's also some issues with flash animations and CS styles that not all mobile devices can handle, but that usually doesn't make a phone crash, it just might make a website fail to load some bits or look a little jenky.</premise>
+
+</reply>
+</thread>

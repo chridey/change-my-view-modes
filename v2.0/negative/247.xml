@@ -32,27 +32,21 @@
 <claim type="evaluation_emotional" id="17" rel="agreement" ref="title">I believe this is true for all adaptations, not just LOTR.</claim>
 Feel free to C my V on this larger point as well.
 
-
 </OP>
-<reply id="cn9b6ar" author="Mavericgamer">
 
-<claim type="evaluation_emotional" id="18" rel="rebuttal" ref="title">I want to point out that I absolutely **could not** stand to read the LotR trilogy.</claim>
-<premise type="ethos" id="19" rel="support" ref="18">And I tried.</premise>
-<premise type="pathos" id="20" rel="support" ref="18">I loved The Hobbit, even though it got slow</premise>, but <premise type="pathos" id="21" rel="support" ref="18">I found Tolkien's prose to be far too slow-paced and filled with inane babbling about things too far removed from the plot.</premise>
+<reply id="cn8sn1f" author="urbeker">
+<claim type="evaluation_rational" id="18" rel="undercutter" ref="title"> How could such a subjective view as the superiority of a cut of three films be argued against? </claim> 
+<premise type="ethos_logos" id="19" rel="support" ref="18"> I prefer the pacing in the shorter cut and the director agrees with me is hardly something that can be rigorously argued against. </premise>
 
-<claim type="evaluation_emotional" id="22" rel="rebuttal" ref="title">I loved the extended edition</claim> because <premise type="logos_pathos" id="23" rel="support" ref="22">I get more engaged in an audio-visual medium than I do into books, as a general rule</premise> (this gets suspended for pretty much anything that starts with "Harry Potter and the..." but that's an exception), and <premise type="logos_pathos" id="24" rel="support" ref="22">the extended trilogy let me really grasp the world of Middle Earth for the first time.</premise>
-
-And <premise type="ethos_pathos" id="25" rel="support" ref="24">I'm the sort of person who, despite not really liking to read, will read summaries about the world surrounding my favorite movies or video games</premise>, because <premise type="pathos" id="26" rel="support" ref="24">these are things I *want to know* but typically aren't in the film/game, so I endure the chore.</premise>
-<claim type="evaluation_emotional" id="27" rel="rebuttal" ref="title">I *love* that the extended edition helped with this, especially in this situation,</claim> because <premise type="logos_pathos" id="28" rel="support" ref="27">most of the answers to that on the internet before were "If you want to know more you should just read the damn books, scrub!" because nerds are like that sometimes.</premise>
+<claim type="evaluation_rational" id="20" rel="rebuttal_attack" ref="title"> I would argue that the better one depends on context. </claim> 
+<premise type="ethos" id="21" rel="support" ref="20"> I enjoyed the theatrical cut when I first watched it but the extended was probably better when I had a lot of free time and wanted to watch a favourite movie in a different way. </premise>
 
 </reply>
-<reply id="cn9lo8f" author="RYouNotEntertained">
 
-&#8710;
-Thank God you make an exception for HP ;)
-Best comment on the thread and you get a delta for pointing out that the extended editions give non-book readers an experience that is closer to the immersion of reading the books.
-<claim type="evaluation_rational" id="29" rel="rebuttal" ref="18">As a book reader, I'll still be sticking to theatrical cuts though.</claim>
+<reply id="cn8svx2" author="RYouNotEntertained">
+<premise type="logos" id="22" rel="support" ref="23"> This sub is currently engaged in a 46 comment thread about whether or not [men should sit down to urinate.] </premise> (http://www.reddit.com/r/changemyview/comments/2qq013/cmv_men_should_sit_down_to_urinate_in_any_private/)
+
+<claim type="interpretation" id="23" rel="rebuttal_attack" ref="18"> I'm sure we can find a way to argue about movies ;) </claim>
 
 </reply>
 </thread>
-<!--> <claim type="evaluation_emotional" id="15">*</claim> </!--> * <claim type="evaluation_emotional" id="16" rel="agreement" ref="title">This is much more important than it's faithfulness to the source material.</claim>

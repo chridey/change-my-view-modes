@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<thread ID="2rc3p3">
+<title> <claim type="interpretation">CMV:Patriotism is the belief that being born on one side of a line makes you better.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2rc3p3/cmvpatriotism_is_the_belief_that_being_born_on/</source>
+<OP author="sniperman357">
+
+<claim type="interpretation" id="0" rel="agreement" ref="title">American patriots have a general mentality against immigration.</claim>
+<premise type="logos_pathos" id="1" rel="support" rid="a" ref="0">Saying these people shouldn&#8217;t be allowed to become part of the country, is the same as saying they are worse,</premise> <premise type="logos_pathos" id="2" rel="support" rid="a" ref="0">because they were born on a different side of a line</premise>, and <premise type="logos_pathos" id="3" rel="support" rid="a" ref="0">americans are better because of the side of the line they are born on</premise>.
+<premise type="logos" id="4" rel="support" ref="0">This is prominent in many ads and political champagnes, namely the slogan &#8220;Creating jobs for americans&#8221;.</premise>
+<claim type="evaluation_rational" id="6" rel="agreement" ref="title">I understand why politics use this slogan</claim>, <premise type="logos" id="7" rel="support" ref="6">because they are trying to get americans to vote for them</premise>, but <premise type="logos" id="8" rel="support" rid="b" ref="6">this slogan is also prominent in ads made by private corporations</premise>.
+<premise type="logos_pathos" id="9" rel="support" rid="b" ref="6">As if creating jobs for americans is morally superior to creating jobs for people of other countries.</premise>
+<premise type="logos" id="10" rel="support" rid="c" ref="6">The companies launching these ads may be trying to win in the american market, so they can sell more of their product,</premise> but <premise type="logos" id="11" rel="support" rid="c" ref="6">the fact that this can increase sales shows that many americans hold the being born on one side of a line belief</premise>.
+<claim type="interpretation" id="12" rel="agreement" ref="6">I am not blaming the politicians or corporations running ads running these slogans</claim>, <premise type="logos" id="13" rel="support" ref="12">they are merely trying to win votes or make money from this mentality</premise>, but <claim type="interpretation" id="14" rel="agreement" ref="12">really it is the citizens that have the belief that they are better, because of the side of a line they are born on, that are at fault</claim>.
+<claim type="interpretation" id="15" rel="agreement" ref="14">Patriotism is really just this belief.</claim>
+
+</OP>
+<reply id="cnelqn6" author="Cmall2">
+<claim type="interpretation" id="16" rel="undercutter" ref="title"> in this post you are confusing patriotism with its meaner, uglier cousin, nationalism. </claim> 
+<premise type="ethos_logos_pathos" id="17" rel="support" ref="16"> According to George Orwell, Nationalism is the "worst enemy of peace". </premise> 
+<premise type="ethos_logos" id="18" rel="support" ref="16"> According to him, nationalism is the thought of superiority of one's nation in direct comparison to foreign nations, </premise> whereas <premise type="logos" id="19" rel="support" ref="16"> patriotism is simply the love and admiration of one's own country, independent of other countries. </premise> 
+<premise type="logos_pathos" id="20" rel="support" ref="16"> Nationalism is the one that says "America is the best, most perfect country in the world, unlike those other horrible, dirty, evil foreign countries. </premise> 
+<premise type="pathos" id="21" rel="support" ref="16"> Americans are the shining example of civil people in the world and everyone else is filthy and brutish and doesn't deserve entry here". </premise> 
+<premise type="logos_pathos" id="22" rel="support" ref="16"> Patriotism simply says "America is a good country. its not the best, and it might be better or worse than other countries, but i still love and respect it". </premise>
+
+&gt; it is the citizens that have the belief that they are better
+
+<claim type="interpretation" id="23" rel="rebuttal_attack" ref="14"> they do not have a belief that they are better. </claim> 
+<premise type="logos" id="24" rel="support" ref="23"> they have the belief that they are American </premise>, and <premise type="logos" id="25" rel="support" ref="23"> would prefer their country over other countries, regardless of who's better </premise>
+
+&gt; As if creating jobs for Americans is morally superior to creating jobs for people of other countries
+
+<claim type="evaluation_rational" id="26" rel="undercutter" ref="9"> not morally superior, but makes more sense. </claim> 
+<premise type="logos" id="27" rel="support" ref="26"> even if countries are peaceful and cooperative towards each other, </premise> <premise type="logos" id="28" rel="support" ref="26"> they are still in competition and no matter what, they are still separate and independent. </premise> and <premise type="logos" id="29"> in a competition, you don't provide for the opposite side. </premise> 
+<premise type="logos_pathos" id="30" rel="support" ref="26"> It is simply not our place or responsibility to carry other countries' burdens. </premise> 
+<premise type="logos" id="31" rel="support" ref="26"> And these slogans don't even denote any sense of superiority over a foreign country, just a preference for your own country. </premise> 
+<premise type="pathos" id="32" rel="support" ref="26"> if an advertisement was "creating jobs for Americans and not for those dirty foreign leeches", </premise> <premise type="logos" id="33" rel="support" ref="26"> THAT would be claiming superiority over foreigners. </premise> 
+<claim type="interpretation" id="34" rel="undercutter" ref="title"> And ultimately, patriotism means different things to different people. </claim> 
+<premise type="logos_pathos" id="35" rel="support" ref="34"> i’m sure for a great many people, it is patriotic to welcome and accept immigrants as equals under our ideals of equality and freedom </premise>
+
+</reply>
+<reply id="cneqtt5" author="sniperman357">
+∆ This comment changed my view, because you said that people love their country, even if their country isn't objectively the best. 
+This is mostly illustrated in the following sentences "Patriotism simply says "America is a good country. 
+its not the best, and it might be better or worse than other countries, but i still love and respect it", and "they do not have a belief that they are better. 
+they have the belief that they are American, and would prefer their country over other countries, regardless of who's better".
+</reply>
+</thread>

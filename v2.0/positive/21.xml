@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<thread ID="2rekjo">
+<title><claim type="interpretation">CMV: I believe you have three choices once you discover the suffering animals endure in the meat industry...</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2rekjo/cmv_i_believe_you_have_three_choices_once_you/</source>
+<OP author="Anticarnist">
+
+<claim type="evaluation_rational" id="0">The options are as follows</claim>:
+
+<claim type="evaluation_rational" id="1">1. You don't agree with what is going on and stop supporting it.</claim>
+
+<claim type="evaluation_emotional" id="2">2. You don't care about animals, so you're content with paying for them to be abused for your pleasure.</claim>
+
+<claim type="interpretation" id="3">3. You don't agree with what is going on, but try to put it to the back of your mind and continue to support it.</claim>
+
+Reasoning: <premise type="logos_pathos" id="4" rel="support" ref="0">I used to follow 'option number 3', but recently started 'option number 1' in an attempt to line my actions up with my values.</premise>
+<claim type="evaluation_emotional" id="5">I suspect this way of looking at it is still somewhat simplistic however</claim>, so feel free to prove me wrong.
+
+</OP>
+
+<reply id="cnf4uxu" author="shinkouhyou">
+<claim type="interpretation" id="6" rel="undercutter" ref="title"> I think restricting this concept to the meat industry limits us to a "vegetarian/vegan lifestyle vs. carnivore lifestyle" debate </claim>, when <claim type="evaluation_rational" id="7" rel="undercutter" ref="title"> it's actually a lot deeper than that. </claim>
+
+<premise type="logos_pathos" id="8" rel="support" ref="7"> I know, for instance, that components in my smartphone and laptop are made of minerals that were mined by slave labor in Africa. </premise> 
+<premise type="logos_pathos" id="9" rel="support" ref="7"> I know that the chocolates I love to eat contain, in all likelihood, cacao that was farmed by people living in truly deplorable conditions. </premise> 
+<premise type="logos_pathos" id="10" rel="support" ref="7"> I know that the medication I take was almost certainly tested on research animals who lived short, sad lives. </premise> 
+<premise type="logos_pathos" id="11" rel="support" ref="7"> I know that there's a good chance that the shirt I'm wearing was produced by underpaid, overworked labors who might have even been children. </premise> 
+<premise type="logos_pathos" id="12" rel="support" ref="7"> I know that the salad I'm planning to eat for lunch contains ingredients that were probably farmed in environmentally destructive ways that contribute to climate change. </premise> 
+<premise type="logos_pathos" id="13" rel="support" ref="7"> I know that my leftover Christmas cookies, made by my vegetarian mother, still contain eggs that probably came from a battery farm. </premise> 
+<premise type="logos_pathos" id="14" rel="support" ref="7"> I know that by purchasing my knockoff Keurig coffee from Wal-Mart, I'm supporting a corporation that exploits everything it touches. </premise>
+
+And that't the ethical weight of just the things that are in arm's reach of me!  
+Aren't we all choosing Option 3 for most of the ethical conflicts in our lives?  
+I think people quickly reach a point of ethical fatigue where they simply *can't* care anymore. 
+<claim type="interpretation" id="15" rel="undercutter" ref="title"> A completely ethical lifestyle is probably not possible without completely rejecting the modern world. </claim>  
+That doesn't mean I can't try to *reduce* my impact on the world... but <claim type="interpretation" id="16" rel="undercutter" ref="1"> I have to accept that I will *never* be able to fully live within my own values. </claim>
+</reply>
+
+<reply id="cnf5gkk" author="Anticarnist">
+<claim type="agreement" id="17" rel="partial_agreement" ref="15">I see what you're getting at.</claim>
+<premise type="pathos" id="18" rel="support" ref="17"> It's easier to forget and ignore because there's too much injustice in the world if you tally it all up. </premise> 
+<claim type="agreement" id="19" rel="support" ref="17"> I'd still consider what you described as being the third option on my original post </claim>, but <claim type="agreement" id="20" rel="partial_attack" ref="15"> it's a very detailed version of it that explains it well. </claim>
+
+&gt;That doesn't mean I can't try to reduce my impact on the world... but I have to accept that I will never be able to fully live within my own values.
+
+<premise type="logos_pathos" id="21" rel="support" ref="23"> This would also be my reasoning if I were vegan but still wouldn't take a flight out to help build a school in Africa. </premise> 
+<premise type="ethos_logos" id="22" rel="support" ref="23"> It would also make sense if I was building a school in African but wasn't vegan. </premise>
+<claim type="interpretation" id="23" rel="undercutter" ref="16"> If I was doing absolutely nothing to aid any of the values I believe in, then it wouldn't make any sense however. </claim>
+
+</reply>
+<reply id="cnf6qyu" author="shinkouhyou">
+
+<claim type="agreement" id="24" rel="agreement" ref="23"> Yeah </claim>, <claim type="interpretation" id="25" rel="agreement" ref="23"> I think there's just a limited number of things that people are capable of caring about at one time </claim>, and <claim type="evaluation_rational" id="26" rel="agreement" ref="23"> issues that are of personal relevance are always going to carry more weight. </claim> 
+<premise type="logos" id="27" rel="support" ref="26"> So while someone might take Option 1 on a personally significant issue that has a lot of meaning to them, the limitations of the human mind force them to take Option 3 on a whole lot of other issues. </premise> 
+<claim type="evaluation_rational" id="28" rel="undercutter" ref="3"> So somebody who takes Option 3 on a particular issue may not be making a true choice to *ignore* that issue. </claim> 
+<claim type="interpretation" id="29" rel="undercutter" ref="3"> They're just prioritizing their mental resources.  </claim> 
+<premise  type="logos" id="30" rel="support" ref="29"> Without prioritizing those resources, there's a risk of "compassion fatigue," </premise> <premise type="logos_pathos" id="31" rel="support" ref="29"> which you see frequently among people in empathy-intensive occupations (especially medicine, education, and other fields where issues outside the individual's control tend to produce strong feelings of frustration and futility). </premise>
+
+<premise type="pathos" id="32" rel="support" ref="37"> I do care about the welfare of food animals </premise>, and <premise type="logos_pathos" id="33" rel="support" ref="37"> I do think that there are ways to produce meat in ways that are at least more humane if not more "ethical." </premise> 
+<premise type="logos_pathos" id="34" rel="support" ref="37"> I support these efforts when they're available. </premise> 
+<premise type="logos" id="35" rel="support" ref="37"> But I also think that the welfare of food animals is part of a much larger constellation of interrelated "food production issues" that involve everything from environmental impacts to worker safety to the corporatization of agriculture to government subsidies </premise>, and that <premise type="logos" id="36" rel="support" ref="37"> without some major changes to those other "food production issues" then there probably won't be significant improvement in animal welfare. </premise> 
+So to that end, <claim type="evaluation_rational" id="37" rel="undercutter" ref="3"> it's good that people have different Option 1 priorities to attack the problems from multiple sides. </claim>
+
+</reply>
+<reply id="cnf72bb" author="Anticarnist">
+
+Thank you, <claim type="interpretation" id="38" rel="agreement" ref="title"> whilst my original view still stands </claim>, <claim type="evaluation_rational"  id="39" rel="partial_agreement" ref="28"> you've altered it in such a way that I now feel a little able to understand others better and in a less scornful light at least! </claim>
+
+=/= (EDIT: Did I do this symbol right? you're the winner btw)
+
+(EDIT 2: done!)
+&amp;#8710;
+
+</reply>
+</thread>

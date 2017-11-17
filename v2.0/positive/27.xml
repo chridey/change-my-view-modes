@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<thread ID="2rcrkd">
+<title><claim type="evaluation_rational">CMV: Veganism and vegetarianism are not the best way to improve farm animal welfare</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2rcrkd/cmv_veganism_and_vegetarianism_are_not_the_best/</source>
+<OP author="Helicase21">
+
+Title is mostly to get attention, and I'm working from a specific set of assumptions.
+My argument is as follows:
+
+1) <claim type="evaluation_rational" id="0" rel="agreement" ref="title">The chances of the entire world adopting a vegan/vegetarian diet are slim to none</claim>
+
+1a) <premise type="logos_pathos" id="1" rel="support" ref="0">Therefore, there will always be a market for meat and other animal products</premise>
+
+2) <claim type="evaluation_rational" id="2" rel="agreement" ref="title">The food market, like all other markets, operates on general principles of supply and demand</claim>
+
+3) <claim type="evaluation_rational" id="3" rel="agreement" ref="title">Meat farmers can use techniques exhibiting a range of costs or benefits, both in terms of environmental impact and animal welfare.</claim>
+
+4) <claim type="evaluation_rational" id="4" rel="support" ref="title">A vegan or vegetarian diet denies demand, and thus potential revenue, to all meat-producing farms, regardless of how humane or environmentally sound their practice are.</claim>
+
+4a) <premise type="logos_pathos" id="5" rel="support" ref="6">Since the majority of farms are large factory farms</premise>, <claim type="evaluation_rational" id="6">I concede that this is probably good for animal welfare.</claim> **
+However**:
+
+5) <claim type="evaluation_rational" id="7" rel="agreement" ref="title">Purchasing meat from farms known to produce their meat in an ethical way not only denies demand to large factory farms</claim> but <claim type="evaluation_rational" id="8">helps improve the market share of ethical meat-growing</claim>, <claim type="evaluation_rational" id="9">which seems as though it would be even better for animal welfare.</claim>
+
+<claim type="evaluation_emotional" id="10" rel="agreement" ref="title">My general view is that people should probably as a rule eat less meat from better growers</claim>, and <claim type="evaluation_emotional" id="11" rel="agreement" ref="title">that will make for a bigger shift in growing practices than simply people dropping out of eating meat altogether.</claim>
+Moreover, <premise type="pathos" id="12" rel="support" ref="10">this practice would be much easier to "evangelize" than a vegetarian or vegan diet.</premise>
+<premise type="logos" id="13" rel="support" ref="11">Face it, meat is tasty (and non-factory meat is often tastier than factory-farmed meat, at least in my own anecdotal experience)</premise>
+
+</OP>
+
+<reply id="cneqiba" author="DHCKris">
+
+<premise type="logos" id="14" rel="support" ref="16">Making a political statement is not the same as organizing a boycott.</premise> 
+<premise type="logos" id="15" rel="support" ref="16">Vegans live the way they do because they feel a certain way about the way we exploit animals.</premise> 
+However, <claim type="evaluation_emotional" id="16" rel="undercutter" ref="title">I strongly, strongly doubt they believe that in doing so, they are making great strides in improving conditions for animals.</claim> 
+<premise type="logos" id="17" rel="support" ref="16">I think you are misinterpreting their motives.</premise>
+
+<premise type="logos_pathos" id="18" rel="support" ref="21">I don't believe in donating to the Salvation Army, for example, because there have been incidents in the past where their organization has denied aid to homosexuals and publicly expressed homophobic views.</premise> 
+However, <premise type="pathos" id="19" rel="support" ref="21">I do NOT believe that my actions will bring about the demise of the Salvation Army, or really have any effect at all.</premise> 
+<premise type="logos" id="20" rel="support" ref="21">That is not my motive.</premise> 
+That would just be delusional. 
+<claim type="evaluation_emotional" id="21" rel="undercutter" ref="title">I think the vast majority of vegans and vegetarians are not delusional and feel similarly about the meat industry as I do about the Salvation Army.</claim>
+
+</reply>
+
+<reply id="cnerc05" author="Helicase21">
+
+<claim type="agreement" id="22" rel="agreement" ref="16">I totally agree,</claim> and that's why i tried to keep the scope of this CMV relatively limited to "improving general animal welfare".
+
+</reply>
+
+<reply id="cnergxp" author="DHCKris">
+
+Yes but your stated view is "veganism and vegetarianism are not the best way to improve farm animal welfare," as if there are real people that actually think that.
+
+</reply>
+
+<reply id="cneropv" author="Helicase21">
+
+<claim type="disagreement" id="23" rel="partial_attack" ref="21">There are.</claim> 
+<premise type="ethos" id="24" rel="support" ref="23">I know several of them (I understand that anecdotal evidence is not the best kind of evidence but there you have it).</premise>
+
+</reply>
+
+<reply id="cneruuv" author="DHCKris">
+
+Are you sure? 
+I mean, <claim type="evaluation_emotional" id="25" rel="undercutter" ref="23">if you've met people like that, they're wrong, simple as that.</claim> 
+And they don't represent the majority of vegans, that's for sure. 
+
+<claim type="evaluation_emotional" id="26" rel="rebuttal_attack" ref="23">But I strongly doubt there are people who actually think, "not eating meat is *definitely* the BEST THING I can do for animal welfare!"</claim> 
+<premise type="logos_pathos" id="27" rel="support" ref="26">That makes zero sense.</premise> 
+<premise type="logos" id="28" rel="support" ref="26">Even if they think that being vegan is a way to directly improve conditions for animals, I don't think they believe it's the *best* way.</premise> 
+Sorry but I think this is a strawman argument.
+
+</reply>
+
+<reply id="cnes2xu" author="Helicase21">
+
+It's good to know that this view doesn't make up the majority of vegans. 
+The vegans who believe the way I've described and who made up a good chunk of the vegans I've encountered, were a large part of my inspiration to write this CMV. 
+<claim type="evaluation_rational" id="29" rel="partial_attack" ref="26">That plus the fact that a large portion of the vegan advocacy I've seen revolves around the horrors of factory farming which, I believe, would be far more effectively reduced by responsible carnivory than by veganism.</claim>
+
+I don't quite think that makes my argument a strawman, or incorrect, but your point is well-taken. ∆ 
+
+</reply>
+</thread>

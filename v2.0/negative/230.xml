@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<thread ID="2qrlmm">
+<title><claim type="evaluation_rational">CMV: Any given aspect of the legal system should be short and simple enough that an average high school graduate could fully memorize it</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qrlmm/cmv_any_given_aspect_of_the_legal_system_should/</source>
+<OP author="txwatson">
+
+CLARIFICATIONS BASED ON ANTICIPATED CONFUSION:
+
+(1.) I'm **not** saying simple enough that **all** high school students **should** memorize them; I'm saying <claim type="evaluation_emotional" id="0" rel="agreement" ref="title">simple enough that almost anyone could, if they were struck by the impulse to make that unusually large commitment, do so</claim>.
+<premise type="logos_pathos" id="1" rel="support" rid="a" ref="0">Like, most people don't memorize all of Romeo and Juliet.</premise>
+<premise type="logos_pathos" id="2" rel="support" rid="a" ref="0">But most people, I think, if they really wanted to, **could.**</premise>
+
+(2.)
+I'm not interested in hearing any arguments that are based in any way on what the laws are, right now, except by way of comparison.
+This includes the constitution.
+Seriously -- this isn't what I want to argue here, but <premise type="logos_pathos" id="4" rel="support" ref="title">I'm 100% on board with trashing the US constitution and starting from scratch with new documents, so appealing to the constitution is not on topic.</premise>
+
+I'm not a fan of extreme simplification, but <premise type="pathos" id="5" rel="support" ref="title">I think the American legal system has gotten out of hand in complexity.</premise>
+<claim type="interpretation" id="6" rel="agreement" ref="title">I think the law should be simple enough that close to anybody could reasonably know the mechanics of all the laws likely to apply to them.</claim>
+
+<claim type="evaluation_rational" id="7" rel="agreement" ref="title">Ideally, it should be a relatively simple feat of memorization to learn the names of all the categories of law; the number of laws in each category; and the basic mechanics of the enforcement of that category's laws.</claim>
+
+<premise type="pathos" id="8" rel="support" ref="7">By categories, I mean things like: criminal law; the tax code; any given category of regulation by profession (medical, construction, IT, and so on).</premise>
+
+I'd be fine with memorizing all the laws being a feat on par with memorizing the Bible; but <claim type="evaluation_rational" id="9" rel="agreement" ref="title">it should be well within the average citizen's capacity to know all the laws likely to apply to them, word-for-word or close to it.</claim>
+
+Edit 9:55: CLARIFICATIONS BASED ON CONFUSION THAT HAS OCCURRED:
+
+(1.)
+I am not arguing that a shorter legal code is by definition easy to understand.
+I am not arguing that the average High School student should be able to achieve a lawyer's level of expertise in any given aspect.
+I'm defending the memorization criterion as a way to limit the total length and vagueness of a set of laws.
+
+EDIT 8:35 the following morning: Nobody last night since I went to bed made any points that I haven't already addressed more than once, so I'm done individually responding unless somebody comes up with something new. For the answers to all the posts since I went to bed: see anticipated clarifications 1 and 2, clarification based on actual confusion 1, [this comment,](http://www.reddit.com/r/changemyview/comments/2qrlmm/cmv_any_given_aspect_of_the_legal_system_should/cn91esr) and literally the name of the subreddit.
+
+</OP>
+
+<reply id="cna5wfb" author="psykick5">
+
+<premise type="pathos" id="10" rel="support" ref="11">Many high school graduates are complete morons.</premise> 
+<claim type="evaluation_rational" id="11" rel="rebuttal_attack" ref="9">I legal system that they could understand would be archaic.</claim>
+
+</reply>
+
+<reply id="cnaey8p" author="txwatson">
+
+<premise type="logos" id="12" rel="support" ref="14">MEMORIZE.</premise> 
+<premise type="logos" id="13" rel="support" ref="14">Not UNDERSTAND.</premise> 
+<claim type="evaluation_rational" id="14" rel="rebuttal_attack" ref="11">The point is to limit the LENGTH OF THE DOCUMENT and the VAGUENESS OF ITS BOUNDARIES.</claim>
+
+</reply>
+</thread>
+<!--: <premise type="logos_pathos" id="2" rel="support" rid"a" ref="0">But most people, I think, if they really wanted to, **could.</premise> </!-->
+<!--> <premise type="logos_pathos" id="3">**</premise> </!-->

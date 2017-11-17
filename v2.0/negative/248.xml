@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<thread ID="2qr8gn">
+<title><claim type="evaluation_emotional">CMV: People who cheat on their spouses can and should, in some cases, be forgiven</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qr8gn/cmv_people_who_cheat_on_their_spouses_can_and/</source>
+<OP author="Li54">
+
+<premise type="pathos" id="0" rel="support" ref="1">There seems to be a commonly held belief that people who cheat on their SO/partner should be dropped immediately with no further contact.</premise>
+<claim type="evaluation_rational" id="1" rel="partial_disagreement" ref="title">I understand that physical/sexual conduct with another person can seem like a betrayal</claim>, but <premise type="pathos" id="2" rel="support" ref="1">in some cases, there are many worse things that can happen in a relationship, which couples seem to be able to work through.</premise>
+
+<claim type="evaluation_emotional" id="3" rel="agreement" ref="title">There are a few assumptions underlying the belief that "sex with another person = relationship over" that I don't think hold up.</claim>
+
+* <premise type="logos_pathos" id="4" rel="support" ref="3">**Sex is the most important part of a relationship,** and therefore, betraying it and that agreement mean the relationship should end.</premise>
+<claim type="evaluation_rational" id="5" rel="agreement" ref="title">My belief: sex is a very important part of a relationship, but not *the* most important part.</claim>
+Immediately breaking up with someone because of something like this seems excessive.
+
+* <premise type="logos_pathos" id="6" rel="support" ref="3">**Nobody makes mistakes ever,** so when they do, the relationship should end.</premise>
+<claim type="evaluation_rational" id="7" rel="agreement" ref="title">My belief: obviously this isn't true, and a cornerstone of strong relationships is the ability to work through mistakes/issues together.</claim>
+
+* <premise type="logos_pathos" id="8" rel="support" ref="3">**Cheaters will always cheat again,** so better to end it now.</premise> <claim type="interpretation" id="9" rel="partial_disagreement" ref="title">my view: That may be true in some cases</claim>, but <premise type="logos_pathos" id="10" rel="support" ref="9">other than anecdotal evidence, I haven't seen anything to support this claim.</premise> [
+But would be really interested in reading anything scientific about this, actually!]
+
+* <premise type="logos_pathos" id="11" rel="support" ref="3">**Cheaters cheat because of underlying issues with the relationship.**</premise> <claim type="evaluation_rational" id="12" rel="agreement" ref="title">My belief: if that's true, there are a lot of possibilities - not just breaking up - that could fix the problem</claim>, <premise type="logos_pathos" id="13" rel="support" ref="12">such as ... talking about the problem.</premise>
+<premise type="logos_pathos" id="14" rel="support" ref="12">Maybe fixing that issue will resolve the motivation to cheat.</premise>
+
+<claim type="evaluation_rational" id="15" rel="partial_disagreement" ref="12">Caveat: sometimes, cheating happens because there are parts of the relationship that are fundamentally broken and/or the relationship is too far gone/unsalvageable and/or this is the straw the broke the camel's back etc.</claim>
+
+<claim type="evaluation_emotional" id="16" rel="agreement" ref="title">Cheating shouldn't always signify an immediate end to a relationship.</claim>
+<claim type="interpretation" id="17" rel="agreement" ref="title">In some cases, couples can and should choose to work through it</claim>.
+CMV!
+
+</OP>
+
+<reply id="cn8rc3o" author="MizzKittay">
+&gt;Nobody makes mistakes ever, so when they do, the relationship should end. My belief: obviously this isn't true, and a cornerstone of strong relationships is the ability to work through mistakes/issues together.
+
+<premise type="logos_pathos" id="18" rel="support" ref="20"> Cheating isn't just a single mistake though. </premise> 
+<premise type="logos" id="19" rel="support" ref="20"> It is a series of mistakes </premise>, and <claim type="evaluation_rational" id="20" rel="rebuttal_attack" ref="7"> each time the cheater made the "mistake," he or she was making *a conscious knowing decision to betray his or her spouse* several times in a row by the time physical cheating happens. </claim>
+
+<claim type="evaluation_emotional" id="21" rel="undercutter" ref="7"> A "mistake" would be flirting back with the man or woman who flirts with you at a party while your spouse is away. </claim> 
+<premise type="logos" id="22" rel="support" ref="21"> But to reach cheating, you have to not just flirt back, but also start touching, start kissing, start hugging, get to a private location, start undressing, and *then* start having sex. </premise> 
+<premise type="logos" id="23" rel="support" ref="21"> That's no less than seven decisions one would have had to make before that person reaches sexual adultery. </premise>
+</reply>
+
+<reply id="cn8rli1" author="Li54">
+
+Maybe, but [now we're just haggling over the price](http://www.goodreads.com/quotes/300099-churchill-madam-would-you-sleep-with-me-for-five-million), or the number of mistakes. 
+<premise type="logos" id="24" rel="support" ref="26"> If a partner failed to start the dishwasher before going to bed 8 times, that doesn't mean automatic breakup. </premise>
+
+<claim type="evaluation_emotional" id="25" rel="partial_agreement" ref="20"> Yeah, these mistakes are more severe than a dishwasher starting </claim>, but <claim type="interpretation" id="26" rel="partial_attack" ref="20"> the number of them isn't the question - the severity is. </claim>
+
+</reply>
+</thread>

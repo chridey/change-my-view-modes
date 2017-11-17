@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<thread ID="2rd7mg">
+<title><claim type="evaluation_emotional">CMV: America is a better place because of the 55 million abortions its had</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2rd7mg/cmv_america_is_a_better_place_because_of_the_55/</source>
+<OP author="runescapethug">
+
+<premise type="logos" id="0">There have been 55 million abortions in the US since 1973</premise>.
+
+<premise type="logos" id="1">Something in the ballpark of 45% of women who have abortions have more than one abortion</premise>.
+
+<claim type="evaluation_emotional" id="2" rel="support" ref="title">These people would have been raised by their incompetent parents to drain down society, increase crime rates, suck up resources, and generally screw things up</claim>.
+
+<claim type="evaluation_emotional" id="3" rel="support" ref="title">Various ways to lower a resource negative population would have to be explored, if not because of this 55 million, then because of the next 55 million</claim>.
+
+<claim type="interpretation" id="4" rel="support" ref="title">One possibility is that there would be wars waged to try to kill them all, perhaps even with other countries with similar problems</claim>.
+<premise type="logos" id="5" rel="support" ref="title">Waging war to purposefully lower population, even with a country facing similar issues, would cost not only resources, but it would also cause political, cultural, and global issues</premise>.
+
+<premise type="logos" id="6" rel="support" ref="title">America's innovation and education rankings would be lower</premise>.
+<premise type="logos_pathos" id="7" rel="support" ref="title">Every middle-class child in the country would receive a lower quality education if there were 55 million more around</premise>.
+
+(**Note:**I'm not trying to hear arguments on the ethics of abortion, its a banal argument that everyone and their mother has had at one point, what I am really fishing for is insight into what the country would look like with those 55 million around.
+Would we adapt to the population and make good use of each of them?)
+
+**Was view changed?**
+<claim type="interpretation" id="8">Its a complicated issue</claim>.
+<premise type="logos" id="9" rel="support" ref="8">Without the extra population from abortions, has there been proportionately more immigration to fill labor needs, or are the millions of illegals from Mexico as likely to be so numerous even if there was a higher none-abortion population</premise>?
+<premise type="logos" id="10" rel="support" ref="8">Doesn't immigration of a working class citizen on such a massive scale cause dissonance in a country more so than it does cultural exchange</premise>, meaning that <claim type="evaluation_emotional" id="11" rel="support" ref="8">it would have been preferable to have our abortions alive</claim>?
+<premise type="logos_pathos" id="12" rel="support" ref="8">Or are we talking about a population so huge that race and national identity are insignificant, that there is always going to be a huge amount of hostility between different demographics</premise>?
+-(choppy writing, but i'm on 3 hours of sleep and stretched for time, give me a break)-
+
+(Side thought: <claim type="interpretation" id="13" rel="support" ref="8">Perhaps the immigration of illegals is lowering the value of blue collar work and makes it harder for the borderline impoverished citizens to provide for their children</claim>.
+<claim type="interpretation" id="14" rel="support" ref="8">Its debatable how many women are having abortions due to financial reasons</claim>, but <premise type="logos_pathos" id="15">surely its a significant number</premise>, so <premise type="logos_pathos" id="16">how many of these women wouldn't be having financial troubles if there wasn't competition from cheap illegal labor to keep wages lower</premise>?
+<claim type="interpretation" id="17" rel="support" ref="8">This holds true even if illegal immigration is an overall plus to the countries value</claim>.
+Conclusion: <claim type="evaluation_rational" id="18" rel="support" ref="8">Mexicans are the supreme race, native Americans will go extinct through abortion and then out-breeding.</claim> *no that isn't a serious sentiment,
+i'm just saying, <claim type="evaluation_rational" id="19">this discussion is abstract enough to go into some weird places and that it is necessary to have a stopping point*</claim> )
+
+Then there is the next question.
+<claim type="interpretation" id="20">Is a more highly populated and economically productive America today going to result in an America tomorrow that can handle over population problems</claim>, or <claim type="interpretation" id="21">would having a higher population from none-abortion just add on to the problems of a world going to shit</claim>?
+Similar: <premise type="logos_pathos" id="22">An aborted fetus is likely to have been a less productive person than a never-considered-for-abortion fetus</premise>, but <claim type="evaluation_emotional" id="23">in an industrial society, its likely that these abortions would still be more productive than not</claim>.
+
+<claim type="interpretation" id="24">Then there was the debate as to whether or not a larger population with less resources per person is more innovative than a smaller one</claim>.
+<claim type="interpretation" id="25">This is to be considered if one is convinced that having a higher population coming from none-abortions results in a strain for resources in the country</claim>.
+<claim type="evaluation_emotional" id="26">Modern technology like the internet must be considered</claim>.
+
+Yes, my view was changed, but not into the polar opposite.
+I am now confused and lost.
+
+
+**EDIT:**
+
+I'll be without internet for a few days.
+I may end up returning and responding more but it won't be anytime soon.
+
+This was my first post to CMV.
+I apologize for a few things that I did that could be considered *rude* around here.
+I also see a few times where I got redundant.
+
+Thank you all for your arguments.
+This is a very critical place, I hope to learn how to better use it and come here more often.
+I feel I could learn a lot here.
+
+</OP>
+<reply id="cnetiqi" author="jay520">
+<claim type="interpretation" id="27" rel="undercutter" ref="2">The only way your argument holds is if an extremely high percentage of these potential kids would have been unproductive members of society (if they were criminals, sucked up resources, drained society, etc)</claim>. 
+<claim type="interpretation" id="28" rel="undercutter" ref="2">Let's say an unproductive member of society is one who spends a large portion of their life in prison and/or unemployed.</claim> 
+<claim type="evaluation_rational" id="29" rel="undercutter" ref="2">It might be true that 42% of the aborted babies would have been [below the federal poverty line]</claim>(<premise type="logos" id="30" rel="support" ref="29">http://www.guttmacher.org/media/nr/2010/05/04/index.html</premise>) ; but (a) <premise type="logos" id="31" rel="support" ref="29">most poor children don't become prisoners</premise>, (b) <premise type="logos" id="32" rel="support" ref="29">most poor children don't become unemployed for the majority of their life</premise>, and (c) <premise type="logos" id="33" rel="support" ref="29">most prisoners only spend a fraction of their lives in prison - most of their life is free</premise>. 
+<claim type="evaluation_rational" id="34" rel="undercutter" ref="2">This implies that the vast majority of time spent by the aborted babies would have been spent *not* in an unproductive manner (i.e. not imprisoned or unemployed)</claim>. 
+Therefore, <claim type="interpretation" id="35" rel="rebuttal_attack" ref="2">the aborted babies would have contributed more than they sucked up</claim>.
+
+Furthermore, <claim type="interpretation" id="36" rel="undercutter" ref="title">your argument assumes that if those abortions never happened then we would have 55 million more people in the country.</claim> 
+<claim type="evaluation_rational" id="37" rel="undercutter" ref="title">I think is flawed</claim> for a few reasons. 
+Firstly, <premise type="logos" id="38" rel="support" ref="37">many mothers who had abortions decided to have children later in their life</premise>. 
+But <premise type="logos_pathos" id="39" rel="support" ref="37">if they had not aborted their earlier pregnancies, then many of them would not have made that decision</premise>. 
+Secondly, <premise type="logos_pathos" id="40" rel="support" ref="37">had those abortions never occurred, then America's immigration policies would not have been so lax</premise> as <premise type="logos" id="41" rel="support" ref="37">there would be less need for unskilled labor, leading to less unskilled immigrants in exchange for more unskilled natives (all of whom would be tax-paying citizens, unlike all immigrants)</premise>. 
+And lastly, <premise type="logos_pathos" id="42" rel="support" ref="37">if abortions were not permitted, then people would be less likely to have unprotected sex out of fear of forced pregnancies</premise>. 
+Therefore, <claim type="interpretation" id="43" rel="undercutter" ref="title">if abortions never happened, we would have more people, but not 55 million more</claim>.
+
+</reply>
+<reply id="cnewr0z" author="runescapethug">
+&amp;#8710;        
+                   
+<claim type="evaluation_rational" id="44" rel="partial_agreement" ref="35">While there are many questions raised by this comment that may or may not make it valid, it is enough to make me doubt my views more strongly than before I read it</claim>
+</reply>
+</thread>

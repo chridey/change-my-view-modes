@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<thread ID="2qb4ra">
+<title> <claim type="evaluation_emotional">CMV: I think the board game "Monopoly" is poorly designed</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qb4ra/cmv_i_think_the_board_game_monopoly_is_poorly/</source>
+<OP author="Iprefervim">
+
+<premise type="ethos" id="0" rel="support" ref="1">Like many American kids, I was often forced throughout my childhood to participate in "Monopoly" games with my family.</premise>
+From what I can tell, <claim type="evaluation_emotional" id="1">there is very little skill involved in playing the game</claim>, <premise type="logos" id="2" rel="support" ref="1">it just seems to be a giant crapshoot the whole way through</premise>.
+
+"Monopoly" was made with the intent to explain why localised monopolies are bad for the economy and to explain the Single Tax theory of Henry George.^1 <claim type="interpretation" id="3">Though it does this job well, I believe it is this intent that causes it to be thoroughly not fun.</claim>
+<premise type="logos" id="4" rel="support" ref="title_3">Once ~50% of the board has been claimed, even if the landholdings of all the players are about equal, it is immediately obvious which player will lose based on who falls in another's territory first and has to pay the incredulous tax.</premise>
+<premise type="logos" id="5" rel="support" ref="title_3">After that, it is just a long fall into bankruptcy as eventually the player has to sell their property to others, decreasing the chance that they can earn revenue while simultaneously increasing the chance that the others can profit from them.</premise>
+
+<claim type="evaluation_rational" id="6">While this system would work in a **quick** game between 2 to 3 people, monopoly is usually drawn out and played with 4+ players.</claim>
+<premise type="logos" id="7" rel="support" ref="6">One after another, a player pays out the net-worth to the other players until there is a long, long drawn-out stand-off between the remaining few.</premise>
+<premise type="logos" id="8" rel="support" ref="6">At this point, it comes to down to complete and utter chance.</premise>
+<premise type="logos" id="9" rel="support" ref="6">Whomever gets the worst successive dice rolls loses.</premise>
+<premise type="logos" id="10" rel="support" ref="6">When that happens, barring any statistically unlikely dice rolls, it is evident who will lose.</premise>
+<premise type="logos_pathos" id="11" rel="support" ref="6">But the game keeps going and going, because it would be "unfair" to keep going despite the likely outcome.</premise>
+
+<claim type="evaluation_rational" id="12">If Monopoly was redesigned to rely less on chance (<premise type="logos" id="12a">perhaps a redesign of the board</premise>, <premise type="logos" id="12b" rel="support" ref="12">more mechanics to tip the scales of chance perhaps with better "Chance" cards</premise>, or <premise type="logos" id="12c" rel="support" ref="12">even removal of the pieces entirely</premise>) and to be quicker (<premise type="logos" id="12d" rel="support" ref="12"> Add penalties for each additional player over 3 so that the success and failures of each decision weigh more heavily</premise>, for example) then the game will be much more fun and enjoyable to everyone.</claim>
+<premise type="logos" id="13" rel="support" ref="12">As of right now, after the first few passes around the board, it is easier to calculate the theoretical outcome with the help of a computer then to finish the game to its completion.</premise>
+
+Please change my view, for the sake of family game night.
+
+&gt;^1 Orbanes, Philip E. (2006). Monopoly: The World's Most Famous Game &amp; How it Got that Way. Da Capo Press. p. 22. ISBN 0-306-81489-7.
+
+</OP>
+
+<reply id="cn4kbs7" author="[deleted]">
+<claim type="evaluation_rational" id="14" rel="disagreement" ref="3"> I've always been under the impression monopoly was designed as a way to show the flaws in capitalism. </claim> 
+<premise type="logos_pathos" id="15" rel="support" ref="14"> Where someone can get obscenely rich with not much anyone can do about it due to the luck of landing on key properties/avoiding others. </premise>
+</reply>
+
+<reply id="cn4lpwa" author="Iprefervim">
+<premise type="logos" id="16" rel="support" ref="17"> Perhaps laissez faire capitalism (or of the chain-gang bullshit going on in the gilded age), </premise> but <claim type="evaluation_rational" id="17" rel="partial_attack" ref="14"> I doubt it is a criticism of capitalism in general. </claim>  
+<premise type="ethos_logos" id="18" rel="support" ref="17"> In fact, Adam Smith (origin of laissez faire) did not like landowners, </premise> <premise type="ethos_logos" id="19" rel="support" ref="17"> saying that they did very little to improve the economy/society </premise> and <premise type="pathos" id="20" rel="support" ref="17"> just sit on their land charging whatever damn price they want. </premise> 
+<claim type="interpretation" id="21" rel="partial_agreement" ref="14"> It could be a criticism that despite that piece of advice we have fallen into that trap, </claim> though <premise type="logos" id="22" rel="support" ref="21"> at that point I think that is a little too deep for a board game :P </premise>
+</reply>
+</thread>

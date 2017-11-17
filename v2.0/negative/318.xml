@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<thread ID="2qc1rl">
+<title><claim type="interpretation">CMV: Most democracies are far too tolerant of extremism, especially the likes of neo-fascism, neo-nazism, radical Islamism and violent intolerance.</claim><claim type="evaluation_rational"> The world has been to soft on these ideologies and they need to be eliminated whenever they appear.</claim></title>
+<source>http://www.reddit.com/r/changemyview/comments/2qc1rl/cmv_most_democracies_are_far_too_tolerant_of/</source>
+<OP author="amerifats_clap">
+
+<claim type="evaluation_rational" id="0" rel="agreement" ref="title">I think some of the biggest threats to global stability comes from the political fringes.</claim>
+<premise type="logos" id="1" rel="support" ref="0">It's either the extreme left, or the extreme right.</premise>
+<premise type="pathos" id="2" rel="support" ref="0">Radicalism almost always leads to violence, and is a plague on democratic society and governments.</premise>
+<premise type="logos" id="3" rel="support" ref="4">Since communism has been relegated to just a handful of countries</premise>, <claim type="evaluation_rational" id="4" rel="agreement" ref="title">the far-left has for the most part been dealt with</claim>.
+<claim type="evaluation_emotional" id="5" rel="agreement" ref="title">However the far-right continues to be a menace.</claim>
+
+<claim type="evaluation_emotional" id="6" rel="agreement" ref="title">I believe fascist neo-nazi groups, the KKK, the golden dawn or any religious extremist group like radical Islamism all fall under the far-right.</claim>
+<claim type="evaluation_emotional" id="7" rel="agreement" ref="title">These groups are always extreme fringes</claim>, and <claim type="evaluation_emotional" id="8" rel="agreement" ref="title">a handful of people make the world a much nastier place</claim>.
+
+<premise type="pathos" id="9" rel="support" ref="6">Often it is the leaders of such movements that prey on the weak-willed, using them as pawns in their ambitions of power.</premise>
+
+<premise type="logos_pathos" id="10" rel="support" ref="11">Unfortunately with the world's obsession with free speech and personal liberty</premise>, <claim type="evaluation_rational" id="11" rel="agreement" ref="title">such leaders are given a free hand</claim>.
+On websites like twitter and facebook we see ISIS recruit blind followers.
+<premise type="logos" id="12" rel="support" ref="11">Wouldn't restricting "free speech" put brakes on this sort of recruitment ?</premise>
+
+<premise type="logos" id="13" rel="support" ref="11">Political parties in democracies often try to keep these groups on a leash</premise>, but <premise type="logos" id="14" rel="support" ref="11">do not wish to eliminate them since they serve definite political goals like polarizing the electorate</premise>.
+<claim type="interpretation" id="15" rel="agreement" ref="title">I see this as a major flaw in democracy.</claim>
+<premise type="logos_pathos" id="16" rel="support" ref="15">Fear of losing votes from radical sympathizers leads to political groups appeasing extremism.</premise>
+
+Instead, <claim type="evaluation_emotional" id="17" rel="agreement" ref="title">I think governments should do much more and try to completely stamp out any signs of fascism</claim>.
+<premise type="pathos" id="18" rel="support" ref="19">After the horrors of World War 2</premise> <claim type="evaluation_emotional" id="19" rel="agreement" ref="title">I find it completely absurd that we still put up with their ideologies</claim>.
+
+<claim type="evaluation_emotional" id="20" rel="agreement" ref="title">Bringing socio-economic growth to communities that feel disenfranchised just isn't enough</claim>, and <premise type="logos_pathos" id="21" rel="support" ref="20">their will always be a few bad apples</premise>.
+<claim type="evaluation_emotional" id="22" rel="agreement" ref="title">These bad apples need to be weeded out</claim>.
+<premise type="pathos" id="23" rel="support" ref="22">Instead, we allow them to spread their rot, and infect society.</premise>
+
+</OP>
+
+<reply id="cn4rof4" author="Crushgaunt">
+<claim type="evaluation_rational" id="24" rel="undercutter" ref="title"> Nearly every "progressive" ideal was, at one point, considered an extremist ideology. </claim>
+</reply>
+
+<reply id="cn4rtc9" author="amerifats_clap">
+<claim type="agreement" id="25" rel="partial_agreement" ref="24"> Yes </claim> but <claim type="interpretation" id="26" rel="partial_attack" ref="24"> I think at this point in human history we have figured out what is an extremist ideology. </claim>
+</reply>
+
+<reply id="cn4s7sj" author="Crushgaunt">
+<premise type="logos" id="27" rel="support" ref="28"> We thought the same thing 20, 50, and 200 years ago as well </premise> but <claim type="interpretation" id="28" rel="rebuttal_attack" ref="26"> we're no more inherently correct than they were. </claim>
+</reply>
+</thread>
