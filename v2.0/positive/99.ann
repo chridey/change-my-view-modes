@@ -74,9 +74,9 @@ R13	support Arg1:T25 Arg2:T24
 R14	support Arg1:T26 Arg2:T25
 R15	agreement Arg1:T27 Arg2:T24
 R16	support Arg1:T29 Arg2:T27
-R17 agreement Arg1:T30 Arg2:T15
-R18 agreement Arg1:T30 Arg2:T18
-R19 agreement Arg1:T30 Arg2:T20
+R17	agreement Arg1:T30 Arg2:T15
+R18	agreement Arg1:T30 Arg2:T18
+R19	agreement Arg1:T30 Arg2:T20
 R20	support Arg1:T7 Arg2:T6
 R21	partial_attack Arg1:T9 Arg2:T7
 R22	partial_attack Arg1:T10 Arg2:T7

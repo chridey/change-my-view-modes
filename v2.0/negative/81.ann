@@ -88,8 +88,8 @@ R5	support Arg1:T16 Arg2:T10
 R6	support Arg1:T19 Arg2:T10
 R7	support Arg1:T20 Arg2:T10
 R8	support Arg1:T4 Arg2:T1
-R9 rebuttal_attack Arg1:T29 Arg2:T3
-R10 rebuttal_attack Arg1:T29 Arg2:T4
+R9	rebuttal_attack Arg1:T29 Arg2:T3
+R10	rebuttal_attack Arg1:T29 Arg2:T4
 R11	undercutter_attack Arg1:T31 Arg2:T4
 R12	support Arg1:T5 Arg2:T1
 R13	agreement Arg1:T32 Arg2:T4

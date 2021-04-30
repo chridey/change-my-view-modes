@@ -120,9 +120,9 @@ R19	support Arg1:T36 Arg2:T34
 R20	support Arg1:T37 Arg2:T34
 R21	support Arg1:T38 Arg2:T34
 R22	support Arg1:T6 Arg2:T5
-R23 agreement Arg1:T42 Arg2:T39
-R24 agreement Arg1:T42 Arg2:T40
-R25 agreement Arg1:T42 Arg2:T41
+R23	agreement Arg1:T42 Arg2:T39
+R24	agreement Arg1:T42 Arg2:T40
+R25	agreement Arg1:T42 Arg2:T41
 R26	support Arg1:T44 Arg2:T43
 R27	support Arg1:T45 Arg2:T43
 R28	support Arg1:T46 Arg2:T43
