@@ -64,10 +64,10 @@ R9	support Arg1:T17 Arg2:T18
 R10	support Arg1:T19 Arg2:T18
 R11	support Arg1:T20 Arg2:T18
 R12	support Arg1:T4 Arg2:T2
-R13 partial_agreement Arg1:T23 Arg2:T21
-R14 partial_agreement Arg1:T23 Arg2:T22
-R15 partial_agreement Arg1:T24 Arg2:T21
-R16 partial_agreement Arg1:T24 Arg2:T22
+R13	partial_agreement Arg1:T23 Arg2:T21
+R14	partial_agreement Arg1:T23 Arg2:T22
+R15	partial_agreement Arg1:T24 Arg2:T21
+R16	partial_agreement Arg1:T24 Arg2:T22
 R17	partial_attack Arg1:T25 Arg2:T24
 R18	partial_attack Arg1:T26 Arg2:T24
 R19	support Arg1:T27 Arg2:T26

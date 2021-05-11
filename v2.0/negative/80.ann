@@ -79,8 +79,8 @@ R10	undercutter_attack Arg1:T30 Arg2:T1
 R11	undercutter_attack Arg1:T31 Arg2:T29
 R12	support Arg1:T5 Arg2:T1
 R13	partial_attack Arg1:T32 Arg2:T29
-R14 partial_attack Arg1:T33 Arg2:T29
-R15 partial_attack Arg1:T33 Arg2:T31
+R14	partial_attack Arg1:T33 Arg2:T29
+R15	partial_attack Arg1:T33 Arg2:T31
 R16	partial_agreement Arg1:T34 Arg2:T29
 R17	support Arg1:T6 Arg2:T1
 R18	support Arg1:T7 Arg2:T1

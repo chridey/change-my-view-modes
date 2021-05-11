@@ -111,8 +111,8 @@ R14	support Arg1:T27 Arg2:T25
 R15	support Arg1:T29 Arg2:T28
 R16	support Arg1:T30 Arg2:T28
 R17	support Arg1:T33 Arg2:T32
-R18 support Arg1:T36 Arg2:T35
-R19 support Arg1:T36 Arg2:T38
+R18	support Arg1:T36 Arg2:T35
+R19	support Arg1:T36 Arg2:T38
 R20	support Arg1:T37 Arg2:T36
 R21	rebuttal_attack Arg1:T39 Arg2:T39
 R22	support Arg1:T40 Arg2:T39

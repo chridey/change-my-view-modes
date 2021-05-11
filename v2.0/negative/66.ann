@@ -89,10 +89,10 @@ R14	support Arg1:T27 Arg2:T25
 R15	support Arg1:T29 Arg2:T28
 R16	support Arg1:T30 Arg2:T28
 R17	support Arg1:T33 Arg2:T32
-R18 rebuttal_attack Arg1:T34 Arg2:T1
-R19 rebuttal_attack Arg1:T34 Arg2:T3
-R20 rebuttal_attack Arg1:T35 Arg2:T1
-R21 rebuttal_attack Arg1:T35 Arg2:T3
+R18	rebuttal_attack Arg1:T34 Arg2:T1
+R19	rebuttal_attack Arg1:T34 Arg2:T3
+R20	rebuttal_attack Arg1:T35 Arg2:T1
+R21	rebuttal_attack Arg1:T35 Arg2:T3
 R22	support Arg1:T6 Arg2:T5
 R23	support Arg1:T7 Arg2:T5
 R24	support Arg1:T9 Arg2:T8

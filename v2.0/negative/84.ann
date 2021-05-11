@@ -37,7 +37,7 @@ R6	rebuttal_attack Arg1:T8 Arg2:T2
 R7	undercutter_attack Arg1:T10 Arg2:T11
 R8	support Arg1:T11 Arg2:T10
 R9	undercutter_attack Arg1:T12 Arg2:T10
-R10 undercutter_attack Arg1:T13 Arg2:T11
-R11 undercutter_attack Arg1:T13 Arg2:T12
+R10	undercutter_attack Arg1:T13 Arg2:T11
+R11	undercutter_attack Arg1:T13 Arg2:T12
 R12	agreement Arg1:T14 Arg2:T12
 R13	undercutter_attack Arg1:T15 Arg2:T12

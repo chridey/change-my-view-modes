@@ -43,8 +43,8 @@ A21	Type3 T21 logos
 T22	premise 2564 2720	If that's quelled quickly and effectively, things will get back to normal, whereas if he gets away with it, he might push and push to see how far he can go.
 A22	Type3 T22 pathos
 R1	support Arg1:T3 Arg2:T2
-R2 support Arg1:T12 Arg2:T10
-R3 support Arg1:T12 Arg2:T11
+R2	support Arg1:T12 Arg2:T10
+R3	support Arg1:T12 Arg2:T11
 R4	agreement Arg1:T14 Arg2:T7
 R5	partial_attack Arg1:T15 Arg2:T7
 R6	support Arg1:T16 Arg2:T7

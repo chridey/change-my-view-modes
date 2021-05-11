@@ -60,10 +60,10 @@ R11	support Arg1:T4 Arg2:T3
 R12	support Arg1:T22 Arg2:T19
 R13	partial_agreement Arg1:T23 Arg2:T16
 R14	support Arg1:T24 Arg2:T23
-R15 support Arg1:T6 Arg2:T1
-R16 support Arg1:T6 Arg2:T5
-R17 support Arg1:T7 Arg2:T1
-R18 support Arg1:T7 Arg2:T5
+R15	support Arg1:T6 Arg2:T1
+R16	support Arg1:T6 Arg2:T5
+R17	support Arg1:T7 Arg2:T1
+R18	support Arg1:T7 Arg2:T5
 R19	support Arg1:T9 Arg2:T8
 R20	support Arg1:T10 Arg2:T8
 R21	support Arg1:T11 Arg2:T8
